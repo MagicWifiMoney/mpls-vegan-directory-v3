@@ -1,80 +1,43 @@
-// Gemini AI for review analysis
+// Simple keyword-based popular items extraction
 
 interface Review {
   text: string;
+}
+
+function titleCase(str: string): string {
+  return str
+    .toLowerCase()
+    .split(' ')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
 }
 
 export async function extractPopularItems(
   reviews: Review[],
   restaurantName: string
 ): Promise<string[]> {
-  // TEMPORARY: Hardcode API key for debugging
-  const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY || '***REMOVED***';
-
-  if (!apiKey) {
-    console.log('[Gemini] API key not found');
-    return [];
-  }
-  
-  console.log('[Gemini] Using API key:', apiKey.substring(0, 20) + '...');
-  
   if (reviews.length === 0) {
-    console.log('[Gemini] No reviews provided');
     return [];
   }
 
-  console.log(`[Gemini] Analyzing ${reviews.length} reviews for ${restaurantName}`);
+  // Common vegan menu items pattern
+  const itemPattern = /\b(italian sub|korean ribs?|ribeye|mac and cheese|breakfast scramble|house[- ]made sausage|chocolate chip cookies?|beyond burger|impossible burger|seitan|tempeh|tofu scramble|breakfast sandwich|veggie burger|black bean burger|vegan cheese|cashew cheese|buffalo wings?|cauliflower wings?|chickpea salad|falafel|hummus wrap|banh mi|pho|pad thai|spring rolls?|summer rolls?|tacos?|burritos?|quesadillas?|nachos|pizza|calzone|lasagna|pasta|spaghetti|fettuccine|ravioli|gnocchi|risotto|curry|tikka masala|samosas?|naan|ramen|udon|sushi rolls?|poke bowl|bibimbap|kimchi|dumplings?|wontons?|bao buns?|fried rice|lo mein|pancakes?|waffles?|french toast|avocado toast|smoothie bowls?|acai bowls?|salads?|wraps?|sandwiches?|subs?)\b/gi;
 
-  try {
-    // Combine all review texts
-    const reviewTexts = reviews.map(r => r.text).join('\n\n');
-
-    const prompt = `You are analyzing restaurant reviews for "${restaurantName}", a vegan restaurant. Extract the most frequently mentioned and praised menu items/dishes from these reviews.
-
-Return ONLY a JSON array of 6-10 specific menu items (dish names, not generic categories). Include items that appear multiple times or are specifically praised. Format: ["Italian Sub", "Mac & Cheese", "Chocolate Chip Cookie", ...]
-
-Reviews:
-${reviewTexts}
-
-JSON array only:`;
-
-    const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`,
-      {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: {
-            temperature: 0.3,
-            maxOutputTokens: 500,
-          },
-        }),
-      }
-    );
-
-    if (!response.ok) {
-      console.error('[Gemini] API error:', response.status, await response.text());
-      return [];
+  const mentions = new Map<string, number>();
+  
+  reviews.forEach(review => {
+    const matches = review.text.match(itemPattern);
+    if (matches) {
+      matches.forEach(match => {
+        const normalized = match.toLowerCase().trim();
+        mentions.set(normalized, (mentions.get(normalized) || 0) + 1);
+      });
     }
+  });
 
-    const data = await response.json();
-    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '[]';
-    
-    console.log('[Gemini] Response:', text.substring(0, 200));
-    
-    // Extract JSON array from response (handle markdown code blocks)
-    const jsonMatch = text.match(/\[[\s\S]*\]/);
-    if (!jsonMatch) {
-      console.warn('[Gemini] Failed to parse response:', text);
-      return [];
-    }
-
-    const items = JSON.parse(jsonMatch[0]);
-    console.log('[Gemini] Extracted items:', items);
-    return Array.isArray(items) ? items.slice(0, 10) : [];
-  } catch (error) {
-    console.error('[Gemini] Error:', error);
-    return [];
-  }
+  // Sort by frequency and get top 8
+  return Array.from(mentions.entries())
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 8)
+    .map(([item]) => titleCase(item));
 }

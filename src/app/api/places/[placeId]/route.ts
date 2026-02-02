@@ -6,7 +6,7 @@ import { restaurants } from '@/data/restaurants';
 // Cache place details for 24 hours
 const cache = new Map<string, { data: PlaceDetails; timestamp: number }>();
 const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours
-const CACHE_VERSION = 'v3'; // Increment to invalidate all caches
+const CACHE_VERSION = 'v4'; // Increment to invalidate all caches
 
 interface PlaceDetails {
   rating?: number;
@@ -50,8 +50,16 @@ export async function GET(
     return NextResponse.json({ error: 'Place ID is required' }, { status: 400 });
   }
 
-  // TEMP: Disable cache for debugging
-  console.log(`[API] Cache disabled - fetching fresh data for ${placeId}...`);
+  // Check cache first
+  const cacheKey = `${CACHE_VERSION}:${placeId}`;
+  const cached = cache.get(cacheKey);
+  if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
+    return NextResponse.json(cached.data, {
+      headers: {
+        'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200',
+      },
+    });
+  }
 
   // Find restaurant by place ID to get Yelp data
   const restaurant = restaurants.find(r => r.googlePlaceId === placeId);
@@ -70,22 +78,12 @@ export async function GET(
     );
   }
 
-  // Extract popular items using Gemini (combine Google + Yelp reviews)
+  // Extract popular items from reviews (keyword-based)
   const allReviews = [
     ...(googleData.reviews || []),
     ...(yelpData?.reviews || []),
   ];
-  console.log(`[API] Extracting popular items from ${allReviews.length} reviews for ${restaurant?.name}`);
-  console.log(`[API] API key exists:`, !!process.env.GOOGLE_GENERATIVE_AI_API_KEY);
-  console.log(`[API] API key length:`, process.env.GOOGLE_GENERATIVE_AI_API_KEY?.length || 0);
-  
-  let popularItems: string[] = [];
-  try {
-    popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
-    console.log(`[API] Extracted ${popularItems.length} popular items:`, popularItems);
-  } catch (error) {
-    console.error(`[API] Failed to extract popular items:`, error);
-  }
+  const popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
 
   const placeDetails: PlaceDetails = {
     ...googleData,
@@ -93,8 +91,8 @@ export async function GET(
     yelp: yelpData || undefined,
   };
 
-  // TEMP: Skip cache storage for debugging
-  // cache.set(cacheKey, { data: placeDetails, timestamp: Date.now() });
+  // Store in cache
+  cache.set(cacheKey, { data: placeDetails, timestamp: Date.now() });
 
   return NextResponse.json(placeDetails, {
     headers: {
