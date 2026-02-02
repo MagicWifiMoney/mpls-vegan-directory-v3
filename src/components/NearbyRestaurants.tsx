@@ -63,9 +63,9 @@ export default function NearbyRestaurants({ currentRestaurant }: NearbyRestauran
           >
             {/* Image */}
             <div className="relative h-48 bg-[#f5f0e8]/5">
-              {restaurant.images?.[0] ? (
+              {restaurant.photos?.[0] ? (
                 <Image
-                  src={restaurant.images[0]}
+                  src={restaurant.photos[0]}
                   alt={restaurant.name}
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -92,18 +92,18 @@ export default function NearbyRestaurants({ currentRestaurant }: NearbyRestauran
                 <div className="flex items-center gap-2 mb-2">
                   <div className="flex text-[#d4a574] text-sm">
                     {Array.from({ length: 5 }).map((_, i) => (
-                      <span key={i}>{i < Math.round(restaurant.rating) ? '★' : '☆'}</span>
+                      <span key={i}>{i < Math.round(restaurant.rating || 0) ? '★' : '☆'}</span>
                     ))}
                   </div>
                   <span className="text-xs text-[#f5f0e8]/40">
-                    {restaurant.rating.toFixed(1)} ({restaurant.reviewCount})
+                    {restaurant.rating.toFixed(1)} ({restaurant.reviewCount || 0})
                   </span>
                 </div>
               )}
 
               {/* Categories */}
               <div className="flex flex-wrap gap-1.5">
-                {restaurant.categories.slice(0, 2).map((category) => (
+                {restaurant.cuisineType.slice(0, 2).map((category: string) => (
                   <span
                     key={category}
                     className="px-2 py-0.5 rounded text-xs bg-[#d4a574]/10 text-[#d4a574]"
