@@ -4,6 +4,12 @@ import { useEffect, useState } from 'react';
 import { Restaurant } from '@/data/restaurants';
 import Image from 'next/image';
 import ReviewTabs from './ReviewTabs';
+import dynamic from 'next/dynamic';
+
+// Lazy load NearbyRestaurants (it's below the fold)
+const NearbyRestaurants = dynamic(() => import('./NearbyRestaurants'), {
+  loading: () => <div className="card-elevated rounded-2xl p-8 animate-pulse h-64" />,
+});
 
 interface PlaceDetails {
   rating?: number;
@@ -18,6 +24,7 @@ interface PlaceDetails {
     profile_photo_url: string;
   }>;
   openNow?: boolean;
+  popularItems?: string[];
   yelp?: {
     rating?: number;
     reviewCount?: number;
@@ -248,9 +255,9 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
         restaurantAddress={restaurant.address}
         restaurantCity={restaurant.city}
         yelpUrl={placeDetails?.yelp?.yelpUrl}
+        popularItems={placeDetails?.popularItems}
       />
 
-      {/* OLD SECTION BELOW - REMOVE */}
       {/* CTA */}
       <div className="card-elevated p-8 rounded-2xl text-center">
         <h3 className="font-display text-2xl text-[#f5f0e8] mb-4">Ready to Visit?</h3>
@@ -273,6 +280,9 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
           </a>
         </div>
       </div>
+
+      {/* Nearby Restaurants - LAZY LOADED */}
+      <NearbyRestaurants currentRestaurant={restaurant} />
     </div>
   );
 }

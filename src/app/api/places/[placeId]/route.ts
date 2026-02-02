@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getYelpData } from '@/lib/yelp';
+import { extractPopularItems } from '@/lib/gemini';
 import { restaurants } from '@/data/restaurants';
 
 // Cache place details for 24 hours
@@ -19,6 +20,7 @@ interface PlaceDetails {
     time: number;
     profile_photo_url: string;
   }>;
+  popularItems?: string[];
   // Yelp data
   yelp?: {
     rating?: number;
@@ -74,8 +76,16 @@ export async function GET(
     );
   }
 
+  // Extract popular items using Gemini (combine Google + Yelp reviews)
+  const allReviews = [
+    ...(googleData.reviews || []),
+    ...(yelpData?.reviews || []),
+  ];
+  const popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
+
   const placeDetails: PlaceDetails = {
     ...googleData,
+    popularItems,
     yelp: yelpData || undefined,
   };
 
