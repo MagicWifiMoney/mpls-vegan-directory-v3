@@ -6,7 +6,7 @@ import { restaurants } from '@/data/restaurants';
 // Cache place details for 24 hours
 const cache = new Map<string, { data: PlaceDetails; timestamp: number }>();
 const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours
-const CACHE_VERSION = 'v2'; // Increment to invalidate all caches
+const CACHE_VERSION = 'v3'; // Increment to invalidate all caches
 
 interface PlaceDetails {
   rating?: number;
