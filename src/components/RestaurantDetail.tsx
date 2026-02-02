@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { Restaurant } from '@/data/restaurants';
 import Image from 'next/image';
+import ReviewTabs from './ReviewTabs';
 
 interface PlaceDetails {
   rating?: number;
@@ -239,8 +240,18 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
         </div>
       </div>
 
-      {/* Reviews Section */}
-      {(reviews.length > 0 || (placeDetails?.yelp?.reviews && placeDetails.yelp.reviews.length > 0)) && (
+      {/* Reviews Section with Tabs */}
+      <ReviewTabs
+        googleReviews={reviews}
+        yelpReviews={placeDetails?.yelp?.reviews || []}
+        restaurantName={restaurant.name}
+        restaurantAddress={restaurant.address}
+        restaurantCity={restaurant.city}
+        yelpUrl={placeDetails?.yelp?.yelpUrl}
+      />
+
+      {/* OLD SECTION BELOW - REMOVE */}
+      {false && (reviews.length > 0 || (placeDetails?.yelp?.reviews && placeDetails.yelp.reviews.length > 0)) && (
         <section>
           <div className="flex items-center gap-3 mb-6">
             <div className="w-12 h-12 rounded-full bg-[#d4a574]/10 flex items-center justify-center text-2xl">
