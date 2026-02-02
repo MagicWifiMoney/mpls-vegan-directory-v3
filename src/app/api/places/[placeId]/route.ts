@@ -6,6 +6,7 @@ import { restaurants } from '@/data/restaurants';
 // Cache place details for 24 hours
 const cache = new Map<string, { data: PlaceDetails; timestamp: number }>();
 const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours
+const CACHE_VERSION = 'v2'; // Increment to invalidate all caches
 
 interface PlaceDetails {
   rating?: number;
@@ -50,14 +51,18 @@ export async function GET(
   }
 
   // Check cache first
-  const cached = cache.get(placeId);
+  const cacheKey = `${CACHE_VERSION}:${placeId}`;
+  const cached = cache.get(cacheKey);
   if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
+    console.log(`[API] Cache hit for ${placeId}`);
     return NextResponse.json(cached.data, {
       headers: {
         'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200',
       },
     });
   }
+  
+  console.log(`[API] Cache miss for ${placeId}, fetching fresh data...`);
 
   // Find restaurant by place ID to get Yelp data
   const restaurant = restaurants.find(r => r.googlePlaceId === placeId);
@@ -81,7 +86,9 @@ export async function GET(
     ...(googleData.reviews || []),
     ...(yelpData?.reviews || []),
   ];
+  console.log(`[API] Extracting popular items from ${allReviews.length} reviews for ${restaurant?.name}`);
   const popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
+  console.log(`[API] Extracted ${popularItems.length} popular items:`, popularItems);
 
   const placeDetails: PlaceDetails = {
     ...googleData,
@@ -89,8 +96,8 @@ export async function GET(
     yelp: yelpData || undefined,
   };
 
-  // Store in cache
-  cache.set(placeId, { data: placeDetails, timestamp: Date.now() });
+  // Store in cache with version key
+  cache.set(cacheKey, { data: placeDetails, timestamp: Date.now() });
 
   return NextResponse.json(placeDetails, {
     headers: {
