@@ -87,8 +87,16 @@ export async function GET(
     ...(yelpData?.reviews || []),
   ];
   console.log(`[API] Extracting popular items from ${allReviews.length} reviews for ${restaurant?.name}`);
-  const popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
-  console.log(`[API] Extracted ${popularItems.length} popular items:`, popularItems);
+  console.log(`[API] API key exists:`, !!process.env.GOOGLE_GENERATIVE_AI_API_KEY);
+  console.log(`[API] API key length:`, process.env.GOOGLE_GENERATIVE_AI_API_KEY?.length || 0);
+  
+  let popularItems: string[] = [];
+  try {
+    popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
+    console.log(`[API] Extracted ${popularItems.length} popular items:`, popularItems);
+  } catch (error) {
+    console.error(`[API] Failed to extract popular items:`, error);
+  }
 
   const placeDetails: PlaceDetails = {
     ...googleData,
