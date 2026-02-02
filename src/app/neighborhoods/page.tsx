@@ -16,99 +16,135 @@ export default function NeighborhoodsPage() {
   };
 
   return (
-    <div className="py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
-      {/* Header */}
-      <div className="mb-12">
-        <nav className="mb-4">
-          <Link href="/" className="text-green-600 hover:text-green-700 text-sm">
-            ← Back to home
-          </Link>
-        </nav>
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          Browse by Neighborhood
-        </h1>
-        <p className="text-gray-600 text-lg max-w-3xl">
-          Discover vegan and plant-based dining options across the Twin Cities. 
-          Each neighborhood has its own unique character and culinary offerings.
-        </p>
+    <div className="relative min-h-screen">
+      {/* Background elements */}
+      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+        <div className="absolute top-1/4 -right-1/4 w-[600px] h-[600px] rounded-full bg-[#3d4a3d]/10 blur-[120px]" />
+        <div className="absolute bottom-1/4 -left-1/4 w-[500px] h-[500px] rounded-full bg-[#d4a574]/5 blur-[100px]" />
       </div>
 
-      {/* Minneapolis */}
-      <section className="mb-16">
-        <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-          <span className="mr-3">🏙️</span>
-          Minneapolis
-        </h2>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {minneapolisNeighborhoods.map((neighborhood) => {
-            const count = getRestaurantCount(neighborhood.slug);
-            return (
-              <Link
-                key={neighborhood.slug}
-                href={`/neighborhoods/${neighborhood.slug}`}
-                className="bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow group"
-              >
-                <h3 className="text-lg font-semibold text-gray-900 group-hover:text-green-600 transition-colors">
-                  {neighborhood.name}
-                </h3>
-                <p className="text-gray-500 text-sm mt-1">
-                  {count} restaurant{count !== 1 ? 's' : ''}
-                </p>
-                <div className="mt-3 text-green-600 text-sm font-medium group-hover:translate-x-1 transition-transform inline-flex items-center">
-                  Explore →
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </section>
-
-      {/* Saint Paul */}
-      <section>
-        <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-          <span className="mr-3">🏛️</span>
-          Saint Paul
-        </h2>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {saintPaulNeighborhoods.map((neighborhood) => {
-            const count = getRestaurantCount(neighborhood.slug);
-            return (
-              <Link
-                key={neighborhood.slug}
-                href={`/neighborhoods/${neighborhood.slug}`}
-                className="bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow group"
-              >
-                <h3 className="text-lg font-semibold text-gray-900 group-hover:text-green-600 transition-colors">
-                  {neighborhood.name}
-                </h3>
-                <p className="text-gray-500 text-sm mt-1">
-                  {count} restaurant{count !== 1 ? 's' : ''}
-                </p>
-                <div className="mt-3 text-green-600 text-sm font-medium group-hover:translate-x-1 transition-transform inline-flex items-center">
-                  Explore →
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </section>
-
-      {/* Call to Action */}
-      <section className="mt-16 bg-green-50 rounded-2xl p-8 text-center">
-        <h2 className="text-2xl font-bold text-gray-900 mb-4">
-          Can&apos;t find your favorite restaurant?
-        </h2>
-        <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-          We&apos;re always looking to expand our directory. If you know of a great vegan or 
-          vegan-friendly restaurant in the Twin Cities, let us know!
-        </p>
-        <Link
-          href="/contact"
-          className="inline-block px-8 py-3 bg-green-600 text-white rounded-full font-semibold hover:bg-green-700 transition-colors"
+      <div className="relative max-w-7xl mx-auto px-6 lg:px-8 py-24 pt-32">
+        {/* Back link */}
+        <Link 
+          href="/" 
+          className="inline-flex items-center gap-2 text-sm text-[#f5f0e8]/50 hover:text-[#d4a574] transition-colors mb-12 group"
         >
-          Suggest a Restaurant
+          <svg className="w-4 h-4 group-hover:-translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+            <path d="M19 12H5M12 19l-7-7 7-7" />
+          </svg>
+          Back to home
         </Link>
-      </section>
+
+        {/* Header */}
+        <div className="mb-16">
+          <div className="inline-flex items-center gap-3 mb-6">
+            <span className="w-12 h-px bg-gradient-to-r from-[#d4a574] to-transparent" />
+            <span className="text-xs uppercase tracking-[0.25em] text-[#d4a574]">Explore</span>
+          </div>
+          <h1 className="font-display text-5xl lg:text-6xl text-[#f5f0e8] tracking-tight mb-4">
+            Browse by Neighborhood
+          </h1>
+          <p className="text-[#f5f0e8]/50 text-lg max-w-2xl">
+            Discover plant-based dining across the Twin Cities. Each neighborhood has its own unique character and culinary offerings.
+          </p>
+        </div>
+
+        {/* Minneapolis */}
+        <section className="mb-20">
+          <div className="flex items-center gap-4 mb-8">
+            <div className="w-12 h-12 rounded-xl bg-[#3d4a3d]/30 flex items-center justify-center">
+              <svg className="w-6 h-6 text-[#d4a574]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                <path d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+              </svg>
+            </div>
+            <h2 className="font-display text-3xl text-[#f5f0e8]">Minneapolis</h2>
+          </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {minneapolisNeighborhoods.map((neighborhood, index) => {
+              const count = getRestaurantCount(neighborhood.slug);
+              return (
+                <Link
+                  key={neighborhood.slug}
+                  href={`/neighborhoods/${neighborhood.slug}`}
+                  className="group card-elevated rounded-2xl p-6 transition-all duration-500"
+                  style={{ animationDelay: `${index * 50}ms` }}
+                >
+                  <div className="flex items-start justify-between mb-4">
+                    <h3 className="font-display text-lg text-[#f5f0e8] group-hover:text-[#d4a574] transition-colors">
+                      {neighborhood.name}
+                    </h3>
+                    <svg className="w-5 h-5 text-[#f5f0e8]/20 group-hover:text-[#d4a574] group-hover:translate-x-1 transition-all" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                      <path d="M7 17L17 7M17 7H7M17 7V17" />
+                    </svg>
+                  </div>
+                  <p className="text-sm text-[#f5f0e8]/40">
+                    {count} restaurant{count !== 1 ? 's' : ''}
+                  </p>
+                  {/* Hover indicator */}
+                  <div className="mt-4 h-0.5 bg-gradient-to-r from-[#d4a574] to-[#c17f59] scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+
+        {/* Saint Paul */}
+        <section className="mb-20">
+          <div className="flex items-center gap-4 mb-8">
+            <div className="w-12 h-12 rounded-xl bg-[#3d4a3d]/30 flex items-center justify-center">
+              <svg className="w-6 h-6 text-[#d4a574]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                <path d="M8 14v3m4-3v3m4-3v3M3 21h18M3 10h18M3 7l9-4 9 4M4 10h16v11H4V10z" />
+              </svg>
+            </div>
+            <h2 className="font-display text-3xl text-[#f5f0e8]">Saint Paul</h2>
+          </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {saintPaulNeighborhoods.map((neighborhood, index) => {
+              const count = getRestaurantCount(neighborhood.slug);
+              return (
+                <Link
+                  key={neighborhood.slug}
+                  href={`/neighborhoods/${neighborhood.slug}`}
+                  className="group card-elevated rounded-2xl p-6 transition-all duration-500"
+                  style={{ animationDelay: `${index * 50}ms` }}
+                >
+                  <div className="flex items-start justify-between mb-4">
+                    <h3 className="font-display text-lg text-[#f5f0e8] group-hover:text-[#d4a574] transition-colors">
+                      {neighborhood.name}
+                    </h3>
+                    <svg className="w-5 h-5 text-[#f5f0e8]/20 group-hover:text-[#d4a574] group-hover:translate-x-1 transition-all" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                      <path d="M7 17L17 7M17 7H7M17 7V17" />
+                    </svg>
+                  </div>
+                  <p className="text-sm text-[#f5f0e8]/40">
+                    {count} restaurant{count !== 1 ? 's' : ''}
+                  </p>
+                  <div className="mt-4 h-0.5 bg-gradient-to-r from-[#d4a574] to-[#c17f59] scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+
+        {/* CTA */}
+        <section className="card-elevated rounded-2xl p-10 text-center">
+          <h2 className="font-display text-2xl text-[#f5f0e8] mb-4">
+            Can&apos;t find your favorite restaurant?
+          </h2>
+          <p className="text-[#f5f0e8]/50 mb-8 max-w-xl mx-auto">
+            We&apos;re always expanding our directory. If you know of a great vegan spot in the Twin Cities, let us know!
+          </p>
+          <Link
+            href="/contact"
+            className="btn-primary inline-flex items-center gap-2 px-8 py-4 rounded-full text-base font-medium"
+          >
+            Suggest a Restaurant
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M7 17L17 7M17 7H7M17 7V17" />
+            </svg>
+          </Link>
+        </section>
+      </div>
     </div>
   );
 }

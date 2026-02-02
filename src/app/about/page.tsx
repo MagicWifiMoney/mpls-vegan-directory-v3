@@ -8,97 +8,133 @@ export const metadata: Metadata = {
 
 export default function AboutPage() {
   return (
-    <div className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
-      {/* Header */}
-      <div className="mb-12">
-        <nav className="mb-4">
-          <Link href="/" className="text-green-600 hover:text-green-700 text-sm">
-            ← Back to home
-          </Link>
-        </nav>
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          About MPLS Vegan Directory
-        </h1>
+    <div className="relative min-h-screen">
+      {/* Background elements */}
+      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+        <div className="absolute top-1/4 -right-1/4 w-[600px] h-[600px] rounded-full bg-[#3d4a3d]/10 blur-[120px]" />
+        <div className="absolute bottom-1/4 -left-1/4 w-[500px] h-[500px] rounded-full bg-[#d4a574]/5 blur-[100px]" />
       </div>
 
-      {/* Content */}
-      <div className="prose prose-lg prose-green max-w-none">
-        <div className="bg-white rounded-xl shadow-md p-8 mb-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Our Mission</h2>
-          <p className="text-gray-700 leading-relaxed mb-4">
-            The Minneapolis Vegan Directory was created to help plant-based eaters discover 
-            the vibrant vegan food scene in the Twin Cities. Whether you&apos;re a longtime vegan, 
-            newly plant-curious, or just looking for a delicious meat-free meal, we&apos;re here 
-            to guide you to the best restaurants Minneapolis and Saint Paul have to offer.
-          </p>
-          <p className="text-gray-700 leading-relaxed">
-            From America&apos;s first vegan butcher shop to soul food, Ethiopian cuisine to artisan 
-            bakeries, the Twin Cities has emerged as a hub for innovative plant-based dining. 
-            We&apos;re proud to showcase the chefs, entrepreneurs, and communities making this 
-            possible.
-          </p>
+      <div className="relative max-w-4xl mx-auto px-6 lg:px-8 py-24 pt-32">
+        {/* Back link */}
+        <Link 
+          href="/" 
+          className="inline-flex items-center gap-2 text-sm text-[#f5f0e8]/50 hover:text-[#d4a574] transition-colors mb-12 group"
+        >
+          <svg className="w-4 h-4 group-hover:-translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+            <path d="M19 12H5M12 19l-7-7 7-7" />
+          </svg>
+          Back to home
+        </Link>
+
+        {/* Header */}
+        <div className="mb-16">
+          <div className="inline-flex items-center gap-3 mb-6">
+            <span className="w-12 h-px bg-gradient-to-r from-[#d4a574] to-transparent" />
+            <span className="text-xs uppercase tracking-[0.25em] text-[#d4a574]">About Us</span>
+          </div>
+          <h1 className="font-display text-5xl lg:text-6xl text-[#f5f0e8] tracking-tight">
+            MPLS Vegan Directory
+          </h1>
         </div>
 
-        <div className="bg-white rounded-xl shadow-md p-8 mb-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">What We Include</h2>
-          <div className="space-y-4">
-            <div className="flex items-start space-x-3">
-              <span className="flex-shrink-0 w-8 h-8 bg-green-100 rounded-full flex items-center justify-center">
-                <span className="text-green-600 font-bold">✓</span>
-              </span>
-              <div>
-                <h3 className="font-semibold text-gray-900">100% Vegan Restaurants</h3>
-                <p className="text-gray-600">Fully plant-based establishments where every menu item is vegan.</p>
-              </div>
-            </div>
-            <div className="flex items-start space-x-3">
-              <span className="flex-shrink-0 w-8 h-8 bg-yellow-100 rounded-full flex items-center justify-center">
-                <span className="text-yellow-600 font-bold">✓</span>
-              </span>
-              <div>
-                <h3 className="font-semibold text-gray-900">Vegetarian Restaurants</h3>
-                <p className="text-gray-600">Meat-free restaurants with extensive vegan options.</p>
-              </div>
-            </div>
-            <div className="flex items-start space-x-3">
-              <span className="flex-shrink-0 w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
-                <span className="text-blue-600 font-bold">✓</span>
-              </span>
-              <div>
-                <h3 className="font-semibold text-gray-900">Vegan-Friendly Spots</h3>
-                <p className="text-gray-600">Restaurants that excel at accommodating plant-based diners.</p>
-              </div>
+        {/* Content blocks */}
+        <div className="space-y-8">
+          {/* Mission */}
+          <div className="card-elevated rounded-2xl p-8 lg:p-10">
+            <h2 className="font-display text-2xl text-[#f5f0e8] mb-6">Our Mission</h2>
+            <div className="space-y-4 text-[#f5f0e8]/60 leading-relaxed">
+              <p>
+                The Minneapolis Vegan Directory was created to help plant-based eaters discover 
+                the vibrant vegan food scene in the Twin Cities. Whether you&apos;re a longtime vegan, 
+                newly plant-curious, or just looking for a delicious meat-free meal, we&apos;re here 
+                to guide you to the best restaurants Minneapolis and Saint Paul have to offer.
+              </p>
+              <p>
+                From America&apos;s first vegan butcher shop to soul food, Ethiopian cuisine to artisan 
+                bakeries, the Twin Cities has emerged as a hub for innovative plant-based dining. 
+                We&apos;re proud to showcase the chefs, entrepreneurs, and communities making this 
+                possible.
+              </p>
             </div>
           </div>
-        </div>
 
-        <div className="bg-white rounded-xl shadow-md p-8 mb-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Why Minneapolis?</h2>
-          <p className="text-gray-700 leading-relaxed mb-4">
-            The Twin Cities has quietly become one of the most exciting vegan food destinations 
-            in the Midwest. Here&apos;s what makes it special:
-          </p>
-          <ul className="list-disc list-inside text-gray-700 space-y-2">
-            <li><strong>Innovation:</strong> Home to The Herbivorous Butcher, America&apos;s first vegan butcher shop</li>
-            <li><strong>Diversity:</strong> Ethiopian, Soul Food, Thai, Indian—global cuisines shine here</li>
-            <li><strong>Community:</strong> Many restaurants are collectively owned or community-focused</li>
-            <li><strong>Black-owned businesses:</strong> Trio Plant-Based and others lead the way</li>
-            <li><strong>Accessibility:</strong> Options at every price point, from diners to fine dining</li>
-          </ul>
-        </div>
+          {/* What We Include */}
+          <div className="card-elevated rounded-2xl p-8 lg:p-10">
+            <h2 className="font-display text-2xl text-[#f5f0e8] mb-8">What We Include</h2>
+            <div className="space-y-6">
+              {[
+                {
+                  status: '100% Vegan',
+                  class: 'badge-vegan',
+                  description: 'Fully plant-based establishments where every menu item is vegan.',
+                },
+                {
+                  status: 'Vegetarian',
+                  class: 'badge-vegetarian',
+                  description: 'Meat-free restaurants with extensive vegan options.',
+                },
+                {
+                  status: 'Vegan-Friendly',
+                  class: 'badge-friendly',
+                  description: 'Restaurants that excel at accommodating plant-based diners.',
+                },
+              ].map((item) => (
+                <div key={item.status} className="flex items-start gap-4">
+                  <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium ${item.class} flex-shrink-0`}>
+                    <svg className="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+                      <path d="M9 16.2L4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4L9 16.2z"/>
+                    </svg>
+                    {item.status}
+                  </span>
+                  <p className="text-[#f5f0e8]/60 text-sm pt-1">{item.description}</p>
+                </div>
+              ))}
+            </div>
+          </div>
 
-        <div className="bg-white rounded-xl shadow-md p-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Stay Connected</h2>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            We&apos;re always updating our directory with new restaurants and information. 
-            Have a suggestion or correction? We&apos;d love to hear from you.
-          </p>
-          <Link
-            href="/contact"
-            className="inline-block px-6 py-3 bg-green-600 text-white rounded-full font-semibold hover:bg-green-700 transition-colors"
-          >
-            Contact Us
-          </Link>
+          {/* Why Minneapolis */}
+          <div className="card-elevated rounded-2xl p-8 lg:p-10">
+            <h2 className="font-display text-2xl text-[#f5f0e8] mb-6">Why Minneapolis?</h2>
+            <p className="text-[#f5f0e8]/60 leading-relaxed mb-6">
+              The Twin Cities has quietly become one of the most exciting vegan food destinations 
+              in the Midwest. Here&apos;s what makes it special:
+            </p>
+            <ul className="space-y-4">
+              {[
+                { label: 'Innovation', text: "Home to The Herbivorous Butcher, America's first vegan butcher shop" },
+                { label: 'Diversity', text: 'Ethiopian, Soul Food, Thai, Indian—global cuisines shine here' },
+                { label: 'Community', text: 'Many restaurants are collectively owned or community-focused' },
+                { label: 'Black-owned businesses', text: 'Trio Plant-Based and others lead the way' },
+                { label: 'Accessibility', text: 'Options at every price point, from diners to fine dining' },
+              ].map((item) => (
+                <li key={item.label} className="flex items-start gap-3">
+                  <span className="w-1.5 h-1.5 rounded-full bg-[#d4a574] mt-2 flex-shrink-0" />
+                  <p className="text-[#f5f0e8]/60">
+                    <span className="text-[#f5f0e8] font-medium">{item.label}:</span> {item.text}
+                  </p>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* CTA */}
+          <div className="card-elevated rounded-2xl p-8 lg:p-10 text-center">
+            <h2 className="font-display text-2xl text-[#f5f0e8] mb-4">Stay Connected</h2>
+            <p className="text-[#f5f0e8]/60 leading-relaxed mb-8 max-w-lg mx-auto">
+              We&apos;re always updating our directory with new restaurants and information. 
+              Have a suggestion or correction? We&apos;d love to hear from you.
+            </p>
+            <Link
+              href="/contact"
+              className="btn-primary inline-flex items-center gap-2 px-8 py-4 rounded-full text-base font-medium"
+            >
+              Contact Us
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M7 17L17 7M17 7H7M17 7V17" />
+              </svg>
+            </Link>
+          </div>
         </div>
       </div>
     </div>

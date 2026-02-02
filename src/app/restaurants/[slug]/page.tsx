@@ -32,7 +32,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-// JSON-LD Schema for SEO
 function generateSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
   if (!restaurant) return null;
   
@@ -76,11 +75,13 @@ export default async function RestaurantPage({ params }: Props) {
 
   const schema = generateSchema(restaurant);
 
-  const statusColors = {
-    '100% Vegan': 'bg-green-100 text-green-800 border-green-200',
-    'Vegetarian': 'bg-yellow-100 text-yellow-800 border-yellow-200',
-    'Vegan-Friendly': 'bg-blue-100 text-blue-800 border-blue-200',
+  const statusConfig = {
+    '100% Vegan': { class: 'badge-vegan', label: '100% Vegan' },
+    'Vegetarian': { class: 'badge-vegetarian', label: 'Vegetarian' },
+    'Vegan-Friendly': { class: 'badge-friendly', label: 'Vegan-Friendly' },
   };
+
+  const status = statusConfig[restaurant.veganStatus];
 
   return (
     <>
@@ -92,38 +93,71 @@ export default async function RestaurantPage({ params }: Props) {
       )}
 
       {/* Hero Section */}
-      <div className="relative h-[40vh] min-h-[300px] bg-gradient-to-br from-green-500 to-green-700">
-        <div className="absolute inset-0 flex items-center justify-center">
-          <span className="text-9xl opacity-20">🌱</span>
+      <div className="relative min-h-[50vh] flex items-end overflow-hidden">
+        {/* Background */}
+        <div className="absolute inset-0">
+          <div className="absolute inset-0 bg-gradient-to-br from-[#2a2a2a] via-[#3d4a3d] to-[#2a2a2a]" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a] via-transparent to-transparent" />
+          
+          {/* Decorative pattern */}
+          <div 
+            className="absolute inset-0 opacity-5"
+            style={{
+              backgroundImage: `radial-gradient(circle at 2px 2px, rgba(245, 240, 232, 0.5) 1px, transparent 0)`,
+              backgroundSize: '32px 32px',
+            }}
+          />
+
+          {/* Ambient glows */}
+          <div className="absolute top-1/4 right-1/4 w-[400px] h-[400px] rounded-full bg-[#d4a574]/10 blur-[100px]" />
+          <div className="absolute bottom-0 left-1/4 w-[300px] h-[300px] rounded-full bg-[#3d4a3d]/20 blur-[80px]" />
         </div>
-        <div className="absolute inset-0 bg-black/20" />
-        <div className="relative z-10 h-full flex items-end">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-8 w-full">
-            <nav className="mb-4">
-              <Link href="/" className="text-green-200 hover:text-white text-sm">
-                ← Back to all restaurants
-              </Link>
-            </nav>
-            <span className={`inline-block px-4 py-1 rounded-full text-sm font-semibold mb-3 ${statusColors[restaurant.veganStatus]}`}>
-              {restaurant.veganStatus}
+
+        {/* Content */}
+        <div className="relative z-10 w-full max-w-7xl mx-auto px-6 lg:px-8 py-16 pt-32">
+          {/* Back link */}
+          <Link 
+            href="/#restaurants" 
+            className="inline-flex items-center gap-2 text-sm text-[#f5f0e8]/50 hover:text-[#d4a574] transition-colors mb-8 group"
+          >
+            <svg className="w-4 h-4 group-hover:-translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+              <path d="M19 12H5M12 19l-7-7 7-7" />
+            </svg>
+            Back to directory
+          </Link>
+
+          {/* Restaurant info */}
+          <div className="space-y-6">
+            {/* Status badge */}
+            <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium ${status.class}`}>
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 2L9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2z"/>
+              </svg>
+              {status.label}
             </span>
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">
+
+            {/* Name */}
+            <h1 className="font-display text-5xl lg:text-6xl text-[#f5f0e8] tracking-tight">
               {restaurant.name}
             </h1>
-            <div className="flex flex-wrap items-center gap-4 text-green-100">
-              <span>{restaurant.cuisineType.join(' • ')}</span>
-              <span>•</span>
+
+            {/* Meta info */}
+            <div className="flex flex-wrap items-center gap-4 text-[#f5f0e8]/60">
+              <span className="flex items-center gap-2">
+                {restaurant.cuisineType.join(' • ')}
+              </span>
+              <span className="w-1 h-1 rounded-full bg-[#f5f0e8]/30" />
               <span>{restaurant.priceRange}</span>
               {restaurant.rating && (
                 <>
-                  <span>•</span>
-                  <span className="flex items-center">
-                    <svg className="w-5 h-5 text-yellow-400 mr-1" fill="currentColor" viewBox="0 0 20 20">
-                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                  <span className="w-1 h-1 rounded-full bg-[#f5f0e8]/30" />
+                  <span className="flex items-center gap-1">
+                    <svg className="w-5 h-5 text-[#d4a574]" viewBox="0 0 24 24" fill="currentColor">
+                      <path d="M12 2L9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2z"/>
                     </svg>
                     {restaurant.rating}
                     {restaurant.reviewCount && (
-                      <span className="ml-1 text-green-200">({restaurant.reviewCount} reviews)</span>
+                      <span className="text-[#f5f0e8]/40 ml-1">({restaurant.reviewCount})</span>
                     )}
                   </span>
                 </>
@@ -134,26 +168,26 @@ export default async function RestaurantPage({ params }: Props) {
       </div>
 
       {/* Main Content */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid lg:grid-cols-3 gap-8">
+      <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
+        <div className="grid lg:grid-cols-3 gap-12">
           {/* Left Column - Details */}
-          <div className="lg:col-span-2 space-y-8">
+          <div className="lg:col-span-2 space-y-10">
             {/* Description */}
-            <div className="bg-white rounded-xl shadow-md p-6">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">About</h2>
-              <p className="text-gray-700 leading-relaxed text-lg">
+            <div className="card-elevated rounded-2xl p-8">
+              <h2 className="font-display text-2xl text-[#f5f0e8] mb-6">About</h2>
+              <p className="text-[#f5f0e8]/60 leading-relaxed text-lg">
                 {restaurant.description}
               </p>
             </div>
 
             {/* Features */}
-            <div className="bg-white rounded-xl shadow-md p-6">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Features</h2>
-              <div className="flex flex-wrap gap-2">
+            <div className="card-elevated rounded-2xl p-8">
+              <h2 className="font-display text-2xl text-[#f5f0e8] mb-6">Features</h2>
+              <div className="flex flex-wrap gap-3">
                 {restaurant.features.map((feature) => (
                   <span 
                     key={feature}
-                    className="px-4 py-2 bg-green-50 text-green-700 rounded-full text-sm font-medium"
+                    className="px-4 py-2 rounded-full text-sm bg-[#3d4a3d]/30 text-[#d4a574] border border-[#3d4a3d]/50"
                   >
                     {feature}
                   </span>
@@ -161,17 +195,32 @@ export default async function RestaurantPage({ params }: Props) {
               </div>
             </div>
 
-            {/* Map */}
-            <div className="bg-white rounded-xl shadow-md p-6">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Location</h2>
-              <div className="h-64 bg-gradient-to-br from-green-100 to-blue-100 rounded-lg flex items-center justify-center">
-                <div className="text-center">
-                  <svg className="w-12 h-12 text-green-500 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+            {/* Location Card */}
+            <div className="card-elevated rounded-2xl p-8">
+              <h2 className="font-display text-2xl text-[#f5f0e8] mb-6">Location</h2>
+              <div className="h-64 bg-gradient-to-br from-[#2a2a2a] to-[#1a1a1a] rounded-xl flex items-center justify-center relative overflow-hidden">
+                {/* Stylized map background */}
+                <div className="absolute inset-0 opacity-10">
+                  <svg className="w-full h-full" viewBox="0 0 400 250" fill="none">
+                    <line x1="0" y1="60" x2="400" y2="60" stroke="#f5f0e8" strokeWidth="0.5" strokeDasharray="4 4"/>
+                    <line x1="0" y1="125" x2="400" y2="125" stroke="#f5f0e8" strokeWidth="0.5"/>
+                    <line x1="0" y1="190" x2="400" y2="190" stroke="#f5f0e8" strokeWidth="0.5" strokeDasharray="4 4"/>
+                    <line x1="100" y1="0" x2="100" y2="250" stroke="#f5f0e8" strokeWidth="0.5" strokeDasharray="4 4"/>
+                    <line x1="200" y1="0" x2="200" y2="250" stroke="#f5f0e8" strokeWidth="0.5"/>
+                    <line x1="300" y1="0" x2="300" y2="250" stroke="#f5f0e8" strokeWidth="0.5" strokeDasharray="4 4"/>
                   </svg>
-                  <p className="text-gray-600">{restaurant.address}</p>
-                  <p className="text-gray-600">{restaurant.city}, {restaurant.state} {restaurant.zip}</p>
+                </div>
+                
+                {/* Center marker */}
+                <div className="relative">
+                  <div className="w-4 h-4 rounded-full bg-[#d4a574] shadow-lg shadow-[#d4a574]/50" />
+                  <span className="absolute -inset-3 rounded-full bg-[#d4a574]/20 animate-ping" />
+                </div>
+                
+                {/* Address overlay */}
+                <div className="absolute bottom-4 left-4 right-4 bg-[#1a1a1a]/80 backdrop-blur-sm rounded-lg p-4 border border-[#f5f0e8]/5">
+                  <p className="text-[#f5f0e8]/80 text-sm">{restaurant.address}</p>
+                  <p className="text-[#f5f0e8]/50 text-sm">{restaurant.city}, {restaurant.state} {restaurant.zip}</p>
                 </div>
               </div>
             </div>
@@ -179,62 +228,79 @@ export default async function RestaurantPage({ params }: Props) {
 
           {/* Right Column - Contact Info */}
           <div className="space-y-6">
-            {/* Contact Card */}
-            <div className="bg-white rounded-xl shadow-md p-6 sticky top-24">
-              <h3 className="text-lg font-bold text-gray-900 mb-4">Contact & Visit</h3>
+            <div className="card-elevated rounded-2xl p-8 lg:sticky lg:top-28">
+              <h3 className="font-display text-xl text-[#f5f0e8] mb-6">Contact & Visit</h3>
               
-              <div className="space-y-4">
+              <div className="space-y-5">
                 {/* Address */}
-                <div className="flex items-start space-x-3">
-                  <svg className="w-6 h-6 text-green-600 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                  </svg>
+                <div className="flex items-start gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-[#3d4a3d]/30 flex items-center justify-center flex-shrink-0">
+                    <svg className="w-5 h-5 text-[#d4a574]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                      <path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                      <path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                    </svg>
+                  </div>
                   <div>
-                    <p className="font-medium text-gray-900">{restaurant.address}</p>
-                    <p className="text-gray-600">{restaurant.city}, {restaurant.state} {restaurant.zip}</p>
+                    <p className="text-[#f5f0e8] text-sm">{restaurant.address}</p>
+                    <p className="text-[#f5f0e8]/50 text-sm">{restaurant.city}, {restaurant.state} {restaurant.zip}</p>
                     <Link 
                       href={`/neighborhoods/${restaurant.neighborhoodSlug}`}
-                      className="text-green-600 hover:text-green-700 text-sm"
+                      className="text-[#d4a574] hover:text-[#e6c49a] text-sm mt-1 inline-flex items-center gap-1 transition-colors"
                     >
-                      View {restaurant.neighborhood} →
+                      {restaurant.neighborhood}
+                      <svg className="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                        <path d="M7 17L17 7M17 7H7M17 7V17" />
+                      </svg>
                     </Link>
                   </div>
                 </div>
 
                 {/* Phone */}
-                <div className="flex items-center space-x-3">
-                  <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
-                  </svg>
-                  <a href={`tel:${restaurant.phone.replace(/\D/g, '')}`} className="text-gray-900 hover:text-green-600">
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-[#3d4a3d]/30 flex items-center justify-center flex-shrink-0">
+                    <svg className="w-5 h-5 text-[#d4a574]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                      <path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                    </svg>
+                  </div>
+                  <a 
+                    href={`tel:${restaurant.phone.replace(/\D/g, '')}`} 
+                    className="text-[#f5f0e8] hover:text-[#d4a574] text-sm transition-colors"
+                  >
                     {restaurant.phone}
                   </a>
                 </div>
 
                 {/* Website */}
-                <div className="flex items-center space-x-3">
-                  <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
-                  </svg>
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-[#3d4a3d]/30 flex items-center justify-center flex-shrink-0">
+                    <svg className="w-5 h-5 text-[#d4a574]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                      <path d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
+                    </svg>
+                  </div>
                   <a 
                     href={restaurant.website} 
                     target="_blank" 
                     rel="noopener noreferrer"
-                    className="text-green-600 hover:text-green-700"
+                    className="text-[#d4a574] hover:text-[#e6c49a] text-sm transition-colors inline-flex items-center gap-1"
                   >
-                    Visit Website →
+                    Visit Website
+                    <svg className="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                      <path d="M7 17L17 7M17 7H7M17 7V17" />
+                    </svg>
                   </a>
                 </div>
               </div>
 
+              {/* Divider */}
+              <div className="section-divider my-6" />
+
               {/* Action Buttons */}
-              <div className="mt-6 space-y-3">
+              <div className="space-y-3">
                 <a
                   href={`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(`${restaurant.address}, ${restaurant.city}, ${restaurant.state} ${restaurant.zip}`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-full block text-center px-6 py-3 bg-green-600 text-white rounded-lg font-semibold hover:bg-green-700 transition-colors"
+                  className="btn-primary w-full block text-center px-6 py-4 rounded-xl text-sm font-medium"
                 >
                   Get Directions
                 </a>
@@ -242,7 +308,7 @@ export default async function RestaurantPage({ params }: Props) {
                   href={restaurant.website}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-full block text-center px-6 py-3 border-2 border-green-600 text-green-600 rounded-lg font-semibold hover:bg-green-50 transition-colors"
+                  className="btn-secondary w-full block text-center px-6 py-4 rounded-xl text-sm font-medium"
                 >
                   Order Online
                 </a>

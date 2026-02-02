@@ -1,101 +1,117 @@
 'use client';
 
 import Link from 'next/link';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 20);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   return (
-    <header className="bg-white shadow-sm sticky top-0 z-50">
-      <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16">
-          <div className="flex items-center">
-            <Link href="/" className="flex items-center space-x-2">
-              <span className="text-2xl">🌱</span>
-              <span className="font-bold text-xl text-green-700">MPLS Vegan</span>
-            </Link>
-          </div>
+    <header 
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
+        isScrolled 
+          ? 'bg-[#1a1a1a]/95 backdrop-blur-md border-b border-[#f5f0e8]/5' 
+          : 'bg-transparent'
+      }`}
+    >
+      <nav className="max-w-7xl mx-auto px-6 lg:px-8">
+        <div className="flex justify-between items-center h-20">
+          {/* Logo */}
+          <Link href="/" className="group flex items-center gap-3">
+            <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#3d4a3d] to-[#5a6b5a] flex items-center justify-center transition-transform duration-300 group-hover:scale-105">
+              <svg className="w-5 h-5 text-[#f5f0e8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 1 7.92 12.446a9 9 0 1 1 -16.626 0a7.5 7.5 0 0 1 7.92 -12.446c.131 0 .262 0 .393 0z" />
+                <path d="M12 3v18" />
+                <path d="M12 10c-1.5 0 -3 .5 -3 2.5s1.5 2.5 3 2.5" />
+              </svg>
+            </div>
+            <div className="flex flex-col">
+              <span className="font-display text-xl text-[#f5f0e8] tracking-tight">MPLS Vegan</span>
+              <span className="text-[10px] uppercase tracking-[0.2em] text-[#d4a574]">Directory</span>
+            </div>
+          </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-8">
-            <Link href="/" className="text-gray-700 hover:text-green-600 transition-colors">
-              Home
-            </Link>
-            <Link href="/#restaurants" className="text-gray-700 hover:text-green-600 transition-colors">
-              Restaurants
-            </Link>
-            <Link href="/neighborhoods" className="text-gray-700 hover:text-green-600 transition-colors">
-              Neighborhoods
-            </Link>
-            <Link href="/about" className="text-gray-700 hover:text-green-600 transition-colors">
-              About
-            </Link>
-            <Link href="/contact" className="text-gray-700 hover:text-green-600 transition-colors">
-              Contact
-            </Link>
+          <div className="hidden md:flex items-center gap-1">
+            {[
+              { href: '/', label: 'Home' },
+              { href: '/#restaurants', label: 'Restaurants' },
+              { href: '/neighborhoods', label: 'Neighborhoods' },
+              { href: '/about', label: 'About' },
+              { href: '/contact', label: 'Contact' },
+            ].map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="px-4 py-2 text-sm text-[#f5f0e8]/70 hover:text-[#d4a574] transition-colors duration-300 relative group"
+              >
+                {link.label}
+                <span className="absolute bottom-1 left-4 right-4 h-px bg-[#d4a574] scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
+              </Link>
+            ))}
           </div>
 
           {/* Mobile menu button */}
-          <div className="md:hidden flex items-center">
-            <button
-              onClick={() => setIsMenuOpen(!isMenuOpen)}
-              className="text-gray-700 hover:text-green-600 focus:outline-none"
-              aria-label="Toggle menu"
-            >
-              <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                {isMenuOpen ? (
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                ) : (
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
-                )}
-              </svg>
-            </button>
-          </div>
+          <button
+            onClick={() => setIsMenuOpen(!isMenuOpen)}
+            className="md:hidden relative w-10 h-10 flex items-center justify-center"
+            aria-label="Toggle menu"
+          >
+            <div className="flex flex-col gap-1.5 w-6">
+              <span 
+                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 origin-center ${
+                  isMenuOpen ? 'rotate-45 translate-y-2' : ''
+                }`} 
+              />
+              <span 
+                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 ${
+                  isMenuOpen ? 'opacity-0 scale-0' : ''
+                }`} 
+              />
+              <span 
+                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 origin-center ${
+                  isMenuOpen ? '-rotate-45 -translate-y-2' : ''
+                }`} 
+              />
+            </div>
+          </button>
         </div>
 
         {/* Mobile Navigation */}
-        {isMenuOpen && (
-          <div className="md:hidden pb-4">
-            <div className="flex flex-col space-y-3">
-              <Link 
-                href="/" 
-                className="text-gray-700 hover:text-green-600 transition-colors py-2"
+        <div 
+          className={`md:hidden overflow-hidden transition-all duration-500 ease-out ${
+            isMenuOpen ? 'max-h-80 opacity-100 pb-6' : 'max-h-0 opacity-0'
+          }`}
+        >
+          <div className="flex flex-col gap-1 pt-4 border-t border-[#f5f0e8]/10">
+            {[
+              { href: '/', label: 'Home' },
+              { href: '/#restaurants', label: 'Restaurants' },
+              { href: '/neighborhoods', label: 'Neighborhoods' },
+              { href: '/about', label: 'About' },
+              { href: '/contact', label: 'Contact' },
+            ].map((link, index) => (
+              <Link
+                key={link.href}
+                href={link.href}
                 onClick={() => setIsMenuOpen(false)}
+                className="py-3 px-2 text-lg text-[#f5f0e8]/70 hover:text-[#d4a574] transition-colors duration-300 border-b border-[#f5f0e8]/5"
+                style={{ animationDelay: `${index * 50}ms` }}
               >
-                Home
+                {link.label}
               </Link>
-              <Link 
-                href="/#restaurants" 
-                className="text-gray-700 hover:text-green-600 transition-colors py-2"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                Restaurants
-              </Link>
-              <Link 
-                href="/neighborhoods" 
-                className="text-gray-700 hover:text-green-600 transition-colors py-2"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                Neighborhoods
-              </Link>
-              <Link 
-                href="/about" 
-                className="text-gray-700 hover:text-green-600 transition-colors py-2"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                About
-              </Link>
-              <Link 
-                href="/contact" 
-                className="text-gray-700 hover:text-green-600 transition-colors py-2"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                Contact
-              </Link>
-            </div>
+            ))}
           </div>
-        )}
+        </div>
       </nav>
     </header>
   );
