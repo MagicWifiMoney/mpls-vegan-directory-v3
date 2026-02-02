@@ -10,9 +10,17 @@ export async function extractPopularItems(
 ): Promise<string[]> {
   const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY;
 
-  if (!apiKey || reviews.length === 0) {
+  if (!apiKey) {
+    console.log('[Gemini] API key not found');
     return [];
   }
+  
+  if (reviews.length === 0) {
+    console.log('[Gemini] No reviews provided');
+    return [];
+  }
+
+  console.log(`[Gemini] Analyzing ${reviews.length} reviews for ${restaurantName}`);
 
   try {
     // Combine all review texts
@@ -43,24 +51,27 @@ JSON array only:`;
     );
 
     if (!response.ok) {
-      console.error('Gemini API error:', response.status);
+      console.error('[Gemini] API error:', response.status, await response.text());
       return [];
     }
 
     const data = await response.json();
-    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '[]';
+    const text = data.candidates?.[0]?.content?parts?.[0]?.text || '[]';
+    
+    console.log('[Gemini] Response:', text.substring(0, 200));
     
     // Extract JSON array from response (handle markdown code blocks)
     const jsonMatch = text.match(/\[[\s\S]*\]/);
     if (!jsonMatch) {
-      console.warn('Failed to parse Gemini response:', text);
+      console.warn('[Gemini] Failed to parse response:', text);
       return [];
     }
 
     const items = JSON.parse(jsonMatch[0]);
+    console.log('[Gemini] Extracted items:', items);
     return Array.isArray(items) ? items.slice(0, 10) : [];
   } catch (error) {
-    console.error('Error extracting popular items:', error);
+    console.error('[Gemini] Error:', error);
     return [];
   }
 }
