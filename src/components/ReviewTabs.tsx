@@ -19,6 +19,7 @@ interface ReviewTabsProps {
   restaurantAddress: string;
   restaurantCity: string;
   yelpUrl?: string;
+  popularItems?: string[];
 }
 
 export default function ReviewTabs({
@@ -28,34 +29,12 @@ export default function ReviewTabs({
   restaurantAddress,
   restaurantCity,
   yelpUrl,
+  popularItems,
 }: ReviewTabsProps) {
   const [activeTab, setActiveTab] = useState<'google' | 'yelp'>(
     yelpReviews.length > 0 ? 'yelp' : 'google'
   );
 
-  // Extract popular dishes/items mentioned in reviews
-  const extractPopularDishes = (reviews: Review[]) => {
-    const dishPattern = /\b(burger|sandwich|wrap|bowl|pizza|taco|burrito|salad|soup|pancake|waffle|scramble|mac and cheese|tempeh|tofu|seitan|falafel|hummus|kimchi|riblets?|wings?|nuggets?|dog|sausage|cheese|meatball|wrap|pho|ramen|curry|pad thai|stir fry|spring roll|banh mi)\b/gi;
-    const mentions: { [key: string]: number } = {};
-    
-    reviews.forEach(review => {
-      const matches = review.text.match(dishPattern);
-      if (matches) {
-        matches.forEach(dish => {
-          const normalized = dish.toLowerCase();
-          mentions[normalized] = (mentions[normalized] || 0) + 1;
-        });
-      }
-    });
-
-    return Object.entries(mentions)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 8)
-      .map(([dish]) => dish);
-  };
-
-  const allReviews = [...googleReviews, ...yelpReviews];
-  const popularDishes = extractPopularDishes(allReviews);
   const currentReviews = activeTab === 'google' ? googleReviews : yelpReviews;
 
   if (googleReviews.length === 0 && yelpReviews.length === 0) {
@@ -64,24 +43,24 @@ export default function ReviewTabs({
 
   return (
     <section>
-      {/* Popular Dishes */}
-      {popularDishes.length > 0 && (
+      {/* Popular Items from Gemini */}
+      {popularItems && popularItems.length > 0 && (
         <div className="card-elevated rounded-2xl p-6 mb-8">
           <h3 className="font-display text-xl text-[#f5f0e8] mb-4">
             🔥 Popular Items
           </h3>
           <div className="flex flex-wrap gap-2">
-            {popularDishes.map((dish) => (
+            {popularItems.map((item) => (
               <span
-                key={dish}
-                className="px-3 py-1.5 rounded-full text-sm bg-[#d4a574]/10 text-[#d4a574] border border-[#d4a574]/20 capitalize"
+                key={item}
+                className="px-3 py-1.5 rounded-full text-sm bg-[#d4a574]/10 text-[#d4a574] border border-[#d4a574]/20"
               >
-                {dish}
+                {item}
               </span>
             ))}
           </div>
           <p className="text-xs text-[#f5f0e8]/40 mt-3">
-            Based on review mentions
+            AI-analyzed from customer reviews
           </p>
         </div>
       )}
