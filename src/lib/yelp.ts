@@ -91,14 +91,8 @@ export async function getYelpData(
 
     const business: YelpBusiness = searchResult.businesses[0];
 
-    // Get reviews
-    let reviews = [];
-    try {
-      const reviewsResult = await yelpFetch(`/businesses/${business.id}/reviews`, apiKey);
-      reviews = reviewsResult.reviews || [];
-    } catch (error) {
-      console.warn(`Failed to fetch Yelp reviews for ${name}:`, error);
-    }
+    // Note: Yelp Reviews API is extremely limited and doesn't work for most businesses
+    // We can only get rating/review count from the search endpoint
 
     return {
       rating: business.rating,
@@ -106,14 +100,7 @@ export async function getYelpData(
       photos: business.photos?.slice(0, 5) || [],
       yelpUrl: business.url,
       openNow: business.hours?.[0]?.is_open_now,
-      reviews: reviews.map((review: YelpReview) => ({
-        author_name: review.user.name,
-        rating: review.rating,
-        text: review.text,
-        time: review.time_created,
-        profile_photo_url: review.user.image_url,
-        url: review.url,
-      })),
+      reviews: [], // Yelp doesn't provide review text access
     };
   } catch (error) {
     console.error(`Error fetching Yelp data for ${name}:`, error);
