@@ -3,7 +3,7 @@
 import { useState, useMemo } from 'react';
 import Hero from '@/components/Hero';
 import SearchFilters from '@/components/SearchFilters';
-import RestaurantCard from '@/components/RestaurantCard';
+import RestaurantCardWithData from '@/components/RestaurantCardWithData';
 import Map from '@/components/Map';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import { restaurants, Restaurant } from '@/data/restaurants';
@@ -114,7 +114,7 @@ export default function Home() {
                   </div>
                   <div className="grid sm:grid-cols-2 xl:grid-cols-3 gap-6">
                     {filteredRestaurants.map((restaurant, index) => (
-                      <RestaurantCard key={restaurant.id} restaurant={restaurant} index={index} />
+                      <RestaurantCardWithData key={restaurant.id} restaurant={restaurant} index={index} />
                     ))}
                   </div>
                 </>
