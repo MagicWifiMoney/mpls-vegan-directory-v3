@@ -10,8 +10,14 @@ const restaurantsContent = fs.readFileSync(restaurantsPath, 'utf8');
 // Extract restaurants array (basic parsing)
 const restaurants = eval(restaurantsContent.match(/export const restaurants.*?=.*?\[([\s\S]*?)\];/)[1]);
 
-// Google API key
-const API_KEY = '***REMOVED***';
+// Google API key from environment
+const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
+
+if (!API_KEY) {
+  console.error('❌ Error: GOOGLE_PLACES_API_KEY environment variable not set');
+  console.log('Usage: GOOGLE_PLACES_API_KEY=your_key_here node scripts/refresh-place-ids.js');
+  process.exit(1);
+}
 
 async function findPlaceId(restaurant) {
   const query = encodeURIComponent(`${restaurant.name} ${restaurant.address} ${restaurant.city}`);
