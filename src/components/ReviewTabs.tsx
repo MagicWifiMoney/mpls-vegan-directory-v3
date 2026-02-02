@@ -31,11 +31,9 @@ export default function ReviewTabs({
   yelpUrl,
   popularItems,
 }: ReviewTabsProps) {
-  const [activeTab, setActiveTab] = useState<'google' | 'yelp'>(
-    yelpReviews.length > 0 ? 'yelp' : 'google'
-  );
-
-  const currentReviews = activeTab === 'google' ? googleReviews : yelpReviews;
+  // Only show Google reviews (Yelp API doesn't provide review text)
+  const [activeTab] = useState<'google'>('google');
+  const currentReviews = googleReviews;
 
   if (googleReviews.length === 0 && yelpReviews.length === 0) {
     return null;
@@ -65,45 +63,20 @@ export default function ReviewTabs({
         </div>
       )}
 
-      {/* Review Tabs */}
-      <div className="flex items-center justify-center gap-3 mb-8">
-        <button
-          onClick={() => setActiveTab('google')}
-          className={`px-6 py-3 rounded-full font-medium transition-all ${
-            activeTab === 'google'
-              ? 'bg-[#d4a574] text-[#1a1a1a]'
-              : 'bg-[#f5f0e8]/5 text-[#f5f0e8]/60 hover:bg-[#f5f0e8]/10'
-          }`}
-        >
-          <div className="flex items-center gap-2">
-            <span>Google Reviews</span>
-            <span className="text-sm opacity-60">({googleReviews.length})</span>
-          </div>
-        </button>
-        <button
-          onClick={() => setActiveTab('yelp')}
-          className={`px-6 py-3 rounded-full font-medium transition-all ${
-            activeTab === 'yelp'
-              ? 'bg-[#d32323] text-white'
-              : 'bg-[#f5f0e8]/5 text-[#f5f0e8]/60 hover:bg-[#f5f0e8]/10'
-          }`}
-        >
-          <div className="flex items-center gap-2">
-            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12 2l2.4 7.4h7.6l-6 4.6 2.3 7-6.3-4.6-6.3 4.6 2.3-7-6-4.6h7.6z"/>
-            </svg>
-            <span>Yelp Reviews</span>
-            <span className="text-sm opacity-60">({yelpReviews.length})</span>
-          </div>
-        </button>
+      {/* Reviews Header */}
+      <div className="text-center mb-8">
+        <h3 className="font-display text-2xl text-[#f5f0e8] mb-2">
+          Customer Reviews
+        </h3>
+        <p className="text-[#f5f0e8]/60">
+          {googleReviews.length} verified Google reviews
+        </p>
       </div>
 
       {/* Reviews Grid */}
       <div className="grid gap-6">
         {currentReviews.slice(0, 6).map((review, idx) => (
-          <div key={idx} className={`card-elevated p-6 rounded-2xl ${
-            activeTab === 'yelp' ? 'border border-[#d32323]/10' : ''
-          }`}>
+          <div key={idx} className="card-elevated p-6 rounded-2xl">
             <div className="flex items-start gap-4">
               <Image
                 src={review.profile_photo_url}
@@ -118,17 +91,8 @@ export default function ReviewTabs({
                   <div>
                     <div className="flex items-center gap-2">
                       <span className="font-medium text-[#f5f0e8]">{review.author_name}</span>
-                      <span className={`text-xs px-2 py-0.5 rounded flex items-center gap-1 ${
-                        activeTab === 'yelp'
-                          ? 'bg-[#d32323]/10 text-[#d32323]'
-                          : 'bg-[#f5f0e8]/5 text-[#f5f0e8]/40'
-                      }`}>
-                        {activeTab === 'yelp' && (
-                          <svg className="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
-                            <path d="M12 2l2.4 7.4h7.6l-6 4.6 2.3 7-6.3-4.6-6.3 4.6 2.3-7-6-4.6h7.6z"/>
-                          </svg>
-                        )}
-                        {activeTab === 'google' ? 'Google' : 'Yelp'}
+                      <span className="text-xs px-2 py-0.5 rounded flex items-center gap-1 bg-[#f5f0e8]/5 text-[#f5f0e8]/40">
+                        Google
                       </span>
                     </div>
                     <div className="flex text-[#d4a574] text-sm mt-1">
@@ -151,32 +115,29 @@ export default function ReviewTabs({
       </div>
 
       {/* View More Buttons */}
-      <div className="mt-8 flex justify-center">
-        {activeTab === 'google' ? (
+      <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
+        <a
+          href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+            `${restaurantName} ${restaurantAddress} ${restaurantCity}`
+          )}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-[#d4a574]/10 hover:bg-[#d4a574]/20 text-[#d4a574] font-medium transition"
+        >
+          View All Google Reviews →
+        </a>
+        {yelpUrl && (
           <a
-            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-              `${restaurantName} ${restaurantAddress} ${restaurantCity}`
-            )}`}
+            href={yelpUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-8 py-4 rounded-full bg-[#d4a574]/10 hover:bg-[#d4a574]/20 text-[#d4a574] font-medium transition"
+            className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-[#d32323]/10 hover:bg-[#d32323]/20 text-[#d32323] font-medium transition"
           >
-            View All Google Reviews →
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2l2.4 7.4h7.6l-6 4.6 2.3 7-6.3-4.6-6.3 4.6 2.3-7-6-4.6h7.6z"/>
+            </svg>
+            View on Yelp →
           </a>
-        ) : (
-          yelpUrl && (
-            <a
-              href={yelpUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-8 py-4 rounded-full bg-[#d32323]/10 hover:bg-[#d32323]/20 text-[#d32323] font-medium transition"
-            >
-              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12 2l2.4 7.4h7.6l-6 4.6 2.3 7-6.3-4.6-6.3 4.6 2.3-7-6-4.6h7.6z"/>
-              </svg>
-              View All Yelp Reviews →
-            </a>
-          )
         )}
       </div>
     </section>
