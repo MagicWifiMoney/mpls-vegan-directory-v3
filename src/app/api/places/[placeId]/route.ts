@@ -50,19 +50,8 @@ export async function GET(
     return NextResponse.json({ error: 'Place ID is required' }, { status: 400 });
   }
 
-  // Check cache first
-  const cacheKey = `${CACHE_VERSION}:${placeId}`;
-  const cached = cache.get(cacheKey);
-  if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
-    console.log(`[API] Cache hit for ${placeId}`);
-    return NextResponse.json(cached.data, {
-      headers: {
-        'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200',
-      },
-    });
-  }
-  
-  console.log(`[API] Cache miss for ${placeId}, fetching fresh data...`);
+  // TEMP: Disable cache for debugging
+  console.log(`[API] Cache disabled - fetching fresh data for ${placeId}...`);
 
   // Find restaurant by place ID to get Yelp data
   const restaurant = restaurants.find(r => r.googlePlaceId === placeId);
@@ -104,8 +93,8 @@ export async function GET(
     yelp: yelpData || undefined,
   };
 
-  // Store in cache with version key
-  cache.set(cacheKey, { data: placeDetails, timestamp: Date.now() });
+  // TEMP: Skip cache storage for debugging
+  // cache.set(cacheKey, { data: placeDetails, timestamp: Date.now() });
 
   return NextResponse.json(placeDetails, {
     headers: {
