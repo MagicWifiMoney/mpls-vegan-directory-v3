@@ -1,4 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { getYelpData } from '@/lib/yelp';
+import { restaurants } from '@/data/restaurants';
 
 // Cache place details for 24 hours
 const cache = new Map<string, { data: PlaceDetails; timestamp: number }>();
@@ -17,6 +19,22 @@ interface PlaceDetails {
     time: number;
     profile_photo_url: string;
   }>;
+  // Yelp data
+  yelp?: {
+    rating?: number;
+    reviewCount?: number;
+    photos?: string[];
+    reviews?: Array<{
+      author_name: string;
+      rating: number;
+      text: string;
+      time: string;
+      profile_photo_url: string;
+      url: string;
+    }>;
+    yelpUrl?: string;
+    openNow?: boolean;
+  };
 }
 
 export async function GET(
@@ -39,25 +57,44 @@ export async function GET(
     });
   }
 
+  // Find restaurant by place ID to get Yelp data
+  const restaurant = restaurants.find(r => r.googlePlaceId === placeId);
+
+  // Fetch Google Places data
+  const googleData = await fetchGooglePlaces(placeId);
+  
+  // Fetch Yelp data if we have restaurant info
+  let yelpData = null;
+  if (restaurant) {
+    yelpData = await getYelpData(
+      restaurant.name,
+      restaurant.address,
+      restaurant.city,
+      restaurant.state
+    );
+  }
+
+  const placeDetails: PlaceDetails = {
+    ...googleData,
+    yelp: yelpData || undefined,
+  };
+
+  // Store in cache
+  cache.set(placeId, { data: placeDetails, timestamp: Date.now() });
+
+  return NextResponse.json(placeDetails, {
+    headers: {
+      'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200',
+    },
+  });
+}
+
+async function fetchGooglePlaces(placeId: string): Promise<Partial<PlaceDetails>> {
   const apiKey = process.env.GOOGLE_PLACES_API_KEY;
 
   if (!apiKey) {
-    // Return mock data if API key is not configured
-    return NextResponse.json({
-      rating: 4.5,
-      userRatingsTotal: 120,
-      openingHours: [
-        'Monday: 11:00 AM – 9:00 PM',
-        'Tuesday: 11:00 AM – 9:00 PM',
-        'Wednesday: 11:00 AM – 9:00 PM',
-        'Thursday: 11:00 AM – 9:00 PM',
-        'Friday: 11:00 AM – 10:00 PM',
-        'Saturday: 10:00 AM – 10:00 PM',
-        'Sunday: 10:00 AM – 9:00 PM',
-      ],
-      photos: [],
-      isMockData: true,
-    });
+    console.warn('Google Places API key not configured');
+    return {};
   }
 
   try {
@@ -69,14 +106,11 @@ export async function GET(
 
     if (data.status !== 'OK') {
       console.error('Google Places API error:', data.status, data.error_message);
-      return NextResponse.json(
-        { error: 'Failed to fetch place details', status: data.status },
-        { status: 500 }
-      );
+      return {};
     }
 
     const result = data.result;
-    const placeDetails: PlaceDetails = {
+    return {
       rating: result.rating,
       userRatingsTotal: result.user_ratings_total,
       openingHours: result.opening_hours?.weekday_text,
@@ -92,20 +126,8 @@ export async function GET(
         profile_photo_url: review.profile_photo_url,
       })),
     };
-
-    // Store in cache
-    cache.set(placeId, { data: placeDetails, timestamp: Date.now() });
-
-    return NextResponse.json(placeDetails, {
-      headers: {
-        'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200',
-      },
-    });
   } catch (error) {
-    console.error('Error fetching place details:', error);
-    return NextResponse.json(
-      { error: 'Internal server error' },
-      { status: 500 }
-    );
+    console.error('Error fetching Google Places details:', error);
+    return {};
   }
 }
