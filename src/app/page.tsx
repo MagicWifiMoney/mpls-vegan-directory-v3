@@ -5,6 +5,7 @@ import Hero from '@/components/Hero';
 import SearchFilters from '@/components/SearchFilters';
 import RestaurantCard from '@/components/RestaurantCard';
 import Map from '@/components/Map';
+import InstagramFeed from '@/components/InstagramFeed';
 import { restaurants, Restaurant } from '@/data/restaurants';
 
 export default function Home() {
@@ -197,6 +198,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Instagram Feed Section */}
+      <InstagramFeed />
     </>
   );
 }
