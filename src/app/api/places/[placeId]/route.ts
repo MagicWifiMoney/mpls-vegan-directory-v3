@@ -8,7 +8,15 @@ interface PlaceDetails {
   rating?: number;
   userRatingsTotal?: number;
   openingHours?: string[];
+  openNow?: boolean;
   photos?: string[];
+  reviews?: Array<{
+    author_name: string;
+    rating: number;
+    text: string;
+    time: number;
+    profile_photo_url: string;
+  }>;
 }
 
 export async function GET(
@@ -53,7 +61,7 @@ export async function GET(
   }
 
   try {
-    const fields = 'rating,user_ratings_total,opening_hours,photos';
+    const fields = 'rating,user_ratings_total,opening_hours,photos,reviews,current_opening_hours';
     const url = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=${fields}&key=${apiKey}`;
 
     const response = await fetch(url);
@@ -72,9 +80,17 @@ export async function GET(
       rating: result.rating,
       userRatingsTotal: result.user_ratings_total,
       openingHours: result.opening_hours?.weekday_text,
-      photos: result.photos?.slice(0, 5).map((photo: { photo_reference: string }) =>
+      openNow: result.current_opening_hours?.open_now,
+      photos: result.photos?.slice(0, 10).map((photo: { photo_reference: string }) =>
         `https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=${photo.photo_reference}&key=${apiKey}`
       ),
+      reviews: result.reviews?.slice(0, 5).map((review: any) => ({
+        author_name: review.author_name,
+        rating: review.rating,
+        text: review.text,
+        time: review.time,
+        profile_photo_url: review.profile_photo_url,
+      })),
     };
 
     // Store in cache

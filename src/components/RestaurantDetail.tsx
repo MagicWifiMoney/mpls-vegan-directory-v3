@@ -1,0 +1,285 @@
+'use client';
+
+import { useEffect, useState } from 'react';
+import { Restaurant } from '@/data/restaurants';
+import Image from 'next/image';
+
+interface PlaceDetails {
+  rating?: number;
+  userRatingsTotal?: number;
+  openingHours?: string[];
+  photos?: string[];
+  reviews?: Array<{
+    author_name: string;
+    rating: number;
+    text: string;
+    time: number;
+    profile_photo_url: string;
+  }>;
+  openNow?: boolean;
+}
+
+export default function RestaurantDetail({ restaurant }: { restaurant: Restaurant }) {
+  const [placeDetails, setPlaceDetails] = useState<PlaceDetails | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [activePhoto, setActivePhoto] = useState(0);
+
+  useEffect(() => {
+    const fetchDetails = async () => {
+      try {
+        const response = await fetch(`/api/places/${restaurant.googlePlaceId}`);
+        const data = await response.json();
+        setPlaceDetails(data);
+      } catch (error) {
+        console.error('Failed to fetch place details:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchDetails();
+  }, [restaurant.googlePlaceId]);
+
+  const photos = placeDetails?.photos?.map(url => url.trim()) || [];
+  const reviews = placeDetails?.reviews || [];
+  const rating = placeDetails?.rating || restaurant.rating;
+  const reviewCount = placeDetails?.userRatingsTotal || restaurant.reviewCount;
+
+  return (
+    <div className="space-y-12">
+      {/* Photo Gallery */}
+      {photos.length > 0 && (
+        <section>
+          <div className="relative h-[60vh] rounded-2xl overflow-hidden mb-4">
+            <Image
+              src={photos[activePhoto]}
+              alt={`${restaurant.name} - Photo ${activePhoto + 1}`}
+              fill
+              className="object-cover"
+              unoptimized
+            />
+            
+            {/* Navigation */}
+            {photos.length > 1 && (
+              <>
+                <button
+                  onClick={() => setActivePhoto((activePhoto - 1 + photos.length) % photos.length)}
+                  className="absolute left-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-black/60 hover:bg-black/80 backdrop-blur-sm flex items-center justify-center text-white transition"
+                >
+                  ←
+                </button>
+                <button
+                  onClick={() => setActivePhoto((activePhoto + 1) % photos.length)}
+                  className="absolute right-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-black/60 hover:bg-black/80 backdrop-blur-sm flex items-center justify-center text-white transition"
+                >
+                  →
+                </button>
+              </>
+            )}
+            
+            {/* Photo counter */}
+            <div className="absolute bottom-4 right-4 px-3 py-1.5 rounded-full bg-black/60 backdrop-blur-sm text-white text-sm">
+              {activePhoto + 1} / {photos.length}
+            </div>
+          </div>
+
+          {/* Thumbnail strip */}
+          <div className="flex gap-2 overflow-x-auto pb-2">
+            {photos.slice(0, 10).map((photo, idx) => (
+              <button
+                key={idx}
+                onClick={() => setActivePhoto(idx)}
+                className={`relative flex-shrink-0 w-24 h-24 rounded-lg overflow-hidden ${
+                  activePhoto === idx ? 'ring-2 ring-[#d4a574]' : 'opacity-60 hover:opacity-100'
+                } transition`}
+              >
+                <Image
+                  src={photo}
+                  alt={`Thumbnail ${idx + 1}`}
+                  fill
+                  className="object-cover"
+                  unoptimized
+                />
+              </button>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Hours & Info Grid */}
+      <div className="grid lg:grid-cols-2 gap-8">
+        {/* Hours */}
+        {placeDetails?.openingHours && (
+          <div className="card-elevated p-6 rounded-2xl">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-[#d4a574]/10 flex items-center justify-center">
+                🕐
+              </div>
+              <div>
+                <h3 className="font-display text-xl text-[#f5f0e8]">Hours</h3>
+                {placeDetails.openNow !== undefined && (
+                  <span className={`text-sm ${placeDetails.openNow ? 'text-green-400' : 'text-red-400'}`}>
+                    {placeDetails.openNow ? '● Open Now' : '● Closed'}
+                  </span>
+                )}
+              </div>
+            </div>
+            <div className="space-y-2">
+              {placeDetails.openingHours.map((hours, idx) => (
+                <div key={idx} className="flex justify-between text-sm">
+                  <span className="text-[#f5f0e8]/60">{hours.split(':')[0]}</span>
+                  <span className="text-[#f5f0e8]">{hours.split(':').slice(1).join(':').trim()}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Quick Info */}
+        <div className="card-elevated p-6 rounded-2xl">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-full bg-[#d4a574]/10 flex items-center justify-center">
+              ℹ️
+            </div>
+            <h3 className="font-display text-xl text-[#f5f0e8]">Quick Info</h3>
+          </div>
+          <div className="space-y-3">
+            <div>
+              <div className="text-xs text-[#f5f0e8]/40 mb-1">Address</div>
+              <a
+                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+                  `${restaurant.name} ${restaurant.address} ${restaurant.city}`
+                )}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#d4a574] hover:text-[#c17f59] transition"
+              >
+                {restaurant.address}<br />
+                {restaurant.city}, {restaurant.state} {restaurant.zip}
+              </a>
+            </div>
+            <div>
+              <div className="text-xs text-[#f5f0e8]/40 mb-1">Phone</div>
+              <a href={`tel:${restaurant.phone}`} className="text-[#f5f0e8] hover:text-[#d4a574] transition">
+                {restaurant.phone}
+              </a>
+            </div>
+            <div>
+              <div className="text-xs text-[#f5f0e8]/40 mb-1">Website</div>
+              <a
+                href={restaurant.website}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#d4a574] hover:text-[#c17f59] transition"
+              >
+                Visit Website →
+              </a>
+            </div>
+            {rating && (
+              <div>
+                <div className="text-xs text-[#f5f0e8]/40 mb-1">Rating</div>
+                <div className="flex items-center gap-2">
+                  <span className="text-2xl font-bold text-[#f5f0e8]">{rating.toFixed(1)}</span>
+                  <div className="flex">
+                    {[1, 2, 3, 4, 5].map((star) => (
+                      <span key={star} className={star <= Math.round(rating) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
+                        ★
+                      </span>
+                    ))}
+                  </div>
+                  {reviewCount && (
+                    <span className="text-sm text-[#f5f0e8]/40">({reviewCount.toLocaleString()})</span>
+                  )}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </div>
+
+      {/* Google Reviews */}
+      {reviews.length > 0 && (
+        <section>
+          <div className="flex items-center gap-3 mb-6">
+            <div className="w-12 h-12 rounded-full bg-[#d4a574]/10 flex items-center justify-center text-2xl">
+              ⭐
+            </div>
+            <div>
+              <h3 className="font-display text-2xl text-[#f5f0e8]">Recent Reviews</h3>
+              <p className="text-[#f5f0e8]/40 text-sm">From Google</p>
+            </div>
+          </div>
+
+          <div className="grid gap-6">
+            {reviews.slice(0, 5).map((review, idx) => (
+              <div key={idx} className="card-elevated p-6 rounded-2xl">
+                <div className="flex items-start gap-4">
+                  <Image
+                    src={review.profile_photo_url}
+                    alt={review.author_name}
+                    width={48}
+                    height={48}
+                    className="rounded-full"
+                    unoptimized
+                  />
+                  <div className="flex-1">
+                    <div className="flex items-center justify-between mb-2">
+                      <div>
+                        <div className="font-medium text-[#f5f0e8]">{review.author_name}</div>
+                        <div className="flex text-[#d4a574] text-sm">
+                          {Array.from({ length: 5 }).map((_, i) => (
+                            <span key={i}>{i < review.rating ? '★' : '☆'}</span>
+                          ))}
+                        </div>
+                      </div>
+                      <span className="text-xs text-[#f5f0e8]/40">
+                        {new Date(review.time * 1000).toLocaleDateString()}
+                      </span>
+                    </div>
+                    <p className="text-[#f5f0e8]/70 text-sm leading-relaxed">{review.text}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          <div className="mt-6 text-center">
+            <a
+              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+                `${restaurant.name} ${restaurant.address} ${restaurant.city}`
+              )}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#d4a574]/10 hover:bg-[#d4a574]/20 text-[#d4a574] transition"
+            >
+              View All Reviews on Google →
+            </a>
+          </div>
+        </section>
+      )}
+
+      {/* CTA */}
+      <div className="card-elevated p-8 rounded-2xl text-center">
+        <h3 className="font-display text-2xl text-[#f5f0e8] mb-4">Ready to Visit?</h3>
+        <div className="flex flex-wrap gap-4 justify-center">
+          <a
+            href={`https://www.google.com/maps/dir/?api=1&destination=${restaurant.coordinates.lat},${restaurant.coordinates.lng}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-8 py-3 rounded-full bg-[#d4a574] hover:bg-[#c17f59] text-[#1a1a1a] font-medium transition"
+          >
+            Get Directions
+          </a>
+          <a
+            href={restaurant.website}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-8 py-3 rounded-full bg-[#f5f0e8]/5 hover:bg-[#f5f0e8]/10 text-[#f5f0e8] font-medium transition"
+          >
+            Visit Website
+          </a>
+        </div>
+      </div>
+    </div>
+  );
+}
