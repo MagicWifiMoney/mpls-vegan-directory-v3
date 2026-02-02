@@ -46,7 +46,7 @@ Comparison of APIs that could enhance the Minneapolis Vegan Directory.
 - Display requirements (must show Yelp branding)
 - Reviews limited to 3 per business
 
-**Cost:** FREE (500 calls/day)
+**Cost:** FREE (100 calls/day, 25,000/month)
 **Quality:** ★★★★☆
 
 **Use case for us:**
@@ -171,7 +171,7 @@ Google: 4.7 ⭐ (652 reviews)
 Yelp:   4.5 ⭐ (431 reviews)
 ```
 
-**Free tier:** 500 calls/day = enough for 47 restaurants
+**Free tier:** 100 calls/day = enough for 47 restaurants (with 24hr cache)
 
 ---
 
@@ -204,7 +204,7 @@ Yelp:   4.5 ⭐ (431 reviews)
 | API | Free Tier | Reviews | Photos | Hours | Menu | Vegan Focus |
 |-----|-----------|---------|--------|-------|------|-------------|
 | Google Places | ✅ 28.5k/mo | ✅ Yes | ✅ 10+ | ✅ Live | ❌ No | ❌ No |
-| Yelp | ✅ 500/day | ✅ 3 per | ✅ Yes | ✅ Yes | ❌ No | ❌ No |
+| Yelp | ✅ 100/day | ✅ 3 per | ✅ Yes | ✅ Yes | ❌ No | ❌ No |
 | Foursquare | ✅ 100k/mo | ✅ Tips | ✅ Yes | ✅ Yes | ✅ Some | ❌ No |
 | HappyCow | ❌ None | ✅ Yes | ✅ Yes | ❌ No | ❌ No | ✅ YES |
 

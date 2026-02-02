@@ -100,7 +100,7 @@ Yelp:   4.5 ⭐ (431 reviews)
 
 ## API Limits
 
-- **Free Tier:** 500 API calls per day
+- **Free Tier:** 100 API calls per day (25,000 per month)
 - **Our Usage:** 47 restaurants = 47 calls per day (when cache expires)
 - **Cache:** 24 hours (only calls API once per day per restaurant)
 - **Cost:** **FREE** (well under limit)
