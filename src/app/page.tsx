@@ -5,6 +5,7 @@ import Hero from '@/components/Hero';
 import SearchFiltersHorizontal from '@/components/SearchFiltersHorizontal';
 import RestaurantCardWithData from '@/components/RestaurantCardWithData';
 import NewsletterSignup from '@/components/NewsletterSignup';
+import InstagramFeed from '@/components/InstagramFeed';
 import { restaurants, Restaurant } from '@/data/restaurants';
 
 export default function Home() {
@@ -133,6 +134,9 @@ export default function Home() {
           )}
         </div>
       </section>
+
+      {/* Instagram Feed */}
+      <InstagramFeed />
 
       {/* Newsletter Section */}
       <NewsletterSignup />
