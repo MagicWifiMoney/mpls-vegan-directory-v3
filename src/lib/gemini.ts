@@ -8,12 +8,15 @@ export async function extractPopularItems(
   reviews: Review[],
   restaurantName: string
 ): Promise<string[]> {
-  const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY;
+  // TEMPORARY: Hardcode API key for debugging
+  const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY || '***REMOVED***';
 
   if (!apiKey) {
     console.log('[Gemini] API key not found');
     return [];
   }
+  
+  console.log('[Gemini] Using API key:', apiKey.substring(0, 20) + '...');
   
   if (reviews.length === 0) {
     console.log('[Gemini] No reviews provided');
