@@ -17,6 +17,21 @@ interface PlaceDetails {
     profile_photo_url: string;
   }>;
   openNow?: boolean;
+  yelp?: {
+    rating?: number;
+    reviewCount?: number;
+    photos?: string[];
+    reviews?: Array<{
+      author_name: string;
+      rating: number;
+      text: string;
+      time: string;
+      profile_photo_url: string;
+      url: string;
+    }>;
+    yelpUrl?: string;
+    openNow?: boolean;
+  };
 }
 
 export default function RestaurantDetail({ restaurant }: { restaurant: Restaurant }) {
@@ -40,7 +55,11 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
     fetchDetails();
   }, [restaurant.googlePlaceId]);
 
-  const photos = placeDetails?.photos?.map(url => url.trim()) || [];
+  // Combine photos from Google and Yelp
+  const googlePhotos = placeDetails?.photos?.map(url => url.trim()) || [];
+  const yelpPhotos = placeDetails?.yelp?.photos || [];
+  const photos = [...googlePhotos, ...yelpPhotos];
+  
   const reviews = placeDetails?.reviews || [];
   const rating = placeDetails?.rating || restaurant.rating;
   const reviewCount = placeDetails?.userRatingsTotal || restaurant.reviewCount;
@@ -175,20 +194,43 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
                 Visit Website →
               </a>
             </div>
-            {rating && (
+            {(rating || placeDetails?.yelp?.rating) && (
               <div>
-                <div className="text-xs text-[#f5f0e8]/40 mb-1">Rating</div>
-                <div className="flex items-center gap-2">
-                  <span className="text-2xl font-bold text-[#f5f0e8]">{rating.toFixed(1)}</span>
-                  <div className="flex">
-                    {[1, 2, 3, 4, 5].map((star) => (
-                      <span key={star} className={star <= Math.round(rating) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
-                        ★
-                      </span>
-                    ))}
-                  </div>
-                  {reviewCount && (
-                    <span className="text-sm text-[#f5f0e8]/40">({reviewCount.toLocaleString()})</span>
+                <div className="text-xs text-[#f5f0e8]/40 mb-1">Ratings</div>
+                <div className="space-y-2">
+                  {/* Google Rating */}
+                  {rating && (
+                    <div className="flex items-center gap-2">
+                      <span className="text-sm text-[#f5f0e8]/60 w-16">Google</span>
+                      <span className="text-xl font-bold text-[#f5f0e8]">{rating.toFixed(1)}</span>
+                      <div className="flex">
+                        {[1, 2, 3, 4, 5].map((star) => (
+                          <span key={star} className={star <= Math.round(rating) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
+                            ★
+                          </span>
+                        ))}
+                      </div>
+                      {reviewCount && (
+                        <span className="text-xs text-[#f5f0e8]/40">({reviewCount.toLocaleString()})</span>
+                      )}
+                    </div>
+                  )}
+                  {/* Yelp Rating */}
+                  {placeDetails?.yelp?.rating && (
+                    <div className="flex items-center gap-2">
+                      <span className="text-sm text-[#f5f0e8]/60 w-16">Yelp</span>
+                      <span className="text-xl font-bold text-[#f5f0e8]">{placeDetails.yelp.rating.toFixed(1)}</span>
+                      <div className="flex">
+                        {[1, 2, 3, 4, 5].map((star) => (
+                          <span key={star} className={star <= Math.round(placeDetails.yelp!.rating!) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
+                            ★
+                          </span>
+                        ))}
+                      </div>
+                      {placeDetails.yelp.reviewCount && (
+                        <span className="text-xs text-[#f5f0e8]/40">({placeDetails.yelp.reviewCount.toLocaleString()})</span>
+                      )}
+                    </div>
                   )}
                 </div>
               </div>
@@ -197,8 +239,8 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
         </div>
       </div>
 
-      {/* Google Reviews */}
-      {reviews.length > 0 && (
+      {/* Reviews Section */}
+      {(reviews.length > 0 || (placeDetails?.yelp?.reviews && placeDetails.yelp.reviews.length > 0)) && (
         <section>
           <div className="flex items-center gap-3 mb-6">
             <div className="w-12 h-12 rounded-full bg-[#d4a574]/10 flex items-center justify-center text-2xl">
@@ -206,13 +248,14 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
             </div>
             <div>
               <h3 className="font-display text-2xl text-[#f5f0e8]">Recent Reviews</h3>
-              <p className="text-[#f5f0e8]/40 text-sm">From Google</p>
+              <p className="text-[#f5f0e8]/40 text-sm">From Google & Yelp</p>
             </div>
           </div>
 
           <div className="grid gap-6">
-            {reviews.slice(0, 5).map((review, idx) => (
-              <div key={idx} className="card-elevated p-6 rounded-2xl">
+            {/* Google Reviews */}
+            {reviews.slice(0, 3).map((review, idx) => (
+              <div key={`google-${idx}`} className="card-elevated p-6 rounded-2xl">
                 <div className="flex items-start gap-4">
                   <Image
                     src={review.profile_photo_url}
@@ -225,8 +268,11 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
                   <div className="flex-1">
                     <div className="flex items-center justify-between mb-2">
                       <div>
-                        <div className="font-medium text-[#f5f0e8]">{review.author_name}</div>
-                        <div className="flex text-[#d4a574] text-sm">
+                        <div className="flex items-center gap-2">
+                          <span className="font-medium text-[#f5f0e8]">{review.author_name}</span>
+                          <span className="text-xs text-[#f5f0e8]/40 px-2 py-0.5 rounded bg-[#f5f0e8]/5">Google</span>
+                        </div>
+                        <div className="flex text-[#d4a574] text-sm mt-1">
                           {Array.from({ length: 5 }).map((_, i) => (
                             <span key={i}>{i < review.rating ? '★' : '☆'}</span>
                           ))}
@@ -241,9 +287,49 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
                 </div>
               </div>
             ))}
+
+            {/* Yelp Reviews */}
+            {placeDetails?.yelp?.reviews?.slice(0, 3).map((review, idx) => (
+              <div key={`yelp-${idx}`} className="card-elevated p-6 rounded-2xl border border-[#d32323]/10">
+                <div className="flex items-start gap-4">
+                  <Image
+                    src={review.profile_photo_url}
+                    alt={review.author_name}
+                    width={48}
+                    height={48}
+                    className="rounded-full"
+                    unoptimized
+                  />
+                  <div className="flex-1">
+                    <div className="flex items-center justify-between mb-2">
+                      <div>
+                        <div className="flex items-center gap-2">
+                          <span className="font-medium text-[#f5f0e8]">{review.author_name}</span>
+                          <span className="text-xs text-[#d32323] px-2 py-0.5 rounded bg-[#d32323]/10 flex items-center gap-1">
+                            <svg className="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+                              <path d="M12 2l2.4 7.4h7.6l-6 4.6 2.3 7-6.3-4.6-6.3 4.6 2.3-7-6-4.6h7.6z"/>
+                            </svg>
+                            Yelp
+                          </span>
+                        </div>
+                        <div className="flex text-[#d4a574] text-sm mt-1">
+                          {Array.from({ length: 5 }).map((_, i) => (
+                            <span key={i}>{i < review.rating ? '★' : '☆'}</span>
+                          ))}
+                        </div>
+                      </div>
+                      <span className="text-xs text-[#f5f0e8]/40">
+                        {new Date(review.time).toLocaleDateString()}
+                      </span>
+                    </div>
+                    <p className="text-[#f5f0e8]/70 text-sm leading-relaxed">{review.text}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
           </div>
 
-          <div className="mt-6 text-center">
+          <div className="mt-6 flex flex-wrap gap-4 justify-center">
             <a
               href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
                 `${restaurant.name} ${restaurant.address} ${restaurant.city}`
@@ -252,8 +338,21 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#d4a574]/10 hover:bg-[#d4a574]/20 text-[#d4a574] transition"
             >
-              View All Reviews on Google →
+              View All Google Reviews →
             </a>
+            {placeDetails?.yelp?.yelpUrl && (
+              <a
+                href={placeDetails.yelp.yelpUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#d32323]/10 hover:bg-[#d32323]/20 text-[#d32323] transition"
+              >
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 2l2.4 7.4h7.6l-6 4.6 2.3 7-6.3-4.6-6.3 4.6 2.3-7-6-4.6h7.6z"/>
+                </svg>
+                View All Yelp Reviews →
+              </a>
+            )}
           </div>
         </section>
       )}
