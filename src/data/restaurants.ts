@@ -69,26 +69,6 @@ export const restaurants: Restaurant[] = [
     coordinates: { lat: 44.9533, lng: -93.1377 }
   },
   {
-    id: '3',
-    slug: 'trio-plant-based',
-    name: 'Trio Plant-Based',
-    address: '610 W Lake St',
-    city: 'Minneapolis',
-    state: 'MN',
-    zip: '55408',
-    phone: '(612) 326-1326',
-    website: 'https://www.trioplantbased.com/',
-    googlePlaceId: 'ChIJvxgWIGMn9ocRz7665e8Us8c',
-    cuisineType: ['Soul Food', 'Southern', 'American'],
-    veganStatus: '100% Vegan',
-    neighborhood: 'Lyn-Lake',
-    neighborhoodSlug: 'lyn-lake',
-    description: "Minnesota's first Black-owned vegan restaurant, Trio Plant-Based serves soul food favorites that satisfy even the heartiest appetites. Chef Louis Hunter creates comfort food magic with dishes like the legendary Soul Food Platter featuring mac and cheese, collard greens, crumbled cornbread, and jackfruit BBQ riblets. The menu also includes nacho fries loaded with taco fixings, falafel burgers, chili mac, and Buffalo cauliflower wraps. Their cornbread alone is worth the visit—maple-kissed perfection.",
-    priceRange: '$$',
-    features: ['Dine-In', 'Takeout', 'Delivery', 'Catering'],
-    coordinates: { lat: 44.9487, lng: -93.2901 }
-  },
-  {
     id: '4',
     slug: 'lulu-ethiovegan',
     name: 'Lulu EthioVegan',
