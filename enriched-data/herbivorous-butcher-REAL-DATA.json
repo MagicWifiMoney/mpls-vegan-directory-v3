@@ -1,7 +1,7 @@
 {
   "slug": "herbivorous-butcher",
-  "extractedAt": "2026-02-04T20:50:00Z",
-  "dataQuality": "REAL - Extracted from reviews, website, and search",
+  "extractedAt": "2026-02-05T03:25:00Z",
+  "dataQuality": "REAL - Complete product data from theherbivorousbutcher.com",
   
   "ratings": {
     "aggregate": 4.8,
@@ -44,45 +44,111 @@
     },
     {
       "name": "Pepperoni",
+      "price": "$13.00",
+      "size": "8oz",
       "reviewMentions": 15,
       "quotes": [
         "Their cured 'meats' are their home run (imo) pepperoni/summer sausage etc",
-        "I picked up... pepperoni... and Cajun jerky"
+        "I picked up... pepperoni... and Cajun jerky",
+        "Moderately spicy, slightly smoky, with Italian herbs and spices"
       ],
+      "description": "Moderately spicy, slightly smoky, and made with an elegant balance of Italian herbs and spices. Perfect for pizza, calzones, pasta & more.",
       "category": "Cured Meats",
-      "whyPeopleLoveIt": "Signature cured meat, perfect for pizza, great texture and flavor"
+      "whyPeopleLoveIt": "Classic zesty flavor, perfect for pizza, versatile cured meat"
     },
     {
       "name": "Italian Sausage",
+      "price": "$16.99",
+      "size": "13oz",
       "reviewMentions": 12,
       "quotes": [
-        "The Italian sausages snap with that perfect casing bite"
+        "The Italian sausages snap with that perfect casing bite",
+        "One of our boldest staples with all the classic flavors you crave",
+        "Perfect snap, ideal for grilling or pasta"
       ],
-      "whyPeopleLoveIt": "Perfect snap texture, ideal for grilling or pasta"
+      "description": "Packed with Italian seasoning, sun-dried tomatoes, garlic, olive oil, fennel, herbs, and red pepper flakes. Comes with 4 fully-cooked brat links.",
+      "ingredients": "Water, vital wheat gluten, pinto beans, soy sauce, extra virgin olive oil, natural flavor, tamari, sun dried tomatoes, spices, fennel, liquid smoke",
+      "allergens": ["wheat", "soy"],
+      "nutrition": {
+        "servingSize": "3.25oz (92g)",
+        "servingsPerContainer": 4,
+        "calories": 190,
+        "protein": "26g",
+        "fat": "6g",
+        "carbs": "8g",
+        "fiber": "2g"
+      },
+      "cookingInstructions": [
+        "Pan Fry: 5-7 minutes, turning occasionally",
+        "Air Fryer: 375°F for 6-8 minutes",
+        "Grill: Medium heat for 5-7 minutes"
+      ],
+      "whyPeopleLoveIt": "Perfect snap texture, bold Italian flavors, ideal for grilling or pasta"
     },
     {
       "name": "Pastrami",
+      "price": "$15.99",
+      "size": "8oz",
       "reviewMentions": 8,
       "quotes": [
-        "I picked up... some pastrami, a sriracha brat, pepperoni"
+        "The legend. The favorite. The one you always come back to",
+        "I picked up... some pastrami, a sriracha brat, pepperoni",
+        "Deeply seasoned with cracked pepper, coriander, and warm spices"
       ],
+      "description": "Top fan-favorite deeply seasoned with cracked pepper, coriander, and warm spices. Slow-crafted for bold deli flavor and sliced just right for that classic bite.",
+      "ingredients": "Vital wheat gluten, tomato juice, water, natural flavor, extra virgin olive oil, liquid smoke, soy sauce, tomato paste, beet powder, salt, miso paste, spices",
+      "allergens": ["wheat", "soy"],
+      "nutrition": {
+        "servingSize": "2oz (57g)",
+        "servingsPerContainer": 4,
+        "calories": 120,
+        "protein": "18g",
+        "fat": "3g",
+        "carbs": "6g",
+        "fiber": "1g"
+      },
       "category": "Deli Meats",
-      "whyPeopleLoveIt": "Authentic deli flavor, perfect for sandwiches"
+      "whyPeopleLoveIt": "Authentic New York-style deli flavor, star of their Italian Cold Cut sandwich, perfect for hot melts and sandwiches"
     },
     {
       "name": "Italian Cold Cut Sandwich",
+      "price": "$17.49",
+      "size": "1 sandwich",
       "reviewMentions": 6,
       "quotes": [
-        "AMAZING, all of their hot sandwiches are yummy"
+        "AMAZING, all of their hot sandwiches are yummy",
+        "Sandwiches are massive and well worth the charge",
+        "I've had the Italian cold cut maybe 4 times - it's the best"
       ],
+      "description": "As seen on Food Network's Diners, Drive-ins and Dives! Featuring house-made pastrami, capicola ham, pepperoni, and mozzarella cheese on a hoagie with vegan mayo and fresh veggies.",
       "category": "Ready-to-Eat",
-      "whyPeopleLoveIt": "Grab-and-go option, house-made salami and provolone"
+      "availability": "In-store pickup or delivery only (DoorDash, Uber Eats, GrubHub)",
+      "whyPeopleLoveIt": "Food Network featured, massive portions, grab-and-go option, house-made meats and cheeses"
     },
     {
       "name": "Aged Cheddar Cheese",
+      "price": "$14.99",
+      "size": "8oz",
       "reviewMentions": 5,
+      "quotes": [
+        "Sharp, creamy, and endlessly versatile",
+        "Bold enough for snacking, smooth enough for melting",
+        "This cheddar shows up with big flavor every time"
+      ],
+      "description": "Sharp, creamy cheddar with classic tangy flavor. Dairy-free and delicious - perfect for snacking, melting, shredding, or slicing.",
+      "ingredients": "Soy milk (water, soybeans), coconut oil, tapioca flour, water, natural flavor, salt, kappa carrageenan, tomato paste, miso paste, apple cider vinegar, spices",
+      "allergens": ["soy", "coconut"],
+      "nutrition": {
+        "servingSize": "1oz",
+        "servingsPerContainer": 8,
+        "calories": 100,
+        "protein": "1g",
+        "fat": "9g",
+        "saturatedFat": "8g",
+        "carbs": "3g"
+      },
       "category": "Artisan Cheeses",
-      "whyPeopleLoveIt": "Sharp, crumbly, melts beautifully - made in-house with soy milk and coconut oil base"
+      "whyPeopleLoveIt": "Sharp authentic cheddar flavor, melts beautifully, made in-house with soy milk and coconut oil base"
     }
   ],
 
@@ -140,7 +206,8 @@
     "Artisan cheeses made with soy milk and coconut oil",
     "Ships nationwide",
     "Kosher certified",
-    "Full deli counter with ready-made sandwiches"
+    "Full deli counter with ready-made sandwiches",
+    "Featured on Food Network's Diners, Drive-ins and Dives"
   ],
 
   "menuCategories": {
@@ -172,6 +239,7 @@
 
   "socialProof": {
     "mediaFeatures": [
+      "Food Network's Diners, Drive-ins and Dives",
       "The Guardian",
       "Uber Eats featured",
       "Reddit r/vegan highly recommended"
