@@ -109,45 +109,51 @@ export default function ReviewTabs({
 
       {/* Reviews Grid */}
       <div className="grid gap-6">
-        {reviewsToShow.slice(0, 6).map((review, idx) => (
-          <div key={idx} className="card-elevated p-6 rounded-2xl">
-            <div className="flex items-start gap-4">
-              <Image
-                src={review.profile_photo_url}
-                alt={review.author_name}
-                width={48}
-                height={48}
-                className="rounded-full"
-                unoptimized
-              />
-              <div className="flex-1">
-                <div className="flex items-center justify-between mb-2">
-                  <div>
-                    <div className="flex items-center gap-2">
-                      <span className="font-medium text-[#f5f0e8]">{review.author_name}</span>
-                      <span className="text-xs px-2 py-0.5 rounded flex items-center gap-1 bg-[#f5f0e8]/5 text-[#f5f0e8]/40">
-                        Google
-                      </span>
+        {reviewsToShow.slice(0, 10).map((review, idx) => {
+          const authorName = review.author_name || review.author || 'Anonymous';
+          const authorPhoto = review.profile_photo_url || 'https://lh3.googleusercontent.com/a/default-user=s40-c';
+          const reviewDate = review.time || review.date || '';
+          
+          return (
+            <div key={idx} className="card-elevated p-6 rounded-2xl">
+              <div className="flex items-start gap-4">
+                <Image
+                  src={authorPhoto}
+                  alt={authorName}
+                  width={48}
+                  height={48}
+                  className="rounded-full"
+                  unoptimized
+                />
+                <div className="flex-1">
+                  <div className="flex items-center justify-between mb-2">
+                    <div>
+                      <div className="flex items-center gap-2">
+                        <span className="font-medium text-[#f5f0e8]">{authorName}</span>
+                        <span className="text-xs px-2 py-0.5 rounded flex items-center gap-1 bg-[#f5f0e8]/5 text-[#f5f0e8]/40">
+                          Google
+                        </span>
+                      </div>
+                      <div className="flex text-[#d4a574] text-sm mt-1">
+                        {Array.from({ length: 5 }).map((_, i) => (
+                          <span key={i}>{i < review.rating ? '★' : '☆'}</span>
+                        ))}
+                      </div>
                     </div>
-                    <div className="flex text-[#d4a574] text-sm mt-1">
-                      {Array.from({ length: 5 }).map((_, i) => (
-                        <span key={i}>{i < review.rating ? '★' : '☆'}</span>
-                      ))}
-                    </div>
+                    <span className="text-xs text-[#f5f0e8]/40">
+                      {typeof reviewDate === 'number'
+                        ? new Date(reviewDate * 1000).toLocaleDateString()
+                        : typeof reviewDate === 'string' && (reviewDate.includes('ago') || reviewDate.includes('week') || reviewDate.includes('day') || reviewDate.includes('month'))
+                        ? reviewDate
+                        : reviewDate ? new Date(reviewDate).toLocaleDateString() : 'Recent'}
+                    </span>
                   </div>
-                  <span className="text-xs text-[#f5f0e8]/40">
-                    {typeof review.time === 'number'
-                      ? new Date(review.time * 1000).toLocaleDateString()
-                      : typeof review.time === 'string' && (review.time.includes('ago') || review.time.includes('week') || review.time.includes('day') || review.time.includes('month'))
-                      ? review.time
-                      : new Date(review.time).toLocaleDateString()}
-                  </span>
+                  <p className="text-[#f5f0e8]/70 text-sm leading-relaxed">{review.text}</p>
                 </div>
-                <p className="text-[#f5f0e8]/70 text-sm leading-relaxed">{review.text}</p>
               </div>
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
 
       {/* View More Buttons */}

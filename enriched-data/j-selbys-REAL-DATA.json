@@ -1,7 +1,7 @@
 {
   "slug": "j-selbys",
   "extractedAt": "2026-02-05T04:54:13.692Z",
-  "dataQuality": "ENHANCED - Estimated mention counts based on review volume",
+  "dataQuality": "REAL - From 100 Apify-scraped Google reviews",
   "ratings": {
     "aggregate": 4.7,
     "sources": {
@@ -20,74 +20,73 @@
       "name": "Cauliflower Wings",
       "price": null,
       "size": null,
-      "reviewMentions": 30,
+      "reviewMentions": 4,
       "quotes": [
-        "The cauliflower wings were fantastic, and the ranch dipping sauce was so good that I’d come back just to have it again with fries",
-        "Wings were amazing!"
+        "Their cauliflower wings and vegan bacon are great, as is their fake cheese (I say this as a regular vegetarian who loves real cheese)",
+        "There were a lot of good reviews about cauliflower wings and we were really excited to try it out and it ended as a big disappointment",
+        "Really cute place — the cauliflower wings with sweet chili sauce were awesome — we also tried a black bean burger and gyro wrap and they were just okay"
       ],
       "description": "Crispy cauliflower florets served as a plant-based alternative to chicken wings, often accompanied by dipping sauces.",
-      "whyPeopleLoveIt": "Customers praise them for being fantastic and amazing, with a particularly noteworthy ranch dipping sauce."
+      "whyPeopleLoveIt": "Customers praise them for being fantastic and amazing, with a particularly noteworthy ranch dipping sauce.",
+      "badge": "Top Pick"
     },
     {
       "name": "Dirty Secret Burger",
       "price": null,
       "size": null,
-      "reviewMentions": 45,
-      "quotes": [
-        "Burger was served wet with sauce. A little dab will do ya. Wife struggled to eat the burger.",
-        "The chickin’ burger didn’t hit the spot for me"
-      ],
+      "reviewMentions": 0,
+      "quotes": [],
       "description": "A signature plant-based burger. While one review mentions a 'chickin' burger', another complains about a burger being too wet with sauce.",
-      "whyPeopleLoveIt": "It is a signature item mentioned on the website, though reviews suggest execution can be inconsistent, with some finding it overly saucy."
+      "whyPeopleLoveIt": "It is a signature item mentioned on the website, though reviews suggest execution can be inconsistent, with some finding it overly saucy.",
+      "badge": null
     },
     {
       "name": "SoyClone / Frostbites",
       "price": null,
       "size": null,
-      "reviewMentions": 25,
-      "quotes": [
-        "We got the frostbites, which are a thicker version of a milkshake. I wasn’t such a fan of these either, they tasted a little chemically to me.",
-        "I look forward to returning for the popular shakes and more!"
-      ],
+      "reviewMentions": 0,
+      "quotes": [],
       "description": "A thick, plant-based milkshake dessert, also referred to as a Frostbite. Mentioned as a popular item.",
-      "whyPeopleLoveIt": "They are noted as a popular item and a thicker version of a traditional milkshake, though one customer found the taste to be 'chemically'."
+      "whyPeopleLoveIt": "They are noted as a popular item and a thicker version of a traditional milkshake, though one customer found the taste to be 'chemically'.",
+      "badge": null
     },
     {
       "name": "Cake",
       "price": null,
       "size": "slice",
-      "reviewMentions": 20,
+      "reviewMentions": 4,
       "quotes": [
-        "the carrot cake was rich and delicious",
-        "The cake we had was good at least.",
-        "We shared the buffalo “chicken” wrap, chopped cheese steak and chocolate cake. All vegan. Absolutely delicious!"
+        "The cake we had was good at least",
+        "We shared the buffalo “chicken” wrap, chopped cheese steak and chocolate cake",
+        "On a positive note, the coffee cake was pretty good"
       ],
       "description": "The restaurant offers various cakes, including carrot and chocolate varieties. All are vegan.",
-      "whyPeopleLoveIt": "The cakes are consistently praised as being rich, delicious, and a satisfying part of the meal."
+      "whyPeopleLoveIt": "The cakes are consistently praised as being rich, delicious, and a satisfying part of the meal.",
+      "badge": "Top Pick"
     },
     {
       "name": "Steak Sandwich",
       "price": null,
       "size": null,
-      "reviewMentions": 10,
+      "reviewMentions": 4,
       "quotes": [
-        "Steak sandwich was burned beyond acceptable crisp. Tasted like ash.",
-        "We shared the buffalo “chicken” wrap, chopped cheese steak and chocolate cake. All vegan. Absolutely delicious!"
+        "Steak sandwich was burned beyond acceptable crisp",
+        "Steak sandwich- I got this with cheese sauce instead of horseradish aioli",
+        "Sunday I ordered a steak sandwich and soup, the sandwich was good the soup taste sour"
       ],
       "description": "A plant-based steak-style sandwich, also referred to as a chopped cheese steak.",
-      "whyPeopleLoveIt": "Reception is mixed; one customer called it delicious while another received one that was severely burnt."
+      "whyPeopleLoveIt": "Reception is mixed; one customer called it delicious while another received one that was severely burnt.",
+      "badge": "Top Pick"
     },
     {
       "name": "Buffalo 'Chicken' Wrap",
       "price": null,
       "size": null,
-      "reviewMentions": 12,
-      "quotes": [
-        "The chicken bacon ranch wrap was perfect and would be great with some extra sauce for dipping.",
-        "I also found the buffalo wrap too heavy the time before. Lots of soy curls and sauce and not a lot of veggies to cut through all of the heaviness."
-      ],
+      "reviewMentions": 0,
+      "quotes": [],
       "description": "A wrap filled with plant-based 'chicken' (soy curls) and buffalo sauce. A chicken bacon ranch version is also mentioned.",
-      "whyPeopleLoveIt": "One customer found the chicken bacon ranch version 'perfect', while another felt the buffalo version was too heavy on sauce and soy curls without enough vegetables."
+      "whyPeopleLoveIt": "One customer found the chicken bacon ranch version 'perfect', while another felt the buffalo version was too heavy on sauce and soy curls without enough vegetables.",
+      "badge": null
     }
   ],
   "reviewInsights": {
@@ -133,5 +132,77 @@
       "bestTime": "Not specified"
     }
   ],
-  "lastUpdated": "2026-02-05T05:45:31.570Z"
+  "lastUpdated": "2026-02-05T20:06:24.689Z",
+  "highlightedReviews": [
+    {
+      "author": "Tamra VanAllen",
+      "rating": 4,
+      "text": "Really cute place — the cauliflower wings with sweet chili sauce were awesome — we also tried a black bean burger and gyro wrap and they were just okay. I’d go back for the cauliflower and would like to try some other menu items — the bowls likely good option for us as the bread (buns, pita) was our main complaint on sandwiches. Service also great — employees very pleasant!",
+      "date": "4 months ago",
+      "seoScore": 17
+    },
+    {
+      "author": "Chandni Khan",
+      "rating": 4,
+      "text": "I quite enjoyed the vibes here! Most of the food I got was great! The cauliflower wings were fantastic, and the ranch dipping sauce was so good that I’d come back just to have it again with fries (I even asked for extra to go!). The chickin’ burger didn’t hit the spot for me but the carrot cake was rich and delicious, and I also loved one of the big frosted cookies. Great space and energy! I left very happy and look forward to returning for the popular shakes and more!",
+      "date": "4 months ago",
+      "seoScore": 15
+    },
+    {
+      "author": "Mansi Suresh",
+      "rating": 4,
+      "text": "I’ve been to J. Selby’s twice now, and both times were fantastic. The food, service, and atmosphere were all top-notch. My favorite dishes by far were the Crunchwrap and the Animal Fries—both absolutely delicious and super satisfying. If you’re in Minneapolis and looking for amazing plant-based comfort food, I highly recommend checking this place out!",
+      "date": "9 months ago",
+      "seoScore": 15
+    },
+    {
+      "author": "Arun Madhavan",
+      "rating": 5,
+      "text": "Well-run vegan restaurant with an impressive menu and a non-trivial selection of tap beer. I've had several of their fake meat dishes, and have been regularly impressed. When they first opened over a year ago, they hadn't quite figured out the art of veggie burgers, but they have since improved greatly. Their cauliflower wings and vegan bacon are great, as is their fake cheese (I say this as a regular vegetarian who loves real cheese). Prices may seem a bit steep, but they don't do tips here so it's not as bad as it looks. As for the service, it's always been good and everyone is friendly.\n\nOne thing to note: there's no parking lot so you have to find a place on the street.",
+      "date": "Edited 3 months ago",
+      "seoScore": 12
+    },
+    {
+      "author": "Erik Kammerer",
+      "rating": 5,
+      "text": "I ordered a single burger for takeout and showed up like 20+ minutes late due to the ridiculous traffic in the Twin Cities; despite it being sort of cold due to my own miscalculation, it was one of the best vegan burgers I've had. Hands down. I'll just have to not order during peak traffic. I finished it all before I was even half way home and really, the drive cost more energy than the burger gave back but, im glad I got to try Selbys.\nRestaurants that are purely vegan, are one of the only truly good things in this entire state. And animal sanctuaries. The rest... Is up for debate. Thank you to the workers, customers, investors, etc. for offering this type of food, that doesn't require violence to enjoy. Thank you.",
+      "date": "6 months ago",
+      "seoScore": 12
+    },
+    {
+      "author": "Miranda Siedelmann",
+      "rating": 4,
+      "text": "I always love a plant based restaurant! The chicken bacon ranch wrap was perfect and would be great with some extra sauce for dipping. We were not as big a fan of the mac n cheese. We got the frostbites, which are a thicker version of a milkshake. I wasn’t such a fan of these either, they tasted a little chemically to me.",
+      "date": "5 months ago",
+      "seoScore": 11
+    },
+    {
+      "author": "Abdiwak Yohannes",
+      "rating": 5,
+      "text": "Constantly floored with how far vegan food has come. I'm an omnivore, but my partner is a vegetarian. This restaurant makes her feel heard and that means the world to me. I've had vegan family members so I've grown up eating and hating vegan food. I don't like food simulations, I'd rather just have a naturally vegetarian meal that isn't trying to be \"like\" anything... but this last Friday I had the chick'n(sp?) sandwich and... I had to sit back. That dang sandwich tasted like a heckin chicken fillet that was battered and everything! I was amazed! Had to reevaluate my stance on everything. Of course, the fact that they go with Herbivorous Butcher is huge. Those geniuses know what they're doing. The animal fries were delicious, but were a bit too salty for my taste. The caramelized onions on them were a nice touch, just don't need as much salt in the sauce as they had.\n\nI'll take a fried chicken sandwich over a vegan chicken sandwich any day, but to make my partner feel welcomed and at home, that dang fried chicken sandwich is the real deal and I'll say yes to it any day. Well done, J. Selby's!",
+      "date": "Edited 3 months ago",
+      "seoScore": 10
+    },
+    {
+      "author": "C. G.",
+      "rating": 4,
+      "text": "Food was good! Would go back for sure. Got a variety of things which were all pretty tasty. Service was a little clunky but didn't bother me. Everyone was very nice and I liked the atmosphere.\n\nI ordered my go to favorite flavors (I was very tired and just couldn't venture into the unknown lol)\nBuffalo \"Chicken\" wrap\nMac-n-Cheese\nChili\nFries\nI'm definitely going to go back and try some of their more creative dishes which look amazing. Overall a solid place! 👍",
+      "date": "4 months ago",
+      "seoScore": 10
+    },
+    {
+      "author": "K G",
+      "rating": 5,
+      "text": "J. Selby’s is hands down one of my favorite spots in St. Paul. Over time, I’ve worked my way through just about everything on the menu, and while every single dish is creative, flavorful, and satisfying, there is one item that always pulls me back: the breakfast burger. No matter what else I try, it ends up being my number one choice every time.\n\nThe atmosphere is warm and welcoming, the service is consistently kind, and the food is so thoughtfully prepared that even non-vegans leave impressed. Whether you are stopping in for a quick bite, a casual brunch, or just to indulge in some comfort food done right, J. Selby’s never disappoints. It has become a true staple for me, and I always look forward to coming back.",
+      "date": "5 months ago",
+      "seoScore": 10
+    },
+    {
+      "author": "Miranda",
+      "rating": 4,
+      "text": "Fried mushrooms- breading is so good. The mushrooms have a meaty texture which goes good with it. The \"ranch\" it comes with doesn't taste like ranch, but it's good as it's own sauce.\n\nSteak sandwich- I got this with cheese sauce instead of horseradish aioli. Not sure if I asked for that or it was a special. I did not care for the cheese sauce. After scraping off most of the cheese sauce, the sandwich was good! Could have used way more meat & veg, but I like bread too.\n\nAnimal fries- Again, didn't like the cheese sauce, so kind of ruined these. The pieces with just the special sauce on it were delicious. It might be like thousand Island. Next time I would get no cheese sauce, extra special sauce. And maybe on the side so fries don't get so soggy.\n\nGyro- boyfriend said it was okay.\n\nMushroom (wild rice?) soup- Didn't care for it at all at the restaurant. But after my leftovers were in the fridge a couple days, it was great! Not sure if flavors just needed to melt or if my mood changed.\n\nHonestly not worth it for the price. But want to support that kind of business, so kind of makes it better. Will return as a treat to try more stuff and get more mushrooms.",
+      "date": "Edited 2 months ago",
+      "seoScore": 9
+    }
+  ]
 }
