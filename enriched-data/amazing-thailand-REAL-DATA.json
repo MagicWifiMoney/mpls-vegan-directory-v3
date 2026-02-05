@@ -1,0 +1,168 @@
+{
+  "topProducts": [
+    {
+      "name": "Pad Thai",
+      "description": "A frequently mentioned noodle dish. Reviews are very mixed, with some customers saying it's delicious while others claim it tastes like 'spaghetti noodles in ketchup' or sweet tomato sauce, lacking traditional ingredients like peanuts, cilantro, and tamarind.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "The Pad Thai noodles are crushed so hard into the little boxes that they “renoodled“into one solid pasta mass",
+        "I ordered mock duck pad Thai with a side of shrimp",
+        "My husband got me Pad Thai which was supposed to be spicy but it was nasty it tasted like spaghetti noodles in ketchup 🤢🤮"
+      ],
+      "reviewMentions": 14
+    },
+    {
+      "name": "Egg Rolls",
+      "description": "A consistently well-regarded item. Described by reviewers as 'delicious'. Both vegetable and standard versions are mentioned.",
+      "category": "appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "Chicken wings and egg rolls",
+        "Food was fresh n good I always get the vegetable egg rolls",
+        "The egg rolls were the up there as well"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Cream Cheese Wontons",
+      "description": "Described as 'amazing' and so good that customers ordered a second round. Mentioned as being a highlight of the meal.",
+      "category": "appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "The cream cheese wontons were amazing, we had to order seconds",
+        "In addition, the cream cheese wontons were not spectacular this time around as there was very little cream cheese and the remainder of the wontons were difficult to bite into and were too chewy"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Tom Kha Gai",
+      "description": "A chicken and coconut soup. A reviewer nostalgically recalls it being served ceremoniously in a heated pot, but now finds it served in a small portion, tasting inauthentic and possibly reheated from frozen.",
+      "category": "soup",
+      "badge": "Featured",
+      "quotes": [
+        "I started with the Tom Kha Gai"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Laab",
+      "description": "A meat salad with mixed reviews. One review describes it as 'scrumptious' while another found it to be completely 'tasteless'.",
+      "category": "salad",
+      "badge": "Popular",
+      "quotes": [
+        "Laab was tasteless, cucumber salad was too sweet with no other flavor, and none had the spiciness that we requested",
+        "The laab salad was scrumptious along with the assortment of apps we got",
+        "10/10 Khao Soi, Laab Salad, and Drunken Noodles"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Spring Rolls",
+      "description": "Mentioned by a long-time customer as having declined in quality, becoming 'mysteriously mushy' compared to how they used to be.",
+      "category": "appetizer",
+      "badge": "Top Pick",
+      "quotes": [
+        "My once-beloved spring rolls became mysteriously mushy, and the pad see ew somehow misplaced its flavor altogether",
+        "We had the spring rolls with shrimp and chicken, the chicken satay, and the Panang curry with shrimp",
+        "I recommend the spring rolls🥰  and the sticky mango rice"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Duck Curry",
+      "description": "Described as a 'perfectly fine' dish with a pleasant red curry sauce, a good amount of duck, and pineapple.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "The duck curry was perfectly fine"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Chicken Pho",
+      "description": "Praised enthusiastically by one customer as a 'party in my mouth' with 'delightful and satisfying' infused flavors, becoming their new favorite dish.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "The chicken Pho was like a party in my mouth"
+      ],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Shatae Kimmons-White",
+      "rating": 5,
+      "text": "I usually stay with what I know. Chicken wings and egg rolls. But tonight I wanted to be a little culinary adventurous. The chicken Pho was like a party in my mouth. The infused flavors were so delightful and satisfying. My fav fish now!",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Melissa K",
+      "rating": 4,
+      "text": "The service is great, and the atmosphere was very nice. The Khao Soi had a good flavor but the portion was very small. I ordered their Crying Tiger which is a classic authentic Thai dish, and unfortunately I was VERY disappointed!  The meat was grisely/tough, and the sauce was too sweet and thick, when it should have been a spicy, tangy lime sauce to go with tender slices of beef.\nI'll give it one more chance, because I will have to try the Tom Kha soup, to see if they can redeem themselves....I hope so!",
+      "date": "9 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Wendy Warren",
+      "rating": 5,
+      "text": "We ordered on Uber Eats the other night, and it was so good we came in person. We had the spring rolls with shrimp and chicken, the chicken satay, and the Panang curry with shrimp. Everything was delicious, the service was friendly and excellent. We'll come back next time we are in town. :) Thank you!!!!",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "shelly motor",
+      "rating": 5,
+      "text": "It broke my heart to see this place so quiet.\n\nI remember when Amazing Thailand was packed — filled with energy, laughter, and the comforting aroma of curry and spice. Today, during what used to be a bustling happy hour, there were only two tables occupied. It felt surreal at 4:30 pm\n\nAnd yet, the food? Still exceptional. Every dish was perfectly balanced — bold, fragrant, and full of soul. The flavors were just as I remembered: authentic, rich, and made with care.\n\nThe staff was kind and attentive, even in the quiet. They deserve a full house.\n\nIt’s disheartening to see what’s happened to Uptown — to see restaurants like this still showing up with quality while the city around them slips away.\n\nSupport this gem. It’s more than a meal — it’s a memory, a cultural anchor, and a sign of what still can be if we care enough to show up.",
+      "date": "8 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Christy Holland",
+      "rating": 5,
+      "text": "My dad and I have been here twice now.  Both times, our food was absolutely delicious.  I took takeout for my partner and he loved his food as well.\nThey have a wide variety of options and most dishes can be made with your preferred protein.  Their level 5 could be a little hotter for me, but it is still delicious!! The flavors are wonderful.",
+      "date": "2 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ally",
+      "rating": 5,
+      "text": "I do love Amazing Thailand! I always get good food and good service here, and it has nice vibes.\n\nFood is definitely on the expensive side, but you get a lot of food. I always get at least 2 meals out of my order. Their takeout orders move pretty fast too, and staff is pretty good about checking in but not too often. Drinks are unfortunately way too sweet, but the food makes it worth it.\n\nParking is not great, but you can usually find paid parking on 31st or free parking on the side streets nearby (such as Girard)",
+      "date": "11 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Noah Lear",
+      "rating": 5,
+      "text": "While a little on the pricy side, the flavor, atmosphere, and amazing service from Sarisa made it worth it! The laab salad was scrumptious along with the assortment of apps we got. The little patio is tough to beat as well!",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Sarah Mathre",
+      "rating": 4,
+      "text": "We recently visited Amazing Thailand and had mixed feelings about the experience. I asked for a recommendation and was given the Thai fried rice. Unfortunately, it did not stand out and felt like a pretty basic dish, nothing exceptional or memorable. My husband ordered the Amazing Curry with a spice level of 5 out of 5, but it was not as spicy as expected. He thought it tasted good overall though. On the plus side, the outdoor seating area is very nice and made for a pleasant atmosphere.",
+      "date": "8 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jess Ycara",
+      "rating": 5,
+      "text": "It’s my favorite restaurant. I recommend the spring rolls🥰  and the sticky mango rice. I love it.\nRecently I feel they give you less food and another thing that disappointed me was they took out my favorite dish ; before I could have  all the proteins in one meal but now just one and when I asked for extra protein they can’t cook it all together 😩",
+      "date": "Edited 10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Molly Duncan",
+      "rating": 4,
+      "text": "The food was delicious per usual.  Although, I was slightly disappointed with the Pineapple Fried Rice as there were almost no pineapple.  In addition, the cream cheese wontons were not spectacular this time around as there was very little cream cheese and the remainder of the wontons were difficult to bite into and were too chewy.  Overall, Amazing Thailand did not disappoint!  The Pineapple Fried Rice and the Druken Noodle were excellent and delicious despite the pineapple shortage. Also, the portions are very generous.  The service was excellent and the food was prepared in a timely fashion.",
+      "date": "11 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:49:10.517Z"
+}

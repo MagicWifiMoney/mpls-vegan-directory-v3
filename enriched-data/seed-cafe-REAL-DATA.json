@@ -1,0 +1,152 @@
+{
+  "topProducts": [
+    {
+      "name": "Tahini Chocolate Chip Cookie",
+      "description": "Described as one of the best cookies ever, it is crispy on the outside, soft in the middle, and topped with sea salt which elevates the flavor. A must-have item.",
+      "category": "dessert",
+      "badge": "Popular",
+      "quotes": [
+        "I'd also recommend the tahini chocolate chip cookie and chai latte",
+        "The tahini chocolate chip cookie is out of this world"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Kale Caesar Wrap",
+      "description": "A popular wrap containing kale and tempeh. It's a go-to item for many repeat customers and is frequently mentioned for being delicious.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "Their kale Caesar wrap has kale and tempeh, two ingredients that I don't always like, but I think about that wrap so often"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "BLT / TBLT",
+      "description": "A vegan take on the classic BLT, often made with tempeh. Consistently rated as 'excellent' by reviewers.",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Chickpea Salad Sandwich",
+      "description": "A favorite among patrons, with one reviewer calling it the 'best chickpea sandwich ever'.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "So many delicious vegan options -  chickpea salad sandwich is my favorite"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Smoothies",
+      "description": "The cafe is noted for its 'fantastic' and 'great' vegan smoothies. The 'Iron Woman' smoothie was mentioned by name.",
+      "category": "drink",
+      "badge": "Top Pick",
+      "quotes": [
+        "Great vegan smoothies",
+        "I noticed many come also for the smoothies",
+        "Always amazing food and delicious smoothies"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Bowls",
+      "description": "Various healthy and nutritious bowls are offered, such as the 'Peanut Tofu/King Rice Bowl' and the 'Beach Bowl'. Customers mention buying them to eat throughout the week.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "From the cookie to the Caesar dressing to the bowls",
+        "Half of the food we got (especially the rice bowls) were amazing",
+        "A little pricey for the bowls but other than that it was very great food"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Chai Latte",
+      "description": "A recommended drink, also available as a Cardamom Chai, noted for its good flavor.",
+      "category": "drink",
+      "badge": "Featured",
+      "quotes": [
+        "I'd also recommend the tahini chocolate chip cookie and chai latte"
+      ],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Mario Aguilar",
+      "rating": 5,
+      "text": "Have never ate anything vegan as I am an avid meat eater. I went earlier this morning to get some coffee and decided to place a lunch order. I order the chicken street tacos and I must say I was pleasantly surprised at the very first bite. The 🌮 were delicious,  the texture, the flavor, the spiciness.  I will definitely order from them again.",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "North Star Mini Storage",
+      "rating": 5,
+      "text": "At first I thought, a cafe, and a yoga studio, in a strip mall for lunch?\nIt is now one of my favorite places for a light flavorful lunch time. The food here is very fresh and clean without being bland healthy. I had the chicken salad (plant based). It comes with potato chips (haha). It was so fresh and delicious you would never know it wasn't the real thing. I've had it 3 times and never a fault. They also have what I think is the best cookies in the Twin Cities. They sprinkle them with sea salt, and it just elevates the flavor. I've only really seen that on cooking shows but, here you can live the experience. It's relaxing and clean, with many tables inside and outside. I noticed many come also for the smoothies. It's a happy and mostly healthy place for sure. The people are also very nice and helpful here. It also doesn't have that frantic restaurant vibe, it's nice to relax and eat your lunch in peace. Check it out.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Isabel Seibert",
+      "rating": 5,
+      "text": "This is one of the more low-key vegan spots in Minneapolis, but don't overlook it! It comes off as very healthy, which doesn't always pique my appetite, but Seed has never steered me wrong! I absolutely love everything I've had from them! Their kale Caesar wrap has kale and tempeh, two ingredients that I don't always like, but I think about that wrap so often! The ancient grain granola at brunch was a similar story. I'd also recommend the tahini chocolate chip cookie and chai latte. Its location along the Green Way is superb. It's a great stop on a bike ride!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Adeline Miller",
+      "rating": 5,
+      "text": "Seed is my favorite restaurant in the Twin Cities area! As someone who has to eat gluten-free and vegan, it's not easy to find places with options other than a boring salad. Seed goes above and beyond in healthy food that tastes delicious! I always struggle to make holiday meals but Seed has me covered there too. I've done three or four holiday meal kits in the last year and they've all been SO delightful. The instructions to order, pick up (super safe environment), and prepare at home are really clear and food is oh so good. On top of that, the staff and owners of Seed are so kind, service is always great, and the restaurant itself is lovely. Thank you Seed Cafe!",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Vaughn Birchler",
+      "rating": 4,
+      "text": "I had King Peanut. It was good, but could use more flavor and spice.\nMaddy had the BLT and said the tempeh could use more flavor as well. The sandwich was well built and the bread was tasty.\nJosh had the yellow curry wrap. He says “it got the job done”.",
+      "date": "5 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Allen Shaw",
+      "rating": 4,
+      "text": "I applaud more eateries going in a plant-based menu direction.\nIt is nice to see this place busy on a Sunday afternoon. There is definitely demand.\n\nSeed Cafe offers a casual atmosphere. Can get crowded at peak times. The seating on small metal chairs can get not so comfortable after a while. The food is decent. Not spectacular. On the pricey side for what you get. Not sure why a plate of scrambled tofu, seaweed, a few diced yams and a couple slices of toast should cost $14.00! But the service is friendly and knowledgeable.\n\nI recommend this place and I welcome more plant-based food options in MN! More competition will only improve quality and variety.",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "**",
+      "rating": 5,
+      "text": "Cute plant-based food spot. Came from breakfast. The berry French toast was good, the tofu-take on 'scrambled eggs' wasn't good but worth a shot. The teas choices were great and tasty. Love any place trying to be plant based so gave an extra star, although the food was only 4/5. 🐨",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Megan",
+      "rating": 5,
+      "text": "Miss this place…hopefully they will be open for business soon! Been here several times and love it. Upbeat atmosphere with indoor plants. Nearby Bde Maka Ska lake. The peanut tofu bowl, breakfast sandwich and BLT are my favorite dishes.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Masha Hoy",
+      "rating": 5,
+      "text": "Update: We miss you, Seed! Please reopen! 💔\nCute vibe and I love that everything on the menu is vegan, so I don’t have to ask questions or read ingredients. I’ve had the BLT (excellent), golden child (excellent), wraps (excellent), artichoke dip (excellent), tahini chocolate chip and sesame cookies (excellent). Wish I lived closer, I’d eat here more often. Update: we moved closer and eat here all the time and love so much of the menu.",
+      "date": "Edited 2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nabeel Ozman",
+      "rating": 5,
+      "text": "Forgot what I got because it was that GOOD. Super delicious, crunchy, and a burst of well mixed and complementary flavors. Nothing was out of the ordinary.\n\nDefinitely try almost anything, they are vegan, I’ve noticed it’s somewhat tofu based. But definitely worth the drive, and food.\n\nAmple parking, and outdoor seating.",
+      "date": "3 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:50:52.554Z"
+}
