@@ -10,8 +10,19 @@ const NearbyRestaurants = dynamic(() => import('./NearbyRestaurants'), {
   loading: () => <div className="card-elevated rounded-2xl p-8 animate-pulse h-64" />,
 });
 
-// Import real extracted data for The Herbivorous Butcher
-import realData from '../../enriched-data/herbivorous-butcher-REAL-DATA.json';
+// Import real extracted data for restaurants with enhanced data
+import herbivorousButcherData from '../../enriched-data/herbivorous-butcher-REAL-DATA.json';
+import jSelbysData from '../../enriched-data/j-selbys-REAL-DATA.json';
+import reverieData from '../../enriched-data/reverie-cafe-bar-REAL-DATA.json';
+import luluData from '../../enriched-data/lulu-ethiovegan-REAL-DATA.json';
+
+// Map of restaurant slug to data
+const enhancedRestaurantData: Record<string, any> = {
+  'herbivorous-butcher': herbivorousButcherData,
+  'j-selbys': jSelbysData,
+  'reverie-cafe-bar': reverieData,
+  'lulu-ethiovegan': luluData,
+};
 
 interface PlaceDetails {
   rating?: number;
@@ -163,7 +174,8 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
       {/* Enhanced What to Order - Real Data from Reviews */}
       {(() => {
         // Use real data if available for this restaurant, fallback to basic data
-        const productsToDisplay = restaurant.slug === 'herbivorous-butcher' && realData.topProducts
+        const realData = enhancedRestaurantData[restaurant.slug];
+        const productsToDisplay = realData?.topProducts
           ? realData.topProducts
           : restaurant.whatToOrder?.map(item => {
               const [name, ...descParts] = item.split(' - ');
@@ -181,8 +193,8 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
               <div>
                 <h2 className="font-display text-2xl text-[#f5f0e8]">What to Order</h2>
                 <p className="text-sm text-[#f5f0e8]/60">
-                  {restaurant.slug === 'herbivorous-butcher' 
-                    ? 'Real customer favorites from 1,500+ reviews' 
+                  {enhancedRestaurantData[restaurant.slug]?.ratings
+                    ? `Real customer favorites from ${(enhancedRestaurantData[restaurant.slug].ratings.sources.google.reviewCount + (enhancedRestaurantData[restaurant.slug].ratings.sources.yelp?.reviewCount || 0)).toLocaleString()}+ reviews` 
                     : 'Based on menu highlights and customer reviews'}
                 </p>
               </div>
@@ -329,7 +341,7 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
           <div>
             <h2 className="font-display text-2xl text-[#f5f0e8]">When to Go</h2>
             <p className="text-sm text-[#f5f0e8]/60">
-              {restaurant.slug === 'herbivorous-butcher'
+              {enhancedRestaurantData[restaurant.slug]?.timingInsights
                 ? 'Based on real customer experiences'
                 : 'Plan your visit for the best experience'}
             </p>
@@ -339,33 +351,28 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
         <div className="grid md:grid-cols-3 gap-4">
           <div className="bg-[#f5f0e8]/5 rounded-xl p-6">
             <div className="text-3xl mb-2">🌅</div>
-            <h3 className="font-semibold text-[#f5f0e8] mb-2">
-              {restaurant.slug === 'herbivorous-butcher' ? 'Weekday Mornings' : 'Weekday Mornings'}
-            </h3>
+            <h3 className="font-semibold text-[#f5f0e8] mb-2">Weekday Mornings</h3>
             <p className="text-sm text-[#f5f0e8]/60">
-              {restaurant.slug === 'herbivorous-butcher'
-                ? realData.timingInsights?.[0]?.bestTime || 'Less crowded, great for quick pickups'
-                : 'Less crowded, great for quick pickups. Perfect for meal prep shopping.'}
+              {enhancedRestaurantData[restaurant.slug]?.timingInsights?.[0]?.bestTime || 
+                'Less crowded, great for quick pickups. Perfect for meal prep shopping.'}
             </p>
           </div>
           <div className="bg-[#f5f0e8]/5 rounded-xl p-6 ring-2 ring-[#d4a574]/30">
             <div className="text-3xl mb-2">⚡</div>
             <h3 className="font-semibold text-[#f5f0e8] mb-2">Best Time</h3>
             <p className="text-sm text-[#f5f0e8]/60">
-              {restaurant.slug === 'herbivorous-butcher'
-                ? realData.timingInsights?.[0]?.bestTime || 'Weekdays 11am-2pm for quick lunch grabs without weekend crowds.'
-                : 'Weekdays 11am-2pm for quick lunch grabs without weekend crowds.'}
+              {enhancedRestaurantData[restaurant.slug]?.timingInsights?.[0]?.bestTime || 
+                'Weekdays 11am-2pm for quick lunch grabs without weekend crowds.'}
             </p>
           </div>
           <div className="bg-[#f5f0e8]/5 rounded-xl p-6">
             <div className="text-3xl mb-2">⏰</div>
             <h3 className="font-semibold text-[#f5f0e8] mb-2">
-              {restaurant.slug === 'herbivorous-butcher' ? 'Pro Tips' : 'Weekend Lines'}
+              {enhancedRestaurantData[restaurant.slug]?.timingInsights ? 'Pro Tips' : 'Weekend Lines'}
             </h3>
             <p className="text-sm text-[#f5f0e8]/60">
-              {restaurant.slug === 'herbivorous-butcher'
-                ? realData.timingInsights?.[0]?.insight || 'Expect 10-15 min waits Saturday/Sunday mornings. It moves fast!'
-                : 'Expect 10-15 min waits Saturday/Sunday mornings. It moves fast!'}
+              {enhancedRestaurantData[restaurant.slug]?.timingInsights?.[0]?.insight || 
+                'Expect 10-15 min waits Saturday/Sunday mornings. It moves fast!'}
             </p>
           </div>
         </div>
@@ -476,8 +483,9 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
         yelpUrl={placeDetails?.yelp?.yelpUrl}
         restaurantSlug={restaurant.slug}
         totalReviewCount={
-          restaurant.slug === 'herbivorous-butcher' && realData.ratings
-            ? realData.ratings.sources.google.reviewCount + realData.ratings.sources.yelp.reviewCount
+          enhancedRestaurantData[restaurant.slug]?.ratings
+            ? enhancedRestaurantData[restaurant.slug].ratings.sources.google.reviewCount + 
+              (enhancedRestaurantData[restaurant.slug].ratings.sources.yelp?.reviewCount || 0)
             : (placeDetails?.userRatingsTotal || reviewCount)
         }
       />

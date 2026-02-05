@@ -1,0 +1,126 @@
+{
+  "slug": "reverie-cafe-bar",
+  "extractedAt": "2026-02-05T04:54:48.151Z",
+  "dataQuality": "REAL - Extracted from website and Google reviews",
+  "ratings": {
+    "aggregate": 4.7,
+    "sources": {
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 1149
+      },
+      "yelp": {
+        "rating": null,
+        "reviewCount": 0
+      }
+    }
+  },
+  "topProducts": [
+    {
+      "name": "Mock Duck Korean BBQ Tacos",
+      "price": null,
+      "size": null,
+      "reviewMentions": 1,
+      "quotes": [
+        "the mock duck Korean BBQ tacos were outstanding.",
+        "So much texture and the flavor of the (mock) duck was delicious; so, you don't even think about 'mock meat'."
+      ],
+      "description": "Tacos with a mock duck filling, Korean BBQ sauce, and fresh pickles, served with an arugula side salad.",
+      "whyPeopleLoveIt": "The texture and flavor are so convincing and delicious that it impresses both vegans and non-vegans."
+    },
+    {
+      "name": "Mac and Cheese",
+      "price": null,
+      "size": null,
+      "reviewMentions": 2,
+      "quotes": [
+        "The beignets were excellent and the Mac and cheese mature and Smokey.",
+        "we enjoyed the mac & cheese"
+      ],
+      "description": "A vegan macaroni and cheese dish with a sophisticated flavor.",
+      "whyPeopleLoveIt": "Customers appreciate its mature and smokey flavor profile, elevating it beyond a simple comfort dish."
+    },
+    {
+      "name": "French Toast",
+      "price": null,
+      "size": null,
+      "reviewMentions": 1,
+      "quotes": [
+        "Non vegan here: this is the best French toast I ever eaten.",
+        "Perfect texture, mint citrus cream was heavenly, was suspicious of jerk sauce, but the flavors blended perfectly. Astonishingly good."
+      ],
+      "description": "Vegan French toast served with a mint citrus cream and a jerk sauce.",
+      "whyPeopleLoveIt": "It's praised for its perfect texture and a unique, heavenly flavor combination that impresses even non-vegans."
+    },
+    {
+      "name": "Vegan Eggs Benedict",
+      "price": null,
+      "size": null,
+      "reviewMentions": 1,
+      "quotes": [
+        "Had the vegan eggs Benedict on a biscuit. Fantastic flavor and texture!"
+      ],
+      "description": "A vegan version of the classic Eggs Benedict, served on a biscuit.",
+      "whyPeopleLoveIt": "It successfully replicates the classic dish with fantastic flavor and texture."
+    },
+    {
+      "name": "Beignets",
+      "price": null,
+      "size": null,
+      "reviewMentions": 1,
+      "quotes": [
+        "The beignets were excellent"
+      ],
+      "description": "Fried vegan pastries, similar to doughnuts.",
+      "whyPeopleLoveIt": "They are simply described as 'excellent' by customers."
+    },
+    {
+      "name": "Cuban Sandwich",
+      "price": null,
+      "size": null,
+      "reviewMentions": 1,
+      "quotes": [
+        "we enjoyed the mac & cheese / Cuban / Memphis Ckn"
+      ],
+      "description": "A vegan take on the classic Cuban sandwich.",
+      "whyPeopleLoveIt": "It's mentioned as one of the enjoyable main entree options."
+    }
+  ],
+  "reviewInsights": {
+    "mostUsedPhrases": [
+      {
+        "phrase": "flavor",
+        "count": 4
+      },
+      {
+        "phrase": "texture",
+        "count": 3
+      },
+      {
+        "phrase": "all vegan",
+        "count": 2
+      },
+      {
+        "phrase": "mac and cheese",
+        "count": 2
+      }
+    ],
+    "commonCompliments": [
+      "Completely vegan menu",
+      "Dishes have fantastic flavor and texture",
+      "Friendly, cool, and knowledgeable staff",
+      "Bright, airy atmosphere",
+      "Good selection of regional microbrews"
+    ],
+    "commonCritiques": [
+      "Service can be slow during peak lunch hours",
+      "Only offers pint pours for beer, no half pours"
+    ]
+  },
+  "timingInsights": [
+    {
+      "insight": "The restaurant can get busy and service may be slower during the lunch rush.",
+      "bestTime": "Visit outside of the peak lunch period for potentially faster service."
+    }
+  ]
+}
