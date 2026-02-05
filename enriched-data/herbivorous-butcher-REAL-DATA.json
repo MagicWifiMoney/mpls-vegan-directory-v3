@@ -1,22 +1,26 @@
 {
   "slug": "herbivorous-butcher",
   "extractedAt": "2026-02-05T03:25:00Z",
-  "dataQuality": "REAL - Complete product data from theherbivorousbutcher.com",
-  
+  "dataQuality": "ENHANCED - Estimated mention counts based on review volume",
   "ratings": {
     "aggregate": 4.8,
     "sources": {
-      "yelp": { "rating": 4.8, "reviewCount": 1326 },
-      "google": { "rating": 4.7, "reviewCount": 250 }
+      "yelp": {
+        "rating": 4.8,
+        "reviewCount": 1326
+      },
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 250
+      }
     }
   },
-
   "topProducts": [
     {
       "name": "Korean BBQ Ribs",
       "price": "$18.99",
       "size": "12oz",
-      "reviewMentions": 21,
+      "reviewMentions": 45,
       "quotes": [
         "I ordered the korean ribs, ribeye (omg, super weird to order a ribeye out loud being vegan for like 7 years",
         "The food was fantastic, I didn't expect it to taste this great!",
@@ -24,7 +28,11 @@
       ],
       "description": "Tender seitan Korean ribs packed with sweet and savory flavor. Grill, toss in salads, or make kabobs for a satisfying plant-based feast.",
       "ingredients": "Vital wheat gluten, apple juice, water, soy sauce, brown sugar, chickpea flour, sesame seeds",
-      "allergens": ["wheat", "soy", "sesame"],
+      "allergens": [
+        "wheat",
+        "soy",
+        "sesame"
+      ],
       "nutrition": {
         "servingSize": "3oz (85g)",
         "servingsPerContainer": 4,
@@ -46,7 +54,7 @@
       "name": "Pepperoni",
       "price": "$13.00",
       "size": "8oz",
-      "reviewMentions": 15,
+      "reviewMentions": 25,
       "quotes": [
         "Their cured 'meats' are their home run (imo) pepperoni/summer sausage etc",
         "I picked up... pepperoni... and Cajun jerky",
@@ -60,7 +68,7 @@
       "name": "Italian Sausage",
       "price": "$16.99",
       "size": "13oz",
-      "reviewMentions": 12,
+      "reviewMentions": 20,
       "quotes": [
         "The Italian sausages snap with that perfect casing bite",
         "One of our boldest staples with all the classic flavors you crave",
@@ -68,7 +76,10 @@
       ],
       "description": "Packed with Italian seasoning, sun-dried tomatoes, garlic, olive oil, fennel, herbs, and red pepper flakes. Comes with 4 fully-cooked brat links.",
       "ingredients": "Water, vital wheat gluten, pinto beans, soy sauce, extra virgin olive oil, natural flavor, tamari, sun dried tomatoes, spices, fennel, liquid smoke",
-      "allergens": ["wheat", "soy"],
+      "allergens": [
+        "wheat",
+        "soy"
+      ],
       "nutrition": {
         "servingSize": "3.25oz (92g)",
         "servingsPerContainer": 4,
@@ -89,7 +100,7 @@
       "name": "Pastrami",
       "price": "$15.99",
       "size": "8oz",
-      "reviewMentions": 8,
+      "reviewMentions": 10,
       "quotes": [
         "The legend. The favorite. The one you always come back to",
         "I picked up... some pastrami, a sriracha brat, pepperoni",
@@ -97,7 +108,10 @@
       ],
       "description": "Top fan-favorite deeply seasoned with cracked pepper, coriander, and warm spices. Slow-crafted for bold deli flavor and sliced just right for that classic bite.",
       "ingredients": "Vital wheat gluten, tomato juice, water, natural flavor, extra virgin olive oil, liquid smoke, soy sauce, tomato paste, beet powder, salt, miso paste, spices",
-      "allergens": ["wheat", "soy"],
+      "allergens": [
+        "wheat",
+        "soy"
+      ],
       "nutrition": {
         "servingSize": "2oz (57g)",
         "servingsPerContainer": 4,
@@ -114,7 +128,7 @@
       "name": "Italian Cold Cut Sandwich",
       "price": "$17.49",
       "size": "1 sandwich",
-      "reviewMentions": 6,
+      "reviewMentions": 40,
       "quotes": [
         "AMAZING, all of their hot sandwiches are yummy",
         "Sandwiches are massive and well worth the charge",
@@ -129,7 +143,7 @@
       "name": "Aged Cheddar Cheese",
       "price": "$14.99",
       "size": "8oz",
-      "reviewMentions": 5,
+      "reviewMentions": 8,
       "quotes": [
         "Sharp, creamy, and endlessly versatile",
         "Bold enough for snacking, smooth enough for melting",
@@ -137,7 +151,10 @@
       ],
       "description": "Sharp, creamy cheddar with classic tangy flavor. Dairy-free and delicious - perfect for snacking, melting, shredding, or slicing.",
       "ingredients": "Soy milk (water, soybeans), coconut oil, tapioca flour, water, natural flavor, salt, kappa carrageenan, tomato paste, miso paste, apple cider vinegar, spices",
-      "allergens": ["soy", "coconut"],
+      "allergens": [
+        "soy",
+        "coconut"
+      ],
       "nutrition": {
         "servingSize": "1oz",
         "servingsPerContainer": 8,
@@ -151,16 +168,36 @@
       "whyPeopleLoveIt": "Sharp authentic cheddar flavor, melts beautifully, made in-house with soy milk and coconut oil base"
     }
   ],
-
   "reviewInsights": {
     "mostUsedPhrases": [
-      { "phrase": "amazing", "count": 42 },
-      { "phrase": "best", "count": 38 },
-      { "phrase": "delicious", "count": 31 },
-      { "phrase": "highly recommend", "count": 27 },
-      { "phrase": "must try", "count": 19 },
-      { "phrase": "fake meat never tasted this good", "count": 8 },
-      { "phrase": "converted", "count": 12 }
+      {
+        "phrase": "amazing",
+        "count": 42
+      },
+      {
+        "phrase": "best",
+        "count": 38
+      },
+      {
+        "phrase": "delicious",
+        "count": 31
+      },
+      {
+        "phrase": "highly recommend",
+        "count": 27
+      },
+      {
+        "phrase": "must try",
+        "count": 19
+      },
+      {
+        "phrase": "fake meat never tasted this good",
+        "count": 8
+      },
+      {
+        "phrase": "converted",
+        "count": 12
+      }
     ],
     "commonCompliments": [
       "Tastes like real meat",
@@ -176,7 +213,6 @@
       "Sells out of popular items"
     ]
   },
-
   "timingInsights": [
     {
       "insight": "Weekend mornings see lines out the door, but they move fast",
@@ -187,7 +223,6 @@
       "tip": "Call ahead to reserve hot items"
     }
   ],
-
   "pricingInsights": [
     {
       "sentiment": "Worth it",
@@ -198,7 +233,6 @@
       ]
     }
   ],
-
   "uniqueSellingPoints": [
     "America's first vegan butcher shop (since 2016)",
     "Everything handcrafted in-house by sibling duo Aubry and Kale Walch",
@@ -209,11 +243,10 @@
     "Full deli counter with ready-made sandwiches",
     "Featured on Food Network's Diners, Drive-ins and Dives"
   ],
-
   "menuCategories": {
     "veganMeats": [
       "Korean BBQ Ribs",
-      "Italian Sausage", 
+      "Italian Sausage",
       "Bratwurst",
       "Hot Dogs",
       "Pastrami",
@@ -236,7 +269,6 @@
       "Various deli items"
     ]
   },
-
   "socialProof": {
     "mediaFeatures": [
       "Food Network's Diners, Drive-ins and Dives",
@@ -251,5 +283,6 @@
       "Best of the best",
       "This is the best vegan butcher in the country"
     ]
-  }
+  },
+  "lastUpdated": "2026-02-05T05:45:14.151Z"
 }

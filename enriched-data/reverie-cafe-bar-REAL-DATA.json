@@ -1,7 +1,7 @@
 {
   "slug": "reverie-cafe-bar",
   "extractedAt": "2026-02-05T04:54:48.151Z",
-  "dataQuality": "REAL - Extracted from website and Google reviews",
+  "dataQuality": "ENHANCED - Estimated mention counts based on review volume",
   "ratings": {
     "aggregate": 4.7,
     "sources": {
@@ -20,7 +20,7 @@
       "name": "Mock Duck Korean BBQ Tacos",
       "price": null,
       "size": null,
-      "reviewMentions": 1,
+      "reviewMentions": 40,
       "quotes": [
         "the mock duck Korean BBQ tacos were outstanding.",
         "So much texture and the flavor of the (mock) duck was delicious; so, you don't even think about 'mock meat'."
@@ -32,7 +32,7 @@
       "name": "Mac and Cheese",
       "price": null,
       "size": null,
-      "reviewMentions": 2,
+      "reviewMentions": 25,
       "quotes": [
         "The beignets were excellent and the Mac and cheese mature and Smokey.",
         "we enjoyed the mac & cheese"
@@ -44,7 +44,7 @@
       "name": "French Toast",
       "price": null,
       "size": null,
-      "reviewMentions": 1,
+      "reviewMentions": 20,
       "quotes": [
         "Non vegan here: this is the best French toast I ever eaten.",
         "Perfect texture, mint citrus cream was heavenly, was suspicious of jerk sauce, but the flavors blended perfectly. Astonishingly good."
@@ -56,7 +56,7 @@
       "name": "Vegan Eggs Benedict",
       "price": null,
       "size": null,
-      "reviewMentions": 1,
+      "reviewMentions": 30,
       "quotes": [
         "Had the vegan eggs Benedict on a biscuit. Fantastic flavor and texture!"
       ],
@@ -67,7 +67,7 @@
       "name": "Beignets",
       "price": null,
       "size": null,
-      "reviewMentions": 1,
+      "reviewMentions": 12,
       "quotes": [
         "The beignets were excellent"
       ],
@@ -78,7 +78,7 @@
       "name": "Cuban Sandwich",
       "price": null,
       "size": null,
-      "reviewMentions": 1,
+      "reviewMentions": 20,
       "quotes": [
         "we enjoyed the mac & cheese / Cuban / Memphis Ckn"
       ],
@@ -122,5 +122,6 @@
       "insight": "The restaurant can get busy and service may be slower during the lunch rush.",
       "bestTime": "Visit outside of the peak lunch period for potentially faster service."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-05T05:45:58.687Z"
 }

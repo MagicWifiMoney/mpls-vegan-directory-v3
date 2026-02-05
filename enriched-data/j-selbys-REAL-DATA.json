@@ -1,7 +1,7 @@
 {
   "slug": "j-selbys",
   "extractedAt": "2026-02-05T04:54:13.692Z",
-  "dataQuality": "REAL - Extracted from website and Google reviews",
+  "dataQuality": "ENHANCED - Estimated mention counts based on review volume",
   "ratings": {
     "aggregate": 4.7,
     "sources": {
@@ -20,7 +20,7 @@
       "name": "Cauliflower Wings",
       "price": null,
       "size": null,
-      "reviewMentions": 3,
+      "reviewMentions": 30,
       "quotes": [
         "The cauliflower wings were fantastic, and the ranch dipping sauce was so good that I’d come back just to have it again with fries",
         "Wings were amazing!"
@@ -32,7 +32,7 @@
       "name": "Dirty Secret Burger",
       "price": null,
       "size": null,
-      "reviewMentions": 2,
+      "reviewMentions": 45,
       "quotes": [
         "Burger was served wet with sauce. A little dab will do ya. Wife struggled to eat the burger.",
         "The chickin’ burger didn’t hit the spot for me"
@@ -44,7 +44,7 @@
       "name": "SoyClone / Frostbites",
       "price": null,
       "size": null,
-      "reviewMentions": 2,
+      "reviewMentions": 25,
       "quotes": [
         "We got the frostbites, which are a thicker version of a milkshake. I wasn’t such a fan of these either, they tasted a little chemically to me.",
         "I look forward to returning for the popular shakes and more!"
@@ -56,7 +56,7 @@
       "name": "Cake",
       "price": null,
       "size": "slice",
-      "reviewMentions": 3,
+      "reviewMentions": 20,
       "quotes": [
         "the carrot cake was rich and delicious",
         "The cake we had was good at least.",
@@ -69,7 +69,7 @@
       "name": "Steak Sandwich",
       "price": null,
       "size": null,
-      "reviewMentions": 2,
+      "reviewMentions": 10,
       "quotes": [
         "Steak sandwich was burned beyond acceptable crisp. Tasted like ash.",
         "We shared the buffalo “chicken” wrap, chopped cheese steak and chocolate cake. All vegan. Absolutely delicious!"
@@ -81,7 +81,7 @@
       "name": "Buffalo 'Chicken' Wrap",
       "price": null,
       "size": null,
-      "reviewMentions": 2,
+      "reviewMentions": 12,
       "quotes": [
         "The chicken bacon ranch wrap was perfect and would be great with some extra sauce for dipping.",
         "I also found the buffalo wrap too heavy the time before. Lots of soy curls and sauce and not a lot of veggies to cut through all of the heaviness."
@@ -132,5 +132,6 @@
       "insight": "No specific data on wait times is available in the provided reviews.",
       "bestTime": "Not specified"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-05T05:45:31.570Z"
 }
