@@ -1,24 +1,71 @@
 {
   "topProducts": [
     {
-      "name": "Vegan Option 1",
-      "description": "Popular item",
+      "name": "Coffee",
+      "description": "A standard cafe offering with mixed reviews. Some find it great and very good, while others have described it as decent, acidic, or gross. No longer self-serve.",
+      "category": "drink",
+      "badge": "Top Pick",
+      "quotes": [
+        "Never had their food it's one star because the coffee was extremely acidic and frankly gross :( but I love everything else about this place and have been here for many events",
+        "The person who took our order was borderline dismissive of allergen concerns and was very preoccupied talking with a friend at the counter, to the point their friend was the one who refilled our coffees despite them not being an employee at the cafe",
+        "Me, my husband and our friend went and enjoy the breakfast and coffee as we had years before"
+      ],
+      "reviewMentions": 18
+    },
+    {
+      "name": "Fluffy Pancakes",
+      "description": "A favorite dish for many customers, mentioned as a reason for repeat visits. Described as a standout item, especially with maple syrup.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "I get the fluffy pancakes every time I go",
+        "Enormous fluffy pancakes and scrambles are also stars of the menu"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Tofu Scramble",
+      "description": "A popular vegan breakfast option. The smoky tempeh within the scramble is frequently highlighted as being flavorful and satisfying.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "I didn’t love the hash browns, too oily for me, but the tofu scramble was good",
+        "I had the tofu scramble, and the smoky tempeh in it was hands-down my favorite part—so flavorful and satisfying",
+        "Otherwise, loved the tofu scramble and the vegan sausage patty was good"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Vegan Sausage and Biscuits",
+      "description": "A savory vegan breakfast dish, specifically praised in reviews. Also referred to as 'vegan breakfast sausage and biscuits and gravy'.",
       "category": "entree",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
     },
     {
-      "name": "Vegan Option 2",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Monster Mash",
+      "description": "A unique hot beverage made with apple cider and miso caramel, topped with coconut whip. Described by one reviewer as a 'top 10 drink'.",
+      "category": "drink",
+      "badge": "Featured",
+      "quotes": [
+        "Had the monster mash and its landing in my top 10 drinks of my life"
+      ],
+      "reviewMentions": 1
     },
     {
-      "name": "Vegan Option 3",
-      "description": "Popular item",
+      "name": "Vegan Breakfast Burrito",
+      "description": "A breakfast burrito with a vegan filling, described as 'INCREDIBLE' by a reviewer.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "Got a vegan breakfast burrito which was INCREDIBLE and also loved the vegan sausage biscuit"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Super Earth / Basic Green Earth",
+      "description": "A long-standing menu item consisting of hash browns and broccoli. A nostalgic favorite for some, though there are reports of recent, uncommunicated changes to the recipe.",
       "category": "entree",
       "badge": null,
       "quotes": [],
@@ -99,5 +146,5 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T22:58:40.706Z"
+  "lastUpdated": "2026-02-05T23:22:30.077Z"
 }

@@ -1,28 +1,89 @@
 {
   "topProducts": [
     {
-      "name": "Vegan Option 1",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Chai",
+      "description": "Widely praised as the 'best in town', 'superb', 'delicious', and 'incredible'. Variations include spicy masala chai, iced spicy masala chai, and coconut cream chai, often noted for hitting the spot.",
+      "category": "Drink",
+      "badge": "Top Pick",
+      "quotes": [
+        "I ordered the creamy chicken masala curry and iced spicy masala chai",
+        "Delicious Chai and food",
+        "The spicy masala chai is superb and the food is excellent"
+      ],
+      "reviewMentions": 18
     },
     {
-      "name": "Vegan Option 2",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Creamy Masala Chicken",
+      "description": "A popular entree, described as 'creamy masala chicken' or 'creamy chicken masala curry'. It's highly recommended and 'hits the spot', though one review noted it could be 'on the salty side' and 'better balanced'. Available with customizable spice levels.",
+      "category": "Entree",
+      "badge": "Popular",
+      "quotes": [
+        "🤣 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes",
+        "-  Mango lassi (drink that tastes like mango ice cream)\n- Paapri chaat (amazing crunchy and light/refreshing appetizer to share with 2-5 people\n- Lunch curry bowl with creamy masala chicken (perfect mix of chicken, veggies, curry sauce) and add the carrot coconut creme brûlée dessert for $1 (it’s about 1/2 cup size and so delicious)\n- Plain paratha if you’d like some flatbread to eat the food with"
+      ],
+      "reviewMentions": 2
     },
     {
-      "name": "Vegan Option 3",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Golgappa",
+      "description": "Highly recommended as a 'flavorful street food' option.",
+      "category": "Appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "🤣 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes",
+        "The golgappa was a nice sour and refreshing, but definitely need to be aware that it's not everyone's forte"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Jackfruit Curry",
+      "description": "Loved by reviewers for its taste.",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "Great food- love the jackfruit curry and paapri chaat"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Paapri Chaat",
+      "description": "A favorite 'Indian street food snack', described as 'especially delicious'.",
+      "category": "Appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "Great food- love the jackfruit curry and paapri chaat",
+        "-  Mango lassi (drink that tastes like mango ice cream)\n- Paapri chaat (amazing crunchy and light/refreshing appetizer to share with 2-5 people\n- Lunch curry bowl with creamy masala chicken (perfect mix of chicken, veggies, curry sauce) and add the carrot coconut creme brûlée dessert for $1 (it’s about 1/2 cup size and so delicious)\n- Plain paratha if you’d like some flatbread to eat the food with"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Namaste Mixed Vegetables",
+      "description": "Highlighted as a 'great vegan option' that customers love.",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "I love their Namaste mixed vegetables with garlic butter paratha (both can be made vegan)"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Cauliflower Peas and Potatoes",
+      "description": "Highly recommended by diners.",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "🤣 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Garlic Butter Paratha",
+      "description": "A bread item that 'can be made vegan', often paired with other dishes.",
+      "category": "Bread/Side",
+      "badge": "Featured",
+      "quotes": [
+        "I love their Namaste mixed vegetables with garlic butter paratha (both can be made vegan)"
+      ],
+      "reviewMentions": 1
     }
   ],
   "highlightedReviews": [
@@ -99,5 +160,5 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:03:16.595Z"
+  "lastUpdated": "2026-02-05T23:24:50.307Z"
 }

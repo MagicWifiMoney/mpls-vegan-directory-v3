@@ -1,28 +1,72 @@
 {
   "topProducts": [
     {
-      "name": "Vegan Option 1",
-      "description": "Popular item",
-      "category": "entree",
+      "name": "Momos (Veggie, Chicken, and Yak)",
+      "description": "Handmade dumplings, often described as amazing, super good, and a customer favorite. Available in vegetarian, chicken, and yak varieties.",
+      "category": "Appetizer/Entree",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
     },
     {
-      "name": "Vegan Option 2",
-      "description": "Popular item",
-      "category": "entree",
+      "name": "Naan (Garlic and Plain)",
+      "description": "Highly recommended bread, described as delicious and a great comfort food. Garlic naan is a popular variation.",
+      "category": "Bread/Side",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
     },
     {
-      "name": "Vegan Option 3",
-      "description": "Popular item",
-      "category": "entree",
+      "name": "Curries (various types including Lamb, Chicken, Veggie, Chicken Spinach)",
+      "description": "Delicious and comforting, with options like tender lamb, flavorful chicken, hearty veggie, and cozy chicken spinach curries.",
+      "category": "Entree",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
+    },
+    {
+      "name": "Roti",
+      "description": "A delish bread, prepared perfectly.",
+      "category": "Bread/Side",
+      "badge": "Popular",
+      "quotes": [
+        "I ordered the veggie momos, veggie curry and roti"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Samosas",
+      "description": "Huge, vegetarian, and vegan friendly appetizers.",
+      "category": "Appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "Classic Nepalese/Indian decor; the samosas are huge, vegetarian & vegan entrees",
+        "They have many tasty vegetarian options, including veggie samosas",
+        "The samosas would be part of my last meal on earth"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Lamb Vindaloo",
+      "description": "A flavorful lamb dish, often described as looking very good and a great comfort food.",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "The lamb vindaloo looked so good, I forgot to take a photo"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "description": "Features big chunks of tender chicken marinated in an amazing sauce.",
+      "category": "Entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "The Chicken Tikka Masala comes with big chunks of tender chicken marinated in an amazing sauce",
+        "Had Chicken Tikka Masala, Veggie Daal, and  chicken patak paneer",
+        "We had naan, patak paneer, daal, and chicken Tikka masala, which was my favorite"
+      ],
+      "reviewMentions": 6
     }
   ],
   "highlightedReviews": [
@@ -99,5 +143,5 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:02:45.771Z"
+  "lastUpdated": "2026-02-05T23:24:29.725Z"
 }

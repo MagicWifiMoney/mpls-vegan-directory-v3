@@ -1,28 +1,89 @@
 {
   "topProducts": [
     {
-      "name": "Vegan Option 1",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Poblano Scone",
+      "description": "A savory scone described as \"phenomenal\" by reviewers.",
+      "category": "pastry",
+      "badge": "Featured",
+      "quotes": [
+        "Phenomenal poblano scone and cardamom latte"
+      ],
+      "reviewMentions": 1
     },
     {
-      "name": "Vegan Option 2",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Cardamom Latte",
+      "description": "A specialty latte, also called \"phenomenal\".",
+      "category": "drink",
+      "badge": "Featured",
+      "quotes": [
+        "Phenomenal poblano scone and cardamom latte"
+      ],
+      "reviewMentions": 1
     },
     {
-      "name": "Vegan Option 3",
-      "description": "Popular item",
+      "name": "South Side Hash",
+      "description": "A popular hash dish, a stated favorite of repeat customers.",
       "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "badge": "Featured",
+      "quotes": [
+        "Im a fan of the south side hash, my wife is a fan of the rancheros and my brother loves the good morning healing earth"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Rancheros",
+      "description": "A well-liked breakfast entree, likely their take on huevos rancheros.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "Im a fan of the south side hash, my wife is a fan of the rancheros and my brother loves the good morning healing earth",
+        "The migas, rancheros, french toast, breakfast burrito, and kate bush bowl are all DELICOUS",
+        "Rancheros -2 eggs over soggy hashbrowns, then add a \"quart\" of mole sauce, floating"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Good Morning Healing Earth",
+      "description": "A much-loved breakfast item.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "Im a fan of the south side hash, my wife is a fan of the rancheros and my brother loves the good morning healing earth"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Smash Burger",
+      "description": "Called the \"best smash burger\" a reviewer had in a very long time.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "Best smash burger ive had in a very long time"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Hashbrowns",
+      "description": "Reviewers loved the hashbrowns, calling them \"amazing\".",
+      "category": "side",
+      "badge": "Top Pick",
+      "quotes": [
+        "Loved the hashbrowns and the coffee",
+        "Rancheros -2 eggs over soggy hashbrowns, then add a \"quart\" of mole sauce, floating",
+        "Hashbrowns take up your entire plate and are perfectly crispy"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Fries",
+      "description": "Described as \"top tier\" and served with an insanely good garlic aioli.",
+      "category": "side",
+      "badge": "Popular",
+      "quotes": [
+        "The fries were top tier and the garlic aoli was insanely good",
+        "If you want a good recommendation I suggest the voyeur melt with fries"
+      ],
+      "reviewMentions": 2
     }
   ],
   "highlightedReviews": [
@@ -99,5 +160,5 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:00:13.087Z"
+  "lastUpdated": "2026-02-05T23:23:48.622Z"
 }

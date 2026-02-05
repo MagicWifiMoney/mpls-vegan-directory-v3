@@ -1,25 +1,73 @@
 {
   "topProducts": [
     {
-      "name": "Vegan Option 1",
-      "description": "Popular item",
+      "name": "Tibs (various forms)",
+      "description": "A popular beef dish, frequently mentioned for being tender and flavorful. Varieties like Zil zil, Lega, and Derek are highlighted, with some having a notable jalapeño flavor.",
       "category": "entree",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
     },
     {
-      "name": "Vegan Option 2",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Sambusa",
+      "description": "A crispy appetizer, available in both veggie and beef versions. The veggie sambusa is described as 'perfectly crispy' and the dish is rated 10/10 by one reviewer.",
+      "category": "appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "The Sambusas 10/10, the Vegie combo 10/10, the Zil zil Tibs:11/10, the gingery tea: perfect",
+        "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa"
+      ],
+      "reviewMentions": 2
     },
     {
-      "name": "Vegan Option 3",
-      "description": "Popular item",
+      "name": "Kitfo",
+      "description": "A traditional dish, mentioned as being perfectly seasoned, buttered, and well-done. It is often included in combination platters.",
       "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa",
+        "I’ve loved the combo meals that feature both kitfo and tibs, but the vegetarian and vegan options are excellent as well",
+        "I had the Kitfo and Derek Tibs (highly recommend)"
+      ],
+      "reviewMentions": 7
+    },
+    {
+      "name": "Veggie Combo",
+      "description": "A combination platter of vegetarian dishes. It's highly rated (10/10) and praised for its flavorful components, including lentils that impressed even skeptics.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "Got the half meat / half veggie combo and instantly knew I would have to come back soon because it was delicious",
+        "The veggie combo did not taste good at all"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Tokkumaa",
+      "description": "A shareable dish praised for its generous portion size, presentation, and quality. Described as unique, delicious, and full of flavor and spice.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "We ordered the Tokkumaa and Yebeg Alicha to share and we're absolutely amazed and shocked at the amount, presentation, an quality of the food",
+        "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Potato and Carrot Alicha",
+      "description": "A specific vegetable stew (alicha) that is recommended as a great side or component of a meal.",
+      "category": "side dish",
+      "badge": "Popular",
+      "quotes": [
+        "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa",
+        "For veggies, the miser, potato and carrot alicha, and roasted beets are phenomenal"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Cakes (Tiramisu/Tres Leches)",
+      "description": "The restaurant is noted for baking 'amazing' cakes, with specific mentions of Tiramisu and Tres Leches. One review highlights a special custom cake for a celebration.",
+      "category": "dessert",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
@@ -99,5 +147,5 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:02:15.023Z"
+  "lastUpdated": "2026-02-05T23:24:11.186Z"
 }
