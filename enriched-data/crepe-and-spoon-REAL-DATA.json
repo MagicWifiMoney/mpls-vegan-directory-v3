@@ -1,0 +1,162 @@
+{
+  "topProducts": [
+    {
+      "name": "Vegan Ice Cream",
+      "description": "The most frequently mentioned item. Described as the 'best non-dairy ice cream ever,' 'phenomenal,' creamy, and high-quality with innovative, rotating flavors. Made with an almond and cashew base.",
+      "category": "Dessert",
+      "badge": "Top Pick",
+      "quotes": [
+        "Best vegan ice cream I swear I have ever had",
+        "One of my favorite spots for vegan ice cream",
+        "I've been eating vegan ice cream for 9 years, and while there is a lot of good ice cream out there, Crepe and Spoon's is by far the creamiest ice cream I have eaten since going dairy free 9 years ago"
+      ],
+      "reviewMentions": 11
+    },
+    {
+      "name": "Gluten-Free Waffle Cones",
+      "description": "Praised as being delicious and a standout feature, allowing dairy-free and gluten-free customers to enjoy a classic ice cream experience. Described as 'to die for.'",
+      "category": "Dessert",
+      "badge": "Popular",
+      "quotes": [
+        "The innovative flavors, the quality, the creaminess, the consistency, the gluten-free waffle cones, and the fact that EVERYTHING IS VEGAN",
+        "They also have amazing gluten-free waffle cones that taste better than regular waffle cones I've had"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Ham and Cheese Crepe",
+      "description": "A popular savory crepe option mentioned multiple times. Described as delicious and superb.",
+      "category": "Entree",
+      "badge": "Popular",
+      "quotes": [
+        "The ham and cheese crepe and the butter with powdered sugar",
+        "The ham and cheese crepe is my fave",
+        "The vegan ham and cheese crepe was delicious (sourced from the herbivorous butcher), will order again"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Cookie Monster Ice Cream",
+      "description": "A specific, memorable ice cream flavor. A blue-colored ice cream loved since childhood, sometimes enhanced with chocolate fudge.",
+      "category": "Dessert",
+      "badge": "Featured",
+      "quotes": [
+        "My love for their Cookie Monster ice cream was instantaneous; blue lips and all"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Sweet Crepes",
+      "description": "Various sweet crepes are mentioned, including 'butter with powdered sugar,' 'cinnamon,' and 'cocoa banana.' They are described as amazing, delicious, hot, fresh, and huge.",
+      "category": "Dessert",
+      "badge": "Featured",
+      "quotes": [
+        "We ordered two sweet crepes and loved them both"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Cheeseburger Crepe",
+      "description": "A savory crepe that is dearly missed by customers, with one reviewer stating they will 'mourn the loss of the cheeseburger crepe forever.'",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "I'll mourn the loss of the cheeseburger crepe forever"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Lemon Bar Ice Cream",
+      "description": "A throwback favorite ice cream flavor that is described as tasting like homemade ice cream from childhood.",
+      "category": "Dessert",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Cold Brew Coffee",
+      "description": "A beverage option noted for being very reasonably priced.",
+      "category": "Drink",
+      "badge": "Featured",
+      "quotes": [
+        "Cold brew coffee was very reasonably priced"
+      ],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Tigra “Tiggy”",
+      "rating": 5,
+      "text": "In my humble opinion, this is the best and most excellent ice cream in the MSP area. Unfortunately for us, there’s only one more week until they close permanently (01Oct, 2023). :(\n\nI do not live in MSP, but I’m here a few times every year, for @ a 30 day stretch each time. I first tried them 4 years ago, and they’ve been consistently amazing across the years. I just spent the past six weeks in MSP, and I tried my best to come here at least every other day knowing it’d be my last Crepe & Spoon tastings ever.\n\nThe owner had expressed his desire to close a couple of years ago, but luckily he prolonged what would eventually be the inevitable. This time it seems like it’s the real deal. So one last trip down memory lane before they close their doors forever.\n\nHow does Crepe & Spoon stand out from the rest? The innovative flavors, the quality, the creaminess, the consistency, the gluten-free waffle cones, and the fact that EVERYTHING IS VEGAN!! I’ve brought quite a few non-vegans here and they were none the wiser. They have much more than just ice cream, as their name suggests, but helado is what I always gravitated towards.\n\nEverything slaps; even the classics like vanilla and chocolate were top tier. However, my top 3 are:\n\nPumpkin Bar - sweet & creamy pumpkin flavor with  the right amount of spice; perfect for autumn. Pairs well with leggings and flannel.\n\nLemon Bar - tastes just like the homemade ice cream that my abuela used to make when I was little. Irresistibly inviting!  As per my video on my ig page, I snagged the last drop of this throwback fav. No regrets!\n\nCOOOOOKIEEEE MOOOONSTERRRRR!!!!\nAs a child who grew up watching Sesame Street, I could relate to Cookie Monster and his afeccionado for cookies (or anything sweet, tbvh). My love for their Cookie Monster ice cream was instantaneous; blue lips and all!\nOn this last hurrah, the owner surprised us by adding some chocolate fudge into the recipe, and OMG!!! It was what I never knew I wanted or needed in this mixture!  Give me 3 scoops, please!!\n\nSo if you’re anywhere near the MSP area, make sure to stop by Crepe and Spoon before 01Oct, and buy them out of everything that remains: crepes, ice cream, shakes and other drinks, comic books, stickers, shirts, and more!  Check their ig page for last call flavor announcements. And best of luck to Michael and his staff on their future endeavors!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mollee Sheehan",
+      "rating": 5,
+      "text": "Believe the hype: This is the best vegan ice cream in the metro and beyond. It’s made fresh from scratch right on site.\n\nWhether you like the classics (vanilla, chocolate, strawberry) or you have a more adventurous inclination (rose water cardamom, earl gray bergamot) — your palette will be happy.\n\nBe sure to try the crepes! This place does its savory as well as its sweet. We loved the cheeze steak and  ham-n-cheeze.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Emily Ottinger",
+      "rating": 5,
+      "text": "First time in this little shop. Atmosphere is super cute and friendly. The staff was amazing and I believe their entire menu is vegan! Huge plus for me :). I tried the vegan vanilla ice cream which was really good, and the cocoa banana crepe. So much to say about this crepe! First of all, it was served quickly and so hot and fresh I had to wait 20 min for it to cool off enough! It holds heat very well 😂. The crepe was huge and served in a pizza shaped cardboard sleeve. Absolutely delicious. Plenty of filling and overall just a lot of crepe! Would absolutely recommend and will be back to try more menu items!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "KSno",
+      "rating": 5,
+      "text": "The ice cream at Crepe and Spoon is honestly the best I have ever had. I am vegan, but I have taken plenty of my omnivore friends and family there, and they agree. It’s amazingly good! Even in this past winter, which was insanely cold, I found myself craving their pistachio ice cream lol! I couldn’t find anything anywhere that even came close to it. I was so happy for warm weather and their reopening!!",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Brittany Jiménez",
+      "rating": 5,
+      "text": "I've been eating vegan ice cream for 9 years, and while there is a lot of good ice cream out there, Crepe and Spoon's is by far the creamiest ice cream I have eaten since going dairy free 9 years ago. The flavors were creative and delicious too! I had the ube and the cardamom with cinnamon and molasses swirl. Delicious. I only recently found out about this place, and wish I'd know about it sooner. We will be back to try their crepes - butter, cinnamon, and the ham & cheese all look great - and to have more ice cream. 5/5, will be back. Oh! And when we walked in the place smelled amazing - they were making their waffle cones fresh! Yum!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Shivika Singal",
+      "rating": 5,
+      "text": "Amazing ice cream flavours and their cones are Fresh and crispy. I was delighted to try the rose water cardamom flavour and the wild berry flavours. They also do crepes - with plant based ham and steak and can make them vegan. I was really impressed with the quality and will definitely be back!!",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chelsea L",
+      "rating": 5,
+      "text": "This is really great vegan ice cream! I've tried a lot of vegan ice cream and this is the best I've found in the Twin Cities. It is creamy and leaves no weird aftertaste like many of them do. No grittiness, just nice and smooth. The flavors are great as well. We've been in a few times and have tried the Mint Chip (my go-to), Coffee, Strawberry, Lemon Bar, Pistachio, and the Rocky Road. They are all delicious and I would highly recommend all of them! My fave was the Rocky Road - they are clearly great at chocolate ice cream. The waffle cones are always delicious too. The service is efficient and helpful. We'll continue coming back - thanks for doing what you do!",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Alane Klein",
+      "rating": 5,
+      "text": "Employees were super patient and allowed me to sample several flavors before ultimately ordering a complex mix of flavors in a cone! I don’t remember the last time I had a waffle cone but this shop was entirely vegan so I went for it! We also tried a savory crepe (ham and cheese) and it was delicious!! Cold brew coffee was very reasonably priced. Indoor and outdoor seating along with bathrooms available. This place has it all! Stop in and you’ll see!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Andy Magnuson Dunn",
+      "rating": 5,
+      "text": "Dairy free person's dream come true! It was so nice to just order anything on the menu and not worry, and everything was delicious. I had a cinnamon crepe and a banana cream, would recommend both. Also had a half scoop each of two ice creams and the lemon was my favorite. Can't wait to visit again! Drove down from Ham Lake and will absolutely make the drive again.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jennifer Markey",
+      "rating": 5,
+      "text": "This is some of the best ice cream I’ve ever had.  I don’t necessarily look for vegan food but this place is close and I thought I’d stop in.  The ube (purple sweet potato) is amazing. Never had anything like it.  Plus the added bonus of not feeling like I’d eaten a whole meal.  I will definitely be back.",
+      "date": "2 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:52:35.850Z"
+}

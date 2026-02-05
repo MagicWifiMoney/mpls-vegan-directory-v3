@@ -1,0 +1,135 @@
+{
+  "topProducts": [
+    {
+      "name": "Migas Meal",
+      "description": "A vegan meal that is described as making customers' taste buds and bellies very happy.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "My entire order of produce was super fresh and the Migas meal made my taste buds and belly very happy"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Croissants",
+      "description": "A popular and loved pastry item available at the shop.",
+      "category": "pastry",
+      "badge": "Popular",
+      "quotes": [
+        "Food was good; I loved the croissants",
+        "The croissants and masa cakes are out standing",
+        "The food was mediocre - very greasy and dense croissants, bland salad, dry sausage"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Frozen Coconut Milk Sandwich",
+      "description": "A frozen dessert treat, similar to an ice cream sandwich, recommended for a steamy evening.",
+      "category": "dessert",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Fresh-Pressed Juice",
+      "description": "A fresh beverage prepared and served with meals.",
+      "category": "drink",
+      "badge": "Featured",
+      "quotes": [
+        "Thank you for the wonderful meal and fresh-pressed juice"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Habanero Chips",
+      "description": "A specific type of snack mentioned by a customer.",
+      "category": "snack",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Custom-Crafted Vegan Pastries",
+      "description": "In addition to specific items like croissants, the venue offers a variety of custom-made vegan pastries.",
+      "category": "pastry",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Laurel Browne",
+      "rating": 5,
+      "text": "Consistently wonderful and educational. If there's food prepared and available, it's flavorful and one-of-a-kind. If you need a frozen coconut milk (ice cream - not) sandwich treat on a steamy evening, this is the place. If you want to know how to make (fill in the blank, vegan food) you could just ask Colin. Great place!",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Patricia Gates",
+      "rating": 5,
+      "text": "Eureka Compass Vegan Food is CRAZY AMAZING! ♡ The food is organic, fresh and INCREDIBLE! The menu changes based on seasonal availability from a local organic farmers! I am not a vegan, but I sure am for Eureka! Be sure to watch Facebook or Instagram for the hours and menu! ☆ HIGHLY RECOMMENDED for ALL!! ♡ LOVE! LOVE! LOVE! ♡",
+      "date": "Edited 6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Lynne Hinz",
+      "rating": 5,
+      "text": "Eureka Compass Vegan Food is a gem. The owner, Colin, is also a gem...And an outstanding Baker I might add. He is creating an atmosphere of community & gathering and is compassionate about his Vegan (with some Gluten Free too!) Menu that continues to grow.\nI stopped in recently for the first time after learning about this NEW all Vegan restaurant and ended up taking home the MOST AMAZING scones, gluten free muffins and these veggie bagel thingys that were out of this world.  Oh, and the little to go container of KALE SALAD was eaten in the car 😃\nI look forward to returning this week for some more yummies.",
+      "date": "Edited 6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Joe Gerstl",
+      "rating": 5,
+      "text": "I'm not vegan, but my wife is and she asked me to come to Eureka Compass Vegan with her for breakfast. All I heard was \"vegan\" and thought, \"oh boy, here we go again, another place that I can't enjoy the food\". WOW, was I wrong! We had the bagel balls and they were fantastic! I like donuts and this was WAY better than any donut I have ever tasted. Full of flavor and nice and warm. We bought some scones and muffins too - they didn't make it past 2pm that day. It's hard to believe that I'm saying this about a vegan place but we are definitely going back!",
+      "date": "Edited 6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kathleen Fetterly",
+      "rating": 5,
+      "text": "Monday dinner? Yes , Please! Vegan & yummy. I enjoyed this food prepared by Chef Mitchell today of Healing Foods Minneapolis. Thank you for the wonderful meal and fresh-pressed juice!",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Sara M.",
+      "rating": 5,
+      "text": "Cute, small place in a residential area. The guy who was there (who I presume is the owner) was very kind to us. He seems to cook something different all the time so the menu is never the same, which is fun. The grocery part was a bit empty, but we didn’t come there for groceries anyway. Food was good; I loved the croissants!",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "tracisayhi Yeah!",
+      "rating": 4,
+      "text": "I'm sad to say that I haven't been inside the restaurant, yet. I tried to make it out there on their opening day, but was not able to make it until evening time when they had already been closed for a couple hours.. I drove by just to get a look at it,  sad that I wasn't able to make it on time.I'm looking forward to trying it someday when I'm in the neighborhood.",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Eric C",
+      "rating": 5,
+      "text": "An absolute delight , fresh and inventive, organic and Vegan - how much better can it get ? Found this place on the advice of a concert goer and walked in to the friendly smile of the Chef and owner. Thank you for the courage you have to offer your talent to this community ! We will be back",
+      "date": "Edited 6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chelsea Karkula",
+      "rating": 5,
+      "text": "Super impressed with my first visit to this vegan paradise!!! My entire order of produce was super fresh and the Migas meal made my taste buds and belly very happy. Not to mention I didn't even need to leave the safety and comfort of my car. Looking forward to more vegan delight soon!",
+      "date": "5 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Clarissa Lasecke",
+      "rating": 5,
+      "text": "They have a small selection of unique vegan groceries. The owner is friendly and very involved in the community. Whether you are vegan or not, this is a great place to learn more about a vegan or plant based diet.",
+      "date": "6 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:51:42.118Z"
+}

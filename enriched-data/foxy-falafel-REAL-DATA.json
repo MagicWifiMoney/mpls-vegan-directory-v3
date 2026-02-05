@@ -1,0 +1,167 @@
+{
+  "topProducts": [
+    {
+      "name": "Falafel",
+      "description": "The restaurant's namesake, often described as tasty and delicious, available in various options. While some found the mint cucumber sauce too minty, the tahini was considered decent.",
+      "category": "Entree/Main Dish",
+      "badge": "Top Pick",
+      "quotes": [
+        "THE FOOD- The falafel was 'good enough' to eat the mint cucumber sauce was not flavorful at all and 'too' minty",
+        "I finally decided on the foxy falafel since it looked appealing with some tomatoes and cucumbers thrown in",
+        "Cozy lil seating area, excellent Mediterranean falafel and fresh veggies platter, with unique canned drinks"
+      ],
+      "reviewMentions": 32
+    },
+    {
+      "name": "Cheese Curds",
+      "description": "Highly praised as 'best' and 'delicious,' especially when served with honey, making them a 'fun dessert.' They are also a good option for those seeking gluten-free food.",
+      "category": "Appetizer/Dessert",
+      "badge": "Top Pick",
+      "quotes": [
+        "Love the cheese curds",
+        "They have the best cheese curds and everything on their menu is delicious",
+        "The cheese curds with honey make a fun dessert"
+      ],
+      "reviewMentions": 12
+    },
+    {
+      "name": "Cauliflower Steak",
+      "description": "A unique dish that 'looks like a steak but made of cauliflower' and 'tasted pretty good,' often highlighted as 'great' and served with saffron aioli.",
+      "category": "Entree/Vegetable Dish",
+      "badge": "Top Pick",
+      "quotes": [
+        "And finally the cauliflower steak, because it totally sounded unreal",
+        "Highly recommend the curry falafel and cauliflower steak",
+        "Cauliflower Steak and Gluten free cheese curds were very tasty"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Spicy Fries",
+      "description": "Described as 'delicious & small cut,' topped with a 'delicious spice seasoning blend' (though noted as not actually spicy by one reviewer).",
+      "category": "Side Dish",
+      "badge": "Featured",
+      "quotes": [
+        "My spicy fries were delicious & small cut, topped w/ a  delicious spice seasoning blend on top ( not spicy)"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Side Salad",
+      "description": "Considered 'really amazing' and 'colorful,' with a 'little bit of salad dressing spritzed throughout.'",
+      "category": "Side Dish",
+      "badge": "Featured",
+      "quotes": [
+        "Of course the side salad was really amazing as it was not only colorful, but had a little bit of salad dressing spritzed throughout"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Green Tahini",
+      "description": "A condiment that received an enthusiastic 'OMG!' for its taste.",
+      "category": "Sauce/Condiment",
+      "badge": "Popular",
+      "quotes": [
+        "Great food and service, and that green tahini OMG",
+        "The green tahini is also lacking a fresh flavor"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Chicken Shawarma Platter",
+      "description": "Received negative feedback for 'chewy and bland' chicken, 'bad pita,' and 'cafeteria-quality vegetables.'",
+      "category": "Entree/Platter",
+      "badge": "Featured",
+      "quotes": [
+        "Had the chicken shawarma platter for $14"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Stoplight Falafel",
+      "description": "A specific variant of falafel noted by a reviewer as their 'favorite in town.'",
+      "category": "Entree/Specialty Falafel",
+      "badge": "Popular",
+      "quotes": [
+        "The Stoplight falafel is my favorite in town",
+        "I got the stoplight falafel salad - of, curry, and beet falafel (2 of each)"
+      ],
+      "reviewMentions": 2
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Troy Bagley",
+      "rating": 4,
+      "text": "This was a place I always wanted to check out, but when the friend wanted to stop here, I thought why not.  I liked how you either parked in the back or just around the corner.  Of course they had some seating inside, but they also had seating on the sidewalk outside.  I really didn't know what to expect so it took a few minutes to peruse the menu to decide.  I finally decided on the foxy falafel since it looked appealing with some tomatoes and cucumbers thrown in.  Of course the side salad was really amazing as it was not only colorful, but had a little bit of salad dressing spritzed throughout.  And finally the cauliflower steak, because it totally sounded unreal.  It was cool, because it looks like a steak, but made of cauliflower which tasted pretty good.  Of course once we got our food, we sat outside at one of the tables. It was not only so good and filling, that I had to take the rest home.  It was most definitely enough at least for a light lunch.  I definitely want to go back so badly.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "jesse james johnson",
+      "rating": 5,
+      "text": "I really enjoy the variety of their falafels as the stoplight is my go-to. They also have amazing baba ganush and grape leaf wraps but their cauliflower steak is amazing. Also suggest finishing it all off with the vegan ice cream sandwich.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Lauren Dickover",
+      "rating": 5,
+      "text": "My guy had the chicken bowl, super delicious combo. I enjoyed the tomato curry soup, cauliflower steak and falafel trio :) I highly recommend! Radical staff too! Great service and fresh food - big portions!",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Saadullah Bashir",
+      "rating": 5,
+      "text": "Delicious falafel sandwiches, salads and platters. The sauces are wonderful. Do try the cauliflower steak. Friendly staff, quick service, and large portions. Highly recommended!",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Stomping Ground Studio",
+      "rating": 5,
+      "text": "A little gem in western St. Paul. I’ve enjoyed everything I’ve had here. The tomato coconut soup is awesome, and I really like the falafel sandwich 😋 and everything is VEGAN!",
+      "date": "Edited 3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Michelle",
+      "rating": 5,
+      "text": "We stopped here for lunch today. We had 19 students and three school staff. This restaurant was excellent at accommodating us and letting us sit in the majority of their dining area for a good while. I would especially recommend the hummus and chips and we've heard great things about the cheese curds. The other food also looked good.  Cute little restaurant, highly recommend.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Molly Eide",
+      "rating": 5,
+      "text": "Without a doubt my favorite restaurant in the Twin Cities. The food is fantastic with many options for meat lovers, vegetarians, gluten free, etc. I especially love the meal kit options for family dinner and the ability to order ahead online.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ashley Repp",
+      "rating": 5,
+      "text": "I was having a really hard day, so my husband took my to Foxy to cheer me up. The person working was amazingly kind to me, and truly a bright spot in an otherwise very difficult day. When I opened the take out bag, he had included a gluten free, vegan pudding with a little note on top that “pudding fixes everything.” However, it wasn’t the pudding that fixed everything, it was his kindness. Thank you Foxy Falafel for not just serving delicious food, but building community and compassion.",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Peter Centner",
+      "rating": 5,
+      "text": "Foxy Falafel serves up fresh, wholesome Mediterranean-inspired dishes in a cozy and causal space. The falafel is crisp and flavorful, and can be ordered in 3 flavors; the “Foxy” with traditional herbs, curry, and beet. We also ordered the baba ghanoush, which was amply portioned and had a rich, smoky flavor, and the marinated beets which were fresh and vibrant. The friendly service, ample indoor and outdoor seating, and the reasonable prices make Foxy Falafel an easy weeknight go-to spot.",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Masen V.",
+      "rating": 5,
+      "text": "This place is excellent. I can’t believe I haven’t tried this place up until now despite living in the area for a while. Good value, GREAT food (I had their rice bowl with chicken + their saffron aioli). Very nice staff as well. Will definitely come back more.",
+      "date": "3 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:47:09.585Z"
+}
