@@ -1,7 +1,7 @@
 {
   "slug": "herbivorous-butcher",
   "extractedAt": "2026-02-05T03:25:00Z",
-  "dataQuality": "ENHANCED - Estimated mention counts based on review volume",
+  "dataQuality": "REAL - From 100 Apify-scraped Google reviews",
   "ratings": {
     "aggregate": 4.8,
     "sources": {
@@ -20,11 +20,11 @@
       "name": "Korean BBQ Ribs",
       "price": "$18.99",
       "size": "12oz",
-      "reviewMentions": 45,
+      "reviewMentions": 5,
       "quotes": [
-        "I ordered the korean ribs, ribeye (omg, super weird to order a ribeye out loud being vegan for like 7 years",
-        "The food was fantastic, I didn't expect it to taste this great!",
-        "Korean ribs are a fan favorite. With a chewy & meaty texture inside, a brown sugar dry rub offers a crispy exterior"
+        "I bought the Meat-Free snapback hat, a Nope T-shirt, The Herbivorous Butcher Cookbook and a selection of meats and cheeses to try at home, which included; Bacon Brats, Ribeye Steaks, Korean BBQ Ribs, Chicken, Maple Glazed Bacon, Garlic Pepper Havarti Cheese, Dill Havarti Cheese",
+        "They continue to increase their offerings, I am a fan of the Korean BBQ ribs",
+        "Then I bought Korean Jerky, Korean BBQ ribs, Maple Bacon, Maple Sage Breakfast Sausage, Fried Chicken Bites, and Brie cheese to try later"
       ],
       "description": "Tender seitan Korean ribs packed with sweet and savory flavor. Grill, toss in salads, or make kabobs for a satisfying plant-based feast.",
       "ingredients": "Vital wheat gluten, apple juice, water, soy sauce, brown sugar, chickpea flour, sesame seeds",
@@ -48,32 +48,30 @@
         "Grill: Few minutes each side",
         "Pan Fry: Medium heat until heated through"
       ],
-      "whyPeopleLoveIt": "Best-selling item, tender meaty texture, perfect sweet-savory balance, versatile for multiple cooking methods"
+      "whyPeopleLoveIt": "Best-selling item, tender meaty texture, perfect sweet-savory balance, versatile for multiple cooking methods",
+      "badge": "Top Pick"
     },
     {
       "name": "Pepperoni",
       "price": "$13.00",
       "size": "8oz",
-      "reviewMentions": 25,
+      "reviewMentions": 3,
       "quotes": [
-        "Their cured 'meats' are their home run (imo) pepperoni/summer sausage etc",
-        "I picked up... pepperoni... and Cajun jerky",
-        "Moderately spicy, slightly smoky, with Italian herbs and spices"
+        "Excited to try the beef & pepperoni sticks",
+        "The pepperoni is in my truck and i snack on it during the day",
+        "I ordered so much stuff including a steak, pepperoni, jerky and deli meat and I was shocked to find out the total was only $48"
       ],
       "description": "Moderately spicy, slightly smoky, and made with an elegant balance of Italian herbs and spices. Perfect for pizza, calzones, pasta & more.",
       "category": "Cured Meats",
-      "whyPeopleLoveIt": "Classic zesty flavor, perfect for pizza, versatile cured meat"
+      "whyPeopleLoveIt": "Classic zesty flavor, perfect for pizza, versatile cured meat",
+      "badge": "Popular"
     },
     {
       "name": "Italian Sausage",
       "price": "$16.99",
       "size": "13oz",
-      "reviewMentions": 20,
-      "quotes": [
-        "The Italian sausages snap with that perfect casing bite",
-        "One of our boldest staples with all the classic flavors you crave",
-        "Perfect snap, ideal for grilling or pasta"
-      ],
+      "reviewMentions": 0,
+      "quotes": [],
       "description": "Packed with Italian seasoning, sun-dried tomatoes, garlic, olive oil, fennel, herbs, and red pepper flakes. Comes with 4 fully-cooked brat links.",
       "ingredients": "Water, vital wheat gluten, pinto beans, soy sauce, extra virgin olive oil, natural flavor, tamari, sun dried tomatoes, spices, fennel, liquid smoke",
       "allergens": [
@@ -94,17 +92,17 @@
         "Air Fryer: 375°F for 6-8 minutes",
         "Grill: Medium heat for 5-7 minutes"
       ],
-      "whyPeopleLoveIt": "Perfect snap texture, bold Italian flavors, ideal for grilling or pasta"
+      "whyPeopleLoveIt": "Perfect snap texture, bold Italian flavors, ideal for grilling or pasta",
+      "badge": null
     },
     {
       "name": "Pastrami",
       "price": "$15.99",
       "size": "8oz",
-      "reviewMentions": 10,
+      "reviewMentions": 2,
       "quotes": [
-        "The legend. The favorite. The one you always come back to",
-        "I picked up... some pastrami, a sriracha brat, pepperoni",
-        "Deeply seasoned with cracked pepper, coriander, and warm spices"
+        "The pastrami, roast beef, and pepperjack were my favorite",
+        "My husband adores the pastrami"
       ],
       "description": "Top fan-favorite deeply seasoned with cracked pepper, coriander, and warm spices. Slow-crafted for bold deli flavor and sliced just right for that classic bite.",
       "ingredients": "Vital wheat gluten, tomato juice, water, natural flavor, extra virgin olive oil, liquid smoke, soy sauce, tomato paste, beet powder, salt, miso paste, spices",
@@ -122,33 +120,30 @@
         "fiber": "1g"
       },
       "category": "Deli Meats",
-      "whyPeopleLoveIt": "Authentic New York-style deli flavor, star of their Italian Cold Cut sandwich, perfect for hot melts and sandwiches"
+      "whyPeopleLoveIt": "Authentic New York-style deli flavor, star of their Italian Cold Cut sandwich, perfect for hot melts and sandwiches",
+      "badge": "Popular"
     },
     {
       "name": "Italian Cold Cut Sandwich",
       "price": "$17.49",
       "size": "1 sandwich",
-      "reviewMentions": 40,
+      "reviewMentions": 2,
       "quotes": [
-        "AMAZING, all of their hot sandwiches are yummy",
-        "Sandwiches are massive and well worth the charge",
-        "I've had the Italian cold cut maybe 4 times - it's the best"
+        "I ordered an Italian Cold Cut Sandwich, which I ate later (amazing), but on site my mom had the Hot Bacon Brat (hot means warn not spicy) with cheese (tried a bite and we both loved it), while I had the special, a Ranchy Bacon Mac Hot Panini (holy",
+        "One of the best Italian Cold Cut Sandwiches that I've ever had, with such friendly and helpful staff"
       ],
       "description": "As seen on Food Network's Diners, Drive-ins and Dives! Featuring house-made pastrami, capicola ham, pepperoni, and mozzarella cheese on a hoagie with vegan mayo and fresh veggies.",
       "category": "Ready-to-Eat",
       "availability": "In-store pickup or delivery only (DoorDash, Uber Eats, GrubHub)",
-      "whyPeopleLoveIt": "Food Network featured, massive portions, grab-and-go option, house-made meats and cheeses"
+      "whyPeopleLoveIt": "Food Network featured, massive portions, grab-and-go option, house-made meats and cheeses",
+      "badge": "Popular"
     },
     {
       "name": "Aged Cheddar Cheese",
       "price": "$14.99",
       "size": "8oz",
-      "reviewMentions": 8,
-      "quotes": [
-        "Sharp, creamy, and endlessly versatile",
-        "Bold enough for snacking, smooth enough for melting",
-        "This cheddar shows up with big flavor every time"
-      ],
+      "reviewMentions": 0,
+      "quotes": [],
       "description": "Sharp, creamy cheddar with classic tangy flavor. Dairy-free and delicious - perfect for snacking, melting, shredding, or slicing.",
       "ingredients": "Soy milk (water, soybeans), coconut oil, tapioca flour, water, natural flavor, salt, kappa carrageenan, tomato paste, miso paste, apple cider vinegar, spices",
       "allergens": [
@@ -165,7 +160,8 @@
         "carbs": "3g"
       },
       "category": "Artisan Cheeses",
-      "whyPeopleLoveIt": "Sharp authentic cheddar flavor, melts beautifully, made in-house with soy milk and coconut oil base"
+      "whyPeopleLoveIt": "Sharp authentic cheddar flavor, melts beautifully, made in-house with soy milk and coconut oil base",
+      "badge": null
     }
   ],
   "reviewInsights": {
@@ -284,5 +280,67 @@
       "This is the best vegan butcher in the country"
     ]
   },
-  "lastUpdated": "2026-02-05T05:45:14.151Z"
+  "lastUpdated": "2026-02-05T20:11:14.211Z",
+  "highlightedReviews": [
+    {
+      "author": "Marcella Di Santo",
+      "rating": 5,
+      "text": "I had been dying to experience a vegan butcher shop and during my recent trip to Minneapolis, finally had my chance... and all I can say is, MORE!! We order some food to eat on site, it's not a restaurant, though there is some seating, which is awkward but the food more than made up for it. I ordered an Italian Cold Cut Sandwich, which I ate later (amazing), but on site my mom had the Hot Bacon Brat (hot means warn not spicy) with cheese (tried a bite and we both loved it), while I had the special, a Ranchy Bacon Mac Hot Panini (holy... ok I won't swear but you get the idea). I bought the Meat-Free snapback hat, a Nope T-shirt, The Herbivorous Butcher Cookbook and a selection of meats and cheeses to try at home, which included; Bacon Brats, Ribeye Steaks, Korean BBQ Ribs, Chicken, Maple Glazed Bacon, Garlic Pepper Havarti Cheese, Dill Havarti Cheese... absolute heaven!! The offerings are very well thought out and I can't wait to try the cook book recipes too.",
+      "date": "a year ago"
+    },
+    {
+      "author": "Andrea M",
+      "rating": 5,
+      "text": "I first went to herbivorous butcher on a business trip to Minneapolis - maybe 8 years ago. Well fast forward and we are still ordering online from them years later since we don’t live in Minnesota. My husband adores the pastrami! As a long time vegan of 28 years, I have tried many faux meats and cheeses and I think they do an exemplary job.  They are super creative people with a vision.  I don’t know how they have the time to do everything they do- start a vegan butcher shop; start a farm sanctuary; write a cookbook; open more vegan restaurants… just wow!",
+      "date": "a year ago"
+    },
+    {
+      "author": "JD Schall",
+      "rating": 5,
+      "text": "Traveling through the Twin Cities we stopped by to see what a vegan butcher could offer. We got breakfast sandwiches to go. Delicious!  Also, a smoked Gouda cheese and beer brats to enjoy when we got home from our road trip.\nThe cheese was fantastic. One of the best non dairy cheeses we have had. I enjoyed the brats, they were spicy with a great texture. A touch on the salty side, if your sensitive.\nI look forward to visiting Minneapolis again and checking out what else is in the deli counter.",
+      "date": "2 years ago"
+    },
+    {
+      "author": "Amber Schlater",
+      "rating": 5,
+      "text": "These are easily the BEST vegan deli sandwiches I've ever tasted.  Between my family and I, we had the Italian Cold Cut, Turkey Dill Havarti, and Capicola Cheddar Apple sandwiches - each had its own unique flavor profile, and each was equally delicious (and HUGE!)\n\nIn addition to the ready-to-eat deli sandwiches, The Herbivorous Butcher also offers a nice selection of sweet treats and butcher-style vegan \"meats\", including Cajun jerky and Korean ribs.  In fact, there were so many enticing options that it was quite difficult to make a decision, which I consider a good problem to have :)\n\nThis place is an absolute gem - if you're in Minneapolis, do not sleep on these sandwiches!",
+      "date": "3 years ago"
+    },
+    {
+      "author": "Conor Flood",
+      "rating": 5,
+      "text": "Last meal of 2022! A friend and I shared the spicy peri peri sandwich and the Italian sub. De-Li-Cious. You can taste the passion and dedication they put into their craft. This is our first time visiting Minneapolis, and The Herbivorous Butcher is the only food establishment to which we gave patronage. Looking forward to future visits!",
+      "date": "3 years ago"
+    },
+    {
+      "author": "Brittany Comparato",
+      "rating": 5,
+      "text": "New to the Mpls area and stopped at the Herbivorous Butcher stand at the Minnesota State Fair (tried visiting at the Vikings game, but they had just experienced a fire at their brick & mortar store downtown). I ordered the \"Dude Where's My Strips\" bacon fried chicken strips with Ranchy Romance dipping sauce. Absolutely mind-blowing! Even shared with my kids and they thought I accidentally bought real chicken tenders. These things were crispy, and flavorful, not too salty or greasy, and the dilly sauce was creamy and delicious. Instantly my favorite thing I've had at the fair and I can't wait to visit their store soon. I hope their shop recovers quick from their recent fire.",
+      "date": "Edited 4 months ago"
+    },
+    {
+      "author": "karate Karl",
+      "rating": 5,
+      "text": "As someone who doesn’t usually partake in vegan or vegetarian options, this was a fantastic experience found through DDD.\nThe meats are spot on for textures and chew, the bread is soft and their cheeses are a great substitution for the real deal.\nWould recommend to anyone looking to experience a vegan deli.",
+      "date": "9 months ago"
+    },
+    {
+      "author": "Holly Witt",
+      "rating": 5,
+      "text": "This is a small local deli-style joint specializing in vegan meats and cheese, also selling some sandwiches, brats, and vegan baked goods as well. I went here for the first time recently and really enjoyed their sriracha bratwurst and also their havarti cheese. I look forward to returning back and trying more items.",
+      "date": "10 months ago"
+    },
+    {
+      "author": "Philip",
+      "rating": 5,
+      "text": "Amazing vegan place, really affordable sandwiches, and an amazing selection of vegan meats. For someone who is sick of every restaurant just having a beyond burger or impossible burger this place is very refreshing and delicious. Sandwiches are about 12.50 for about a 10” long traditional sandwich on a French roll. And you can spend as much as you want on their specialty meats",
+      "date": "a year ago"
+    },
+    {
+      "author": "Roberta Peek",
+      "rating": 5,
+      "text": "I've been wanting to come here for years and finally I'm visiting and got my chance to check it out. Was not disappointed. I spent way too much money but I wasn't coming back through so damn near bought one of everything. I got the Hawaiian Pulled Pork Panini. Yummy. The Italian Cold Cut. Delicious. Then I bought Korean Jerky, Korean BBQ ribs, Maple Bacon, Maple Sage Breakfast Sausage, Fried Chicken Bites, and Brie cheese to try later. So far not disappointed with the jerky or the ribs. The textures and flavors are spot on. Very happy. They do ship but it's just easier to get it here.",
+      "date": "a year ago"
+    }
+  ]
 }

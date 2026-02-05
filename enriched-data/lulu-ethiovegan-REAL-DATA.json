@@ -1,7 +1,7 @@
 {
   "slug": "lulu-ethiovegan",
   "extractedAt": "2026-02-05T04:55:25.195Z",
-  "dataQuality": "REAL - Extracted from website and Google reviews",
+  "dataQuality": "REAL - From 100 Apify-scraped Google reviews",
   "ratings": {
     "aggregate": 4.9,
     "sources": {
@@ -20,46 +20,56 @@
       "name": "Awaze Tibs",
       "price": null,
       "size": null,
-      "reviewMentions": 2,
+      "reviewMentions": 5,
       "quotes": [
-        "next Awaze tibs which I normally don't see in another Ethiopian restaurant, i took the risk to try it and its ok for my tastebuds.",
-        "I got the hummus & awaze tibs! Highly recommend :)"
+        "I got the hummus & awaze tibs",
+        "I tried Sambusa appetizer which is good, next Awaze tibs which I normally don't see in another Ethiopian restaurant, i took the risk to try it and its ok for my tastebuds",
+        "I got the veggie sampler and awaze tibs for take out and both were excellent, especially the awaze tibs"
       ],
       "description": "A savory main dish, noted by a reviewer as being uncommon in other Ethiopian restaurants.",
-      "whyPeopleLoveIt": "It's considered a unique and highly recommended dish, praised for its incredible flavor."
+      "whyPeopleLoveIt": "It's considered a unique and highly recommended dish, praised for its incredible flavor.",
+      "badge": "Top Pick"
     },
     {
       "name": "Sambusa",
       "price": null,
       "size": "appetizer",
-      "reviewMentions": 1,
+      "reviewMentions": 10,
       "quotes": [
-        "I tried Sambusa appetizer which is good"
+        "I tried Sambusa appetizer which is good, next Awaze tibs which I normally don't see in another Ethiopian restaurant, i took the risk to try it and its ok for my tastebuds",
+        "Very fresh, well spiced sambusa",
+        "We ordered the Veggie Large Sampler and the sambusa appetizer"
       ],
       "description": "A savory appetizer, likely a stuffed pastry.",
-      "whyPeopleLoveIt": "It's mentioned as a straightforward and good starter for the meal."
+      "whyPeopleLoveIt": "It's mentioned as a straightforward and good starter for the meal.",
+      "badge": "Top Pick"
     },
     {
       "name": "Vegan Baklava",
       "price": null,
       "size": "dessert",
-      "reviewMentions": 1,
+      "reviewMentions": 2,
       "quotes": [
-        "I tried the baklava here as its rare to find a vegan baklava."
+        "I tried the baklava here as its rare to find a vegan baklava",
+        "Delicious vegan baklava"
       ],
       "description": "A sweet, layered pastry dessert made without any animal products.",
-      "whyPeopleLoveIt": "It is highly appreciated because finding a vegan version of this classic dessert is very uncommon."
+      "whyPeopleLoveIt": "It is highly appreciated because finding a vegan version of this classic dessert is very uncommon.",
+      "badge": "Popular"
     },
     {
       "name": "Hummus",
       "price": null,
       "size": null,
-      "reviewMentions": 1,
+      "reviewMentions": 3,
       "quotes": [
-        "I got the hummus & awaze tibs! Highly recommend :)"
+        "I'm not going to name that dish, but please believe everything else on that platter plus the hummus made up for it",
+        "I got the hummus & awaze tibs",
+        "They also have some other diverse Mediterranean and American dishes like falafel, hummus, and a vegan burger"
       ],
       "description": "A classic dip, likely made from chickpeas, served alongside main dishes.",
-      "whyPeopleLoveIt": "It is served as part of a highly recommended main course combination."
+      "whyPeopleLoveIt": "It is served as part of a highly recommended main course combination.",
+      "badge": "Popular"
     },
     {
       "name": "Spice Blend",
@@ -67,10 +77,11 @@
       "size": "retail product",
       "reviewMentions": 1,
       "quotes": [
-        "They even sell a few products, I picked up a spice blend that looks amazing."
+        "They even sell a few products, I picked up a spice blend that looks amazing"
       ],
       "description": "A blend of spices available for purchase at the restaurant.",
-      "whyPeopleLoveIt": "It allows customers to take home the flavors of the restaurant's cuisine."
+      "whyPeopleLoveIt": "It allows customers to take home the flavors of the restaurant's cuisine.",
+      "badge": "Featured"
     }
   ],
   "reviewInsights": {
@@ -111,5 +122,68 @@
       "insight": "For easier access, there is a parking lot in the alley with a back door entrance to the restaurant.",
       "bestTime": null
     }
-  ]
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Dean",
+      "rating": 5,
+      "text": "I've had Ethiopian food at a few different places and Lulu's is my favorite. They have the traditional dishes you'd expect served with injera (lentils, split peas, potatoes, green beans, etc.) cooked with excellent spices. They also have some other diverse Mediterranean and American dishes like falafel, hummus, and a vegan burger. The sweet potato fries in particular are some of the best I've ever had; almost as tender as yams with a satisfying crisp.\n\nThey also have some vegan desserts like cupcakes, brownies, and (honey-free) baklava. The cuisine is naturally very vegan-friendly, but being able to have everything on the menu is a further plus.",
+      "date": "3 months ago"
+    },
+    {
+      "author": "Eli Houghton",
+      "rating": 5,
+      "text": "Took my picky 15-year old son to try Lulu EthioVegan Cuisine. He typically sticks to Impossible Burgers and Mac and Cheese. He loved the food here! So did I. We ordered Sambusas and the Medium Veggie Sampler. Everything was delicious. This seems to be a family-run business and you can tell they put a lot of care into the service and the food. Can't wait to go back.",
+      "date": "a year ago"
+    },
+    {
+      "author": "Ryn Marchese",
+      "rating": 5,
+      "text": "This restaurant is a must-visit for vegans and non-vegans! I stumbled upon it during a conference visit and have since made it a regular stop whenever I’m in Minneapolis—sometimes even multiple times. The food is incredible, the drinks are delicious, and the owner has an amazing memory. She not only remembered me months between visits but also my order!",
+      "date": "7 months ago"
+    },
+    {
+      "author": "Maria W",
+      "rating": 5,
+      "text": "Absolutely delicious food, cozy atmosphere, great service, reasonable prices. I highly recommend this restaurant to vegans and non-vegans alike. The food is hearty and scrumptious, and the staff was very inviting and attentive. They had a great selection, including drinks, appetizers, main meals, and desserts. They even sell a few products, I picked up a spice blend that looks amazing.",
+      "date": "4 days ago"
+    },
+    {
+      "author": "Mrs Woo",
+      "rating": 5,
+      "text": "This food was so DELICIOUS! The flavors were on point and the presentation absolutely beautiful. This was my first experience with Ethiopian food but it's definitely going to be my weekend treat. If you're looking for vegetarian food that speaks to your soul, fills your tummy, and makes you forget that you're normally a carnivore This is the place to go. We had the family plate that had all the main course dishes and honestly only one item that didn't work for me but I can definitely see where others would love it. I'm not going to name that dish, but please believe everything else on that platter plus the hummus made up for it. Please go and check them out you won't regret it!",
+      "date": "a month ago"
+    },
+    {
+      "author": "Chandra",
+      "rating": 5,
+      "text": "This restaurant is all vegan. And the food is very good. I tried Sambusa appetizer which is good, next Awaze tibs which I normally don't see in another Ethiopian restaurant, i took the risk to try it and its ok for my tastebuds. I tried the baklava here as its rare to find a vegan baklava. They are all good",
+      "date": "2 months ago"
+    },
+    {
+      "author": "Heather Lidholm",
+      "rating": 5,
+      "text": "We found this place while looking for a vegan option for sharing with friends. This place had such amazing food. Without knowing what the whole group would want, we got the sampler. It was delicious and flavorful. We have gotten it several more times since finding this restaurant.",
+      "date": "2 months ago"
+    },
+    {
+      "author": "John Doan",
+      "rating": 5,
+      "text": "The best Ethiopian food ever. And it's vegan. So tasty and the portions were huge. Order the sampler and you will not go wrong with any of the chef choices. We had a late dinner that concluded with a delightful conversation with the owner. Highly recommend Lulu to anyone interested in East African cuisine.",
+      "date": "3 months ago"
+    },
+    {
+      "author": "Mandy Shea Williams",
+      "rating": 5,
+      "text": "Lulu's was amazing, and really appreciate it's all VEGAN. 🌱\n\nOwner's son greeted me & took my order; helped me narrow down my options, as there really is so much to choose from, even helped me figure out how to order smaller version of certain menu items, so I could try more dishes.\n\nLulu herself brought out my main dish, and she was so sweet & kind.\n\nEverything came out fast, yet everything was super fresh, super hot & full of flavor. 🔥\n\nSuper impressed! It was my first time, but I will definitely be back. Thank you, Lulu & fam! 💜",
+      "date": "4 months ago"
+    },
+    {
+      "author": "Michele Plower",
+      "rating": 5,
+      "text": "My husband and I went to the cities for a weekend away. Our goal was to eat only at places we haven't been to previously. Lulu EthioVegan was hands down one of the best experiences we've had in a long time! The food was served hot, flavorful beyond comparison, and everyone was friendly and attentive. We ordered the Veggie Large Sampler and the sambusa appetizer. We will definitely be back, our eyes were bigger than our stomachs!",
+      "date": "5 months ago"
+    }
+  ],
+  "lastUpdated": "2026-02-05T20:11:14.749Z"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "reverie-cafe-bar",
   "extractedAt": "2026-02-05T04:54:48.151Z",
-  "dataQuality": "ENHANCED - Estimated mention counts based on review volume",
+  "dataQuality": "REAL - From 100 Apify-scraped Google reviews",
   "ratings": {
     "aggregate": 4.7,
     "sources": {
@@ -20,70 +20,75 @@
       "name": "Mock Duck Korean BBQ Tacos",
       "price": null,
       "size": null,
-      "reviewMentions": 40,
+      "reviewMentions": 1,
       "quotes": [
-        "the mock duck Korean BBQ tacos were outstanding.",
-        "So much texture and the flavor of the (mock) duck was delicious; so, you don't even think about 'mock meat'."
+        "Went for lunch and the mock duck Korean BBQ tacos were outstanding"
       ],
       "description": "Tacos with a mock duck filling, Korean BBQ sauce, and fresh pickles, served with an arugula side salad.",
-      "whyPeopleLoveIt": "The texture and flavor are so convincing and delicious that it impresses both vegans and non-vegans."
+      "whyPeopleLoveIt": "The texture and flavor are so convincing and delicious that it impresses both vegans and non-vegans.",
+      "badge": "Featured"
     },
     {
       "name": "Mac and Cheese",
       "price": null,
       "size": null,
-      "reviewMentions": 25,
+      "reviewMentions": 6,
       "quotes": [
-        "The beignets were excellent and the Mac and cheese mature and Smokey.",
-        "we enjoyed the mac & cheese"
+        "The beignets were excellent and the Mac and cheese mature and Smokey",
+        "Next was the vegan Mac and cheese with shiitake mushroom bacon",
+        "The mac and cheese was delicious"
       ],
       "description": "A vegan macaroni and cheese dish with a sophisticated flavor.",
-      "whyPeopleLoveIt": "Customers appreciate its mature and smokey flavor profile, elevating it beyond a simple comfort dish."
+      "whyPeopleLoveIt": "Customers appreciate its mature and smokey flavor profile, elevating it beyond a simple comfort dish.",
+      "badge": "Top Pick"
     },
     {
       "name": "French Toast",
       "price": null,
       "size": null,
-      "reviewMentions": 20,
+      "reviewMentions": 1,
       "quotes": [
-        "Non vegan here: this is the best French toast I ever eaten.",
-        "Perfect texture, mint citrus cream was heavenly, was suspicious of jerk sauce, but the flavors blended perfectly. Astonishingly good."
+        "Non vegan here: this is the best French toast I ever eaten"
       ],
       "description": "Vegan French toast served with a mint citrus cream and a jerk sauce.",
-      "whyPeopleLoveIt": "It's praised for its perfect texture and a unique, heavenly flavor combination that impresses even non-vegans."
+      "whyPeopleLoveIt": "It's praised for its perfect texture and a unique, heavenly flavor combination that impresses even non-vegans.",
+      "badge": "Featured"
     },
     {
       "name": "Vegan Eggs Benedict",
       "price": null,
       "size": null,
-      "reviewMentions": 30,
+      "reviewMentions": 1,
       "quotes": [
-        "Had the vegan eggs Benedict on a biscuit. Fantastic flavor and texture!"
+        "Had the vegan eggs Benedict on a biscuit"
       ],
       "description": "A vegan version of the classic Eggs Benedict, served on a biscuit.",
-      "whyPeopleLoveIt": "It successfully replicates the classic dish with fantastic flavor and texture."
+      "whyPeopleLoveIt": "It successfully replicates the classic dish with fantastic flavor and texture.",
+      "badge": "Featured"
     },
     {
       "name": "Beignets",
       "price": null,
       "size": null,
-      "reviewMentions": 12,
+      "reviewMentions": 3,
       "quotes": [
-        "The beignets were excellent"
+        "The beignets were excellent and the Mac and cheese mature and Smokey",
+        "Food was excellent with the beignets being a must try as well as the Rev burger",
+        "We got the beignets, a couple burgers and Mac and cheese"
       ],
       "description": "Fried vegan pastries, similar to doughnuts.",
-      "whyPeopleLoveIt": "They are simply described as 'excellent' by customers."
+      "whyPeopleLoveIt": "They are simply described as 'excellent' by customers.",
+      "badge": "Popular"
     },
     {
       "name": "Cuban Sandwich",
       "price": null,
       "size": null,
-      "reviewMentions": 20,
-      "quotes": [
-        "we enjoyed the mac & cheese / Cuban / Memphis Ckn"
-      ],
+      "reviewMentions": 0,
+      "quotes": [],
       "description": "A vegan take on the classic Cuban sandwich.",
-      "whyPeopleLoveIt": "It's mentioned as one of the enjoyable main entree options."
+      "whyPeopleLoveIt": "It's mentioned as one of the enjoyable main entree options.",
+      "badge": null
     }
   ],
   "reviewInsights": {
@@ -123,5 +128,67 @@
       "bestTime": "Visit outside of the peak lunch period for potentially faster service."
     }
   ],
-  "lastUpdated": "2026-02-05T05:45:58.687Z"
+  "lastUpdated": "2026-02-05T20:11:14.493Z",
+  "highlightedReviews": [
+    {
+      "author": "Don Dude",
+      "rating": 5,
+      "text": "This was a great vegan place!  I don't often search out vegan. I have no issue with veg/vegan, and a friend is hardcore vegan; so, I took them there when they were in town.\n\nThis is a classic Twin Cities eclectic specialty restaurant /cafe soany of us renused to on the different neighborhoods!\nWent for lunch and the mock duck Korean BBQ tacos were outstanding.  So much texture and the flavor of the (mock) duck was delicious; so,  you don't even think about 'mock meat'.  I want to note the fresh pickle were very good and great counter flavor pairing. I mean really good.  The arugula side salad was perfectly dressed and a good pairing with the crunchy sweetness of the tacos.  The BLT was good as well\nThey have a very good almost all regional microbrews.  But only pint pours (no half pours, I asked 😉)\nCounter service and they bring out to based on a table flag.  It can be a little slow during peak lunch period, but it was worth the wait.  Some small table seating but shared long tables make up about half the seating area.  Also a counter area/bar area.\nCounter can help you with any questions.  Very knowledgeable.",
+      "date": "2 months ago"
+    },
+    {
+      "author": "Andrew Lewandowski",
+      "rating": 5,
+      "text": "best all vegan restaurant MN.\n\nmac and cheese? bangs.\nburger? bangs.\ncauliflower tacos? bangs.\n\nThis is probably the only all vegan restaurant I could safely take an omnivore to and them not think it sucks in the entire metro area. I'm not saying that all other vegan restaurants suck, but reverie distinctly hits like a standard omnivore restaurant where the others cater to vegan palettes (and are also good).\n\nThe prices are also exceedingly reasonable considering the quality of food, the service, and the transformation of ingredients. This is one of the only vegan restaurants I have ever been to that I don't feel like I'm being had.",
+      "date": "a month ago"
+    },
+    {
+      "author": "Tour Monde",
+      "rating": 5,
+      "text": "just outrageous ! - seriously gourmet dining - shouldn't have to be labeled \"vegan\", it's impeccable flavor profiles = fine dining experience + great business concept ... we enjoyed the mac & cheese / Cuban / Memphis Ckn...can't wait to get back & try all the other entree options - PS - worthy selection of quality beverages !",
+      "date": "3 months ago"
+    },
+    {
+      "author": "Justin Norman",
+      "rating": 5,
+      "text": "The cauliflower tacos, salad, burger, and breakfast sandwich are all amazingly tasty, and the crispy tempeh burger my girlfriend got was fantastic as well. The space is beautifully painted and has a very nice atmosphere. Highly recommended to other vegans looking for delicious diner food. However, it must be said that this is not the best pick if you’re in a hurry. Service has been quite a bit slower than usual on 2 out of 3 times I’ve visited, even when there are hardly any other customers.",
+      "date": "Edited 4 months ago"
+    },
+    {
+      "author": "stephan martin",
+      "rating": 5,
+      "text": "My daughter and I traveled from maine to see the MOA a month ago and heard about this place. The mac and cheese was delicious.  I loved the breakfast sandwich,  the biscuit was perfect. But the surprise was the chocolate beignet. That was heaven. I would fly back just for this restaurant. The art decor, atmosphere, the kind waitstaff is a perfect combination with the fabulous food to choose from. Plus it's all vegan, thank you for sharing your passion.",
+      "date": "4 months ago"
+    },
+    {
+      "author": "Hallee Caron",
+      "rating": 5,
+      "text": "Visited Reverie for dinner with two kids on day 9 of a 10 day trip. It had been a day. Thankfully, Kate who took my order was an absolute lifesaver. Kate was super patient with me while I ordered for my spouse and kids and then realized I forgot to look at the menu for myself. Kate offered me some\nlemonade, helped me take a minute and probably prevented me from having a meltdown. I asked for a recommendation and it was amazing — the vegan chef challenge tacos as a rice bowl. The food was absolutely delicious but the customer service was above and beyond. Also, they pay their workers a living wage and are therefore a non-tipping establishment.",
+      "date": "5 months ago"
+    },
+    {
+      "author": "Jordan",
+      "rating": 5,
+      "text": "I had the tofu tacos and potato wedges (plus the cherry lime var for dessert). They were delicious! My friend was very happy with his meal as well!\nThe atmosphere is cute and the prices are reasonable, especially since its a non-tip restaurant. I'm not a vegan, and the nenu was enticing to me anyway. I'll definitely be back!",
+      "date": "6 months ago"
+    },
+    {
+      "author": "Liz Fathman",
+      "rating": 5,
+      "text": "Our organization is in town for a staff retreat. We had the pleasure of having our evening meal catered by Reverie. It was hands down the best meal we've had all week. The mock duck, smoky potato salad, and mushroom Mac and cheese were delicious. In fact, one of my colleagues said the food was obviously made with love. I agree.",
+      "date": "8 months ago"
+    },
+    {
+      "author": "Marc Stern",
+      "rating": 5,
+      "text": "Fabulous food if you enjoy vegan. Everything tastes good! Recommend the tacos, burgers, potato wedges, chips, brownies, and pudding, but you can't really go wrong. Good variety of drinks, whether you prefer with alcohol or without. Staff is super friendly, welcoming, and open to your questions and requests. Nice outdoor seating option.",
+      "date": "9 months ago"
+    },
+    {
+      "author": "Kelley Quigley",
+      "rating": 5,
+      "text": "I wanted to try several things so got the Kimcheeze sandwich, the mac n cheese, and the potato salad. If you like tempeh and Brussels sprouts, you'll probably love the kim cheese! The mac was so flavorful, especially the mushroom bacon topping. The potato salad was quite different than I'm used to - very dill heavy & maybe something like horseradish or wasabi? I'm not sure, but it was definitely not the norm for me. I love dill though & ate it all. Can't wait to go again & try more!",
+      "date": "7 months ago"
+    }
+  ]
 }
