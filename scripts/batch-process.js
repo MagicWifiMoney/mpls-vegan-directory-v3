@@ -73,18 +73,14 @@ async function processRestaurant(restaurant) {
     // Step 1: Scrape reviews via Apify
     console.log('\n[1/2] Scraping reviews from Google Maps via Apify...');
     execSync(
-      `node scripts/apify-scrape-reviews.js "${name}" "${slug}"`,
+      `node scripts/apify-scrape-reviews-fixed.js "${name}" "${slug}"`,
       { stdio: 'inherit', cwd: path.join(__dirname, '..') }
     );
     
-    // Wait a few seconds for Apify to process
-    console.log('\n⏳ Waiting 5 seconds for Apify to finish...');
-    await new Promise(resolve => setTimeout(resolve, 5000));
-    
-    // Step 2: Process reviews with Gemini
-    console.log('\n[2/2] Processing reviews with Gemini...');
+    // Step 2: Process reviews
+    console.log('\n[2/2] Processing reviews...');
     execSync(
-      `node scripts/process-apify-reviews.js "${slug}"`,
+      `node scripts/process-apify-reviews-fixed2.js "${slug}"`,
       { stdio: 'inherit', cwd: path.join(__dirname, '..') }
     );
     
