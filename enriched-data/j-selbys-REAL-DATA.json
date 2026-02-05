@@ -1,0 +1,136 @@
+{
+  "slug": "j-selbys",
+  "extractedAt": "2026-02-05T04:54:13.692Z",
+  "dataQuality": "REAL - Extracted from website and Google reviews",
+  "ratings": {
+    "aggregate": 4.7,
+    "sources": {
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 2919
+      },
+      "yelp": {
+        "rating": null,
+        "reviewCount": 0
+      }
+    }
+  },
+  "topProducts": [
+    {
+      "name": "Cauliflower Wings",
+      "price": null,
+      "size": null,
+      "reviewMentions": 3,
+      "quotes": [
+        "The cauliflower wings were fantastic, and the ranch dipping sauce was so good that I’d come back just to have it again with fries",
+        "Wings were amazing!"
+      ],
+      "description": "Crispy cauliflower florets served as a plant-based alternative to chicken wings, often accompanied by dipping sauces.",
+      "whyPeopleLoveIt": "Customers praise them for being fantastic and amazing, with a particularly noteworthy ranch dipping sauce."
+    },
+    {
+      "name": "Dirty Secret Burger",
+      "price": null,
+      "size": null,
+      "reviewMentions": 2,
+      "quotes": [
+        "Burger was served wet with sauce. A little dab will do ya. Wife struggled to eat the burger.",
+        "The chickin’ burger didn’t hit the spot for me"
+      ],
+      "description": "A signature plant-based burger. While one review mentions a 'chickin' burger', another complains about a burger being too wet with sauce.",
+      "whyPeopleLoveIt": "It is a signature item mentioned on the website, though reviews suggest execution can be inconsistent, with some finding it overly saucy."
+    },
+    {
+      "name": "SoyClone / Frostbites",
+      "price": null,
+      "size": null,
+      "reviewMentions": 2,
+      "quotes": [
+        "We got the frostbites, which are a thicker version of a milkshake. I wasn’t such a fan of these either, they tasted a little chemically to me.",
+        "I look forward to returning for the popular shakes and more!"
+      ],
+      "description": "A thick, plant-based milkshake dessert, also referred to as a Frostbite. Mentioned as a popular item.",
+      "whyPeopleLoveIt": "They are noted as a popular item and a thicker version of a traditional milkshake, though one customer found the taste to be 'chemically'."
+    },
+    {
+      "name": "Cake",
+      "price": null,
+      "size": "slice",
+      "reviewMentions": 3,
+      "quotes": [
+        "the carrot cake was rich and delicious",
+        "The cake we had was good at least.",
+        "We shared the buffalo “chicken” wrap, chopped cheese steak and chocolate cake. All vegan. Absolutely delicious!"
+      ],
+      "description": "The restaurant offers various cakes, including carrot and chocolate varieties. All are vegan.",
+      "whyPeopleLoveIt": "The cakes are consistently praised as being rich, delicious, and a satisfying part of the meal."
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": null,
+      "size": null,
+      "reviewMentions": 2,
+      "quotes": [
+        "Steak sandwich was burned beyond acceptable crisp. Tasted like ash.",
+        "We shared the buffalo “chicken” wrap, chopped cheese steak and chocolate cake. All vegan. Absolutely delicious!"
+      ],
+      "description": "A plant-based steak-style sandwich, also referred to as a chopped cheese steak.",
+      "whyPeopleLoveIt": "Reception is mixed; one customer called it delicious while another received one that was severely burnt."
+    },
+    {
+      "name": "Buffalo 'Chicken' Wrap",
+      "price": null,
+      "size": null,
+      "reviewMentions": 2,
+      "quotes": [
+        "The chicken bacon ranch wrap was perfect and would be great with some extra sauce for dipping.",
+        "I also found the buffalo wrap too heavy the time before. Lots of soy curls and sauce and not a lot of veggies to cut through all of the heaviness."
+      ],
+      "description": "A wrap filled with plant-based 'chicken' (soy curls) and buffalo sauce. A chicken bacon ranch version is also mentioned.",
+      "whyPeopleLoveIt": "One customer found the chicken bacon ranch version 'perfect', while another felt the buffalo version was too heavy on sauce and soy curls without enough vegetables."
+    }
+  ],
+  "reviewInsights": {
+    "mostUsedPhrases": [
+      {
+        "phrase": "plant based",
+        "count": 2
+      },
+      {
+        "phrase": "cauliflower wings",
+        "count": 2
+      },
+      {
+        "phrase": "cake",
+        "count": 3
+      },
+      {
+        "phrase": "wrap",
+        "count": 3
+      },
+      {
+        "phrase": "heavy",
+        "count": 2
+      }
+    ],
+    "commonCompliments": [
+      "Good atmosphere and energy",
+      "Delicious cauliflower wings and ranch sauce",
+      "Rich and delicious cakes",
+      "Friendly employees"
+    ],
+    "commonCritiques": [
+      "Food can be burnt or poorly prepared",
+      "Dishes are often too heavy, salty, or fatty",
+      "Some items lack flavor or are bland",
+      "Inconsistent food quality for the price",
+      "Poor service coupled with automatic gratuity"
+    ]
+  },
+  "timingInsights": [
+    {
+      "insight": "No specific data on wait times is available in the provided reviews.",
+      "bestTime": "Not specified"
+    }
+  ]
+}

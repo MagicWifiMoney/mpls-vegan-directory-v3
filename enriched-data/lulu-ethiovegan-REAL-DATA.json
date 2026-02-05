@@ -1,0 +1,115 @@
+{
+  "slug": "lulu-ethiovegan",
+  "extractedAt": "2026-02-05T04:55:25.195Z",
+  "dataQuality": "REAL - Extracted from website and Google reviews",
+  "ratings": {
+    "aggregate": 4.9,
+    "sources": {
+      "google": {
+        "rating": 4.9,
+        "reviewCount": 305
+      },
+      "yelp": {
+        "rating": null,
+        "reviewCount": 0
+      }
+    }
+  },
+  "topProducts": [
+    {
+      "name": "Awaze Tibs",
+      "price": null,
+      "size": null,
+      "reviewMentions": 2,
+      "quotes": [
+        "next Awaze tibs which I normally don't see in another Ethiopian restaurant, i took the risk to try it and its ok for my tastebuds.",
+        "I got the hummus & awaze tibs! Highly recommend :)"
+      ],
+      "description": "A savory main dish, noted by a reviewer as being uncommon in other Ethiopian restaurants.",
+      "whyPeopleLoveIt": "It's considered a unique and highly recommended dish, praised for its incredible flavor."
+    },
+    {
+      "name": "Sambusa",
+      "price": null,
+      "size": "appetizer",
+      "reviewMentions": 1,
+      "quotes": [
+        "I tried Sambusa appetizer which is good"
+      ],
+      "description": "A savory appetizer, likely a stuffed pastry.",
+      "whyPeopleLoveIt": "It's mentioned as a straightforward and good starter for the meal."
+    },
+    {
+      "name": "Vegan Baklava",
+      "price": null,
+      "size": "dessert",
+      "reviewMentions": 1,
+      "quotes": [
+        "I tried the baklava here as its rare to find a vegan baklava."
+      ],
+      "description": "A sweet, layered pastry dessert made without any animal products.",
+      "whyPeopleLoveIt": "It is highly appreciated because finding a vegan version of this classic dessert is very uncommon."
+    },
+    {
+      "name": "Hummus",
+      "price": null,
+      "size": null,
+      "reviewMentions": 1,
+      "quotes": [
+        "I got the hummus & awaze tibs! Highly recommend :)"
+      ],
+      "description": "A classic dip, likely made from chickpeas, served alongside main dishes.",
+      "whyPeopleLoveIt": "It is served as part of a highly recommended main course combination."
+    },
+    {
+      "name": "Spice Blend",
+      "price": null,
+      "size": "retail product",
+      "reviewMentions": 1,
+      "quotes": [
+        "They even sell a few products, I picked up a spice blend that looks amazing."
+      ],
+      "description": "A blend of spices available for purchase at the restaurant.",
+      "whyPeopleLoveIt": "It allows customers to take home the flavors of the restaurant's cuisine."
+    }
+  ],
+  "reviewInsights": {
+    "mostUsedPhrases": [
+      {
+        "phrase": "first time",
+        "count": 3
+      },
+      {
+        "phrase": "all vegan",
+        "count": 2
+      },
+      {
+        "phrase": "owner and family",
+        "count": 2
+      },
+      {
+        "phrase": "Ethiopian food",
+        "count": 2
+      }
+    ],
+    "commonCompliments": [
+      "The food is incredible, amazing, and delicious.",
+      "Service is great, with very kind, sweet, and attentive staff (owner and family).",
+      "The restaurant has a super cute, cozy, and clean atmosphere.",
+      "It's a fully vegan restaurant, which is highly appreciated.",
+      "Service is fast and the food comes out fresh and hot.",
+      "Prices are reasonable."
+    ],
+    "commonCritiques": []
+  },
+  "timingInsights": [
+    {
+      "insight": "Food is served very quickly after ordering.",
+      "bestTime": "Anytime, given the fast service."
+    },
+    {
+      "insight": "For easier access, there is a parking lot in the alley with a back door entrance to the restaurant.",
+      "bestTime": null
+    }
+  ]
+}
