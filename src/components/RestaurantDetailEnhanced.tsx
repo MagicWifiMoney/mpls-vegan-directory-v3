@@ -160,85 +160,6 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
         </div>
       </div>
 
-      {/* Photo Gallery with Categories */}
-      {photos.length > 0 && (
-        <section>
-          {/* Category Tabs */}
-          <div className="flex gap-2 mb-4 overflow-x-auto">
-            {(['all', 'food', 'menu', 'interior'] as const).map((category) => (
-              <button
-                key={category}
-                onClick={() => {
-                  setActivePhotoCategory(category);
-                  setActivePhoto(0);
-                }}
-                className={`px-4 py-2 rounded-full text-sm font-medium transition whitespace-nowrap ${
-                  activePhotoCategory === category
-                    ? 'bg-[#d4a574] text-[#1a1a1a]'
-                    : 'bg-[#f5f0e8]/5 text-[#f5f0e8]/60 hover:bg-[#f5f0e8]/10'
-                }`}
-              >
-                {category === 'all' && `All (${categorizedPhotos.all.length})`}
-                {category === 'food' && `🍽️ Food (${categorizedPhotos.food.length})`}
-                {category === 'menu' && `📋 Menu (${categorizedPhotos.menu.length})`}
-                {category === 'interior' && `🏠 Interior (${categorizedPhotos.interior.length})`}
-              </button>
-            ))}
-          </div>
-
-          <div className="relative h-[60vh] rounded-2xl overflow-hidden mb-4">
-            <Image
-              src={photos[activePhoto]}
-              alt={`${restaurant.name} - ${activePhotoCategory} Photo ${activePhoto + 1}`}
-              fill
-              className="object-cover"
-              unoptimized
-            />
-            
-            {photos.length > 1 && (
-              <>
-                <button
-                  onClick={() => setActivePhoto((activePhoto - 1 + photos.length) % photos.length)}
-                  className="absolute left-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-black/60 hover:bg-black/80 backdrop-blur-sm flex items-center justify-center text-white transition"
-                >
-                  ←
-                </button>
-                <button
-                  onClick={() => setActivePhoto((activePhoto + 1) % photos.length)}
-                  className="absolute right-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-black/60 hover:bg-black/80 backdrop-blur-sm flex items-center justify-center text-white transition"
-                >
-                  →
-                </button>
-              </>
-            )}
-            
-            <div className="absolute bottom-4 right-4 px-3 py-1.5 rounded-full bg-black/60 backdrop-blur-sm text-white text-sm">
-              {activePhoto + 1} / {photos.length}
-            </div>
-          </div>
-
-          <div className="flex gap-2 overflow-x-auto pb-2">
-            {photos.slice(0, 10).map((photo, idx) => (
-              <button
-                key={idx}
-                onClick={() => setActivePhoto(idx)}
-                className={`relative flex-shrink-0 w-24 h-24 rounded-lg overflow-hidden ${
-                  activePhoto === idx ? 'ring-2 ring-[#d4a574]' : 'opacity-60 hover:opacity-100'
-                } transition`}
-              >
-                <Image
-                  src={photo}
-                  alt={`Thumbnail ${idx + 1}`}
-                  fill
-                  className="object-cover"
-                  unoptimized
-                />
-              </button>
-            ))}
-          </div>
-        </section>
-      )}
-
       {/* Enhanced What to Order - Real Data from Reviews */}
       {(() => {
         // Use real data if available for this restaurant, fallback to basic data
@@ -560,6 +481,85 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
             : (placeDetails?.userRatingsTotal || reviewCount)
         }
       />
+
+      {/* Photo Gallery with Categories */}
+      {photos.length > 0 && (
+        <section>
+          {/* Category Tabs */}
+          <div className="flex gap-2 mb-4 overflow-x-auto">
+            {(['all', 'food', 'menu', 'interior'] as const).map((category) => (
+              <button
+                key={category}
+                onClick={() => {
+                  setActivePhotoCategory(category);
+                  setActivePhoto(0);
+                }}
+                className={`px-4 py-2 rounded-full text-sm font-medium transition whitespace-nowrap ${
+                  activePhotoCategory === category
+                    ? 'bg-[#d4a574] text-[#1a1a1a]'
+                    : 'bg-[#f5f0e8]/5 text-[#f5f0e8]/60 hover:bg-[#f5f0e8]/10'
+                }`}
+              >
+                {category === 'all' && `All (${categorizedPhotos.all.length})`}
+                {category === 'food' && `🍽️ Food (${categorizedPhotos.food.length})`}
+                {category === 'menu' && `📋 Menu (${categorizedPhotos.menu.length})`}
+                {category === 'interior' && `🏠 Interior (${categorizedPhotos.interior.length})`}
+              </button>
+            ))}
+          </div>
+
+          <div className="relative h-[60vh] rounded-2xl overflow-hidden mb-4">
+            <Image
+              src={photos[activePhoto]}
+              alt={`${restaurant.name} - ${activePhotoCategory} Photo ${activePhoto + 1}`}
+              fill
+              className="object-cover"
+              unoptimized
+            />
+            
+            {photos.length > 1 && (
+              <>
+                <button
+                  onClick={() => setActivePhoto((activePhoto - 1 + photos.length) % photos.length)}
+                  className="absolute left-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-black/60 hover:bg-black/80 backdrop-blur-sm flex items-center justify-center text-white transition"
+                >
+                  ←
+                </button>
+                <button
+                  onClick={() => setActivePhoto((activePhoto + 1) % photos.length)}
+                  className="absolute right-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-black/60 hover:bg-black/80 backdrop-blur-sm flex items-center justify-center text-white transition"
+                >
+                  →
+                </button>
+              </>
+            )}
+            
+            <div className="absolute bottom-4 right-4 px-3 py-1.5 rounded-full bg-black/60 backdrop-blur-sm text-white text-sm">
+              {activePhoto + 1} / {photos.length}
+            </div>
+          </div>
+
+          <div className="flex gap-2 overflow-x-auto pb-2">
+            {photos.slice(0, 10).map((photo, idx) => (
+              <button
+                key={idx}
+                onClick={() => setActivePhoto(idx)}
+                className={`relative flex-shrink-0 w-24 h-24 rounded-lg overflow-hidden ${
+                  activePhoto === idx ? 'ring-2 ring-[#d4a574]' : 'opacity-60 hover:opacity-100'
+                } transition`}
+              >
+                <Image
+                  src={photo}
+                  alt={`Thumbnail ${idx + 1}`}
+                  fill
+                  className="object-cover"
+                  unoptimized
+                />
+              </button>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* CTA */}
       <div className="card-elevated p-8 rounded-2xl text-center">
