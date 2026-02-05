@@ -4,11 +4,13 @@ import { useState } from 'react';
 import Image from 'next/image';
 
 interface Review {
-  author_name: string;
+  author_name?: string;
+  author?: string; // From Apify/highlighted reviews
   rating: number;
   text: string;
-  time: number | string;
-  profile_photo_url: string;
+  time?: number | string;
+  date?: string; // From Apify/highlighted reviews
+  profile_photo_url?: string;
   url?: string;
 }
 
