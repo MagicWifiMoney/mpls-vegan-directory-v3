@@ -67,7 +67,14 @@ Return ONLY valid JSON array, no markdown:
         { maxBuffer: 1024 * 1024 * 10 }
       );
       
-      const topProducts = JSON.parse(geminiResult.stdout.trim());
+      // Parse Gemini JSON output
+      const output = JSON.parse(geminiResult.stdout.trim());
+      let responseText = output.response || geminiResult.stdout;
+      
+      // Strip markdown code fences if present
+      responseText = responseText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+      
+      const topProducts = JSON.parse(responseText);
       console.log(`✅ Gemini identified ${topProducts.length} top items`);
       
       existingData = {

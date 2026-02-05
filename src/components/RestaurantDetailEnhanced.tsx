@@ -22,10 +22,20 @@ import sewardCafeData from '../../enriched-data/seward-cafe-REAL-DATA.json';
 import francisBurgerJointData from '../../enriched-data/francis-burger-joint-REAL-DATA.json';
 import veganEastData from '../../enriched-data/vegan-east-REAL-DATA.json';
 import modernTimesData from '../../enriched-data/modern-times-REAL-DATA.json';
-import lutunjisPalateData from '../../enriched-data/lutunjis-palate-REAL-DATA.json';
 import boleEthiopianData from '../../enriched-data/bole-ethiopian-REAL-DATA.json';
 import everestOnGrandData from '../../enriched-data/everest-on-grand-REAL-DATA.json';
 import namasteCafeData from '../../enriched-data/namaste-cafe-REAL-DATA.json';
+// Batch 2
+import himalayanRestaurantData from '../../enriched-data/himalayan-restaurant-REAL-DATA.json';
+import foxyFalafelData from '../../enriched-data/foxy-falafel-REAL-DATA.json';
+import tongueInCheekData from '../../enriched-data/tongue-in-cheek-REAL-DATA.json';
+import amazingThailandData from '../../enriched-data/amazing-thailand-REAL-DATA.json';
+import glamDollDonutsData from '../../enriched-data/glam-doll-donuts-REAL-DATA.json';
+import seedCafeData from '../../enriched-data/seed-cafe-REAL-DATA.json';
+import eurekaCompassData from '../../enriched-data/eureka-compass-REAL-DATA.json';
+import crepeAndSpoonData from '../../enriched-data/crepe-and-spoon-REAL-DATA.json';
+import pizzaLuceData from '../../enriched-data/pizza-luce-REAL-DATA.json';
+import shishMediterraneanData from '../../enriched-data/shish-mediterranean-REAL-DATA.json';
 
 // Map of restaurant slug to data
 const enhancedRestaurantData: Record<string, any> = {
@@ -40,10 +50,20 @@ const enhancedRestaurantData: Record<string, any> = {
   'francis-burger-joint': francisBurgerJointData,
   'vegan-east': veganEastData,
   'modern-times': modernTimesData,
-  'lutunjis-palate': lutunjisPalateData,
   'bole-ethiopian': boleEthiopianData,
   'everest-on-grand': everestOnGrandData,
   'namaste-cafe': namasteCafeData,
+  // Batch 2
+  'himalayan-restaurant': himalayanRestaurantData,
+  'foxy-falafel': foxyFalafelData,
+  'tongue-in-cheek': tongueInCheekData,
+  'amazing-thailand': amazingThailandData,
+  'glam-doll-donuts': glamDollDonutsData,
+  'seed-cafe': seedCafeData,
+  'eureka-compass': eurekaCompassData,
+  'crepe-and-spoon': crepeAndSpoonData,
+  'pizza-luce': pizzaLuceData,
+  'shish-mediterranean': shishMediterraneanData,
 };
 
 interface PlaceDetails {
