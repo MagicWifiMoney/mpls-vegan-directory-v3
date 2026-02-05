@@ -1,28 +1,74 @@
 {
   "topProducts": [
     {
-      "name": "Vegan Option 1",
-      "description": "Popular item",
-      "category": "entree",
+      "name": "Cake / Birthday Cake",
+      "description": "The most frequently mentioned item. Praised for being delicious and beautifully decorated, with many noting the frosting is fluffy, not too sweet, and tastes like real cream cheese. It's considered a go-to for celebrations, successfully accommodating guests with dairy and egg allergies.",
+      "category": "dessert",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
     },
     {
-      "name": "Vegan Option 2",
-      "description": "Popular item",
-      "category": "entree",
+      "name": "Cupcakes",
+      "description": "Highly popular for having a perfect balance of cake and frosting. They come in a continually rotating selection of flavors, including specialty options like cookie dough. Reviewers state they are a favorite among both vegans and non-vegans.",
+      "category": "dessert",
+      "badge": "Top Pick",
+      "quotes": [
+        "The cupcakes, brownies, and \"cheddar\" and chive biscuits are so damn delicious",
+        "While finishing the pack of 4 cupcakes I noticed a long black hair in the cupcake",
+        "I'm dangerously addicted to their cupcakes, which have the perfect balance of frosting and cake"
+      ],
+      "reviewMentions": 33
+    },
+    {
+      "name": "Brownies",
+      "description": "Often sold as 'brownie bites' or squares. Reviews are somewhat mixed; some customers find them incredibly delicious and addictive, while a few have described them as dry.",
+      "category": "dessert",
+      "badge": "Top Pick",
+      "quotes": [
+        "I got the lemon cake and brownies for my birthday",
+        "The cupcakes, brownies, and \"cheddar\" and chive biscuits are so damn delicious",
+        "The desserts were delicious, we got cupcakes, a pop tart and a few brownies"
+      ],
+      "reviewMentions": 7
+    },
+    {
+      "name": "Cheddar & Chive Biscuits",
+      "description": "A popular savory option described by multiple reviewers as exceptionally delicious.",
+      "category": "savory pastry",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
     },
     {
-      "name": "Vegan Option 3",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Strawberry Pop Tart",
+      "description": "A specialty pastry described as flaky, homemade, and 'to die for'.",
+      "category": "pastry",
+      "badge": "Featured",
+      "quotes": [
+        "The flaky, homemade strawberry pop tarts are to die for"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Lemon Cake",
+      "description": "A specific cake flavor that received high praise. Noted for being 'really good' with a generous amount of frosting and a filling that tastes like cream cheese.",
+      "category": "dessert",
+      "badge": "Featured",
+      "quotes": [
+        "I got the lemon cake and brownies for my birthday"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Apple Crumble Cake",
+      "description": "A specialty cake ordered for Thanksgiving that was described as a 'huge hit,' beautifully decorated, and delicious.",
+      "category": "dessert",
+      "badge": "Featured",
+      "quotes": [
+        "We ordered the Apple Crumble Cake for Thanksgiving and it was a huge hit"
+      ],
+      "reviewMentions": 1
     }
   ],
   "highlightedReviews": [
@@ -99,5 +145,5 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T22:59:42.345Z"
+  "lastUpdated": "2026-02-05T23:23:20.689Z"
 }

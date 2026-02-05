@@ -1,28 +1,82 @@
 {
   "topProducts": [
     {
-      "name": "Vegan Option 1",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Juicy Lucy",
+      "description": "A plant-based version of the classic Minnesota cheese-stuffed burger. Reviewers call it \"very good\" and so delicious they \"haven't stopped thinking about\" it. It is made with an Impossible patty.",
+      "category": "Entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "(Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty 😋\nSeveral members of their waitstaff came over to check on us, very attentive and friendly",
+        "We had the juicy Lucy burger which was very good",
+        "Haven’t stopped thinking about the juicy Lucy since I had it a few days ago"
+      ],
+      "reviewMentions": 7
     },
     {
-      "name": "Vegan Option 2",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Chicken Sandwich",
+      "description": "A vegan chicken sandwich praised for being \"tasty,\" \"awesome,\" and \"flavorful.\" A specific popular version mentioned is the \"Hunny Dijon Chicken Sandwich.\"",
+      "category": "Entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "The chicken sandwiches and Chocolate shakes are awesome",
+        "Got the Chicken sandwich and my gosh it was tasty",
+        "The burger and fried chicken sandwich we got were both so flavorful and cooked to perfection"
+      ],
+      "reviewMentions": 13
     },
     {
-      "name": "Vegan Option 3",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Fries",
+      "description": "Described as tasty, seasoned, crispy shoestring fries served hot and salty. Considered by some to be \"MUCH better than other places.\" A \"Buffalo fries\" version is also mentioned.",
+      "category": "Side",
+      "badge": "Top Pick",
+      "quotes": [
+        "Delicious burger, tasty seasoned fries",
+        "I also think their fries are MUCH better than other places",
+        "(Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty 😋\nSeveral members of their waitstaff came over to check on us, very attentive and friendly"
+      ],
+      "reviewMentions": 27
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "description": "A vegan chocolate milkshake that is highlighted as being exceptionally good and a rare find.",
+      "category": "Drink",
+      "badge": "Popular",
+      "quotes": [
+        "I don't think I've ever had a vegan chocolate milkshake (let alone a good vegan chocolate milkshake) before coming here",
+        "Delicious Juicy Lucy (Impossible) burger, crispy fries, and chocolate milkshake"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Breakfast Burger",
+      "description": "A breakfast-themed burger that was described as \"great.\" The breakfast menu in general was noted positively.",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "Had the breakfast burger and it was great"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Brownies",
+      "description": "A dessert item described by a reviewer as \"super good.\"",
+      "category": "Dessert",
+      "badge": "Featured",
+      "quotes": [
+        "The brownies are super good"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Francisco Burger",
+      "description": "A favorite burger for one customer, who specifically enjoys it made with a bean burger patty.",
+      "category": "Entree",
+      "badge": "Popular",
+      "quotes": [
+        "My favorite is probably the Francisco burger made with the bean burger but every burger I have tried has been very good",
+        "Highly recommend the Francisco Burger"
+      ],
+      "reviewMentions": 2
     }
   ],
   "highlightedReviews": [
@@ -99,5 +153,5 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T22:59:11.496Z"
+  "lastUpdated": "2026-02-05T23:22:56.391Z"
 }

@@ -1,28 +1,78 @@
 {
   "topProducts": [
     {
-      "name": "Vegan Option 1",
-      "description": "Popular item",
+      "name": "Vegan Biscuits and Gravy",
+      "description": "A favorite dish among reviewers, described as very good and filling. The mushroom gravy is specifically highlighted as being delicious enough to buy on its own.",
       "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "The vegan biscuits and gravy are my favorite, and all the baked goods I’ve had have been outstanding",
+        "The vegan biscuits and gravy were so so good",
+        "My favorites are the vegan biscuits and gravy (a half order is plenty"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Baked Goods",
+      "description": "A general category that receives high praise, with reviewers calling them \"outstanding\" and \"REAL good.\"",
+      "category": "dessert",
+      "badge": "Top Pick",
+      "quotes": [
+        "The vegan biscuits and gravy are my favorite, and all the baked goods I’ve had have been outstanding",
+        "Still the best coffee vegan/vegetarian baked goods and food",
+        "and, you can get the biscuit breakfast with the gravy which is a nice hearty meal), the Reuben, hash-browns, and their wide range of baked goods"
+      ],
+      "reviewMentions": 5
+    },
+    {
+      "name": "Coffee",
+      "description": "Mentioned as being high quality and one of the best, attracting repeat customers.",
+      "category": "drink",
+      "badge": "Top Pick",
+      "quotes": [
+        "Still the best coffee vegan/vegetarian baked goods and food",
+        "We just moved to Minneapolis, and excitedly checked out our neighborhood coffee shop",
+        "The coffee is always great, the food is overall good"
+      ],
+      "reviewMentions": 15
+    },
+    {
+      "name": "Seiten Philly Sub",
+      "description": "A vegan Philly cheesesteak made with seitan and vegan cheese, described by a reviewer as \"Fantastic!\"",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "Had the Seiten Philly sub vegan cheese"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Non-alcoholic Drinks",
+      "description": "Noted for having an excellent and large selection, including cafe-style drinks, a wide variety of bottled root beer, and kombucha.",
+      "category": "drink",
       "badge": null,
       "quotes": [],
       "reviewMentions": 0
     },
     {
-      "name": "Vegan Option 2",
-      "description": "Popular item",
+      "name": "Falafel Bowl",
+      "description": "Mentioned as a visually appealing and colorful dish.",
       "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "badge": "Featured",
+      "quotes": [
+        "Sadly only 1 of the three plates we ordered were colorfully appetizing (the falafel bowl)"
+      ],
+      "reviewMentions": 1
     },
     {
-      "name": "Vegan Option 3",
-      "description": "Popular item",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Lentil Soup",
+      "description": "Described as delicious in flavor, although its appearance was noted as muted and brown.",
+      "category": "appetizer",
+      "badge": "Featured",
+      "quotes": [
+        "The lentil soup was delicious, but looked muted and brown like the “chicken and waffles” which visually did not live up to the pretty good flavor"
+      ],
+      "reviewMentions": 1
     }
   ],
   "highlightedReviews": [
@@ -99,5 +149,5 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T22:58:09.915Z"
+  "lastUpdated": "2026-02-05T23:22:05.419Z"
 }
