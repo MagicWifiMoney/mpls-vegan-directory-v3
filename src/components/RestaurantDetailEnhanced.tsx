@@ -333,52 +333,6 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
         );
       })()}
 
-      {/* When to Go Section */}
-      <div className="card-elevated p-8 rounded-2xl">
-        <div className="flex items-center gap-3 mb-6">
-          <div className="w-12 h-12 rounded-full bg-[#d4a574]/10 flex items-center justify-center text-2xl">
-            🕐
-          </div>
-          <div>
-            <h2 className="font-display text-2xl text-[#f5f0e8]">When to Go</h2>
-            <p className="text-sm text-[#f5f0e8]/60">
-              {enhancedRestaurantData[restaurant.slug]?.timingInsights
-                ? 'Based on real customer experiences'
-                : 'Plan your visit for the best experience'}
-            </p>
-          </div>
-        </div>
-
-        <div className="grid md:grid-cols-3 gap-4">
-          <div className="bg-[#f5f0e8]/5 rounded-xl p-6">
-            <div className="text-3xl mb-2">🌅</div>
-            <h3 className="font-semibold text-[#f5f0e8] mb-2">Weekday Mornings</h3>
-            <p className="text-sm text-[#f5f0e8]/60">
-              {enhancedRestaurantData[restaurant.slug]?.timingInsights?.[0]?.bestTime || 
-                'Less crowded, great for quick pickups. Perfect for meal prep shopping.'}
-            </p>
-          </div>
-          <div className="bg-[#f5f0e8]/5 rounded-xl p-6 ring-2 ring-[#d4a574]/30">
-            <div className="text-3xl mb-2">⚡</div>
-            <h3 className="font-semibold text-[#f5f0e8] mb-2">Best Time</h3>
-            <p className="text-sm text-[#f5f0e8]/60">
-              {enhancedRestaurantData[restaurant.slug]?.timingInsights?.[0]?.bestTime || 
-                'Weekdays 11am-2pm for quick lunch grabs without weekend crowds.'}
-            </p>
-          </div>
-          <div className="bg-[#f5f0e8]/5 rounded-xl p-6">
-            <div className="text-3xl mb-2">⏰</div>
-            <h3 className="font-semibold text-[#f5f0e8] mb-2">
-              {enhancedRestaurantData[restaurant.slug]?.timingInsights ? 'Pro Tips' : 'Weekend Lines'}
-            </h3>
-            <p className="text-sm text-[#f5f0e8]/60">
-              {enhancedRestaurantData[restaurant.slug]?.timingInsights?.[0]?.insight || 
-                'Expect 10-15 min waits Saturday/Sunday mornings. It moves fast!'}
-            </p>
-          </div>
-        </div>
-      </div>
-
       {/* Hours & Info Grid */}
       <div className="grid lg:grid-cols-2 gap-8">
         {placeDetails?.openingHours && (
