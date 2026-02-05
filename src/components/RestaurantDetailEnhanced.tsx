@@ -15,6 +15,17 @@ import herbivorousButcherData from '../../enriched-data/herbivorous-butcher-REAL
 import jSelbysData from '../../enriched-data/j-selbys-REAL-DATA.json';
 import reverieData from '../../enriched-data/reverie-cafe-bar-REAL-DATA.json';
 import luluData from '../../enriched-data/lulu-ethiovegan-REAL-DATA.json';
+// Batch 1
+import frenchMeadowData from '../../enriched-data/french-meadow-REAL-DATA.json';
+import hardTimesCafeData from '../../enriched-data/hard-times-cafe-REAL-DATA.json';
+import sewardCafeData from '../../enriched-data/seward-cafe-REAL-DATA.json';
+import francisBurgerJointData from '../../enriched-data/francis-burger-joint-REAL-DATA.json';
+import veganEastData from '../../enriched-data/vegan-east-REAL-DATA.json';
+import modernTimesData from '../../enriched-data/modern-times-REAL-DATA.json';
+import lutunjisPalateData from '../../enriched-data/lutunjis-palate-REAL-DATA.json';
+import boleEthiopianData from '../../enriched-data/bole-ethiopian-REAL-DATA.json';
+import everestOnGrandData from '../../enriched-data/everest-on-grand-REAL-DATA.json';
+import namasteCafeData from '../../enriched-data/namaste-cafe-REAL-DATA.json';
 
 // Map of restaurant slug to data
 const enhancedRestaurantData: Record<string, any> = {
@@ -22,6 +33,17 @@ const enhancedRestaurantData: Record<string, any> = {
   'j-selbys': jSelbysData,
   'reverie-cafe-bar': reverieData,
   'lulu-ethiovegan': luluData,
+  // Batch 1
+  'french-meadow': frenchMeadowData,
+  'hard-times-cafe': hardTimesCafeData,
+  'seward-cafe': sewardCafeData,
+  'francis-burger-joint': francisBurgerJointData,
+  'vegan-east': veganEastData,
+  'modern-times': modernTimesData,
+  'lutunjis-palate': lutunjisPalateData,
+  'bole-ethiopian': boleEthiopianData,
+  'everest-on-grand': everestOnGrandData,
+  'namaste-cafe': namasteCafeData,
 };
 
 interface PlaceDetails {
