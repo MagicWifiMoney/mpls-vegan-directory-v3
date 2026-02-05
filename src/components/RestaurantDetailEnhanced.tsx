@@ -553,7 +553,12 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
         restaurantAddress={restaurant.address}
         restaurantCity={restaurant.city}
         yelpUrl={placeDetails?.yelp?.yelpUrl}
-        popularItems={placeDetails?.popularItems}
+        restaurantSlug={restaurant.slug}
+        totalReviewCount={
+          restaurant.slug === 'herbivorous-butcher' && realData.ratings
+            ? realData.ratings.sources.google.reviewCount + realData.ratings.sources.yelp.reviewCount
+            : (placeDetails?.userRatingsTotal || reviewCount)
+        }
       />
 
       {/* CTA */}
