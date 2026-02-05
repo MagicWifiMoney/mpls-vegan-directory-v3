@@ -2,81 +2,22 @@
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad-j-selbys" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#6A5ACD;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8470FF;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#3E2723;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#5D4037;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#795548;stop-opacity:1" />
     </linearGradient>
-    
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
-    </filter>
   </defs>
   
-  <!-- Background gradient -->
   <rect width="400" height="300" fill="url(#grad-j-selbys)"/>
-  
-  <!-- Subtle pattern overlay -->
-  <rect width="400" height="300" fill="url(#pattern)" opacity="0.05"/>
-  
-  <!-- Accent corner element -->
-  <circle cx="350" cy="50" r="80" fill="#9370DB" opacity="0.15"/>
-  <circle cx="50" cy="250" r="60" fill="#9370DB" opacity="0.1"/>
-  
-  <!-- Restaurant name -->
-  <text 
-    x="200" 
-    y="120" 
-    font-family="'SF Pro Display', -apple-system, system-ui, sans-serif" 
-    font-size="32" 
-    font-weight="700"
-    fill="#FFFFFF" 
-    text-anchor="middle"
-    letter-spacing="0.5"
-  >J.</text>
   
   <text 
     x="200" 
     y="160" 
-    font-family="'SF Pro Display', -apple-system, system-ui, sans-serif" 
-    font-size="32" 
+    font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" 
+    font-size="40" 
     font-weight="700"
-    fill="#FFFFFF" 
+    fill="#FFF8DC" 
     text-anchor="middle"
-    letter-spacing="0.5"
-  >Selby's</text>
-  
-  <!-- Cuisine badge -->
-  <rect 
-    x="140" 
-    y="200" 
-    width="120" 
-    height="32" 
-    rx="16" 
-    fill="#9370DB" 
-    opacity="0.9"
-    filter="url(#shadow)"
-  />
-  <text 
-    x="200" 
-    y="221" 
-    font-family="'SF Pro Text', -apple-system, system-ui, sans-serif" 
-    font-size="14" 
-    font-weight="600"
-    fill="#FFFFFF" 
-    text-anchor="middle"
-    letter-spacing="0.3"
-  >American</text>
-  
-  <!-- Neighborhood -->
-  <text 
-    x="200" 
-    y="260" 
-    font-family="'SF Pro Text', -apple-system, system-ui, sans-serif" 
-    font-size="12" 
-    font-weight="400"
-    fill="#FFFFFF" 
-    text-anchor="middle"
-    opacity="0.7"
-    letter-spacing="1"
-  >CATHEDRAL HILL</text>
+    letter-spacing="-0.5"
+  >J. Selby's</text>
 </svg>
