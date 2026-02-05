@@ -1,0 +1,57 @@
+{
+  "dishKeywords": {
+    "points": 4,
+    "terms": [
+      "wings", "burger", "taco", "sandwich", "ribs", "cheese",
+      "pizza", "wrap", "bowl", "salad", "pasta", "noodles",
+      "scramble", "pancake", "toast", "burrito", "quesadilla",
+      "tikka", "curry", "stir fry", "pho", "ramen", "sushi"
+    ]
+  },
+  "locationKeywords": {
+    "points": 3,
+    "terms": [
+      "minneapolis", "st paul", "saint paul", "twin cities",
+      "northeast", "uptown", "lyn-lake", "powderhorn", "cathedral hill",
+      "elliot park", "cedar-riverside", "seward", "downtown",
+      "north loop", "warehouse district", "northeast minneapolis"
+    ]
+  },
+  "veganKeywords": {
+    "points": 3,
+    "terms": [
+      "100% vegan", "fully vegan", "all vegan", "entirely vegan",
+      "vegan-friendly", "plant-based", "plant based",
+      "dairy-free", "dairy free", "meat-free", "meat free",
+      "cruelty-free", "animal-free"
+    ]
+  },
+  "experienceKeywords": {
+    "points": 2,
+    "terms": [
+      "best vegan", "favorite vegan", "go-to vegan",
+      "top vegan restaurant", "highly recommend",
+      "must try", "must-try", "don't miss",
+      "blown away", "exceeded expectations", "amazing",
+      "converted", "fooled me", "tastes like real",
+      "better than", "as good as", "just like"
+    ]
+  },
+  "useCaseKeywords": {
+    "points": 2,
+    "terms": [
+      "date night", "brunch", "lunch", "dinner", "breakfast",
+      "family-friendly", "kid-friendly", "group",
+      "quick bite", "takeout", "delivery", "dine-in",
+      "weekend", "special occasion", "birthday", "celebration"
+    ]
+  },
+  "conversionKeywords": {
+    "points": 4,
+    "terms": [
+      "not vegan but", "omnivore", "meat eater", "carnivore",
+      "non-vegan", "skeptical", "convinced", "changed my mind",
+      "as good as meat", "fooled my", "can't tell the difference"
+    ]
+  }
+}
