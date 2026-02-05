@@ -1,0 +1,103 @@
+{
+  "topProducts": [
+    {
+      "name": "Vegan Option 1",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Vegan Option 2",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Vegan Option 3",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Carey Sir",
+      "rating": 5,
+      "text": "Popped in for lunch on New Years' Day...DELICIOUS!! We've eatten at most of the Ethiopian restaurants in the Twin Cities, and Bole is far superior to them all. The food was fresh and uniquely yummy. The Sambusas 10/10, the Vegie combo 10/10, the Zil zil Tibs:11/10, the gingery tea: perfect!\nWe loved the warm decor and the music...the waitress could have been more friendly (we were the only customers in the place, but she was completely engaged by her phone). But all in all, a hearty 5 stars! We'll be back.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Julie Chiu",
+      "rating": 5,
+      "text": "I am obsessed with this place. It was a few years ago since I've had Ethiopian food. I was craving Ethiopian food so I was excited to find Bole! I've dined for lunch and had takeout for dinner.\n\nHighly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa. I advise ordering extra injera as well!\n\nAll I can think about after eating Bole is the next time I'll be feasting there again!",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Natnael Amare",
+      "rating": 5,
+      "text": "I went to Bole for lunch this Sunday and was pleasantly surprised! I had the Kitfo and Derek Tibs (highly recommend). The Kitfo was perfectly seasoned and buttered perfectely, while the Tibs were cooked to perfection, it was tender and flavorful. Bole has definitely earned a loyal customer. Keep up the great work!",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nahom Walelinge",
+      "rating": 5,
+      "text": "After trying several restaurants in the Twin Cities with a friend, I had the pleasure of dining at Bole Restaurant, and it was an unforgettable experience. The special kitfo and lamb shekela tibs were perfectly seasoned, tender, and full of flavor. The service was exceptional, and the atmosphere made me feel right at home.\n\nI also enjoyed traditional Ethiopian coffee, rich and aromatic, which complemented the meal perfectly. To top it off, the homemade tiramisu was divine—rich, creamy, and perfectly balanced with espresso-soaked ladyfingers and a dusting of cocoa. It was a perfect ending to a fantastic meal.\n\n5/5 Highly Recommend!",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Blue",
+      "rating": 5,
+      "text": "Bole Ethiopian Cuisine has some of the best food, service, and atmosphere of any of the restaurants I have been to in the twin cities. We ordered the Tokkumaa and Yebeg Alicha to share and we're absolutely amazed and shocked at the amount, presentation, an quality of the food. Each bite was unique and delicious, filled with so much flavor and spice. We left completely full, in spirit and in stomach, several take out containers filled with food for several more meals later this week. Thank you Bole for the excellent service and community.",
+      "date": "a week ago",
+      "source": "Google"
+    },
+    {
+      "author": "Adarus Ali",
+      "rating": 5,
+      "text": "My wife and I absolutely love this Ethiopian restaurant—it’s been our go-to spot for a long time, and for good reason. The food is always delicious and truly authentic, with flavors that keep us coming back again and again. The service is consistently top-notch, and you can really feel the pride they take in taking care of their guests.\n\nWhat really touched us recently was how the owner/chef went above and beyond. My wife had just graduated, and he surprised us by making a special cake just for her. It was such a thoughtful gesture and made the night unforgettable.\n\nIf you’re looking for amazing food, great service, and a place that treats you like family, this is the spot. Highly recommended! 👌🏾🍽️🎉",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Alicia Shinn",
+      "rating": 5,
+      "text": "I was looking for a unique yet flavorful place to eat while in Minnesota on business travel and came across this spot! At first glance, you think you’re in the wrong location, but you’re not!\nAs soon as I opened the door I was greeted and seated, which is an A+ for me.\nMy waitress was amazing with the recommendations.\nI tried the Midway dish with the three sides.\nEVERYTHING WAS FLAVORFUL AND GOOD!\nCome try it, you will not be disappointed!!",
+      "date": "7 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Krista Mastel",
+      "rating": 5,
+      "text": "Three of us met for dinner at the St. Paul location. Ordered the Tibs Combo and let the chef decide the sides. The meal was FANTASTIC! Very tasty, excellent variety of spice/flavors, and huge portions (we all took home leftovers). Staff was friendly and checked in throughout the meal. Great ambiance too.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Andrew Zay",
+      "rating": 5,
+      "text": "Some of the best Ethiopian food in the Twin Cities. Everything is so flavorful. I’ve loved the combo meals that feature both kitfo and tibs, but the vegetarian and vegan options are excellent as well. Repeat customer, will be back.",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Teklie Yohannes",
+      "rating": 5,
+      "text": "Bole Restaurant is simply outstanding! The food is always fresh and delicious, the service is excellent, and the hospitality is warm and welcoming. I recently brought my friends, and they were just as impressed. Maintaining such consistent quality for so many years is rare—this truly is one of the best restaurants around!",
+      "date": "3 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:02:15.023Z"
+}

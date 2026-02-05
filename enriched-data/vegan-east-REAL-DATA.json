@@ -1,0 +1,103 @@
+{
+  "topProducts": [
+    {
+      "name": "Vegan Option 1",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Vegan Option 2",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Vegan Option 3",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Jeff Dobier",
+      "rating": 5,
+      "text": "This is the best place to get vegan baked goods in the Twin Cities.  We love their cupcakes, cakes, lemon loafs, cookies, and cheddar biscuits.  I miss their uptown location where we could have broccoli cheese soup and pastrami sandwiches, but this is still great.  Today I got a strawberry cupcake with a creme frosting and a strawberry filling and it was one of the best cupcakes I've ever had.  I hope they make more of these kind of cupcakes in the future.\n\nThe only problem we've had with this place is the hours.  Recently, I wanted to order a vegan cake for a Tuesday event at my work, but they don't open until noon that day, so I had to get frozen cupcakes instead.  Many times we've wanted a cake or cupcakes for a holiday or event and the hours haven't worked for us to pick it up so we end up going to Whole Foods or getting the item many days in advance and having to freeze them, which is never as good as fresh.  I get they need a day off, but I still wish there was a way to pick up orders at more convenient days or hours.",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mj Sullivan",
+      "rating": 5,
+      "text": "Vegan East is renowned for its delectable Carrot Cake, which is a must-try for anyone with a sweet tooth. Their cupcakes come in a variety of mouth-watering flavors, including Cookie Dough and Red Velvet. Don't miss their Gluten Free Cosmic Brownies – they're a perfect treat for any brownie lover.\n\nWhat's more, all their treats are 100% vegan, meaning they are free from any animal products. This makes Vegan East a fantastic destination for those who follow a plant-based diet or anyone looking to enjoy delicious, cruelty-free goodies.\n\nIf you're in Minneapolis, make sure to stop by Vegan East and treat yourself – your taste buds will thank you!",
+      "date": "11 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Joey Ostos",
+      "rating": 5,
+      "text": "I'm not vegan and I don't have any dietary restrictions. I bought my birthday cake here to accommodate dairy intolerant family. It was one of the best cakes I've ever had. Definitely better than most non-vegan cakes. I returned to buy cupcakes for a family gathering and the family members who normally say they aren't into sweets scarfed them down and proceeded to rave about them.",
+      "date": "7 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Carrie Overgaard",
+      "rating": 5,
+      "text": "A friend brought over some cupcakes from Vegan East and although I was skeptical at first, I quickly fell in love after the first bite!!  I have no idea how they make these cupcakes so delicious and keep it vegan, but I am genuinely impressed and will gladly support their work.  I am not vegan and these desserts would be my first choice to bring to a gathering, especially if I wanted to impress some people.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Rae ofSunshine",
+      "rating": 4,
+      "text": "At first, it’s hard to believe this tiny shop exists within this neighborhood. It is a tiny store in general, and it is tiny when you walk in. It’s not set up to dazzle you in anyway. It’s actually quite confusing that they have product to sell, unless you search them online and order a cake and already know that they’re making you something great. The cake I ordered – the chocolate cake, in the 5 inch size was delicious and pleased my dad very much. It was for his birthday which I will not be in town for. So an early surprise. I would definitely surprise him with a cake from here when I’m visiting Minneapolis again.",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chelsea Inskeep",
+      "rating": 5,
+      "text": "My daughter picked out a vanilla cake for our au pair's birthday today. It was very moist and the frosting was light and delicious! The owner was very sweet and welcoming, asked where our au pair was from, and gave helpful instructions on how to thaw the cake since it was frozen. I never would have guessed it was vegan had I not known. So glad to have a local bakery that specializes in vegan and GF cakes!",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kerstin N.",
+      "rating": 5,
+      "text": "Great little bakery with delicious cakes and cupcakes. As a dairy-free family, we appreciate that everything is vegan and that they offer gluten free options as well! I think this place shines with pre-orders, though they do have some baked items for sale (think individual cupcakes, etc) for walk-in clientele.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Elizabeth Campbell",
+      "rating": 5,
+      "text": "We just had a birthday cake for my son (who can’t have eggs or dairy due to FPIES) at his birthday party. It was SO tasty!!! Everyone kept exclaiming that they couldn’t believe it was vegan. I am so appreciative that Vegan East made this amazing dessert- he’s starting to figure out when he doesn’t get the same food as everyone else and gets sad. This cake made him feel included and special all at the same time. Ordering was easy, and it was ready right when I ordered It for!",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Julie Baker",
+      "rating": 5,
+      "text": "Vegan East is our go-to for event desserts and that was the case again for a recent wedding shower. We do a special order from their cupcakes-of-the-month selection to make sure all our vegan and gluten-free party-goers have yummy options (and always hear positive things). So happy to have Vegan East in the neighborhood!",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Monica Xiong",
+      "rating": 5,
+      "text": "Love this place! Everything taste amazing!!! Not overly sugary like a lot of other bakeries. It's also  perfect for work events since we have some GF and some vegan. Everyone is able to have treats and they tatse great! Glad they're open more than Saturdays now. Love that they have new and different holiday themed items",
+      "date": "2 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T22:59:42.345Z"
+}
