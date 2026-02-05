@@ -25,6 +25,10 @@ export interface Restaurant {
   reviewCount?: number;
   hours?: string[];
   photos?: string[];
+  // SEO-enhanced fields (optional)
+  whatToOrder?: string[];
+  bestFor?: string[];
+  theVibe?: string;
 }
 
 export const restaurants: Restaurant[] = [
@@ -43,10 +47,20 @@ export const restaurants: Restaurant[] = [
     veganStatus: '100% Vegan',
     neighborhood: 'Northeast Minneapolis',
     neighborhoodSlug: 'northeast',
-    description: "America's first vegan butcher shop, The Herbivorous Butcher is a revolutionary establishment run by sibling duo Aubry and Kale Walch. Since 2016, they've been crafting mind-blowing plant-based meats and cheeses that fool even the most devoted carnivores. From Korean BBQ ribs to pepperoni, Italian sausages to turkey deli slices, every product is handcrafted in-house. Their artisan vegan cheeses include cheddar, havarti, gouda, and pepperjack. Grab a sandwich for lunch or stock up on provisions for home cooking.",
+    description: "The Herbivorous Butcher made history in 2016 as America's first vegan butcher shop, and it continues to revolutionize plant-based eating in Northeast Minneapolis. Run by sibling duo Aubry and Kale Walch, this isn't your typical vegan spot—it's a full-service deli where every \"meat\" and cheese is handcrafted in-house with the kind of attention to detail that would make any traditional butcher proud.\n\nThe Korean BBQ ribs are legendary for good reason—smoky, tender, and so convincing they've converted countless skeptics. Their Italian sausages snap with that perfect casing bite, while the pepperoni brings real heat and char to any pizza night. On the cheese side, their aged cheddar is sharp and crumbly, the havarti melts beautifully, and the pepperjack packs actual kick. Don't miss the deli counter where you can grab a ready-made sandwich—the Italian sub loaded with house-made salami and provolone is a Northeast favorite.\n\nThe shop itself has an industrial-meets-neighborhood vibe with brick walls, butcher paper displays, and that unmistakable smell of smoked tempeh. It's perfect for stocking your fridge with meal prep staples, grabbing lunch on the go, or picking up impressive host gifts. Weekend mornings see lines out the door, but it moves fast. This is vegan food that doesn't apologize—it just tastes damn good.",
     priceRange: '$$',
     features: ['Takeout', 'Retail Shop', 'Catering', 'Online Orders'],
-    coordinates: { lat: 44.9936, lng: -93.2636 }
+    coordinates: { lat: 44.9936, lng: -93.2636 },
+    whatToOrder: [
+      'Korean BBQ Ribs - Smoky, tender, and their most famous item',
+      'Italian Sausage - Perfect snap, ideal for grilling or pasta',
+      'Aged Cheddar - Sharp, crumbly, melts beautifully',
+      'Pepperoni - Spicy, charred edges, pizza perfection',
+      'Italian Sub - House-made salami & provolone on fresh bread',
+      'Havarti Cheese - Creamy, melts like the real thing'
+    ],
+    bestFor: ['Meal prep', 'Weekend grocery runs', 'Unique gifts', 'Converting carnivores', 'Quick lunch'],
+    theVibe: "Industrial-chic butcher shop meets neighborhood gem—serious about craft, unpretentious about being vegan."
   },
   {
     id: '2',

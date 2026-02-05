@@ -74,6 +74,75 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
 
   return (
     <div className="space-y-12">
+      {/* The Vibe */}
+      {restaurant.theVibe && (
+        <div className="card-elevated p-6 rounded-2xl border-l-4 border-[#d4a574]">
+          <div className="flex items-start gap-3">
+            <div className="text-2xl">✨</div>
+            <div>
+              <div className="text-xs font-medium text-[#d4a574] mb-1 uppercase tracking-wider">The Vibe</div>
+              <p className="text-lg text-[#f5f0e8] italic leading-relaxed">{restaurant.theVibe}</p>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* What to Order & Best For Grid */}
+      {(restaurant.whatToOrder || restaurant.bestFor) && (
+        <div className="grid md:grid-cols-2 gap-6">
+          {/* What to Order */}
+          {restaurant.whatToOrder && restaurant.whatToOrder.length > 0 && (
+            <div className="card-elevated p-6 rounded-2xl">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-10 h-10 rounded-full bg-[#d4a574]/10 flex items-center justify-center text-xl">
+                  🍽️
+                </div>
+                <h3 className="font-display text-xl text-[#f5f0e8]">What to Order</h3>
+              </div>
+              <ul className="space-y-3">
+                {restaurant.whatToOrder.map((item, idx) => {
+                  const [name, ...descParts] = item.split(' - ');
+                  const description = descParts.join(' - ');
+                  return (
+                    <li key={idx} className="flex items-start gap-2">
+                      <span className="text-[#d4a574] mt-1">→</span>
+                      <div className="flex-1">
+                        <span className="text-[#f5f0e8] font-medium">{name}</span>
+                        {description && (
+                          <span className="text-[#f5f0e8]/60 text-sm block mt-0.5">{description}</span>
+                        )}
+                      </div>
+                    </li>
+                  );
+                })}
+              </ul>
+            </div>
+          )}
+
+          {/* Best For */}
+          {restaurant.bestFor && restaurant.bestFor.length > 0 && (
+            <div className="card-elevated p-6 rounded-2xl">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-10 h-10 rounded-full bg-[#d4a574]/10 flex items-center justify-center text-xl">
+                  🎯
+                </div>
+                <h3 className="font-display text-xl text-[#f5f0e8]">Best For</h3>
+              </div>
+              <div className="flex flex-wrap gap-2">
+                {restaurant.bestFor.map((tag, idx) => (
+                  <span
+                    key={idx}
+                    className="px-4 py-2 rounded-full bg-[#d4a574]/10 text-[#d4a574] text-sm font-medium border border-[#d4a574]/20"
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
       {/* Photo Gallery */}
       {photos.length > 0 && (
         <section>
