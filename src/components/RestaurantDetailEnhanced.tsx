@@ -228,13 +228,14 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
                           {product.description || product.whyPeopleLoveIt}
                         </p>
                       </div>
-                      {product.reviewMentions > 0 && (
-                        <div className="flex flex-col items-end gap-1 ml-3">
-                          <div className="flex items-center gap-1 px-2 py-1 rounded-full bg-[#d4a574]/10">
-                            <span className="text-[#d4a574]">💬</span>
-                            <span className="text-sm font-medium text-[#d4a574]">{product.reviewMentions}</span>
-                          </div>
-                          <span className="text-xs text-[#f5f0e8]/50">mentions</span>
+                      {product.badge && (
+                        <div className="px-3 py-1.5 rounded-full text-xs font-semibold whitespace-nowrap" style={{
+                          backgroundColor: product.badge === 'Top Pick' ? '#d4a574' : product.badge === 'Popular' ? 'rgba(212, 165, 116, 0.3)' : 'rgba(245, 240, 232, 0.1)',
+                          color: product.badge === 'Top Pick' ? '#1a1a1a' : '#d4a574'
+                        }}>
+                          {product.badge === 'Top Pick' && '⭐ Top Pick'}
+                          {product.badge === 'Popular' && '🔥 Popular'}
+                          {product.badge === 'Featured' && '✨ Featured'}
                         </div>
                       )}
                     </div>
@@ -475,7 +476,7 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
 
       {/* Reviews Section */}
       <ReviewTabs
-        googleReviews={reviews}
+        googleReviews={enhancedRestaurantData[restaurant.slug]?.highlightedReviews || reviews}
         yelpReviews={placeDetails?.yelp?.reviews || []}
         restaurantName={restaurant.name}
         restaurantAddress={restaurant.address}
