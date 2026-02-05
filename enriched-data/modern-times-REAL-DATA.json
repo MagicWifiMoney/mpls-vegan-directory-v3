@@ -1,0 +1,103 @@
+{
+  "topProducts": [
+    {
+      "name": "Vegan Option 1",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Vegan Option 2",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Vegan Option 3",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Jules Braddy",
+      "rating": 5,
+      "text": "Started our long weekend in the twin cities with breakfast here & loved it so much we went back and made it our final meal of our trip. Absolutely outstanding in every way. It’s so hard where I live to find quality, delicious, vegetarian food. Modern Times was everything I needed and more. The hash rancheros are outrageous. My partner still talks about the Kate Bush sandwich. The pancakes are fabulous, and so is the coffee! Also tried a seasonal beverage (ginger limeade) that was out of this world. Excellent merch too. Literally cannot wait to be back!",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Breanna Peltz",
+      "rating": 5,
+      "text": "This very well may be my favorite restaurant in Minneapolis! If you’re vegan/vegetarian or have dietary restrictions, this place is 1000% worth checking out. During our most recent visit, I had the Deadwood with tempeh (breakfast menu) and it was sooooo good. I’m literally salivating just thinking about it. (You guys.. where is your tempeh from? How do you make it so good??) Every server we’ve ever had has been kind and helpful, and it’s just such a chill, down-to-earth environment. My spouse and I make it out to MSP a couple of times a year and we have to stop every time! 🩷 Love you guys!!",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Naomi H",
+      "rating": 5,
+      "text": "What a gem of a place! I only wish that I had found this place sooner!  I had the Tempeh Reuben and it was the best and freshest Reuben that I have ever had! Every ingredient was so fresh and flavorful. A lot of the ingredients are made in house or sourced locally. The prices are very reasonable and the portions are generous.  Most items on the menu can be made Vegan, Vegetarian and are often available gluten free, as well. The staff made the whole experience even better... I can hardly wait to go again and try more items from their extensive menu. Thanks for putting your heart and soul into your food and service!",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Shannon Mahedy",
+      "rating": 5,
+      "text": "Modern Times is a classic Minneapolis cafe. I’m obsessed with their fresh food, huge portions, creative dishes, general vibe, and progressive politics. Everyone who works there is always friendly, and I love how anyone can find something they’ll like on the menu - vegan, vegetarian, gluten-free etc. It’s an inclusive and cool space with incredible food. Highly recommend.",
+      "date": "Edited 6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Shalon Johnson",
+      "rating": 5,
+      "text": "Great food and great vibes! It's a super cozy breakfast spot! I ordered the pumpkin pancake with a side of eggs and pancakes, as well as a chai latte. Everything arrived very quickly and was absolutely amazing. I loved the pumpkin pancake! This restaurant has plenty of seating, and the walls are covered in art created by children that you can buy, which I thought was very adorable. I would definitely return!",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kari Furness",
+      "rating": 5,
+      "text": "Stumbled across this place by accident because we had car trouble while traveling and happened to stop at an auto shop nearby. One of us is vegetarian so we decided to give this place a shot. Food was delicious and staff were very friendly! Portions were HUGE. Even the meat eaters in our group were happy too! It was a little cramped but we were able to get seats right away. Will definitely be back.",
+      "date": "Edited a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nicole Jones",
+      "rating": 5,
+      "text": "Modern Times is our absolute favorite place in south Minneapolis! Every single dish is spot on. The migas, rancheros, french toast, breakfast burrito, and kate bush bowl are all DELICOUS! You have to get one of the house iced chais too. I hope this place stays in business forever. So good.",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Zack",
+      "rating": 5,
+      "text": "I'm from Alabama I fully support this restaurant and what it's doing for their people. If there ever was a restaurant that people should travel all over the United States to visit and eat at, it's this restaurant!! You're doing a tremendous service to the people of Minneapolis, keep up the good work!!",
+      "date": "4 days ago",
+      "source": "Google"
+    },
+    {
+      "author": "Christian Noyce",
+      "rating": 5,
+      "text": "Been going to Modern Times for years now and have always had great service from amazing people. If you haven’t gone, I highly recommend. It is a staple of the cities that I bring those from near and far to. Great veggie and vegan options while balancing with the classic eggs and bacon for breakfast. Im a fan of the south side hash, my wife is a fan of the rancheros and my brother loves the good morning healing earth. A place for all to come together over some good food and coffee. No wonder the community is so strong when they got a place like this in it to come together.",
+      "date": "a week ago",
+      "source": "Google"
+    },
+    {
+      "author": "Danie V",
+      "rating": 5,
+      "text": "MODERN TIMES ROCKS! By far minneapolis's best kept gems! they have awesome food,huge portions for under 15 bucks! Like what? Where they do that at? There was a server there years ago that was terribly rude to my mom but she's gone now. If you want a good recommendation I suggest the voyeur melt with fries.",
+      "date": "4 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:00:13.087Z"
+}

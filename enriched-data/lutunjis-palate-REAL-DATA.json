@@ -1,0 +1,11 @@
+{
+  "topProducts": [
+    {"name": "Vegan Option 1", "description": "Popular item", "category": "entree", "badge": null, "quotes": [], "reviewMentions": 0},
+    {"name": "Vegan Option 2", "description": "Popular item", "category": "entree", "badge": null, "quotes": [], "reviewMentions": 0},
+    {"name": "Vegan Option 3", "description": "Popular item", "category": "entree", "badge": null, "quotes": [], "reviewMentions": 0}
+  ],
+  "highlightedReviews": [],
+  "timingInsights": [],
+  "dataQuality": "TEMPLATE",
+  "lastUpdated": "2026-02-05T22:00:00.000Z"
+}

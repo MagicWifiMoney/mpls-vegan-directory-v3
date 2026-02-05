@@ -1,0 +1,103 @@
+{
+  "topProducts": [
+    {
+      "name": "Vegan Option 1",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Vegan Option 2",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Vegan Option 3",
+      "description": "Popular item",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Davi Gray",
+      "rating": 5,
+      "text": "Delightful food options (for a vegetarian feeling oppressed by America's meat-forward culture). Honestly some of the best burgers I've ever eaten, even when compared to back when I ate cow meat. Jucy Lucy, Firecracker burger, \"chicken\" sandwich - I've never been disappointed by the food at Francis Burger Joint!",
+      "date": "3 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "Misty Perfetto Holland",
+      "rating": 5,
+      "text": "We came from Wisconsin for the weekend and we found Francis on google- searching for the top rated vegan restaurants. Husband and tried it tonight and we absolutely loved everything.  The burger and fried chicken sandwich we got were both so flavorful and cooked to perfection! (Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty 😋\nSeveral members of their waitstaff came over to check on us, very attentive and friendly. Plus this place has a very cool, laid back vibe. We will definitely be coming back!\nPS- get a milkshake! 😋",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kyle McCleary",
+      "rating": 5,
+      "text": "I've had good vegan burgers before so I tried one of the fried \"chicken\" sandwiches here to see if someone finally made and good one and they knocked it out of the park. By far the most chicken-like substitute I've ever had and this isn't coming from someone who hasn't had chicken in 20 years so they don't remember what it's like, I had some last week.",
+      "date": "4 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kass McCleary (Kass)",
+      "rating": 5,
+      "text": "My husband and I just had our first vegan restaurant experience here and it was awesome. The food was SO good. And the \"Kind of a Big Dill\" cocktail was what all of the State Fair pickle drinks should aspire to be!\n\nMy husband had the barbecutie chicken sandwich and was impressed by how meat-like it was. I had the elote burger - adored every bite!\n\nThe contactless option for ordering and paying was very convenient, and we got our food super quickly.\n\nWe'll definitely be going back.",
+      "date": "4 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Brandon Sullivan",
+      "rating": 5,
+      "text": "Francis is FANTASTIC! It is perhaps too soon to call it, but I'm willing to say they are a modern legend for vegan comfort food.\n\nI love their burgers, their chicken sandwiches, their fries, and their milkshakes. They have good cocktails too, with a handful of nice mocktails to boot.\n\nI'm especially partial to the Francis burger and the fried Classic Chicken sandwich (plus spicy mayo). They often have fun special sandwiches, though sometimes one might be too busy with fixins to have a distinct personality.\n\nThe murals and furnishing and general vibe of this place is fantastic.\n\nI go to Francis way more often than I reasonably should.",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Joshua",
+      "rating": 5,
+      "text": "I am not vegan but this is probably the best vegan “chicken” sandwich I’ve tried. The seasoning was great and the texture of the “chicken” was pretty convincing as well. Fries were crispy and fresh. Service was outstanding! I also appreciate that this is a no tipping establishment (cost is built into the menu price). Would definitely return!",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nicholas Verderame",
+      "rating": 5,
+      "text": "My girlfriend was hungry and wanted ketchup. This was close by so we stopped in. It was right at the time happy hour began so we got some wine along with the Chicken Caesar Wrap and MN Spicy Chicken Sandwich which I got spicer. The fries were legit!",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jordan E-B",
+      "rating": 5,
+      "text": "I’m neither vegan nor vegetarian, but these burgers are better than most meat burger joints i’ve been to. The chicken is not as convincing as I had been lead to believe, but the burger is all it takes for me to keep coming back.\nThe mixture of waitstaff/QR code independent ordering is sometimes bizarre, and leads to awkward bill splitting. It’s much more enjoyable in a very small group, ordering via QR code.",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Archibald Chuzzlewit",
+      "rating": 5,
+      "text": "First time visitor after being recommend by friends. Had the breakfast burger and it was great. I also think their fries are MUCH better than other places. Everything on the menu is plant based. Would absolutely recommend to everyone, whether vegetarian/vegan or not. Also had friendly staff and a cool vibe.",
+      "date": "2 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "Deb Ellsworth",
+      "rating": 5,
+      "text": "Excellent food! The impossible burgers are char-grilled to perfection, with interesting choices, like the Juicy Lucy and the seasonal elite burger. Those in our party who got chicken sandwiches also thought they were excellent! Highly recommended!",
+      "date": "5 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T22:59:11.496Z"
+}
