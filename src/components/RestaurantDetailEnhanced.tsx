@@ -10,6 +10,9 @@ const NearbyRestaurants = dynamic(() => import('./NearbyRestaurants'), {
   loading: () => <div className="card-elevated rounded-2xl p-8 animate-pulse h-64" />,
 });
 
+// Import real extracted data for The Herbivorous Butcher
+import realData from '../../enriched-data/herbivorous-butcher-REAL-DATA.json';
+
 interface PlaceDetails {
   rating?: number;
   userRatingsTotal?: number;
@@ -236,77 +239,165 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
         </section>
       )}
 
-      {/* Enhanced What to Order - Detailed cards */}
-      {restaurant.whatToOrder && restaurant.whatToOrder.length > 0 && (
-        <section>
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-12 h-12 rounded-full bg-[#d4a574]/10 flex items-center justify-center text-2xl">
-              🍽️
-            </div>
-            <div>
-              <h2 className="font-display text-2xl text-[#f5f0e8]">What to Order</h2>
-              <p className="text-sm text-[#f5f0e8]/60">Based on menu highlights and customer reviews</p>
-            </div>
-          </div>
-
-          <div className="grid md:grid-cols-2 gap-4">
-            {restaurant.whatToOrder.map((item, idx) => {
+      {/* Enhanced What to Order - Real Data from Reviews */}
+      {(() => {
+        // Use real data if available for this restaurant, fallback to basic data
+        const productsToDisplay = restaurant.slug === 'herbivorous-butcher' && realData.topProducts
+          ? realData.topProducts
+          : restaurant.whatToOrder?.map(item => {
               const [name, ...descParts] = item.split(' - ');
-              const description = descParts.join(' - ');
-              const mentions = extractDishMentions(name);
-              const isExpanded = expandedDish === idx;
+              return { name, description: descParts.join(' - '), reviewMentions: 0, quotes: [] };
+            }) || [];
 
-              return (
-                <div
-                  key={idx}
-                  className="card-elevated p-6 rounded-xl hover:ring-2 hover:ring-[#d4a574]/30 transition cursor-pointer"
-                  onClick={() => setExpandedDish(isExpanded ? null : idx)}
-                >
-                  <div className="flex items-start justify-between mb-3">
-                    <div className="flex-1">
-                      <h3 className="text-lg font-semibold text-[#f5f0e8] mb-1">{name}</h3>
-                      <p className="text-sm text-[#f5f0e8]/60">{description}</p>
+        if (productsToDisplay.length === 0) return null;
+
+        return (
+          <section>
+            <div className="flex items-center gap-3 mb-6">
+              <div className="w-12 h-12 rounded-full bg-[#d4a574]/10 flex items-center justify-center text-2xl">
+                🍽️
+              </div>
+              <div>
+                <h2 className="font-display text-2xl text-[#f5f0e8]">What to Order</h2>
+                <p className="text-sm text-[#f5f0e8]/60">
+                  {restaurant.slug === 'herbivorous-butcher' 
+                    ? 'Real customer favorites from 1,500+ reviews' 
+                    : 'Based on menu highlights and customer reviews'}
+                </p>
+              </div>
+            </div>
+
+            <div className="grid lg:grid-cols-2 gap-6">
+              {productsToDisplay.map((product: any, idx: number) => {
+                const isExpanded = expandedDish === idx;
+                const hasDetailedData = product.price || product.nutrition || product.reviewMentions > 0;
+
+                return (
+                  <div
+                    key={idx}
+                    className={`card-elevated p-6 rounded-xl hover:ring-2 hover:ring-[#d4a574]/30 transition ${
+                      hasDetailedData ? 'cursor-pointer' : ''
+                    }`}
+                    onClick={() => hasDetailedData && setExpandedDish(isExpanded ? null : idx)}
+                  >
+                    {/* Header */}
+                    <div className="flex items-start justify-between mb-3">
+                      <div className="flex-1">
+                        <div className="flex items-center gap-2 mb-2">
+                          <h3 className="text-lg font-semibold text-[#f5f0e8]">{product.name}</h3>
+                          {product.price && (
+                            <span className="px-2.5 py-1 rounded-full bg-[#d4a574]/20 text-[#d4a574] text-sm font-semibold">
+                              {product.price}
+                            </span>
+                          )}
+                        </div>
+                        <p className="text-sm text-[#f5f0e8]/60">
+                          {product.description || product.whyPeopleLoveIt}
+                        </p>
+                      </div>
+                      {product.reviewMentions > 0 && (
+                        <div className="flex flex-col items-end gap-1 ml-3">
+                          <div className="flex items-center gap-1 px-2 py-1 rounded-full bg-[#d4a574]/10">
+                            <span className="text-[#d4a574]">💬</span>
+                            <span className="text-sm font-medium text-[#d4a574]">{product.reviewMentions}</span>
+                          </div>
+                          <span className="text-xs text-[#f5f0e8]/50">mentions</span>
+                        </div>
+                      )}
                     </div>
-                    {mentions.length > 0 && (
-                      <div className="flex items-center gap-1 ml-3">
-                        <span className="text-[#d4a574]">⭐</span>
-                        <span className="text-sm text-[#f5f0e8]/60">{mentions.length}</span>
+
+                    {/* Compact Info Row */}
+                    {(product.size || product.nutrition) && !isExpanded && (
+                      <div className="flex flex-wrap gap-3 text-xs text-[#f5f0e8]/60 mb-3">
+                        {product.size && <span>📦 {product.size}</span>}
+                        {product.nutrition && (
+                          <>
+                            <span>🔥 {product.nutrition.calories} cal</span>
+                            <span>💪 {product.nutrition.protein} protein</span>
+                          </>
+                        )}
                       </div>
                     )}
-                  </div>
 
-                  {isExpanded && mentions.length > 0 && (
-                    <div className="mt-4 pt-4 border-t border-[#f5f0e8]/10 space-y-3 animate-in slide-in-from-top-2">
-                      <div className="text-xs uppercase tracking-wider text-[#d4a574] font-medium">
-                        What Reviewers Say:
-                      </div>
-                      {mentions.map((mention, mIdx) => (
-                        <div key={mIdx} className="bg-[#f5f0e8]/5 rounded-lg p-3">
-                          <div className="flex items-center gap-2 mb-2">
-                            <span className="text-sm font-medium text-[#f5f0e8]">{mention.author}</span>
-                            <div className="flex">
-                              {Array.from({ length: mention.rating }).map((_, i) => (
-                                <span key={i} className="text-[#d4a574] text-xs">★</span>
+                    {/* Expanded Details */}
+                    {isExpanded && hasDetailedData && (
+                      <div className="mt-4 pt-4 border-t border-[#f5f0e8]/10 space-y-4 animate-in slide-in-from-top-2">
+                        {/* Nutrition Facts */}
+                        {product.nutrition && (
+                          <div className="bg-[#f5f0e8]/5 rounded-lg p-4">
+                            <div className="text-xs uppercase tracking-wider text-[#d4a574] font-medium mb-3">
+                              Nutrition Facts
+                            </div>
+                            <div className="grid grid-cols-2 gap-2 text-sm">
+                              <div><span className="text-[#f5f0e8]/50">Serving:</span> <span className="text-[#f5f0e8]">{product.nutrition.servingSize}</span></div>
+                              <div><span className="text-[#f5f0e8]/50">Servings:</span> <span className="text-[#f5f0e8]">{product.nutrition.servingsPerContainer}</span></div>
+                              <div><span className="text-[#f5f0e8]/50">Calories:</span> <span className="text-[#f5f0e8] font-semibold">{product.nutrition.calories}</span></div>
+                              <div><span className="text-[#f5f0e8]/50">Protein:</span> <span className="text-[#f5f0e8] font-semibold">{product.nutrition.protein}</span></div>
+                              <div><span className="text-[#f5f0e8]/50">Fat:</span> <span className="text-[#f5f0e8]">{product.nutrition.fat}</span></div>
+                              <div><span className="text-[#f5f0e8]/50">Carbs:</span> <span className="text-[#f5f0e8]">{product.nutrition.carbs}</span></div>
+                            </div>
+                            {product.allergens && product.allergens.length > 0 && (
+                              <div className="mt-3 pt-3 border-t border-[#f5f0e8]/10">
+                                <span className="text-xs text-[#f5f0e8]/50">Allergens:</span>
+                                <div className="flex flex-wrap gap-1.5 mt-1">
+                                  {product.allergens.map((allergen: string) => (
+                                    <span key={allergen} className="px-2 py-0.5 rounded-full bg-red-500/20 text-red-300 text-xs">
+                                      {allergen}
+                                    </span>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+                          </div>
+                        )}
+
+                        {/* Customer Quotes */}
+                        {product.quotes && product.quotes.length > 0 && (
+                          <div>
+                            <div className="text-xs uppercase tracking-wider text-[#d4a574] font-medium mb-3">
+                              What Customers Say:
+                            </div>
+                            <div className="space-y-2">
+                              {product.quotes.slice(0, 3).map((quote: string, qIdx: number) => (
+                                <div key={qIdx} className="bg-[#f5f0e8]/5 rounded-lg p-3 border-l-2 border-[#d4a574]/50">
+                                  <p className="text-sm text-[#f5f0e8]/70 italic">"{quote}"</p>
+                                </div>
                               ))}
                             </div>
                           </div>
-                          <p className="text-sm text-[#f5f0e8]/70 italic">"{mention.excerpt}..."</p>
-                        </div>
-                      ))}
-                    </div>
-                  )}
+                        )}
 
-                  {mentions.length > 0 && (
-                    <div className="mt-3 text-xs text-[#d4a574] font-medium">
-                      {isExpanded ? 'Click to collapse' : 'Click to see reviews →'}
-                    </div>
-                  )}
-                </div>
-              );
-            })}
-          </div>
-        </section>
-      )}
+                        {/* Cooking Instructions */}
+                        {product.cookingInstructions && product.cookingInstructions.length > 0 && (
+                          <div className="bg-[#f5f0e8]/5 rounded-lg p-4">
+                            <div className="text-xs uppercase tracking-wider text-[#d4a574] font-medium mb-3">
+                              How to Prepare
+                            </div>
+                            <ul className="space-y-1.5 text-sm text-[#f5f0e8]/70">
+                              {product.cookingInstructions.map((instruction: string, iIdx: number) => (
+                                <li key={iIdx} className="flex items-start gap-2">
+                                  <span className="text-[#d4a574] mt-0.5">•</span>
+                                  <span>{instruction}</span>
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                        )}
+                      </div>
+                    )}
+
+                    {hasDetailedData && (
+                      <div className="mt-3 text-xs text-[#d4a574] font-medium">
+                        {isExpanded ? '↑ Click to collapse' : '→ Click for details'}
+                      </div>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+          </section>
+        );
+      })()}
 
       {/* When to Go Section */}
       <div className="card-elevated p-8 rounded-2xl">
@@ -316,25 +407,45 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
           </div>
           <div>
             <h2 className="font-display text-2xl text-[#f5f0e8]">When to Go</h2>
-            <p className="text-sm text-[#f5f0e8]/60">Plan your visit for the best experience</p>
+            <p className="text-sm text-[#f5f0e8]/60">
+              {restaurant.slug === 'herbivorous-butcher'
+                ? 'Based on real customer experiences'
+                : 'Plan your visit for the best experience'}
+            </p>
           </div>
         </div>
 
         <div className="grid md:grid-cols-3 gap-4">
           <div className="bg-[#f5f0e8]/5 rounded-xl p-6">
             <div className="text-3xl mb-2">🌅</div>
-            <h3 className="font-semibold text-[#f5f0e8] mb-2">Weekday Mornings</h3>
-            <p className="text-sm text-[#f5f0e8]/60">Less crowded, great for quick pickups. Perfect for meal prep shopping.</p>
+            <h3 className="font-semibold text-[#f5f0e8] mb-2">
+              {restaurant.slug === 'herbivorous-butcher' ? 'Weekday Mornings' : 'Weekday Mornings'}
+            </h3>
+            <p className="text-sm text-[#f5f0e8]/60">
+              {restaurant.slug === 'herbivorous-butcher'
+                ? realData.timingInsights?.[0]?.bestTime || 'Less crowded, great for quick pickups'
+                : 'Less crowded, great for quick pickups. Perfect for meal prep shopping.'}
+            </p>
           </div>
           <div className="bg-[#f5f0e8]/5 rounded-xl p-6 ring-2 ring-[#d4a574]/30">
             <div className="text-3xl mb-2">⚡</div>
             <h3 className="font-semibold text-[#f5f0e8] mb-2">Best Time</h3>
-            <p className="text-sm text-[#f5f0e8]/60">Weekdays 11am-2pm for quick lunch grabs without weekend crowds.</p>
+            <p className="text-sm text-[#f5f0e8]/60">
+              {restaurant.slug === 'herbivorous-butcher'
+                ? realData.timingInsights?.[0]?.bestTime || 'Weekdays 11am-2pm for quick lunch grabs without weekend crowds.'
+                : 'Weekdays 11am-2pm for quick lunch grabs without weekend crowds.'}
+            </p>
           </div>
           <div className="bg-[#f5f0e8]/5 rounded-xl p-6">
             <div className="text-3xl mb-2">⏰</div>
-            <h3 className="font-semibold text-[#f5f0e8] mb-2">Weekend Lines</h3>
-            <p className="text-sm text-[#f5f0e8]/60">Expect 10-15 min waits Saturday/Sunday mornings. It moves fast!</p>
+            <h3 className="font-semibold text-[#f5f0e8] mb-2">
+              {restaurant.slug === 'herbivorous-butcher' ? 'Pro Tips' : 'Weekend Lines'}
+            </h3>
+            <p className="text-sm text-[#f5f0e8]/60">
+              {restaurant.slug === 'herbivorous-butcher'
+                ? realData.timingInsights?.[0]?.insight || 'Expect 10-15 min waits Saturday/Sunday mornings. It moves fast!'
+                : 'Expect 10-15 min waits Saturday/Sunday mornings. It moves fast!'}
+            </p>
           </div>
         </div>
       </div>
