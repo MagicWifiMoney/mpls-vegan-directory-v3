@@ -68,17 +68,47 @@ async function processRestaurant(restaurant) {
     };
   });
   
-  // Select SEO reviews
+  // Load comprehensive SEO keywords
+  const seoKeywords = JSON.parse(fs.readFileSync(path.join(__dirname, 'seo-keywords.json'), 'utf8'));
+  
+  // Select SEO reviews with enhanced scoring
   const seoReviews = reviews
     .filter(r => r.text && r.text.length > 100 && r.stars >= 4)
     .map(r => {
       let score = 0;
       const text = r.text.toLowerCase();
       
-      if (text.includes('wing') || text.includes('burger') || text.includes('taco') || 
-          text.includes('sandwich') || text.includes('ribs') || text.includes('cheese')) score += 3;
-      if (text.includes('minneapolis') || text.includes('twin cities') || text.includes('st paul')) score += 2;
-      if (text.includes('vegan') || text.includes('plant-based') || text.includes('delicious')) score += 1;
+      // Dish mentions (+4 pts each match)
+      seoKeywords.dishKeywords.terms.forEach(term => {
+        if (text.includes(term)) score += seoKeywords.dishKeywords.points;
+      });
+      
+      // Location keywords (+3 pts each)
+      seoKeywords.locationKeywords.terms.forEach(term => {
+        if (text.includes(term)) score += seoKeywords.locationKeywords.points;
+      });
+      
+      // Vegan terminology (+3 pts)
+      seoKeywords.veganKeywords.terms.forEach(term => {
+        if (text.includes(term)) score += seoKeywords.veganKeywords.points;
+      });
+      
+      // Experience keywords (+2 pts)
+      seoKeywords.experienceKeywords.terms.forEach(term => {
+        if (text.includes(term)) score += seoKeywords.experienceKeywords.points;
+      });
+      
+      // Use case mentions (+2 pts)
+      seoKeywords.useCaseKeywords.terms.forEach(term => {
+        if (text.includes(term)) score += seoKeywords.useCaseKeywords.points;
+      });
+      
+      // Conversion stories (+4 pts - SUPER valuable for SEO)
+      seoKeywords.conversionKeywords.terms.forEach(term => {
+        if (text.includes(term)) score += seoKeywords.conversionKeywords.points;
+      });
+      
+      // Length bonus (detailed reviews)
       if (r.text.length > 200) score += 2;
       if (r.text.length > 300) score += 3;
       
