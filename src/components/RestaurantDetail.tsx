@@ -324,7 +324,8 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
         restaurantAddress={restaurant.address}
         restaurantCity={restaurant.city}
         yelpUrl={placeDetails?.yelp?.yelpUrl}
-        popularItems={placeDetails?.popularItems}
+        restaurantSlug={restaurant.slug}
+        totalReviewCount={placeDetails?.userRatingsTotal || reviewCount}
       />
 
       {/* CTA */}
