@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { restaurants, getRestaurantBySlug } from '@/data/restaurants';
 import RestaurantDetail from '@/components/RestaurantDetail';
+import RestaurantDetailEnhanced from '@/components/RestaurantDetailEnhanced';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -143,30 +144,8 @@ export default async function RestaurantPage({ params }: Props) {
 
       {/* Main Content */}
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
-        {/* About */}
-        <div className="card-elevated rounded-2xl p-8 mb-12">
-          <h2 className="font-display text-2xl text-[#f5f0e8] mb-6">About</h2>
-          <p className="text-[#f5f0e8]/60 leading-relaxed text-lg">
-            {restaurant.description}
-          </p>
-          
-          {/* Features */}
-          <div className="mt-6">
-            <div className="flex flex-wrap gap-3">
-              {restaurant.features.map((feature) => (
-                <span 
-                  key={feature}
-                  className="px-4 py-2 rounded-full text-sm bg-[#3d4a3d]/30 text-[#d4a574] border border-[#3d4a3d]/50"
-                >
-                  {feature}
-                </span>
-              ))}
-            </div>
-          </div>
-        </div>
-
-        {/* Google Places Data (Photos, Reviews, Hours) */}
-        <RestaurantDetail restaurant={restaurant} />
+        {/* Enhanced component includes About section, so remove duplicate */}
+        <RestaurantDetailEnhanced restaurant={restaurant} />
       </div>
     </>
   );
