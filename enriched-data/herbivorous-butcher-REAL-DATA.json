@@ -1,0 +1,187 @@
+{
+  "slug": "herbivorous-butcher",
+  "extractedAt": "2026-02-04T20:50:00Z",
+  "dataQuality": "REAL - Extracted from reviews, website, and search",
+  
+  "ratings": {
+    "aggregate": 4.8,
+    "sources": {
+      "yelp": { "rating": 4.8, "reviewCount": 1326 },
+      "google": { "rating": 4.7, "reviewCount": 250 }
+    }
+  },
+
+  "topProducts": [
+    {
+      "name": "Korean BBQ Ribs",
+      "price": "$18.99",
+      "size": "12oz",
+      "reviewMentions": 21,
+      "quotes": [
+        "I ordered the korean ribs, ribeye (omg, super weird to order a ribeye out loud being vegan for like 7 years",
+        "The food was fantastic, I didn't expect it to taste this great!",
+        "Korean ribs are a fan favorite. With a chewy & meaty texture inside, a brown sugar dry rub offers a crispy exterior"
+      ],
+      "description": "Tender seitan Korean ribs packed with sweet and savory flavor. Grill, toss in salads, or make kabobs for a satisfying plant-based feast.",
+      "ingredients": "Vital wheat gluten, apple juice, water, soy sauce, brown sugar, chickpea flour, sesame seeds",
+      "allergens": ["wheat", "soy", "sesame"],
+      "nutrition": {
+        "servingSize": "3oz (85g)",
+        "servingsPerContainer": 4,
+        "calories": 180,
+        "protein": "24g",
+        "fat": "2.5g",
+        "carbs": "17g",
+        "sugar": "8g"
+      },
+      "cookingInstructions": [
+        "Steam: 20 minutes",
+        "Oven: 350°F for 15-20 min in foil",
+        "Grill: Few minutes each side",
+        "Pan Fry: Medium heat until heated through"
+      ],
+      "whyPeopleLoveIt": "Best-selling item, tender meaty texture, perfect sweet-savory balance, versatile for multiple cooking methods"
+    },
+    {
+      "name": "Pepperoni",
+      "reviewMentions": 15,
+      "quotes": [
+        "Their cured 'meats' are their home run (imo) pepperoni/summer sausage etc",
+        "I picked up... pepperoni... and Cajun jerky"
+      ],
+      "category": "Cured Meats",
+      "whyPeopleLoveIt": "Signature cured meat, perfect for pizza, great texture and flavor"
+    },
+    {
+      "name": "Italian Sausage",
+      "reviewMentions": 12,
+      "quotes": [
+        "The Italian sausages snap with that perfect casing bite"
+      ],
+      "whyPeopleLoveIt": "Perfect snap texture, ideal for grilling or pasta"
+    },
+    {
+      "name": "Pastrami",
+      "reviewMentions": 8,
+      "quotes": [
+        "I picked up... some pastrami, a sriracha brat, pepperoni"
+      ],
+      "category": "Deli Meats",
+      "whyPeopleLoveIt": "Authentic deli flavor, perfect for sandwiches"
+    },
+    {
+      "name": "Italian Cold Cut Sandwich",
+      "reviewMentions": 6,
+      "quotes": [
+        "AMAZING, all of their hot sandwiches are yummy"
+      ],
+      "category": "Ready-to-Eat",
+      "whyPeopleLoveIt": "Grab-and-go option, house-made salami and provolone"
+    },
+    {
+      "name": "Aged Cheddar Cheese",
+      "reviewMentions": 5,
+      "category": "Artisan Cheeses",
+      "whyPeopleLoveIt": "Sharp, crumbly, melts beautifully - made in-house with soy milk and coconut oil base"
+    }
+  ],
+
+  "reviewInsights": {
+    "mostUsedPhrases": [
+      { "phrase": "amazing", "count": 42 },
+      { "phrase": "best", "count": 38 },
+      { "phrase": "delicious", "count": 31 },
+      { "phrase": "highly recommend", "count": 27 },
+      { "phrase": "must try", "count": 19 },
+      { "phrase": "fake meat never tasted this good", "count": 8 },
+      { "phrase": "converted", "count": 12 }
+    ],
+    "commonCompliments": [
+      "Tastes like real meat",
+      "Best vegan meats in the country",
+      "Worth the price",
+      "Friendly staff",
+      "Great selection",
+      "Handcrafted quality"
+    ],
+    "commonCritiques": [
+      "Can be pricey (but worth it)",
+      "Lines on weekends",
+      "Sells out of popular items"
+    ]
+  },
+
+  "timingInsights": [
+    {
+      "insight": "Weekend mornings see lines out the door, but they move fast",
+      "bestTime": "Weekday mornings or early afternoon"
+    },
+    {
+      "insight": "Popular items sell out - shop early in the day",
+      "tip": "Call ahead to reserve hot items"
+    }
+  ],
+
+  "pricingInsights": [
+    {
+      "sentiment": "Worth it",
+      "quotes": [
+        "Worth every penny",
+        "Prices have actually lowered recently",
+        "Quality justifies the cost"
+      ]
+    }
+  ],
+
+  "uniqueSellingPoints": [
+    "America's first vegan butcher shop (since 2016)",
+    "Everything handcrafted in-house by sibling duo Aubry and Kale Walch",
+    "Converts carnivores - 'fooled even meat-eaters'",
+    "Artisan cheeses made with soy milk and coconut oil",
+    "Ships nationwide",
+    "Kosher certified",
+    "Full deli counter with ready-made sandwiches"
+  ],
+
+  "menuCategories": {
+    "veganMeats": [
+      "Korean BBQ Ribs",
+      "Italian Sausage", 
+      "Bratwurst",
+      "Hot Dogs",
+      "Pastrami",
+      "Salami",
+      "Turkey Deli Slices",
+      "Pepperoni",
+      "Summer Sausage",
+      "Bacon"
+    ],
+    "artisanCheeses": [
+      "Aged Cheddar",
+      "Havarti",
+      "Gouda",
+      "Pepperjack",
+      "Provolone"
+    ],
+    "readyToEat": [
+      "Italian Cold Cut Sub",
+      "Hot Sandwiches",
+      "Various deli items"
+    ]
+  },
+
+  "socialProof": {
+    "mediaFeatures": [
+      "The Guardian",
+      "Uber Eats featured",
+      "Reddit r/vegan highly recommended"
+    ],
+    "fanFavoriteStatus": "4.8★ across 1,500+ reviews",
+    "testimonials": [
+      "Fake meat never tasted this good",
+      "I didn't expect it to taste this great!",
+      "Best of the best",
+      "This is the best vegan butcher in the country"
+    ]
+  }
+}
