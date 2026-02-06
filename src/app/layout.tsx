@@ -18,25 +18,163 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Minneapolis Vegan Directory | Plant-Based Restaurants in Twin Cities",
-  description: "Discover the best vegan and plant-based restaurants in Minneapolis and Saint Paul. Find 100% vegan spots, vegetarian restaurants, and vegan-friendly eateries throughout the Twin Cities.",
-  keywords: ["vegan restaurants Minneapolis", "plant-based Minneapolis", "vegan Saint Paul", "Twin Cities vegan", "vegetarian Minneapolis"],
+  title: "Best Vegan Restaurants Minneapolis 2026 | 46 Plant-Based Spots",
+  description: "The ultimate guide to vegan restaurants in Minneapolis for 2026. Discover 46 plant-based spots including 100% vegan restaurants, vegetarian cafes, and vegan-friendly eateries throughout the Twin Cities. Reviews, ratings, and insider tips.",
+  keywords: [
+    "vegan restaurants Minneapolis",
+    "plant-based Minneapolis",
+    "vegan Saint Paul",
+    "Twin Cities vegan",
+    "vegetarian Minneapolis",
+    "vegan brunch Minneapolis",
+    "vegan date night Minneapolis",
+    "Ethiopian vegan Minneapolis",
+    "best vegan food Minneapolis 2026"
+  ],
+  authors: [{ name: "MPLS Vegan Team" }],
+  creator: "Minneapolis Vegan Directory",
+  publisher: "Minneapolis Vegan Directory",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  metadataBase: new URL('https://mplsvegan.com'),
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
-    title: "Minneapolis Vegan Directory",
-    description: "Your guide to plant-based dining in the Twin Cities",
-    type: "website",
-    locale: "en_US",
+    title: "Best Vegan Restaurants Minneapolis 2026 | 46 Plant-Based Spots",
+    description: "Your complete guide to vegan and plant-based dining in Minneapolis. 46 restaurants with reviews, ratings, and real customer quotes.",
+    url: 'https://mplsvegan.com',
     siteName: "Minneapolis Vegan Directory",
+    locale: 'en_US',
+    type: 'website',
+    images: [
+      {
+        url: '/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Minneapolis Vegan Directory - 46 Plant-Based Restaurants',
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Minneapolis Vegan Directory",
-    description: "Your guide to plant-based dining in the Twin Cities",
+    title: "Best Vegan Restaurants Minneapolis 2026",
+    description: "The ultimate guide to 46 vegan & plant-based restaurants in Minneapolis",
+    images: ['/og-image.png'],
   },
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
+  verification: {
+    // Add these when available
+    // google: 'google-site-verification-code',
+    // yandex: 'yandex-verification-code',
+  },
+};
+
+// JSON-LD structured data for the website
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Minneapolis Vegan Directory',
+  alternateName: 'MPLS Vegan',
+  url: 'https://mplsvegan.com',
+  description: 'The ultimate guide to vegan and plant-based restaurants in Minneapolis, Minnesota',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: 'https://mplsvegan.com/?search={search_term_string}'
+    },
+    'query-input': 'required name=search_term_string'
+  }
+};
+
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Minneapolis Vegan Directory',
+  url: 'https://mplsvegan.com',
+  logo: 'https://mplsvegan.com/logo.png',
+  description: 'Comprehensive guide to vegan and plant-based restaurants in the Twin Cities',
+  areaServed: {
+    '@type': 'City',
+    name: 'Minneapolis',
+    containedInPlace: {
+      '@type': 'State',
+      name: 'Minnesota'
+    }
+  },
+  knowsAbout: [
+    'Vegan Restaurants',
+    'Plant-Based Dining',
+    'Vegetarian Food',
+    'Minneapolis Restaurants',
+    'Twin Cities Dining'
+  ]
+};
+
+const localBusinessListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Best Vegan Restaurants in Minneapolis 2026',
+  description: '46 top-rated vegan and plant-based restaurants in Minneapolis',
+  numberOfItems: 46,
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      item: {
+        '@type': 'Restaurant',
+        name: 'The Herbivorous Butcher',
+        servesCuisine: 'Vegan',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: 'Minneapolis',
+          addressRegion: 'MN'
+        }
+      }
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      item: {
+        '@type': 'Restaurant',
+        name: 'J. Selby\'s',
+        servesCuisine: 'Vegan American',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: 'St. Paul',
+          addressRegion: 'MN'
+        }
+      }
+    },
+    {
+      '@type': 'ListItem',
+      position: 3,
+      item: {
+        '@type': 'Restaurant',
+        name: 'Lulu EthioVegan',
+        servesCuisine: 'Vegan Ethiopian',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: 'Minneapolis',
+          addressRegion: 'MN'
+        }
+      }
+    }
+  ]
 };
 
 export default function RootLayout({
@@ -46,6 +184,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${instrumentSerif.variable} ${dmSans.variable}`}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessListSchema) }}
+        />
+      </head>
       <body className="font-body bg-[#1a1a1a] text-[#f5f0e8] antialiased">
         <Header />
         <main className="min-h-screen">{children}</main>
