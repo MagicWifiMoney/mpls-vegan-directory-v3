@@ -1,100 +1,50 @@
 {
   "topProducts": [
     {
-      "name": "Caesar Salad",
-      "description": "A classic salad, mentioned as being 'fantastic' but also criticized for having very little chicken, soft tomatoes, and kale stems left on.",
-      "category": "Entree",
-      "badge": "Popular",
-      "quotes": [
-        "Got the Caesar salad, and it was fantastic",
-        "I ordered their Chicken Caesar salad"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Bold & the Buffalo",
-      "description": "Described by a reviewer as one of their 'all-time favorite salads'.",
-      "category": "Entree",
-      "badge": "Featured",
-      "quotes": [
-        "The Bold & the Buffalo is one of my all-time favorite salads"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "BBQ Zen Bowl",
-      "description": "A bowl that a customer simply described as 'good'.",
-      "category": "Entree",
-      "badge": "Featured",
-      "quotes": [],
-      "reviewMentions": 1
-    },
-    {
-      "name": "No Prob Cobb",
-      "description": "A salad that a customer mentioned had declining quality and incorrect ingredients, like a stalk of lettuce.",
-      "category": "Entree",
-      "badge": "Featured",
-      "quotes": [
-        "Today the kale was really hard, I had a stalk of lettuce in my no prob cobb which I don't even think comes with lettuce and I don't know why it doesn't taste the same but it got bad enough I tried sweetgreen but hated it and ended up back here again and this is the experience"
-      ],
-      "reviewMentions": 1
-    },
-    {
       "name": "Verde Bowl",
-      "description": "A bowl a customer wanted to return to try in the future.",
-      "category": "Entree",
+      "description": "Mentioned as a fresh option to try.",
+      "category": "entree",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
         "Will need to come back and try the Verde Bowl sometime"
-      ],
-      "reviewMentions": 1
+      ]
     },
     {
       "name": "Green Smoothie",
-      "description": "A drink that was part of an experience praised for excellent service, atmosphere, and pricing.",
-      "category": "Drink",
+      "description": "A smoothie option.",
+      "category": "drink",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
         "Had a green smoothie,  the service,  atmosphere and pricing were all excellent"
-      ],
-      "reviewMentions": 1
+      ]
     },
     {
       "name": "Açaí Bowl",
-      "description": "A menu item a customer was disappointed they could not get because the store locked its doors 10 minutes before closing.",
-      "category": "Entree",
+      "description": "An item available on the menu.",
+      "category": "entree",
+      "reviewMentions": 2,
       "badge": "Popular",
       "quotes": [
         "they locked the doors 10 minutes before they actually closed and i was bummed i couldn’t get my açaí bowl :(",
         "Whereas the food, I was highly disappointed… I’ve ordered the dragon açaí bowl and received a half empty container of açaí… I’ve never had this happen to me before and I get açaí often so this was very upsetting to see"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Fiesta Bowl",
-      "description": "A bowl that was mentioned by name in a review without further description.",
-      "category": "Entree",
-      "badge": "Popular",
-      "quotes": [
-        "Fiesta bowl or Cobb are my favorites",
-        "I’ve tried the Fiesta Bowl and the Bold Buffalo Bowl which were both solid"
-      ],
-      "reviewMentions": 3
+      ]
     }
   ],
   "highlightedReviews": [
+    {
+      "author": "Mary Knapp",
+      "rating": 5,
+      "text": "Although not primarily a vegan restaurant, g the staff is very accommodating & helpful with suggestions. We’ll be back!",
+      "date": "Edited a year ago",
+      "source": "Google"
+    },
     {
       "author": "Suni Zmich",
       "rating": 5,
       "text": "I finally went to Crisp & Green after resisting for 1.5 years. My rationale: how can any restaurant that sounds healthy be delicious? I’m sure it has something to do with my childhood filled with tasteless “healthy” meals of bran fiber and iceberg lettuce. On Tuesday of last week, I finally entered the premises due to time constraints and the convenient proximity to my condo. I was warmly welcomed and shown the “HOW TOs” by an enthusiastic smiley staff member. The Seoul Bowl filled my stomach and spirit with unforeseen delight. I went back on Thursday to recreate the experience with a friend and was not disappointed. The mushrooms were perfectly marinated, changing the texture to a plump chew. The tofu was as good as any chicken I have ever tasted. When I asked how the tofu was prepared, I learned that it was bathed in some kind of dreamy citrusy ginger magic. The combination of the spicy bibimbap & cashew dressing harmoniously brought all of the fresh ingredients together. I loved the balance of sweet and savory in this dish (echoes of many Korean recipes), with the vegetable crunchiness punctuating the creaminess. I left satiated and with a newly formed respect for healthy food.",
       "date": "2 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Drew Pesall",
-      "rating": 4,
-      "text": "A pretty standard grain bowl & salad place. I know some people have had issues with portion sizes when ordering for delivery, but I’ve always eaten in person and they’ve always filled up my bowl. Even then, it’s not cheap, but the food is solid and there’s many healthy options if that’s what you’re in the market for.\n\nI’ve tried the Fiesta Bowl and the Bold Buffalo Bowl which were both solid. Nothing really to write home around here but if salad/grain bowls are your thing or you want a healthier option it’s absolutely worth a visit.",
-      "date": "a year ago",
       "source": "Google"
     },
     {
@@ -105,16 +55,16 @@
       "source": "Google"
     },
     {
-      "author": "VK",
-      "rating": 5,
-      "text": "Great salads and bowls!  We were looking for a healthy but tasty lunch and these guys have it!  They put your food together right in front of you making sure the ingredients were exactly what you want!  Super!",
-      "date": "8 months ago",
-      "source": "Google"
-    },
-    {
       "author": "Kyrsten Larson",
       "rating": 4,
       "text": "I ordered an Imagine Dragon Fruit Bowl and it was handed to me while I was still in the line. The lady in front of me was having issues with her gift card and the person working the register kept arguing with her so my smoothie bowl was melting as I stood there waiting to pay. Once I got to eat it, though, it was pretty good. I asked for strawberries instead of blueberries which was nice they let me do that. I also appreciated that the bowl was gluten free. I wish the smoothie part would have been a little more flavorful. Overall I would eat there again and order something different.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Drew Pesall",
+      "rating": 4,
+      "text": "A pretty standard grain bowl & salad place. I know some people have had issues with portion sizes when ordering for delivery, but I’ve always eaten in person and they’ve always filled up my bowl. Even then, it’s not cheap, but the food is solid and there’s many healthy options if that’s what you’re in the market for.\n\nI’ve tried the Fiesta Bowl and the Bold Buffalo Bowl which were both solid. Nothing really to write home around here but if salad/grain bowls are your thing or you want a healthier option it’s absolutely worth a visit.",
       "date": "a year ago",
       "source": "Google"
     },
@@ -126,10 +76,24 @@
       "source": "Google"
     },
     {
-      "author": "Jonathon Krouth",
+      "author": "Brad Searle",
       "rating": 5,
-      "text": "A lovely place. Very clean. Workers were very attentive and engaged. Lots of fresh options. Got the Caesar salad, and it was fantastic! Will need to come back and try the Verde Bowl sometime.",
-      "date": "3 weeks ago",
+      "text": "The Rise and Grind (with coconut milk and cacoa nibs) is amazing! Life-changing. Also, I clumsily dropped my bowl on the ground and they gave me a new one, free of charge (even though I insisted to pay for the second).\nSuper friendly staff, lots of natural light. Give it a try!",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Antonio Pizina",
+      "rating": 5,
+      "text": "I loved it first time and this latino worker here was amazing I dont know his name or anything but he needs a raise I really like the dude",
+      "date": "a week ago",
+      "source": "Google"
+    },
+    {
+      "author": "Charles Of The Rock (Father)",
+      "rating": 5,
+      "text": "Had a green smoothie,  the service,  atmosphere and pricing were all excellent.  The company i was with was cold and belligerent.  I would recommend this establishment 100 percent,  just be sure you're with the right company.",
+      "date": "2 months ago",
       "source": "Google"
     },
     {
@@ -138,23 +102,9 @@
       "text": "The food was delicious but pretty expensive. The Bold & the Buffalo is one of my all-time favorite salads!",
       "date": "4 months ago",
       "source": "Google"
-    },
-    {
-      "author": "Pete Boisclair",
-      "rating": 5,
-      "text": "Very friendly and polite staff here, with an extremely clean restaurant! It was my first time trying a Crisp and Green and the C’est La Viche salad did not disappoint! I would definitely go back here.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Lee Witte",
-      "rating": 4,
-      "text": "Service was fast, but I just can't give more stars when it's order and pay at the assembly line. Food was fresh and the facility was clean. If there is a washroom here, it's hidden. Healthy options but has a fast, subway like vibe.",
-      "date": "a year ago",
-      "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:59:56.873Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:29:12.098Z"
 }

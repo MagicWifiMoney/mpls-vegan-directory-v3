@@ -1,99 +1,27 @@
 {
   "topProducts": [
     {
-      "name": "Pizza",
-      "description": "Consistently praised as 'fantastic', 'amazing', and 'tasty'. Specific popular versions mentioned include the 'Luce' (house special), 'Classic', and 'Jalapeño Popper'. The crust is frequently highlighted as a positive feature.",
+      "name": "Ultimate Veggie vegan hoagie",
+      "description": "A vegan hoagie, though one review noted toppings were sparse.",
       "category": "entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "Usually a delivery customer, we  went to the Pizza Luce on 4th and 2nd Ave",
-        "Poor service and terrible pizza",
-        "Horrible pizza and poor ownership and social media team"
-      ],
-      "reviewMentions": 46
-    },
-    {
-      "name": "Cheesy Garlic Bread",
-      "description": "Described as 'awesome' and served with a marinara sauce that is 'spot on'. One review mentioned their daughter ordered a second round because it was so good.",
-      "category": "appetizer",
-      "badge": "Featured",
-      "quotes": [
-        "Our cheesy garlic bread was awesome"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Spinach Artichoke Dip",
-      "description": "Considered 'good', though one reviewer noted it was a 'little on the salty side'.",
-      "category": "appetizer",
-      "badge": "Featured",
-      "quotes": [
-        "The Spinach Artichoke Dip was good, but a little on the salty side"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Beer Selection",
-      "description": "Features a 'nice selection of tap beers'. Customers appreciate the variety, with one mentioning Guinness specifically.",
-      "category": "drink",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Mostaccioli",
-      "description": "Mentioned as being a 'great' pasta dish.",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Jalapeño Popper Pizza",
-      "description": "A specialty pizza described as 'delicious', especially when fresh from the oven. One customer recommended adding chicken.",
-      "category": "entree",
-      "badge": "Featured",
-      "quotes": [
-        "The jalapeño popper pizza (adding chicken) was delicious - especially seconds out of the oven"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Spicy Pesto Pasta",
-      "description": "A winter special that was described as 'delicious'.",
-      "category": "entree",
-      "badge": "Featured",
-      "quotes": [
-        "The winter special, a spicy pesto pasta, was delicious"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Ultimate Veggie Vegan Hoagie",
-      "description": "A vegan sandwich option. One review was highly critical, stating the toppings were sparse and poorly prepared.",
-      "category": "entree",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
         "I had the Ultimate Veggie vegan hoagie"
-      ],
-      "reviewMentions": 1
+      ]
+    },
+    {
+      "name": "Guinness",
+      "description": "A fabulous selection of beers on tap.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "The cute place had a fabulous selection of beers on tap, I ordered a couple Guinness"
+      ]
     }
   ],
   "highlightedReviews": [
-    {
-      "author": "John Berrigan",
-      "rating": 5,
-      "text": "Usually a delivery customer, we  went to the Pizza Luce on 4th and 2nd Ave. The jalapeño popper pizza (adding chicken) was delicious - especially seconds out of the oven. The cocktails were great, the seating comfy, and the service was attentive and had us laughing with all the great humor. Great vibe.",
-      "date": "2 days ago",
-      "source": "Google"
-    },
-    {
-      "author": "Ben Mosbarger",
-      "rating": 5,
-      "text": "What a great place to spend time eating delicious pizza. The atmosphere is fantastic and welcoming.\n\nOur server was so kind and helpful. She said she’s been there for 12 years because it’s such a good place to work.\n\nI was visiting from out of town, first time to Minneapolis. This place came recommended by the hotel staff and I am so grateful.",
-      "date": "3 months ago",
-      "source": "Google"
-    },
     {
       "author": "A B",
       "rating": 5,
@@ -102,23 +30,16 @@
       "source": "Google"
     },
     {
-      "author": "Jon Hanson",
+      "author": "Jannat Day",
       "rating": 5,
-      "text": "A lot of places are closed in downtown Minneapolis late on a Sunday night. This place was open. It had a lot of selections for food, drinks and a full bar.\n\nThe pizza was better than most I've had in the area.\n\nI highly recommend stopping by if your staying downtown near the twins stadium and looking for a good place to finish off the night with a bite to eat and a closing time drink with your friends before you call it a night!",
-      "date": "5 months ago",
+      "text": "Some of the best food I've ever had. Top notch! I always tell people trying it for the first time that they can pick anything on the menu and they'll love it. In the 10+ years that I've been getting deliveries from them I have never had any issues and the food would the same amazing taste and quality as always, the delivery people are super friendly too. Huge kudos to whoever creates and prepares the food, it's pure art. Highly recommend!",
+      "date": "2 months ago",
       "source": "Google"
     },
     {
-      "author": "Scar’s Perspective",
-      "rating": 4,
-      "text": "Pizza Luce was highly recommended. I would say overall, it was okay. The Spinach Artichoke Dip was good, but a little on the salty side. We ordered the Classic Pizza and it was good. Loved the crust.\n\nOur server was just meh. I asked for recommendations on a local beer and he asked which ones on the menu I wanted. He couldn’t give a good recommendation. He was also slow. We had to track him down to get our check and again to pay. He only had 2 tables of people to serve.",
-      "date": "a month ago",
-      "source": "Google"
-    },
-    {
-      "author": "Jennifer Pennington",
+      "author": "Ben Mosbarger",
       "rating": 5,
-      "text": "Loved the Moscow Mule made with Du Nord Foundation Vodka - it was bright and refreshing, the perfect sidekick to a classic cheese pizza. Our bartender, Alex, nailed it—friendly, fast, and made sure we had everything we needed. And to top it all off? The Espresso Martini made with Du Nord’s Café Frieda Coffee Liqueur, finished with a touch of chocolate—the perfect dessert drink! Cheers to Pizza Lucé for showing love to Du Nord Social Spirits! As a proud member of Team Du Nord, I’ll always raise a glass to this awesome partnership!",
+      "text": "What a great place to spend time eating delicious pizza. The atmosphere is fantastic and welcoming.\n\nOur server was so kind and helpful. She said she’s been there for 12 years because it’s such a good place to work.\n\nI was visiting from out of town, first time to Minneapolis. This place came recommended by the hotel staff and I am so grateful.",
       "date": "3 months ago",
       "source": "Google"
     },
@@ -130,6 +51,27 @@
       "source": "Google"
     },
     {
+      "author": "Jon Hanson",
+      "rating": 5,
+      "text": "A lot of places are closed in downtown Minneapolis late on a Sunday night. This place was open. It had a lot of selections for food, drinks and a full bar.\n\nThe pizza was better than most I've had in the area.\n\nI highly recommend stopping by if your staying downtown near the twins stadium and looking for a good place to finish off the night with a bite to eat and a closing time drink with your friends before you call it a night!",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "John Berrigan",
+      "rating": 5,
+      "text": "Usually a delivery customer, we  went to the Pizza Luce on 4th and 2nd Ave. The jalapeño popper pizza (adding chicken) was delicious - especially seconds out of the oven. The cocktails were great, the seating comfy, and the service was attentive and had us laughing with all the great humor. Great vibe.",
+      "date": "2 days ago",
+      "source": "Google"
+    },
+    {
+      "author": "Scar’s Perspective",
+      "rating": 4,
+      "text": "Pizza Luce was highly recommended. I would say overall, it was okay. The Spinach Artichoke Dip was good, but a little on the salty side. We ordered the Classic Pizza and it was good. Loved the crust.\n\nOur server was just meh. I asked for recommendations on a local beer and he asked which ones on the menu I wanted. He couldn’t give a good recommendation. He was also slow. We had to track him down to get our check and again to pay. He only had 2 tables of people to serve.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
       "author": "Jessica Certain",
       "rating": 5,
       "text": "Loved our experience! We found this gem after an event at the Orpheum Theatre. It's a quick walk! Our cheesy garlic bread was awesome! The marinara was spot on. We loved it so much, my daughter ordered another round! We had slices of yummy pizza  too. The cute place had a fabulous selection of beers on tap, I ordered a couple Guinness. Our bartender was awesome, didn't catch his name but thought someone called him Wylie.  We would love to come back when we are in the city next visit",
@@ -137,21 +79,21 @@
       "source": "Google"
     },
     {
-      "author": "Kelsey Ryan",
+      "author": "Jennifer Pennington",
       "rating": 5,
-      "text": "I ordered this for take out. I was having issues with the website and it kept giving me an error message when trying to order to my hotel. My friend and I called the restaurant and they were able to assist us.\n\nThis is the third time I’ve had Pizza Luce and all times have been excellent. I like the classic a lot and the Athena. At the twins stadium they have a pickle one I really want to try.\n\nPizza Luce also does seasonal pizza which is fun!",
+      "text": "Loved the Moscow Mule made with Du Nord Foundation Vodka - it was bright and refreshing, the perfect sidekick to a classic cheese pizza. Our bartender, Alex, nailed it—friendly, fast, and made sure we had everything we needed. And to top it all off? The Espresso Martini made with Du Nord’s Café Frieda Coffee Liqueur, finished with a touch of chocolate—the perfect dessert drink! Cheers to Pizza Lucé for showing love to Du Nord Social Spirits! As a proud member of Team Du Nord, I’ll always raise a glass to this awesome partnership!",
       "date": "3 months ago",
       "source": "Google"
     },
     {
-      "author": "Erin Michelli",
+      "author": "Zach Mohammud",
       "rating": 5,
-      "text": "Loved loved loved the pizza here! Its hard to find really good food at 2am and this place did not disappoint. The delivery is pretty quick, too. During my 4 day stay in Minneapolis, I think I ate here 2 of the days, and I ate my leftovers the other 2 days :) I wish there was one of these in my city.",
-      "date": "4 months ago",
+      "text": "Emily . Every time I come in, she makes the place feel welcoming in a way that’s rare these days. She greets me with a real smile, remembers faces, and treats people like they matter—not just like another order. Her positive energy honestly changes the whole experience, and it’s the reason I keep coming back. You can tell she takes pride in what she does, and it doesn’t go unnoticed. She’s a huge asset to this place. Thank you Emily.",
+      "date": "a month ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:53:28.253Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:26:39.136Z"
 }

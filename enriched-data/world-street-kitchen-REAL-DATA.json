@@ -1,74 +1,92 @@
 {
   "topProducts": [
     {
-      "name": "Korean BBQ Beef (Short Rib)",
-      "description": "A versatile and popular item served in various forms like a rice bowl, burrito, or with hummus. Reviewers praise it as 'tasty and filling.'",
-      "category": "Entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Hummus Bowl",
-      "description": "A main course-sized bowl of creamy, airy hummus. Often mentioned with toppings like Korean beef or mushroom bulgogi, and praised for its unique and flavorful combinations.",
-      "category": "Entree",
-      "badge": "Top Pick",
+      "name": "Mushroom Bulgogi Burrito",
+      "description": "A vegan burrito that is very well seasoned, though the herbs may not be distributed throughout.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "The mushroom hummus bowl was super creamy and filling",
-        "We got the Korean “BBQ” Beef Short Ribs Hummus Bowl and the Deluxe Chicken Shawarma Sandwich",
-        "The hummus bowl was so good but still wondering what does sub lettuce mean in the in app ordering customizations"
-      ],
-      "reviewMentions": 5
+        "We are vegan, so we ordered the mushroom bulgogi burrito, mushroom bulgogi hummus, cauliflower zucchini sandwich, battered fries, our and vegan black ice cream"
+      ]
     },
     {
-      "name": "Red Curry Burrito",
-      "description": "Specifically mentioned by multiple reviewers as being 'excellent' and 'terrific.' Often contains chicken.",
-      "category": "Entree",
-      "badge": "Popular",
+      "name": "Mushroom Bulgogi Hummus",
+      "description": "A full meal hummus bowl with a sweet and spicy flavor. The texture is noted as airy.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "The red curry burrito, Korean BBQ bowl, lemongrass meatballs",
-        "We enjoyed the red curry burrito, brussel sprouts and a salad"
-      ],
-      "reviewMentions": 2
+        "We are vegan, so we ordered the mushroom bulgogi burrito, mushroom bulgogi hummus, cauliflower zucchini sandwich, battered fries, our and vegan black ice cream"
+      ]
     },
     {
-      "name": "Yum Yum Bowls",
-      "description": "A signature dish described by multiple reviewers as 'amazing' and 'fantastic.'",
-      "category": "Entree",
-      "badge": "Popular",
+      "name": "Cauliflower Zucchini Sandwich",
+      "description": "A vegan sandwich that is described as a bit bland and needing sauce for flavor.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "The yum yum bowls are amazing",
-        "Their Yum Yum bowls are also fantastic"
-      ],
-      "reviewMentions": 2
+        "We are vegan, so we ordered the mushroom bulgogi burrito, mushroom bulgogi hummus, cauliflower zucchini sandwich, battered fries, our and vegan black ice cream"
+      ]
     },
     {
-      "name": "MFC / Chicken Sandwich",
-      "description": "A long-standing and beloved menu item. Described as a sandwich that 'still hits after being on their menu for over 10 years' and that any version is 'awesome.'",
-      "category": "Entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Brussel Sprouts",
-      "description": "A highly-rated side dish, noted for being 'packed with flavor from the savory fishsauce and nice and crispy.'",
-      "category": "Side",
-      "badge": "Top Pick",
+      "name": "Battered Fries",
+      "description": "Vegan battered fries, described as good.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "My favortie thing was probably the Brussel sprouts, they were packed with flavor from the savory fishsauce and nice and crispy",
-        "I found a few favorites like the OG chicken bowl and the brussel sprouts",
-        "We enjoyed the red curry burrito, brussel sprouts and a salad"
-      ],
-      "reviewMentions": 5
+        "We are vegan, so we ordered the mushroom bulgogi burrito, mushroom bulgogi hummus, cauliflower zucchini sandwich, battered fries, our and vegan black ice cream"
+      ]
     },
     {
-      "name": "Ice Cream & Desserts",
-      "description": "Reviewers frequently mention 'amazing' ice cream treats, cakes (including vegan options), and cookies. Often associated with the co-located MilkJam Creamery.",
-      "category": "Dessert",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Vegan Black Ice Cream",
+      "description": "A vegan ice cream that is not overly sweet, described as perfect and delicious.",
+      "category": "dessert",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "We are vegan, so we ordered the mushroom bulgogi burrito, mushroom bulgogi hummus, cauliflower zucchini sandwich, battered fries, our and vegan black ice cream"
+      ]
+    },
+    {
+      "name": "Crispy Tofu Bowl",
+      "description": "A very good vegan tofu bowl, could be spicier.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "This time, I ordered battered fries, crispy tofu bowl, chips and guacamole, mushroom bulgogi hummus, My son, who is not vegan, ordered beef kofta Burger and side of barbecue beef"
+      ]
+    },
+    {
+      "name": "Chips and Guacamole",
+      "description": "Vegan guacamole with a fantastic and unique flavoring.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "This time, I ordered battered fries, crispy tofu bowl, chips and guacamole, mushroom bulgogi hummus, My son, who is not vegan, ordered beef kofta Burger and side of barbecue beef"
+      ]
+    },
+    {
+      "name": "Vegan Ice Cream Cake",
+      "description": "A beautiful and delicious vegan ice cream cake.",
+      "category": "dessert",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "The the vegan ice cream cake and brought it home"
+      ]
+    },
+    {
+      "name": "Cocktails",
+      "description": "Yummy cocktails are available.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": []
     }
   ],
   "highlightedReviews": [
@@ -80,37 +98,44 @@
       "source": "Google"
     },
     {
+      "author": "Willow",
+      "rating": 5,
+      "text": "Super flavorful food! Lots of vegetarian and vegan options but also great meat options. The Korean beef rice bowl was tasty and filling. The mushroom hummus bowl was super creamy and filling. My favortie thing was probably the Brussel sprouts, they were packed with flavor from the savory fishsauce and nice and crispy. This place is definitely a come back again!",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nikhil Saxena",
+      "rating": 4,
+      "text": "Interesting fusion food and most of it is great. A variety of options even if you have dietary restrictions and the prices are very fair. Highly recommend the Brussel Sprouts (not vegan as they have fish sauce) and Bangkok Burritos. Do not the reccomend the Bulgogi Mushroom Hummus Bowl - unfortunately not all their flavor combinations work out.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Tom O'Neill",
+      "rating": 5,
+      "text": "Been going to this place for years, a staple in uptown that has a great menu, with great rotating options as well as fantastic gluten free and vegan choices. Service has always been exceptional, Kieran was very helpful last time I was in, ensuring I got a bowl that fit my dietary restrictions. Highly recommend.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jenni Lamprech",
+      "rating": 5,
+      "text": "Plenty of options for all dietary preferences, and they're all delicious! Fantastic restaruant, great service, friendly staff, food was amazing. The vegan special sauce is so good! Reasonable prices, highly recommend this place.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Holly Santiago",
+      "rating": 5,
+      "text": "Went here for lunch today (12/5) -first time in about five years- and was blown away! The two ppl at the register were incredibly helpful and welcoming. They suggested favorites to order, engaged in convos and questions about the food, and were so so so friendly! Even though this place is somewhat self-service, both people at the register came out to drop off food/waters/napkins/etc and chat a bit about the food and ice cream (they sell milk jam pints!). The place was clean and bright… and that MFC still hits after being on their menu for over 10 years! It all just felt “above and beyond” …a genuinely friendly vibe unlike anything I’ve experienced here before! It’s always been good, but my friend and I felt so at home and comfortable today :)",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
       "author": "James Brennan",
       "rating": 5,
       "text": "World Street Kitchen is an absolute gem! The menu is lean mean eclectic bliss. The lovely location in the heart of Uptown is always wonderful to visit. The staff is incredible, the service is snappy, and the restaurant has a welcoming ambience.\n\nOriginal Hummus: Extremely strong start to the meal with extremely well made hummus with a perfect spice to it.\n\nMFC Biscuit Sandwich: This is a perfect dish. The perfectly crisp Moroccan fried chicken gives way to these craveable preserved carrots on a moist cheddar Biscuit. Not to be forgotten is the spicy feta spread which I would be happy spreading on just about anything, it is perfect.\n\nRed Curry Chicken Burrito: Another incredible dish with perfectly cooked chicken, in a creamy sauce, and in a perfect tortilla.\n\nKOREAN “BBQ” BEEF SHORT RIBS BURRITO: This is a contender for the best dish as well, the beef is perfectly cooked, the flavor is rich and deep. The rice inside is perfect and there is an amazing hit of cilantro.\n\nWSK never fails to impress and they have my highest recommendation.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Shai",
-      "rating": 5,
-      "text": "We came here unintentionally because we were getting ice cream at MilkJam next door. The unique menu is what intrigued us. The menu items are an actual blend of different cuisines. We got the Korean “BBQ” Beef Short Ribs Hummus Bowl and the Deluxe Chicken Shawarma Sandwich.\nI would’ve never thought that kimchi and hummus could go so well together. It felt like a Ratatouille moment when Remi discovered the joy of eating fruit and cheese together. We sat in about 15 minutes of pure silence just devouring everything. We plan to come back and try some of their other menu items.\n\nThe only downside is that the area can get quite congested on the weekend and parking isn’t always the easiest to find. But it’s great because you can get a delicious dinner and then go next door to get ice cream that comes in some very unique flavors.",
-      "date": "4 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Jose C",
-      "rating": 4,
-      "text": "Wh had the beef shawarma tacos and the chicken biscuit sandwich, which were both very good. The taco meat was tender and well seasoned. The chicken sandwich had great flavor. However, the food is a bit over priced for an  a la carte menu. For example the $15 sandwich did not come with a side, and there was only 2 tacos for $12.",
-      "date": "10 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Dean Trimble",
-      "rating": 4,
-      "text": "I mentioned to my wife that I wanted authentic Korean BBQ and she found this place. I had the short rib lettuce wraps, she had the falafel burger and my sone had the Korean Short Rib Bowl. Overall I would say the food was good, but I am still in search of authentic Korean BBQ. Not to say this wasn’t authentic, but it was more of a fusion between Korean and middle eastern.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Emma LeValley",
-      "rating": 5,
-      "text": "Delicious food, cool atmosphere. Casual dining (order via QR code, they bring it out) and a great experience. Everyone was super nice. One of the employees noticed me being a camel and chugging a bunch of the tiny DIY water station cups and brought me a carafe.\nNow for the food: amazing. I had the red curry chicken burrito, which was delicious. I was nervous because it's labeled \"spicy,\" but it was very manageable spice-wise and super flavorful. I forgot to take a picture of my husband's Morrocan fried chicken sandwich on biscuit bread, which I had a bite of and was so unique and amazing. It had a carrot slaw on it that was great! Y'all gotta come here!",
       "date": "a year ago",
       "source": "Google"
     },
@@ -129,21 +154,14 @@
       "source": "Google"
     },
     {
-      "author": "Tom O'Neill",
+      "author": "Emma LeValley",
       "rating": 5,
-      "text": "Been going to this place for years, a staple in uptown that has a great menu, with great rotating options as well as fantastic gluten free and vegan choices. Service has always been exceptional, Kieran was very helpful last time I was in, ensuring I got a bowl that fit my dietary restrictions. Highly recommend.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Nikhil Saxena",
-      "rating": 4,
-      "text": "Interesting fusion food and most of it is great. A variety of options even if you have dietary restrictions and the prices are very fair. Highly recommend the Brussel Sprouts (not vegan as they have fish sauce) and Bangkok Burritos. Do not the reccomend the Bulgogi Mushroom Hummus Bowl - unfortunately not all their flavor combinations work out.",
+      "text": "Delicious food, cool atmosphere. Casual dining (order via QR code, they bring it out) and a great experience. Everyone was super nice. One of the employees noticed me being a camel and chugging a bunch of the tiny DIY water station cups and brought me a carafe.\nNow for the food: amazing. I had the red curry chicken burrito, which was delicious. I was nervous because it's labeled \"spicy,\" but it was very manageable spice-wise and super flavorful. I forgot to take a picture of my husband's Morrocan fried chicken sandwich on biscuit bread, which I had a bite of and was so unique and amazing. It had a carrot slaw on it that was great! Y'all gotta come here!",
       "date": "a year ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-06T00:15:38.523Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:35:22.198Z"
 }

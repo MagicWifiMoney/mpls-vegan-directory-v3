@@ -1,92 +1,35 @@
 {
   "topProducts": [
     {
-      "name": "Pho",
-      "description": "Excellent, with various meats such as ribeye, chicken, oxtail, or three meat. Praised for its deep, intense, and flavorful broth, with some noting perfect portion sizes or issues with customization and accompaniments.",
-      "category": "Entree",
-      "badge": "Top Pick",
+      "name": "Fresh Spring Rolls",
+      "description": "Described as 'perfect' and 'extremely delicious', served with a 'so good' dipping sauce.",
+      "category": "appetizer",
+      "reviewMentions": 2,
+      "badge": "Popular",
       "quotes": [
-        "Excellent pho and spring rolls",
-        "I got their pho with ribeye",
-        "In particular, I very specifically asked for no green onions in my pho (I am extremely sensitive to the “raw” taste and texture, to the point of nausea) but it came with it anyways and removing it from the soup became too much of a hassle that I ended up not eating at all, and I was uncomfortable asking for a fix after seeing how he had handled my friend’s order"
-      ],
-      "reviewMentions": 20
-    },
-    {
-      "name": "Cocktails",
-      "description": "Superbly crafted, great, excellent, and top-notch drinks from a diverse cocktail menu.",
-      "category": "Drink",
-      "badge": "Top Pick",
-      "quotes": [
-        "Great Asian cuisine, beautiful cocktails and a superb ambiance",
-        "Even the cocktails were to notch",
-        "They also have a small selection of signature cocktails for you to try"
-      ],
-      "reviewMentions": 5
-    },
-    {
-      "name": "Spring Rolls",
-      "description": "Excellent, perfect, fresh, and extremely delicious, often noted for having a good dipping sauce.",
-      "category": "Appetizer",
-      "badge": "Top Pick",
-      "quotes": [
-        "Excellent pho and spring rolls",
         "The fresh spring rolls are perfect and the dipping sauce is so good",
-        "The spring rolls and the pho were extremely delicious"
-      ],
-      "reviewMentions": 6
-    },
-    {
-      "name": "Wontons",
-      "description": "Described as amazing and the best ever.",
-      "category": "Appetizer",
-      "badge": "Featured",
-      "quotes": [
-        "We also ordered an order of the wontons, amazing, best I've ever had"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Pork Belly",
-      "description": "Amazing, very soft and flavorful.",
-      "category": "Entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "Pork belly is amazing",
-        "Dishes ranged from excellent (pork belly small plate, bun, one of the few vegetarian dishes in offer) to disappointing (ramen made with soba noodles and two tablespoons of red pepper flakes, a second dish unexpectedly served with cold ingredients)",
-        "The pork belly appetizer (enough for two) and pineapple thit kho (pictured and pairs very well with the panjas côtes de Gascogne) were amazing"
-      ],
-      "reviewMentions": 4
-    },
-    {
-      "name": "Wings",
-      "description": "Described as incredible.",
-      "category": "Appetizer",
-      "badge": "Featured",
-      "quotes": [
-        "I also had the wings which were incredible as well"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Bahn Mi with Shrimp",
-      "description": "Features perfectly cooked, lightly deep-fried, and non-greasy shrimp.",
-      "category": "Entree",
-      "badge": "Featured",
-      "quotes": [
-        "Michael had Bahn Mi with shrimp"
-      ],
-      "reviewMentions": 1
+        "The fresh spring rolls are great and run out quickly, so be sure to snag some"
+      ]
     },
     {
       "name": "Tofu Bun",
-      "description": "Described as delicious, and recommended for those curious about trying tofu.",
-      "category": "Entree",
+      "description": "A delicious dish recommended for those curious about tofu.",
+      "category": "entree",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
         "If you haven’t tried tofu but are curious about it, I recommend the tofu bun-so delicious"
-      ],
-      "reviewMentions": 1
+      ]
+    },
+    {
+      "name": "Hot Tea",
+      "description": "A delightful, deep red tea.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "I also ordered a hot tea that was deep red and it was delightful"
+      ]
     }
   ],
   "highlightedReviews": [
@@ -98,10 +41,24 @@
       "source": "Google"
     },
     {
-      "author": "Daniel Arend",
+      "author": "Jill L",
       "rating": 5,
-      "text": "I’m currently unloading my second helping from a takeout container - I can’t believe I’ve never been here before. Everything was incredible and traveled surprisingly well. The pork belly was crispy and meaty, and the chicken bun and bo kho were so fresh yet savory at the same time. We paired it with a white natural wine from The Wine Shoppe in St Anthony Park and it was a fantastic meal. This will be a staple.",
-      "date": "4 years ago",
+      "text": "My bf took me here after he had been here a few years before & loved it. He loves pho, I had never had it. We both ordered a different pho & it was really good. I had the 3 meat pho & he had ribeye pho. We also ordered an order of the wontons, amazing, best I've ever had! We ordered a 2nd order & brought them home! I also ordered a cherry coke & came with boozy cherries, excellent! The restaurant has a cozy feeling, yellow walls & pictures of art on the walls. They have a bar with probably 10 chairs, 3 hightop tables, 3 tables & a few booth/tables. We were asked if we had reservations, and we did not know that we had to have them. The man sat us in the bar area at a hightop table which were reserved for walk ins along with anything at the bar. Our waiter took our drink orders & another took appetizer order. Another guy brought our appetizer out & a different man gave us our main entrées.  We had about 4 different waiters, which was confusing. We asked 1 of them for our check & another man finally gave it to us. Its pretty loud in this place, they had easy-going music playing overhead. Good place to get some pho!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Naomi Hagen Laufers",
+      "rating": 5,
+      "text": "We were literally the last customers they had as they closed the restaurant for good. It was my husband and my first and last time.  We talked to the owners and had amazing service. 👏 We wish you were staying open but as small business owners, we understand the commitment and knowing when it's time to find a new adventure! The food was amazing and we wish you the best in what is next!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Barbara Rose",
+      "rating": 5,
+      "text": "Michael and I came in on a Sunday evening around 7:00 p.m. the place was packed. It was on Lee Junior and Zachary running the front , but doing so efficiently and quickly. They said please come in. It will be approximately a half an hour but have a seat at our bar and feel free to get a drink while you wait. Very accommodating. The food was amazing. Of course! I got their pho with ribeye. There was plenty of meat! And the flavor was so deep and intense. Just delicious! Michael had Bahn Mi with shrimp. Can't remember what it was called lol but the shrimp was cooked so perfectly! A light deep fry on it. Not greasy! I highly recommend but so does everybody else! They have won tons of rewards!",
+      "date": "2 years ago",
       "source": "Google"
     },
     {
@@ -119,20 +76,6 @@
       "source": "Google"
     },
     {
-      "author": "Vanessa Martin",
-      "rating": 4,
-      "text": "The food was hit and miss. My pastrami sandwich was amazing although I’m not sure why the scallions were sprinkled all over the plate instead of in my sandwich. My husband’s food wasn’t hot. The service is the reason for only 4 stars. They refilled our water once while we had appetizers and then not again until after we were done with our entrees despite our glasses being empty. If anyone had come to check on us they would have sold another cocktail and glass of wine. We sat with no plates waiting for the bill for way too long.",
-      "date": "3 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Mike Brandes",
-      "rating": 5,
-      "text": "My girlfriend and I, on a lark, decided to head to Ngon Bistro.\n\nThis place is very large, many tables inside and outside, so getting a seat was a breeze - they noted they do not do reservations with fewer than five people.\n\nWe had a few starters (pork & ramp sandwich, duck bao and the rabbit dumplings) they were all excellent. For our main courses we shared Pho (ribeye, very good!) and the Bun. They were both excellent.\n\nWe had a total of three drinks, the gin and tonic was delightful, the spritz was great - they used an amaro that wasn’t aperol, it seemed, which was nice and the Manhattan; all well made.\n\nThe staff was very friendly, they have one of those “view the menu and order on your phone” systems that is becoming more popular. It worked out alright for us, no complaints there. There were also several humans to chat with for “when the robot can’t answer your questions,” as one server put it.\n\nWould definitely come back here again, sit on the patio to enjoy the sunshine and bring some friends so we can eat more food family style.",
-      "date": "3 years ago",
-      "source": "Google"
-    },
-    {
       "author": "Alyssa Schulke",
       "rating": 5,
       "text": "Cute patio but we usually sit at the bar for great drinks and conversation. Mainstay of Saint Paul - specials are usually a home run. Jazz on Saturdays and a great spot for MNUFC events at Allianz. Go Loons!",
@@ -140,28 +83,28 @@
       "source": "Google"
     },
     {
-      "author": "Darcie Vandegrift",
+      "author": "Vanessa Martin",
       "rating": 4,
-      "text": "Beautiful interior and unique menu. Dishes ranged from excellent (pork belly small plate, bun, one of the few vegetarian dishes in offer) to disappointing (ramen made with soba noodles and two tablespoons of red pepper flakes, a second dish unexpectedly served with cold ingredients). Nice wine list for price point. Extensive cocktail list. Good service for covid times (understaffed but solid people). I appreciated them not assuming that the men at the table were hosting. Waiter said they had kitchen staffing and food supply problems. I will go back. I think it was a bumpy night rather typical.",
-      "date": "Edited 3 years ago",
+      "text": "The food was hit and miss. My pastrami sandwich was amazing although I’m not sure why the scallions were sprinkled all over the plate instead of in my sandwich. My husband’s food wasn’t hot. The service is the reason for only 4 stars. They refilled our water once while we had appetizers and then not again until after we were done with our entrees despite our glasses being empty. If anyone had come to check on us they would have sold another cocktail and glass of wine. We sat with no plates waiting for the bill for way too long.",
+      "date": "3 years ago",
       "source": "Google"
     },
     {
-      "author": "Kara Sweeney",
+      "author": "Daniel Arend",
       "rating": 5,
-      "text": "This place is phenomenal. The food is fresh, clean and well thought through. I don't think they're currently open for dine in, but when they are you can also expect a shockingly impressive cocktail list (speaking as a former craft bartender) and an outstanding wine list. Tap beers galore as well -- though I'm not personally a beer person and you shouldn't believe my judgements on beer regardless 😜",
+      "text": "I’m currently unloading my second helping from a takeout container - I can’t believe I’ve never been here before. Everything was incredible and traveled surprisingly well. The pork belly was crispy and meaty, and the chicken bun and bo kho were so fresh yet savory at the same time. We paired it with a white natural wine from The Wine Shoppe in St Anthony Park and it was a fantastic meal. This will be a staple.",
       "date": "4 years ago",
       "source": "Google"
     },
     {
-      "author": "Naomi Hagen Laufers",
+      "author": "Kathy Lantry",
       "rating": 5,
-      "text": "We were literally the last customers they had as they closed the restaurant for good. It was my husband and my first and last time.  We talked to the owners and had amazing service. 👏 We wish you were staying open but as small business owners, we understand the commitment and knowing when it's time to find a new adventure! The food was amazing and we wish you the best in what is next!",
+      "text": "I love the food here.  The fresh spring rolls are perfect and the dipping sauce is so good.  If you haven’t tried tofu but are curious about it, I recommend the tofu bun-so delicious.",
       "date": "2 years ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-06T00:12:29.797Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:30:56.781Z"
 }

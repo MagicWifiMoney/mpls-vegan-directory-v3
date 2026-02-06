@@ -1,110 +1,133 @@
 {
   "topProducts": [
     {
-      "name": "Tikka Masala (Chicken/Lamb)",
-      "description": "A rich and smooth curry with a complex, balanced flavor of heat and spices. Praised as being one of the best. Portions are noted to be very generous, especially the chicken.",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Naan (especially Garlic)",
-      "description": "Fresh, delicious bread, perfect for dipping in curry. The garlic naan is frequently mentioned, and a coconut version was also praised.",
-      "category": "side",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Lassi (Mango/Pistachio)",
-      "description": "A refreshing yogurt-based drink. The mango lassi is described as refreshing, and the vegan pistachio lassi was called \"maybe the best drink ever\".",
-      "category": "drink",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Biryani",
-      "description": "A flavorful rice dish, noted for being full of flavor with generous portions of protein like lamb or paneer.",
-      "category": "entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "Biryani is full of flavor, and the lamb is wonderful to bite into",
-        "We got the biryani with paneer, new gen dhansak with vegetables, a mango lassi, & of course garlic naan",
-        "We usually order the Chicken Biryani and the Rogan Josh, and it's 2"
-      ],
-      "reviewMentions": 4
-    },
-    {
-      "name": "Samosas",
-      "description": "A standout appetizer praised for its quality and flavor, especially when served with onion chutney. Both beef and vegetarian versions are mentioned.",
+      "name": "Plantain Pakoras",
+      "description": "Served with three sauces - tamarind, mint, and onion chutney.",
       "category": "appetizer",
-      "badge": "Top Pick",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "I HIGHLY recommend the beef samosas and garlic naan made fresh in house",
-        "Samosas with onion chutney a huge standout in quality and flavor",
-        "I love ordering Chicken Makni, samosas, and mango lassi"
-      ],
-      "reviewMentions": 8
+        "We settled on the plantain pakoras with three sauces - tamarind, mint, onion chutney-all next level, Tikka masala with its nice balance of heat and spices, tandoori wings, masala fries, and a delicious pistachio lassi"
+      ]
     },
     {
-      "name": "Palak Paneer",
-      "description": "A well-seasoned and delicious spinach and cheese curry, described by one reviewer as the best they've had in the Twin Cities.",
+      "name": "Masala Fries",
+      "description": "Fries seasoned with masala spices.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "We settled on the plantain pakoras with three sauces - tamarind, mint, onion chutney-all next level, Tikka masala with its nice balance of heat and spices, tandoori wings, masala fries, and a delicious pistachio lassi"
+      ]
+    },
+    {
+      "name": "Vegan Pistachio Lassi",
+      "description": "A vegan version of a pistachio lassi, described as possibly the best drink ever.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Vegan pistachio lassi maybe the best drink ever"
+      ]
+    },
+    {
+      "name": "Samosas with onion chutney",
+      "description": "A standout in quality and flavor, served with onion chutney.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Samosas with onion chutney a huge standout in quality and flavor"
+      ]
+    },
+    {
+      "name": "Chana Saag",
+      "description": "A very tasty dish made with chickpeas and spinach.",
       "category": "entree",
+      "reviewMentions": 3,
       "badge": "Popular",
       "quotes": [
-        "It was the best Palak Paneer I have had in the Twin Cities",
-        "Would highly recommend the Palak Paneer",
-        "The Palak Paneer was ok"
-      ],
-      "reviewMentions": 3
+        "Chana saag very tasty",
+        "Other recommendations are the tofu coconut curry, chana saag and lentil piyaju",
+        "Also nice extra touches like a lime wedge and chopped fresh red onion on my Chana Saag"
+      ]
     },
     {
-      "name": "Lamb Rogan Josh",
-      "description": "A curry praised for its flavor-packed gravy. The extra hot version has noticeable heat from ghost peppers.",
-      "category": "entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "Lamb Rogan Josh or whatever they're calling it",
-        "The lamb rogan josh here has a disturbing amount of garlic that made it Unedible",
-        "Chana masala and lamb rogan josh r my favs"
-      ],
-      "reviewMentions": 4
-    },
-    {
-      "name": "Korma",
-      "description": "A creamy and aromatic curry dish. The lamb korma is mentioned specifically as a favorite from both the old and new versions of the restaurant.",
-      "category": "entree",
+      "name": "Coconut Naan",
+      "description": "A really good naan bread with coconut.",
+      "category": "appetizer",
+      "reviewMentions": 3,
       "badge": "Popular",
       "quotes": [
-        "A pale shadow of the once great Gandi Mahal restaurant, which always had perfect Naan, and the best, aromatic and creamy Korma",
-        "Love the lamb korma and the chicken makhni",
-        "I love the Chicken Korma and samosas, which are bigger than my fist"
-      ],
-      "reviewMentions": 3
+        "The coconut naan was really good as well",
+        "Please support this great restaurant so they can get their oven back up and running to make their coconut naan again (lost the original in a fire)",
+        "And this is the only place I have seen that has coconut naan"
+      ]
+    },
+    {
+      "name": "Vegan Dessert",
+      "description": "A vegan dessert was offered for free upon request.",
+      "category": "dessert",
+      "reviewMentions": 0,
+      "badge": null,
+      "quotes": []
+    },
+    {
+      "name": "Bazi",
+      "description": "A dish with a Bangla twist and a delicious unique tangy spice profile.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "I also appreciate the Bangla twist on several dishes (the Bazi was awesome and had a delicious unique tangy spice profile), they were delicious and really set the restaurant apart from other South Asian restaurants in the area"
+      ]
+    },
+    {
+      "name": "New Gen Dhansak with Vegetables",
+      "description": "A dhansak dish made with vegetables.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "We got the biryani with paneer, new gen dhansak with vegetables, a mango lassi, & of course garlic naan"
+      ]
+    },
+    {
+      "name": "Daal",
+      "description": "A lentil curry dish.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": []
     }
   ],
   "highlightedReviews": [
     {
-      "author": "Cynthia F",
+      "author": "J J",
       "rating": 5,
-      "text": "My friends and I all felt the food was great! Had more depth of flavor than most Indian restaurants in the Twin Cities and more spicy. Also nice extra touches like a lime wedge and chopped fresh red onion on my Chana Saag.\n\nMy friends had the coconut curry chicken (YUM) and lamb Rogan Josh, and we had the pikayu and samosa for appetizers. Their green chutney is fantastic.\n\nOnly thing I didn't care for was the finishing salt on the appetizers, made them way too salty for my taste.\n\nThey do curry bowls which are a good deal and you can also order just curry (no rice) in two different sizes. They seem to do a lot of takeout business and I can see why, but the interior of the restaurant and the patio outside are both very nice for dining in. Service was great and the food came quickly.\n\nDefinitely recommend, I will be returning and also ordering takeout from here! I want to try their mango lassi next time, we were going out for dessert so I skipped it this time.\n\nThey are a no tipping establishment and charge a %15 fee. This is transparent on the menu. I'd prefer it just be included in the price of the food, but appreciate that it's specified. You order at the counter and they bring your food to your table.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Jessica Hayes",
-      "rating": 5,
-      "text": "Came back to try it under the new management. The food was delicious! It was the best Palak Paneer I have had in the Twin Cities. We also had Dal and Chicken Tikka Masala, and both were well-seasoned and delicious. The chicken was tender and the portions were large.  Naan was fresh and not tough at all. We live nearby, so we get takeaway, which was ready in fifteen minutes from ordering.  We are looking forward to being regular customers here again!",
+      "text": "This was my first time here, I’ve passed by it before in traffic and I’ve always wanted to stop by. I’m glad I did. I found out it was their first week under new ownership.\n\nThe food was amazing, I ordered the extra hot Lamb Rogan Ghoshtak. The gravy was packed with flavor. The ghost peppers were noticeable. The coconut naan was really good as well.\n\nI got handed a free dessert, when I asked if it was vegan to share it with my partner they gave me a second vegan one for free.\n\nGreat food, great hospitality, and owners that seem like they care. I’ll definitely be back!",
       "date": "5 months ago",
       "source": "Google"
     },
     {
-      "author": "Jay Lyons",
+      "author": "Peter Brylow",
       "rating": 5,
-      "text": "We have been getting takeout somewhere between monthly and weekly from Curry in a Hurry since it opened in 2021.  We usually order the Chicken Biryani and the Rogan Josh, and it's 2.5-3 meals for each of us!  And so so flavorful!  I'm no expert on Indian/Bangladeshi food, but to me it's outstanding.  The only mistake we made was once ordering the Vindaloo.  We love hot food, but that was too much.  Probably just what some people are looking for!  The food is ALWAYS ready when I get there, and the staff are warm and friendly.  Curry in a Hurry is a Minneapolis treasure, just as its predecessor Gandhi Mahal was.  We miss the tandoor items but hopeful they will be back sometime!",
+      "text": "An excellent experience dining in at curry in a hurry. Samosas with onion chutney a huge standout in quality and flavor. Chana saag very tasty! Vegan pistachio lassi maybe the best drink ever.",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kailyn Schmitt",
+      "rating": 5,
+      "text": "So happy to have this place in my neighborhood. Quick, tasty, easy, good portion sizes, lots of vegan / vegetarian options! Best take-out option around for sure.",
       "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Michael Cully",
+      "rating": 5,
+      "text": "Wow, incredible! Ive tried every Indian restaurant you could think of in the twin cities area and the food here is the best ive had. Very authentic taste and spice. I usually get hot every other place and it's not hot enough but here the medium is plenty hot for spice level. The girl working was super amazing.",
+      "date": "a month ago",
       "source": "Google"
     },
     {
@@ -115,37 +138,9 @@
       "source": "Google"
     },
     {
-      "author": "Paul McLagan",
+      "author": "Jessica Hayes",
       "rating": 5,
-      "text": "Before Curry in a Hurry, I loved going to Gandhi Mahal. When its location was lost in 2020, I was happy they set up this location and go as much as I can. It is my favorite \"Indian\" food restaurant. (The owners are Bangladeshi so it is technically more Bangladeshi fare). Indian food is usually good in regards to having great gluten free options and Curry in a Hurry is no different. In some ways I like the location and sitting outside during the summer to eat food.  I typically eat their Chicken Tika Masala but I have eaten their Chicken Vindaloo. Beware though with the Chicken Vindaloo. I consider myself to have a very high tolerance for hot food, but that Chicken Vindaloo has to be the most punishing spicy food I have ever had in the Twin Cities.",
-      "date": "2 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Chevy_in_quicksand",
-      "rating": 5,
-      "text": "I got the chicken makni and it was genuinely the best-tasting Indian food I've had in the cities.  It was VERY creamy and rich.  My friend got the vindaloo and was smacked in the face with *truly* spicy curry.  The taste of the chile was fresh and deep, and with raita, just barely manageable in spice, but I definitely preferred the makni, or my other friend's coconut curry, due to its richness and creaminess. I added some of the hot-hot sauce and a bit of raita to my makni.  The mango lassi was perfect and helped subdue the heat as, mind you, the heat level really is NO joke!  The hot sauce and the vindaloo were both 10/10 on your typical midwesterner's heat scale.  That's a very good thing that I value, though my one tiny complaint is that there might not have been enough warning about the vindaloo.  the gap in spice between this and the other curries I tried was massive. Anyways, back to gushing.\nThe atmosphere is super cozy thanks to the kind, smiling staff,  the music (apparently sometimes there's live music??), and the warm interior design that hugs you with deep red tones on one side and allows natural sunlight to dominate on the other.  For the $16 I paid, I got a full meal and almost a half of another!  This was a spur of the moment visit while I was nearby fishing at the river, and now I'm making plans to bring others here asap.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Melissa Hamilton",
-      "rating": 5,
-      "text": "We saw the tik tok, and we came! The food was top tier and the service was friendly and helpful. Greeted by the TikTok creator herself! She walked us through the menu and specials. We settled on the plantain pakoras with three sauces - tamarind, mint, onion chutney-all next level, Tikka masala with its nice balance of heat and spices, tandoori wings, masala fries, and a delicious pistachio lassi! We purposefully chose many items to try. We will definitely be returning often!! 🔥💕",
-      "date": "2 weeks ago",
-      "source": "Google"
-    },
-    {
-      "author": "allie whoops",
-      "rating": 5,
-      "text": "Updated 12/2025: this new generation knows what they’re doing!! I’ve been coming here for years, and this has been my favorite chapter to date. The flavors are bolder, the spice has been watched up a notch, and everything just has a little ~something~ extra.\n\nI’ve been loving all the new menu items, as well as the classics - everything I’ve tried has been absolutely delicious and I can’t wait to work my way down the list. Curry in a hurry will stay on heavy rotation for me!\n\nOld review: Everyone is always so friendly! I try and stop in on a weekly basis, especially in the summer when I can enjoy the patio ♥️ such a wonderful neighborhood establishment. Love the lamb korma and the chicken makhni!",
-      "date": "Edited a month ago",
-      "source": "Google"
-    },
-    {
-      "author": "Leif Moser",
-      "rating": 5,
-      "text": "I was relieved to be able to get curry just up the street again. The new menu had curry heat options so I ordered hot, just as I would most anywhere else.\n\nI picked up the meal and learned that they were doing a tiktok reaction (challenge?) for those willing to order hot or extra hot curry. While I don't use tiktok personally, I wanted to write a review about the actual experience of eating the hot option for my mango chicken curry.\n\nI consider my spice tolerance to be fair so I was interested to see exactly why they were asking for reaction videos. My first bite was without any rice and I could tell immediately that the heat level was much higher than I was expecting. Certainly not melt my face off spicy, but it took maybe one minute before I began to sweat, a few minutes before I had some tears welling up in my eyes, and by the time I was finished with half the portion (got full, it was a hefty portion!), my sinuses were cleared up. This heat level was intense but manageable, and high enough to make the pain from the experience mildly euphoric. Note: I ordered hot, and there is a level above this.\n\nKnowing what I know now, I will probably order medium unless I have a bad head cold or a case of the Sunday scaries requiring medicinal capsaicin levels.\n\nThe food was flavorful and hit the spot. Very glad it's open again! Excited to try the other offerings.",
+      "text": "Came back to try it under the new management. The food was delicious! It was the best Palak Paneer I have had in the Twin Cities. We also had Dal and Chicken Tikka Masala, and both were well-seasoned and delicious. The chicken was tender and the portions were large.  Naan was fresh and not tough at all. We live nearby, so we get takeaway, which was ready in fifteen minutes from ordering.  We are looking forward to being regular customers here again!",
       "date": "5 months ago",
       "source": "Google"
     },
@@ -155,9 +150,30 @@
       "text": "This is currently my favorite Indian restaurant in and around Minneapolis because of the flavors of the food. They utilize wonderful techniques with quality ingredients. The spices are so fresh and abundant that it's a real delight. We tried the lassi, huge samosas, biryani, curry, and dal. I hope to return soon and try more because I expect everything to be incredibly delicious here. They have live music on Friday and Saturday nights. They use environmentally friendly containers and bags. I can't recommend this place enough.",
       "date": "a year ago",
       "source": "Google"
+    },
+    {
+      "author": "Eric Severson",
+      "rating": 5,
+      "text": "Used to be Gandhi Mahal, New location and updated name. This place is one of my favorite Indian places in the twin cities. This last time we got two samosas which were absolutely delicious. The crust on the outside of them were crispy and Flaky and fantastic. Highly recommend the Rogan Josh if you like lamb. And this is the only place I have seen that has coconut naan. I've seen multiple different flavors at other Indian restaurants but for some reason this one is the only one that makes delicious coconut Naan. Ghandi Mahal had issues with inconsistent portion sizes...this place has portions down on lock. And this place is a no tip establishment. Couldn't believe that the first time I ordered!",
+      "date": "Edited a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Paul McLagan",
+      "rating": 5,
+      "text": "Before Curry in a Hurry, I loved going to Gandhi Mahal. When its location was lost in 2020, I was happy they set up this location and go as much as I can. It is my favorite \"Indian\" food restaurant. (The owners are Bangladeshi so it is technically more Bangladeshi fare). Indian food is usually good in regards to having great gluten free options and Curry in a Hurry is no different. In some ways I like the location and sitting outside during the summer to eat food.  I typically eat their Chicken Tika Masala but I have eaten their Chicken Vindaloo. Beware though with the Chicken Vindaloo. I consider myself to have a very high tolerance for hot food, but that Chicken Vindaloo has to be the most punishing spicy food I have ever had in the Twin Cities.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "allie whoops",
+      "rating": 5,
+      "text": "Updated 12/2025: this new generation knows what they’re doing!! I’ve been coming here for years, and this has been my favorite chapter to date. The flavors are bolder, the spice has been watched up a notch, and everything just has a little ~something~ extra.\n\nI’ve been loving all the new menu items, as well as the classics - everything I’ve tried has been absolutely delicious and I can’t wait to work my way down the list. Curry in a hurry will stay on heavy rotation for me!\n\nOld review: Everyone is always so friendly! I try and stop in on a weekly basis, especially in the summer when I can enjoy the patio ♥️ such a wonderful neighborhood establishment. Love the lamb korma and the chicken makhni!",
+      "date": "Edited a month ago",
+      "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-06T00:16:32.964Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:35:51.174Z"
 }

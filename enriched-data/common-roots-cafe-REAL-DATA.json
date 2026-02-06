@@ -1,95 +1,59 @@
 {
   "topProducts": [
     {
-      "name": "Coffee/Latte",
-      "description": "Superb, excellent, tasty, and delicious, often enjoyed for casual brunch. Includes variations like lavender, maple, and dirty chai lattes.",
-      "category": "Drink",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Fish Tacos",
-      "description": "Described as 'the best ever,' light, delicately-balanced, fresh, flavorful, and incredible.",
-      "category": "Entree",
-      "badge": "Popular",
-      "quotes": [
-        "I went to Common Roots cafe for brunch today, and I was blown away by the fish tacos",
-        "Had a beer, cookie and fish tacos and couldn't ask for anything more"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Bagels",
-      "description": "Praised as the 'best bagels in Minnesota.'",
-      "category": "Breakfast/Baked Good",
-      "badge": "Top Pick",
-      "quotes": [
-        "I just have to say, you have the best bagels in Minnesota",
-        "Fresh baked authentic bagels",
-        "Also the everything bagels are drool-worthy"
-      ],
-      "reviewMentions": 4
-    },
-    {
       "name": "Tempeh Sandwich",
-      "description": "An 'absolutely delicious' sandwich that is highly recommended.",
-      "category": "Entree/Sandwich",
+      "description": "Absolutely delicious.",
+      "category": "entree",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
         "Very lovely cafe, I had the tempeh sandwich and garlic fries"
-      ],
-      "reviewMentions": 1
+      ]
     },
     {
       "name": "Garlic Fries",
-      "description": "Described as 'absolutely delicious,' often enjoyed as a side dish.",
-      "category": "Side Dish",
+      "description": "Served with the tempeh sandwich.",
+      "category": "appetizer",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
         "Very lovely cafe, I had the tempeh sandwich and garlic fries"
-      ],
-      "reviewMentions": 1
+      ]
     },
     {
-      "name": "Shakshuka",
-      "description": "A savory breakfast or brunch dish, mentioned as 'pictured' in reviews.",
-      "category": "Breakfast/Entree",
-      "badge": "Popular",
-      "quotes": [
-        "Pictured: Shakshuka, Small Hot Mocha, Large Hot Salted Caramel",
-        "My husband had Shakshuka which was delicious as well"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Scone",
-      "description": "Described as 'great,' often enjoyed with coffee, with a specific mention of a 'plum scone.'",
-      "category": "Baked Good/Dessert/Breakfast",
+      "name": "Coffee",
+      "description": "Excellent, tasty, and superb coffee, including espresso.",
+      "category": "drink",
+      "reviewMentions": 13,
       "badge": "Top Pick",
       "quotes": [
-        "I had the lavender latte and plum scone, both were great",
-        "Common Roots is the best place to grab a coffee & scone and it also is a great place for breakfast and lunch",
-        "Fresh scones were amazing"
-      ],
-      "reviewMentions": 5
+        "Keep that in mind, they don't spoil you here with service of that level, but instead exchange it for delicious food and tasty coffee",
+        "Excellent coffee\nFresh baked goods\nVery pleasant staff",
+        "The coffee is superb and everything on the menu is great"
+      ]
+    },
+    {
+      "name": "Chips and Salsa",
+      "description": "Excellent side with house-made salsa.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "The chips and salsa on the side were excellent too, and the salsa was definitely house-made"
+      ]
+    },
+    {
+      "name": "Beer",
+      "description": "Available to drink.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Had a beer, cookie and fish tacos and couldn't ask for anything more"
+      ]
     }
   ],
   "highlightedReviews": [
-    {
-      "author": "Shannon Mahedy",
-      "rating": 5,
-      "text": "Wow! I went to Common Roots cafe for brunch today, and I was blown away by the fish tacos. They were, without a doubt, the best fish tacos I’ve ever had! They were light, delicately-balanced, fresh, and flavorful. Each bite was incredible, and I found myself telling my friend how delicious they were over and over while I devoured my tacos. The chips and salsa on the side were excellent too, and the salsa was definitely house-made. My only wish were that there were more tacos on my plate. I’ll be back for more tacos soon! I’m very impressed by this dish!",
-      "date": "3 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Aishwarya Murali",
-      "rating": 5,
-      "text": "I had a wild rice burger and it was so good! The burger was perfectly seasoned and the tortilla chips that came with it was fantastic. My husband had Shakshuka which was delicious as well. We ordered some bakery items - Pineapple coconut quick bread and cherry scone. It was so yummy! When I went back to order some more bakery goods the restaurant had closed already. But they were very sweet and they gave the pineapple coconut cake for free. It was such a sweet gesture! I highly recommend this place. The food is very fresh and it’s locally sourced/organic which is just a cherry on top.",
-      "date": "4 years ago",
-      "source": "Google"
-    },
     {
       "author": "jesse james johnson",
       "rating": 5,
@@ -98,37 +62,9 @@
       "source": "Google"
     },
     {
-      "author": "Ozzie Valverde",
-      "rating": 5,
-      "text": "I came here for Burger Night and man.... those burgers do not disappoint! Will definitely be coming back to try out their specialty burgers. The drinks and service are also top notch. This place is the antithesis to CC Club. Organic, inclusive, and actually cares about the community. highly recommend",
-      "date": "4 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Jess Sharpe",
-      "rating": 5,
-      "text": "Common Roots catered dinner for our small Covid-friendly wedding. They did a contactless drop off, and the instructions for assembling the chafing dishes were clear and easy to follow. All the plates and utensils they provide are compostable, so they make it possible to have a very low-waste event. The food was great, generally (maybe skip the green beans, as they weren’t memorable, but the lasagna, grilled chicken with pineapple salsa, and rice pilaf were great, and the coconut macaroons are enormous), and they even supplied trash bins and compostable bags to collect all the food and plates/utensils. They came the next day to pick everything up, including the compost, which was so convenient. They also answered our endless questions about details. A great experience!",
-      "date": "5 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Daily dose",
-      "rating": 5,
-      "text": "Very serene experience, the outdoor patio is perfect during the fall.\nThe food options are many and everything we ordered was great!\nI’d just be wary when siting outside, we ordered pancakes and we couldn’t finish them because we were “literally attacked by bees!\n\nOther than that, I’d go back again for sure.",
-      "date": "3 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Casey Lee",
-      "rating": 5,
-      "text": "Not only does Common Roots provide amazing food, but their service is top-notch. All of our guests told us how much they enjoyed the appetizers, dinner, and snacks. We had such a positive experience working with Tiffany throughout our planning process. When the pandemic hit Minnesota, the Common Roots Catering team was flexible and very helpful as we had to replan most of our wedding. The day of catering team also did a great job dropping off the food and helping set up the quickly.",
-      "date": "Edited 4 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Lynx Cheam",
-      "rating": 5,
-      "text": "Good times were had. Service was great. As part of my first time out to MN, I would say this place is easily worth the visit.\n\nWhen done with meal, you bus yourself. Keep that in mind, they don't spoil you here with service of that level, but instead exchange it for delicious food and tasty coffee.\n\nPictured: Shakshuka, Small Hot Mocha, Large Hot Salted Caramel",
+      "author": "Russell Milles",
+      "rating": 4,
+      "text": "Order from online and they bring it to your table. Gratuity included. Clean bathrooms. Parking lot in back. Service is fast and friendly. Prices are ok. Food is good. Vegan friendly.",
       "date": "3 years ago",
       "source": "Google"
     },
@@ -140,14 +76,56 @@
       "source": "Google"
     },
     {
+      "author": "Lynx Cheam",
+      "rating": 5,
+      "text": "Good times were had. Service was great. As part of my first time out to MN, I would say this place is easily worth the visit.\n\nWhen done with meal, you bus yourself. Keep that in mind, they don't spoil you here with service of that level, but instead exchange it for delicious food and tasty coffee.\n\nPictured: Shakshuka, Small Hot Mocha, Large Hot Salted Caramel",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Shannon Mahedy",
+      "rating": 5,
+      "text": "Wow! I went to Common Roots cafe for brunch today, and I was blown away by the fish tacos. They were, without a doubt, the best fish tacos I’ve ever had! They were light, delicately-balanced, fresh, and flavorful. Each bite was incredible, and I found myself telling my friend how delicious they were over and over while I devoured my tacos. The chips and salsa on the side were excellent too, and the salsa was definitely house-made. My only wish were that there were more tacos on my plate. I’ll be back for more tacos soon! I’m very impressed by this dish!",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Casey Lee",
+      "rating": 5,
+      "text": "Not only does Common Roots provide amazing food, but their service is top-notch. All of our guests told us how much they enjoyed the appetizers, dinner, and snacks. We had such a positive experience working with Tiffany throughout our planning process. When the pandemic hit Minnesota, the Common Roots Catering team was flexible and very helpful as we had to replan most of our wedding. The day of catering team also did a great job dropping off the food and helping set up the quickly.",
+      "date": "Edited 4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kari Johnson",
+      "rating": 5,
+      "text": "Common Roots is a great business to support and they make it easy. They've got great coffee and drink options, and lots of delicious items on their menu. They also have been paying their employees a fair wage for years, they source local foods, support the community when they can and allow dogs on their patio, what's not to love!?\n\nUPDATE! The expanded outdoor seating options are fantastic! Love being able to walk over enjoy great coffee and a meal outside!",
+      "date": "Edited 3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ashley Belisle",
+      "rating": 5,
+      "text": "What can I say? This place is amazing. Phenomenal staff, wonderful values that show, and I dream about the Common Roots bagel, egg, and cheese. I placed a delivery order that never arrived (Door Dash's fault, not the restaurant's), so they remade my order and delivered it personally instead – with extra bakery treats to boot. Truly the best.",
+      "date": "Edited 4 years ago",
+      "source": "Google"
+    },
+    {
       "author": "Karen Lunde",
       "rating": 5,
       "text": "Common Roots Café, at 2558 Lyndale Ave S, offers great food and beverages, including at least four (4) Fair Trade products. These include Fair Trade Bananas and Fair Trade Sugar from Equal Exchange, Black Squirrel Espresso roasted by Peace Coffee, and Rishi Jasmine Green Tea.\n\nThank you for helping to eliminate poverty & protect the environment by selling Fair Trade products, and welcome to Fair Trade Minneapolis!",
       "date": "4 years ago",
       "source": "Google"
+    },
+    {
+      "author": "Birdy Adams",
+      "rating": 5,
+      "text": "This place was delicious! Everything that we got was great! I loved the online menu it made the whole experience quick and easy! The service was great! I'm so happy they pay their employees enough that they don't accept tips! I didn't realize how stressful tipping was til I didn't have to! I hope more restaurants adopt this!",
+      "date": "4 years ago",
+      "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:58:06.390Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:28:01.164Z"
 }

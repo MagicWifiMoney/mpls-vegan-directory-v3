@@ -1,60 +1,64 @@
 {
   "topProducts": [
     {
-      "name": "Wild Mushroom Omelette",
-      "description": "Hearty omelette with wild mushrooms",
-      "category": "breakfast",
-      "badge": "Featured",
-      "quotes": [
-        "I love the wild mushroom omelette and bacon, egg and cheese croissant"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Corn Pancake",
-      "description": "Shareable corn pancake with maple syrup",
-      "category": "breakfast",
-      "badge": "Featured",
-      "quotes": [
-        "Corn pancake - shareable for 2, add butter and put the pure maple syrup on it"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Eggs Benedict",
-      "description": "Classic eggs benedict with hollandaise",
-      "category": "breakfast",
-      "badge": "Popular",
-      "quotes": [
-        "Must try Cajun Hash browns, Eggs Benedict",
-        "Eggs Benedict - peppery but delicious hollandaise sauce and the hash browns were crisp on the outside and soft on the inside"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Quiche",
-      "description": "Hearty and delicious quiche",
-      "category": "breakfast",
-      "badge": "Popular",
-      "quotes": [
-        "The quiche was hearty and delicious",
-        "My companion's quiche was bland and the salad had no other ingredients in it other than the  Vinaigrette",
-        "We were there for breakfast so can't speak to the dinner menu, but the quiche was fantastic"
-      ],
-      "reviewMentions": 3
-    },
-    {
-      "name": "Chocolate Rose Cake",
-      "description": "Vegan chocolate rose cake",
+      "name": "dark chocolate sea salt cookie",
+      "description": "Rich and flavorful without being overly sweet.",
       "category": "dessert",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "I tried their dark chocolate sea salt cookie, which was rich and flavorful without being overly sweet"
+      ]
+    },
+    {
+      "name": "side of fruit",
+      "description": "Fresh and a nice complement to the meal.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "I also ordered a side of fruit, which was fresh and a nice complement to the meal"
+      ]
+    },
+    {
+      "name": "creamy mushroom pasta",
+      "description": "Very good and comforting, with a nice balance of creaminess and flavor.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "For my entree, I had a creamy mushroom pasta"
+      ]
+    },
+    {
+      "name": "vegan meatballs",
+      "description": "Mentioned as a vegan option, though one review found them overcooked.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "My vegan meatballs were overcooked and hard as a rock"
+      ]
+    },
+    {
+      "name": "vegan chocolate rose cake",
+      "description": "Described as a treat.",
+      "category": "dessert",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
         "Their vegan chocolate rose cake was such a treat"
-      ],
-      "reviewMentions": 1
+      ]
     }
   ],
   "highlightedReviews": [
+    {
+      "author": "Sarah Mathre",
+      "rating": 5,
+      "text": "I recently ate at French Meadow Cafe & Bluestem Bar and had a really enjoyable meal. They have a large number of vegan options, which makes it a great spot for anyone looking for plant based choices.\n\nI tried their dark chocolate sea salt cookie, which was rich and flavorful without being overly sweet. I also ordered a side of fruit, which was fresh and a nice complement to the meal. For my entree, I had a creamy mushroom pasta. I don’t remember the exact name, but it was very good and comforting, with a nice balance of creaminess and flavor. Overall, everything was well prepared, and I would definitely come back to try more from their menu.",
+      "date": "a month ago",
+      "source": "Google"
+    },
     {
       "author": "Nick Koons",
       "rating": 4,
@@ -63,10 +67,10 @@
       "source": "Google"
     },
     {
-      "author": "shannon peterson",
+      "author": "Katy Husby",
       "rating": 5,
-      "text": "We just stopped and got some fresh made sour dough bread. My family is very impressed with how much favorite the bread has. I have fond memories in middle school of taking busses downtown and transferring uptown and getting off the bus before hitting uptown to go to the French Meadow bakery. We would then walk the rest of the way uptown after eating at the French Meadow Bakery. One of the few places then to get a vegetarian meal. I remember getting a window seat watching people go by eating hot homemade soup and fresh homemade bread.",
-      "date": "3 weeks ago",
+      "text": "Everything about this place was a delight! It was a beautiful day so we sat outside on the patio, but the inside has a really nice vibe. The food was delicious, with lots of gluten free and vegan options. I had the oatmeal latte and it was tasty with just the right amount of flavoring that still allowed the espresso to shine through. We were there for breakfast so can't speak to the dinner menu, but the quiche was fantastic!\n\nThey also have a free, shaded parking lot.",
+      "date": "4 months ago",
       "source": "Google"
     },
     {
@@ -77,10 +81,24 @@
       "source": "Google"
     },
     {
-      "author": "Robyn Roop",
+      "author": "Stephanie Pasanen",
       "rating": 5,
-      "text": "We absolutely adored this café! Easily one of the best tasting and most original recipe I've ever enjoyed for an open face breakfast sandwich. Spectacular.  I finished every bite. My fiancé had the breakfast burrito, which also had excellent flavor profiles! Speciality beverages were also made to absolutely perfect. Excellent quick service without feeling rushed. Great, low key vibes just right to start your morning at ease.\nHighly recommend! I'll be dreaming about this sandwich and London fog until I return!\nThank you French Meadow!",
+      "text": "Outside patio makes dining perfect for pet lovers ❤️ Thank you for vegan and vegetarian options.   Delicious entrees. Definitely my number one favorite restaurant in Minneapolis.",
       "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Bryn Gera",
+      "rating": 5,
+      "text": "Had a delightful dinner here after a show at the Orpheum, the options were fresh, allergy friendly, and the service was professional and kind. Beautiful atmosphere, delicious food. Their vegan chocolate rose cake was such a treat!",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "piyush solanki",
+      "rating": 5,
+      "text": "Amazing food, excellent coffee, lots of options for vegan/vegetarians. Must try Cajun Hash browns, Eggs Benedict.",
+      "date": "a month ago",
       "source": "Google"
     },
     {
@@ -88,20 +106,6 @@
       "rating": 5,
       "text": "This is an update from my last review several years ago. Visited for an early lunch and was greeted by Betty, our server. As I often to when at a restaurant, I asked her to order for me. I told her two things usually happen - I get what the cook suggests when asked, or I get what the server usually orders for themselves. Never do I get anything not on the menu. This time, she served me a plain mushroom/cheese/bacon omelet with a side of hashbrowns. Plain, but incredibly delicious.  (Bacon makes dirt taste good!) It was excellent. My only complaint is the lack of a ketchup bottle on the table, and my Diet Coke refills were a little slow. I didn't ask what the surprise desert was, but it was almost better then the bacon - 5 or 6 layers of moist cake with a ton of frosting and coconut. Thanks Betty - you were a great server and we had a great time. See pic for the half eaten meal. My partner had the fried chicken - light, crispy and perfectly cooked.",
       "date": "Edited 7 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Sarah Mathre",
-      "rating": 5,
-      "text": "I recently ate at French Meadow Cafe & Bluestem Bar and had a really enjoyable meal. They have a large number of vegan options, which makes it a great spot for anyone looking for plant based choices.\n\nI tried their dark chocolate sea salt cookie, which was rich and flavorful without being overly sweet. I also ordered a side of fruit, which was fresh and a nice complement to the meal. For my entree, I had a creamy mushroom pasta. I don’t remember the exact name, but it was very good and comforting, with a nice balance of creaminess and flavor. Overall, everything was well prepared, and I would definitely come back to try more from their menu.",
-      "date": "a month ago",
-      "source": "Google"
-    },
-    {
-      "author": "Katy Husby",
-      "rating": 5,
-      "text": "Everything about this place was a delight! It was a beautiful day so we sat outside on the patio, but the inside has a really nice vibe. The food was delicious, with lots of gluten free and vegan options. I had the oatmeal latte and it was tasty with just the right amount of flavoring that still allowed the espresso to shine through. We were there for breakfast so can't speak to the dinner menu, but the quiche was fantastic!\n\nThey also have a free, shaded parking lot.",
-      "date": "4 months ago",
       "source": "Google"
     },
     {
@@ -117,16 +121,9 @@
       "text": "I loved it here. I’ve only been here once but definitely going to go again. I loved the interior of the place. The food was great, I  ordered a burger which was absolutely delicious. I bought myself a drink as well as a dessert and I was extremely pleased with them. I recommended this place to my mom and she loved it as well! Lastly, I care a lot about what I eat and this place was perfect for me. It was easy to find something that I wanted as they were very open to sharing the ingredients they use. I always appreciate a place that cares about health and what they are giving to others.",
       "date": "5 months ago",
       "source": "Google"
-    },
-    {
-      "author": "F D",
-      "rating": 5,
-      "text": "Tried out French Meadow for the first time! Lots of options for breakfast along with the pastry and cake selections.\n\nCorn pancake - shareable for 2, add butter and put the pure maple syrup on it. It elevates the flavor of the pancake!\n\nEggs Benedict - peppery but delicious hollandaise sauce and the hash browns were crisp on the outside and soft on the inside",
-      "date": "a month ago",
-      "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T22:57:39.102Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:21:30.932Z"
 }

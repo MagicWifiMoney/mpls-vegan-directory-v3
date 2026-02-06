@@ -1,117 +1,61 @@
 {
   "topProducts": [
     {
-      "name": "Chicken and Waffles",
-      "description": "Described as the 'best thing I've ever eaten' and praised for its excellent presentation. A consistently highlighted brunch item.",
-      "category": "brunch/entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "Their chicken and waffles is the best thing I've ever eaten in my life",
-        "The best presentation of chicken and waffles I have ever had",
-        "Get a teaser (one bite of awesomeness), then a disco nap, then the chicken and waffles"
-      ],
-      "reviewMentions": 5
+      "name": "just shroomin custard",
+      "description": "A vegan custard with great flavor, though the texture is more of a mush/goop.",
+      "category": "appetizer",
+      "reviewMentions": 0,
+      "badge": null,
+      "quotes": []
     },
     {
-      "name": "Pork Belly Buns",
-      "description": "A frequently mentioned small plate, described as 'melt-in-your-mouth good' and a favorite item for many diners.",
-      "category": "appetizer",
+      "name": "Vegasm",
+      "description": "A consistently good vegan dish.",
+      "category": "entree",
+      "reviewMentions": 3,
       "badge": "Popular",
       "quotes": [
-        "My particular favorite was the gnocchi and the pork belly buns",
-        "The pork belly buns were melt-in-your-mouth good"
-      ],
-      "reviewMentions": 2
+        "They do flavors so well (always recommend the pork)(and the Vegasm is never bad) - the people are great, and the vibes are good",
+        "Best vegasm I ever had",
+        "I’ve particularly enjoyed the vegasm option despite being a meat eater (although their dishes with meat are also great)"
+      ]
     },
     {
-      "name": "Teasers",
-      "description": "A signature category of small, single-bite appetizers. Reviews call them 'perfectly crafted bites,' 'one bite of awesomeness,' and a 'highlight of the meal' that should not be skipped.",
-      "category": "appetizer",
+      "name": "pad thai salad",
+      "description": "A fresh and satisfying take on a classic pad thai.",
+      "category": "entree",
+      "reviewMentions": 4,
       "badge": "Top Pick",
       "quotes": [
-        "A special shout-out to the teasers, which we almost skipped because we weren’t totally sure what they were from the menu",
-        "The Teasers are each unique and special - don't miss East Fried Pride (pork belly",
-        "The teasers are delightfully conceived and the meals consistently well prepared"
-      ],
-      "reviewMentions": 7
+        "Food-wise, the pad thai salad was a fresh, satisfying take on a classic",
+        "The Pad Thai salad was amazing (my favorite dish)",
+        "We've gotten the pad Thai salad every time"
+      ]
     },
     {
-      "name": "Cocktails / Cocktail Flight",
-      "description": "The cocktails are consistently praised as creative, balanced, and delicious. The cocktail flight is specifically recommended as a 'dangerously delightful' and creative option.",
+      "name": "jerk cauliflower",
+      "description": "A dish with an ideal balance of spice and flavor.",
+      "category": "entree",
+      "reviewMentions": 4,
+      "badge": "Top Pick",
+      "quotes": [
+        "The jerk cauliflower hit the ideal balance of spice and flavor",
+        "The appetizers and small bites are where it's at: jerk cauliflower, mascarpone polenta, potato pave and shroomin' were so so good",
+        "Loved the jerk cauliflower and pork steamed buns"
+      ]
+    },
+    {
+      "name": "health potion",
+      "description": "A special non-alcoholic beverage.",
       "category": "drink",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "East Fried Pride",
-      "description": "A specific 'teaser' dish featuring pork belly. It is highly recommended, with one review stating 'If you don't get the East Fried Pride, you are wrong.'",
-      "category": "appetizer",
-      "badge": "Popular",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "The Teasers are each unique and special - don't miss East Fried Pride (pork belly",
-        "If you don't get the East Fried Pride, you are wrong",
-        "Teasers: I love every teaser I have ever tried from here, but my two ones that I could never not order are East Fried Pride (some serious magic must be used to make this perfect bite on pork belly, melts in your mouth"
-      ],
-      "reviewMentions": 3
-    },
-    {
-      "name": "Pad Thai / Pad Thai Salad",
-      "description": "Noted for being 'full of flavor' and a 'fresh, satisfying take on a classic.'",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Ramen",
-      "description": "Offered as a daily special, it's mentioned as being fresh and available with pork.",
-      "category": "entree",
-      "badge": "Top Pick",
-      "quotes": [
-        ") and the daily ramen special",
-        "5/10, nothing special\nGF bun with cheeseburger: 10/10, soft, delicious\nRamen with pork: 7/10, fresh but ramen just isn’t my favorite to begin with",
-        "One of the best spots in town, the ramen was top tier"
-      ],
-      "reviewMentions": 9
+        "And as a last note they did have this wonderful special beverage that I did not get but I was incredibly pleased to see it was a health potion that without alcohol gave you plus two to health, but with alcohol you took a hit of minus two"
+      ]
     }
   ],
   "highlightedReviews": [
-    {
-      "author": "John Madison",
-      "rating": 5,
-      "text": "First, any review that is less than 5 stars for this establishment is just plain wrong. Second, between Tongue in Cheek & Bruson's Pub (Across the street) these are the two best restaurants in the Twin Cities, hands down. And somehow, they both ended up on the same street in East St. Paul.\n\nI have been to Tongue in Cheek over a dozen times and I can confidently say this is by far the most consistently perfect eating establishment I've ever been to. I have eaten through the menu- front to back- and never been even slightly disappointed.\nIt blows my mind that restaurants like Porzana, Khaluna, and Spoon and Stable get so much press and recognition, and somehow Tongue in Cheek slips under the radar. Those \"James Beard\" establishments don't hold a candle to Tongue in Cheek's quality, service, and product; period!\n\nI could talk about this place all day, and matter of fact I find myself doing so...To co-workers, visitors to the Twin Cities, friends, anyone I can. I'll say this, there isn't a bad thing on the menu, but a couple of my all-time favorites are as follows:\n\nThe Bacon Dashi Ramen: I have had Ramen at nearly any place that has it on the menu in the Twin Cities (try Staff Meeting sometime!) and this is by far the best, hands down. The smokiness and rich bacon broth is something only heaven could conjure. It is the best ramen broth I have ever had in my life. I get it with the chicken which is always perfectly cooked and the perfect addition to this dish. I think about the Bacon Dashi Ramen at least twice a week, dreaming of it, yearning for another bowl!\n\nChicken & Waffle: Once again, the best rendition of the classic breakfast staple, chicken and waffles. The batter they use for their waffles has the most perfectly balanced sweetness, along with their incredible chicken and the cilantro and peanuts are a welcome addition as well. The flavor of this dish is outstanding. Like everything on Tongue in Cheeks menu: packed with flavor.\n\nTeasers: I love every teaser I have ever tried from here, but my two ones that I could never not order are East Fried Pride (some serious magic must be used to make this perfect bite on pork belly, melts in your mouth!), and Shroomin' that's packed with the most delicious and rich mushroom flavor.\n\nCrosseyed Mary (Cocktail): My favorite cocktail in the Twin Cities, essentially a bloody mary like martini. The gin is infused with a bunch of vegetables to create this heavenly savory flavor with a hit of garlic. Served up in a martini glass, I have to stop myself from drinking more than two every visit. For the savory cocktail lover, this is a must!\n\nAlso, the service here is always so dang good. Every single person-front of house to back of house is a master of their craft.\n\nIn conclusion, thank you Tongue in Cheek for being my favorite place in the world to eat and drink. I am a forever fan of yours. XO",
-      "date": "7 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Joe Drake",
-      "rating": 5,
-      "text": "This was our first time in and it was awesome!! The team was super attentive and gave great service! The drinks were great and the food was delicious! The best presentation of chicken and waffles I have ever had! I will be back on a day I don’t have to work and pick away at that cocktail list as they all sounded great! Thanks for an awesome brunch!! Next time I’ll take pictures!",
-      "date": "2 weeks ago",
-      "source": "Google"
-    },
-    {
-      "author": "Peter Grafstrom",
-      "rating": 5,
-      "text": "Had another amazing dinner here. The steamed buns are a highlight. Both the pork and the fried chicken are good choices. We've gotten the pad Thai salad every time. The jerk cauliflower was great, be sure to catch the sauce at the bottom they really combine well. Potato Pave was a highlight this time, ask for a bit more sauce. The basil raspberry fried sponge cake will inspire some new deserts at home and maybe a lemonade concoction.",
-      "date": "6 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Dylandylan Dylandylandylan",
-      "rating": 5,
-      "text": "Visited this place for the nth time to have lunch with some friends. All the staff were incredibly friendly. The venue is exceedingly clean and just feels nice to be inside of. The menu is fantastic. We shared a bunch of small plates including but not limited to the crispy chicken and the pork belly. Both of which were quite delicious. We also tried a couple of the bites which were wonderful. I definitely recommend this place to anyone looking brunch, lunch, or dinner. And as a last note they did have this wonderful special beverage that I did not get but I was incredibly pleased to see it was a health potion that without alcohol gave you plus two to health, but with alcohol you took a hit of minus two. Super clever. Loved to see it. Will be going back again for the nth plus time.",
-      "date": "2 weeks ago",
-      "source": "Google"
-    },
-    {
-      "author": "Brad C",
-      "rating": 5,
-      "text": "From the minute we walked in and were greeted by someone from behind the bar, to the host, to the server, everyone was very friendly and upbeat. The food was AMAZING - loved the chicken and waffles! The flavors were perfect and the presentation was great. Don't be scared off by the road construction - there's a small parking lot in back.",
-      "date": "5 months ago",
-      "source": "Google"
-    },
     {
       "author": "Matthew Smith",
       "rating": 5,
@@ -120,17 +64,38 @@
       "source": "Google"
     },
     {
-      "author": "Leo Cuevas",
+      "author": "Adriane Gilbert",
+      "rating": 4,
+      "text": "We had been wanting to try this place for years but somehow never got around to it until now. Maybe our expectations were too high? We are very adventurous eaters, travel a lot, and love big flavors. The service was excellent, and the atmosphere was nice, but the wall art seemed sloppy and amateur. I get it, it's supposed to be silly and wacky to match the theme of the restaurant, but it just didn't appeal to us.\n\nOur drinks were good, but nothing to write home about. We had the tiger  prawn teaser, which tasted like a regular fried shrimp with no standout flavors. The \"just shroomin\" custard had a great flavor but was more of a mush/goop, and I understand it can't be a real custard because it's vegan, but the texture was unappealing.\nThe pork buns were good, but again, nothing standout or unique. The best dish by far was the market fish. Cooked to a perfect, blackened crust and with a delicious sauce. I could have used 3x the sauce. The potatoes that came with it were also good, but I would have preferred a different veg side that would, IMO, pair better with the fish. Overall we really liked it and would recommend it to anyone looking for a nice dinner date.",
+      "date": "2 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mary Bach",
       "rating": 5,
-      "text": "Ambience:\nYou can feel the history of the place as you walk into the building, best way to describe the vibe is probably a modern/hipster speakeasy with a rustic touch. There's paintings with modern style, pop art, and abstract artwork all along the walls. Chill RnB and jazz playing lightly in the background.\nStaff:\nA host sat me down right away without a reservation on a friday afternoon. My server, Bo, was attentive, friendly, and knowledgeable about the menu. No complaints.\nDrinks:\nI didn't get any alcoholic  beverages. However, I did ask if they had any iced coffee since it wasn't on their menu, and to my surprise, Bo made me a coffee. I really appreciated that.\nFood:\nMy friend ordered the bacon dashi ramen. It looked stunning, but I didn't try it he said it was good. He also had the pistachio panna cotta, which he said was rich, nutty, creamy, and delicious. I had an order of the fried chicken buns, which were pretty tasty. The hot jam was a little sweet but paired well with the wasabi, I personally thought the dill pickle had a bit of a pungent taste, but I'm not a pickle guy myself. Imagine fried chicken Katsu on a steamed bao bun that's also sweet and spicy. I also ordered the smoked salmon sandwich. It was a cold sandwich served on a brioche bun with sprouts, tomatoes, avocado, Sunnyside egg, and a pickle aioli. The salmon wasn't fishy and had a great smokey flavor, salty, and oily as it should be. It did seem a little light on the meat portion size. All that with a side of fries, which were hot crispy and seasoned well.\nPrice:\nFor a party of 2, 2 entrees, 1 appetizer, 1 dessert, a coffee, and a fountain drink, the total came to $91.19. See receipt for specific prices.\nOverall:\nI've been here a few times. I've brought friends and family but it's a nice place for a datenight. It's a bit expensive, but I recommend this place. At least check it out.",
+      "text": "Delicious food, so nummy! The Teasers are each unique and special - don't miss East Fried Pride (pork belly!!) and the daily ramen special. They do vegan dishes easily and they taste great (per my vegan friend). I loved the braised pork eggs Benedict. I'll definitely return here.",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Aaron Ziegler",
+      "rating": 5,
+      "text": "Have only been once very good food and cocktails, with plenty of vegan and non-veg options. Service was prompt, very friendly and professional. Recommend.",
+      "date": "2 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "John Madison",
+      "rating": 5,
+      "text": "First, any review that is less than 5 stars for this establishment is just plain wrong. Second, between Tongue in Cheek & Bruson's Pub (Across the street) these are the two best restaurants in the Twin Cities, hands down. And somehow, they both ended up on the same street in East St. Paul.\n\nI have been to Tongue in Cheek over a dozen times and I can confidently say this is by far the most consistently perfect eating establishment I've ever been to. I have eaten through the menu- front to back- and never been even slightly disappointed.\nIt blows my mind that restaurants like Porzana, Khaluna, and Spoon and Stable get so much press and recognition, and somehow Tongue in Cheek slips under the radar. Those \"James Beard\" establishments don't hold a candle to Tongue in Cheek's quality, service, and product; period!\n\nI could talk about this place all day, and matter of fact I find myself doing so...To co-workers, visitors to the Twin Cities, friends, anyone I can. I'll say this, there isn't a bad thing on the menu, but a couple of my all-time favorites are as follows:\n\nThe Bacon Dashi Ramen: I have had Ramen at nearly any place that has it on the menu in the Twin Cities (try Staff Meeting sometime!) and this is by far the best, hands down. The smokiness and rich bacon broth is something only heaven could conjure. It is the best ramen broth I have ever had in my life. I get it with the chicken which is always perfectly cooked and the perfect addition to this dish. I think about the Bacon Dashi Ramen at least twice a week, dreaming of it, yearning for another bowl!\n\nChicken & Waffle: Once again, the best rendition of the classic breakfast staple, chicken and waffles. The batter they use for their waffles has the most perfectly balanced sweetness, along with their incredible chicken and the cilantro and peanuts are a welcome addition as well. The flavor of this dish is outstanding. Like everything on Tongue in Cheeks menu: packed with flavor.\n\nTeasers: I love every teaser I have ever tried from here, but my two ones that I could never not order are East Fried Pride (some serious magic must be used to make this perfect bite on pork belly, melts in your mouth!), and Shroomin' that's packed with the most delicious and rich mushroom flavor.\n\nCrosseyed Mary (Cocktail): My favorite cocktail in the Twin Cities, essentially a bloody mary like martini. The gin is infused with a bunch of vegetables to create this heavenly savory flavor with a hit of garlic. Served up in a martini glass, I have to stop myself from drinking more than two every visit. For the savory cocktail lover, this is a must!\n\nAlso, the service here is always so dang good. Every single person-front of house to back of house is a master of their craft.\n\nIn conclusion, thank you Tongue in Cheek for being my favorite place in the world to eat and drink. I am a forever fan of yours. XO",
       "date": "7 months ago",
       "source": "Google"
     },
     {
-      "author": "Hollie Chase",
+      "author": "Jon Rasmussen",
       "rating": 5,
-      "text": "One of my fav restaurants in MN. I appreciate delicious, flavorful, unique dishes that I can’t make at home and this place checks those boxes. Dining here can turn the worst of days around. Wonderful service and staff as well.\n\nOrdered the steamed pork buns (not pictured), ramen, and smoked salmon sandwich. The pork in the steamed buns and the ramen melted in your mouth. The smoked salmon sandwich had incredible flavor elements and the most perfect egg over easy. 10/10.",
-      "date": "6 months ago",
+      "text": "Had a wonderful experience at Tongue in Cheek! From the service to the food ... awesome! Our server (Wille ?) expertly guided my wife and me to great meal choices. I had the Pad Thai with tofu. I've never had tofu before and was concerned if I'd like it. He described it so well that it took the fear out of it for me. I knew what to expect and he was spot on ... it was amazing! We'll be back again. I love this place!",
+      "date": "4 months ago",
       "source": "Google"
     },
     {
@@ -141,14 +106,28 @@
       "source": "Google"
     },
     {
-      "author": "Brenna Bartell",
+      "author": "Hollie Chase",
       "rating": 5,
-      "text": "Placebos flight: 10/10, no notes, delicious\nPork belly teaser: 8.5/10, delicious crust, ours was very chewy\nBlueberry teaser: 7/10, initial taste was just olive oil\nFries & Fixings: 7/10 (we had to sub the cheese sauce for jerk sauce bc I am GF, definitely would have been better with cheese)\nCheeseburger: 7.5/10, nothing special\nGF bun with cheeseburger: 10/10, soft, delicious\nRamen with pork: 7/10, fresh but ramen just isn’t my favorite to begin with",
-      "date": "3 months ago",
+      "text": "One of my fav restaurants in MN. I appreciate delicious, flavorful, unique dishes that I can’t make at home and this place checks those boxes. Dining here can turn the worst of days around. Wonderful service and staff as well.\n\nOrdered the steamed pork buns (not pictured), ramen, and smoked salmon sandwich. The pork in the steamed buns and the ramen melted in your mouth. The smoked salmon sandwich had incredible flavor elements and the most perfect egg over easy. 10/10.",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Peter Grafstrom",
+      "rating": 5,
+      "text": "Had another amazing dinner here. The steamed buns are a highlight. Both the pork and the fried chicken are good choices. We've gotten the pad Thai salad every time. The jerk cauliflower was great, be sure to catch the sauce at the bottom they really combine well. Potato Pave was a highlight this time, ask for a bit more sauce. The basil raspberry fried sponge cake will inspire some new deserts at home and maybe a lemonade concoction.",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Melissa Sterling",
+      "rating": 5,
+      "text": "Update, 2025: Tongue in Cheek is still my favorite restaurant for top tier food and service! I can't think of a single meal I've had here that wasn't a symphony on my taste buds. The Watermelon Squeeze appetizer on their current menu is delightful, and our brunch items (Market Omelet and Belgian Waffle) are amazing. I also enjoyed the Ginger's Soul (mocktail) - which proved to be a divine companion to the waffles!\n\nOriginal post from 2020: One of my favorite places to go for a delicious meal with fantastic service. Food so good it inspires me to experiment at home! And food so good it encourages me to try new things on their menu, because I know it won't disappoint!",
+      "date": "Edited 6 months ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:48:15.010Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:25:23.198Z"
 }
