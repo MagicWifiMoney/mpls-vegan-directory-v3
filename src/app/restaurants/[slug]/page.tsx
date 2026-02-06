@@ -4,6 +4,8 @@ import { notFound } from 'next/navigation';
 import { restaurants, getRestaurantBySlug } from '@/data/restaurants';
 import RestaurantDetail from '@/components/RestaurantDetail';
 import RestaurantDetailEnhanced from '@/components/RestaurantDetailEnhanced';
+import InstagramGallery from '@/components/InstagramGallery';
+import sampleInstagramPosts from '@/data/sample-instagram-posts.json';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -146,6 +148,16 @@ export default async function RestaurantPage({ params }: Props) {
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
         {/* Enhanced component includes About section, so remove duplicate */}
         <RestaurantDetailEnhanced restaurant={restaurant} />
+        
+        {/* Instagram Preview - Only for Foxy Falafel */}
+        {restaurant.slug === 'foxy-falafel' && (
+          <div className="mt-8">
+            <InstagramGallery 
+              posts={sampleInstagramPosts} 
+              restaurantName={restaurant.name}
+            />
+          </div>
+        )}
       </div>
     </>
   );
