@@ -1,0 +1,149 @@
+{
+  "topProducts": [
+    {
+      "name": "Fresh Juices (various)",
+      "description": "Freshly made, delicious, often described as healing, hangover-curing, and offering new options regularly. Includes favorites like Nipsey Drip, Hidden Gem, Sweetest Drip, Rose Raspberry V-Day, and Beet Juice.",
+      "category": "Drink",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Smoothie Bowls (various)",
+      "description": "Very filling and delicious bowls with fresh fruits and tropical flavors. Includes popular options like Summertime Bowl, Solar Plexus Bowl, Strawberry Clouds, and Goal Digger.",
+      "category": "Entree/Breakfast/Dessert",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Nipsey Drip",
+      "description": "A highly recommended and 'must-have' juice, often rated 10/10 by customers.",
+      "category": "Drink",
+      "badge": "Top Pick",
+      "quotes": [
+        "I highly recommend the nipsey drip and my recent fave that blew me away was the rose raspberry v-day juice",
+        "I can’t leave without grabbing my favorite, the Nipsey Drip—it’s a must",
+        "The Nipsey Drip is lovely as well as the Citrus Immunity"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Wild Blueberry Lavender Matcha",
+      "description": "An unforgettable and 'insane' drink that leaves a lasting impression, described as the 'best drink all year'.",
+      "category": "Drink",
+      "badge": "Popular",
+      "quotes": [
+        "The staff is delightful, the space crackles with creative energy, and the wild blueberry lavender matcha that I had a couple of weeks ago tattooed my tastebuds so thoroughly that I cannot stop obsessing over it",
+        "Pleaseeeeeee never get rid of the wild blueberry lavender matcha"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Strawberry Clouds",
+      "description": "A delicious and 'insane' bowl, with reviewers eager to finish every last bit.",
+      "category": "Entree/Dessert",
+      "badge": "Popular",
+      "quotes": [
+        "I got the strawberry clouds and ate every last bit of it",
+        "Strawberry Clouds insane, so good",
+        "What I ordered the last 2 visits:\n• Nipsey Drip (juice) 🥤\n• The Hidden Gem (juice) 💎\n• Sweetest Drip (juice) 🍓\n• Goal Digger (bowl) 🥥\n• Strawberry Clouds (bowl) 🍓\n\nTrust me, you'll love it—stop by and treat yourself"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Beet Juice",
+      "description": "A surprisingly delicious juice, converting even those hesitant about beets, and noted as a customer favorite.",
+      "category": "Drink",
+      "badge": "Popular",
+      "quotes": [
+        "The beet juice is my favorite",
+        "I was nervous about the beet juice but it was delicious"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Avocado Toast",
+      "description": "Described simply as 'perfection'.",
+      "category": "Breakfast/Snack",
+      "badge": "Featured",
+      "quotes": [],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "LACEY ART HUNT ART",
+      "rating": 5,
+      "text": "The best juice in the twin cities. Fresh daily, new options regularly. All hand made by the owner and her family. The space is a vibe. Supporting local, small business is also a vibe. If you want the best and freshest, this is the place. I highly recommend the nipsey drip and my recent fave that blew me away was the rose raspberry v-day juice. Omg, it’s the best juice I have ever had. 🤤",
+      "date": "11 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jessica Louise",
+      "rating": 5,
+      "text": "My favorite local business! The smoothie bowls are sooo good - I literally find myself craving their “Blacker The Berry” bowl and driving across the city for it at least once a month. The fresh juices are also fantastic and worth every penny - I love how innovative their menu is. I can’t recommend this Black-woman-owned biz highly enough!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mary Schlaphoff",
+      "rating": 5,
+      "text": "Purchased the 3-day juice cleanse and so happy I did! Convenient way to get a variety of fresh juices. I have a juicer at home that I use regularly, but to do a multi-day juice fast, I really like this option to remove the hassle of buying and processing that much produce at home. I'll be a return customer.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Onnie B",
+      "rating": 5,
+      "text": "I'm absolutely obsessed with this place! Everything is so FRESH, you really can’t go wrong. I can’t leave without grabbing my favorite, the Nipsey Drip—it’s a must! The Smoothie Bowls are always perfect and hit the spot every time!\n\nWhat I ordered the last 2 visits:\n• Nipsey Drip (juice) 🥤\n• The Hidden Gem (juice) 💎\n• Sweetest Drip (juice) 🍓\n• Goal Digger (bowl) 🥥\n• Strawberry Clouds (bowl) 🍓\n\nTrust me, you'll love it—stop by and treat yourself!",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Hiba A",
+      "rating": 5,
+      "text": "Stepped in today to get a smoothie bowl and some fresh juices. The smoothie bowl was simply delicious - I would highly recommend it! The juices I picked up are really nice and fresh! The Nipsey Drip is lovely as well as the Citrus Immunity! The owner was also super friendly. I would definitely go again :)",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "CJ (based3)",
+      "rating": 5,
+      "text": "The inside of this place is super cute! Tons of colors and plants. Friendly, helpful staff. The have clothes and other merch to take home too! When I went they brought back there summer juices so I got watermelon and strawberry, both were very yummy and fresh. I will be going back to try the smoothie bowls!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Morgan",
+      "rating": 5,
+      "text": "The Dripping Root is the best! The cold pressed juice is so fresh and delicious (The Nipsey juice and Hidden Gem have been some of my favorites!). The pickle lemonade is the perfect summer drink and the smoothies bowls are amazing. The shop is super cute and full of bright colors and you're always greeted with big smiles. Can't say enough about this wonderful business and how lucky we are to have it in the neighborhood.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jessica Arend",
+      "rating": 5,
+      "text": "I can’t recommend highly enough! I used to live near The Dripping Root. After moving away, I still get cravings for their smoothie bowls and have to drive across the city for them! Completely worth the trip though! I feel so good after visiting - eating and drinking delicious, fresh products and supporting an awesome Black woman owned business!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Maya",
+      "rating": 5,
+      "text": "I finally made it to The Dripping Root this morning, and it’s so worth it! The space features amazing art and a welcoming atmosphere. The staff helped me pick the Nipsey Drip, and it is such a good juice, it’s light, refreshing, crisp and not too sweet at all. I couldn’t decide what food item to get, the staff told me about the seasonal pumpkin spice chia pudding, I don’t even like pumpkin spice but after seeing it I had to try it! The combination of fruit, granola, chia pudding and the whip on top is so good. I’m very happy with my experience and I can’t wait to go back!",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Onyedimma Nwachuku",
+      "rating": 5,
+      "text": "Other reviews have stated this too but the Nipsey Drip drink is outstanding!!! It’s their most popular flavor and for good reason. Perfect mix of sweet and tangy fruit flavor. I also ordered a smoothie bowl with fresh fruit. The smoothie bowl was wonderful and contained a mix of fresh fruit, yogurt, and oats.\n\nThe Dripping Root is a great option for fresh and natural ingredients! The restaurant is in the process of expanding their space to include more menu items as well. They have shots of ginger extract for customers to try. Ginger has quite a bite to it! I hope to stop by the Dripping Root again.",
+      "date": "3 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:56:31.289Z"
+}

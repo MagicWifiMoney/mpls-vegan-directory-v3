@@ -1,0 +1,155 @@
+{
+  "topProducts": [
+    {
+      "name": "Chopan Kebab",
+      "description": "Lamb chops described as flavorful, tender, and the best lamb in the Twin Cities.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "If you like Lamb Chops you will love Chopan Kebab",
+        "Had their Chopan Kebab and it was perfection",
+        "There are too many truly special dishes on the menu to list - the Chopan Kebab (lamb chops) are an unbelievable treat, the Daal a comfort, and the Murgh Kebab (chicken) I wish I could eat every day forever - multiple visits are required to try everything"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Chutneys",
+      "description": "Described as 'magical pieces of art' and 'not to be missed'. Served with meals. Specific flavors mentioned include apricot, cherry, cilantro walnut, red pepper chili, and ginger jalapeno.",
+      "category": "side/condiment",
+      "badge": "Top Pick",
+      "quotes": [
+        "But the Hummus - hands-down the best in town - and the chutneys go with every meal",
+        "The lamb chops are the best I’ve ever tasted and the chutneys are not to be missed",
+        "We picked up some apricot and cherry chutneys to go with the lamb"
+      ],
+      "reviewMentions": 5
+    },
+    {
+      "name": "Hummus",
+      "description": "Praised as 'hands-down the best in town'.",
+      "category": "appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "But the Hummus - hands-down the best in town - and the chutneys go with every meal",
+        "Meatballs and lamb kebab were incredible, as was the hummus and pita"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Murgh Kebab",
+      "description": "A chicken kebab dish described as tender and something you could eat every day.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "There are too many truly special dishes on the menu to list - the Chopan Kebab (lamb chops) are an unbelievable treat, the Daal a comfort, and the Murgh Kebab (chicken) I wish I could eat every day forever - multiple visits are required to try everything"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Kabuli Pulao",
+      "description": "The national dish of Afghanistan, mentioned as a special New Year's dish.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "We ordered the New Year's dish (the nat'l dish of Afghanistan) called Kabuli Pulao which was so special"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Daal",
+      "description": "A comforting dish mentioned alongside other specialties.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "There are too many truly special dishes on the menu to list - the Chopan Kebab (lamb chops) are an unbelievable treat, the Daal a comfort, and the Murgh Kebab (chicken) I wish I could eat every day forever - multiple visits are required to try everything",
+        "Had Borani 4/5, Sabzi Korma 5/5, Kirichi Koroot 5/5, Kofta Daal 5/5, Murgh Korma 5/5"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Braised Lamb",
+      "description": "A dish specifically noted as being delicious, tender, and flavorful.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "The braised lamb is delicious and the chicken curry was tender and flavorful"
+      ],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "lqb dpl",
+      "rating": 5,
+      "text": "Do not miss a chance to return to the Khyber Pass Café. Having held out through the pandemic serving takeout, Emel and Masooda have reopened the dining room for dinner and it is, as always, like being welcomed into their home.\n\nThe beautiful, decor and inviting atmosphere at the Khyber Pass reflects the fact that it is a family-run restaurant serving delicious, soulful Afghani food developed from generations-old family recipes.\n\nThere are too many truly special dishes on the menu to list - the Chopan Kebab (lamb chops) are an unbelievable treat, the Daal a comfort, and the Murgh Kebab (chicken) I wish I could eat every day forever - multiple visits are required to try everything. But the Hummus - hands-down the best in town - and the chutneys go with every meal. The chutneys are magical pieces of art.\n\nThe Khyber Pass has been an important part of the Mac-Groveland neighborhood for nearly 30 years now, and with good reason. There is no warmer, more welcoming place around.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Larry Jacobs",
+      "rating": 5,
+      "text": "Has Covid destroyed your dining life?\n\nWe've tried take-out from at least a dozen restaurants over the past 7 months - even the great ones.\n\nKyber Pass is easily the best.  The food is fresh, tasty, and reasonably priced.\n\nWe pick-up so that Kyber Pass gets all of our payment instead of having to pay the huge fees charged by the delivery services\n\nThank you Kyber Pass for the delicious food.",
+      "date": "5 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chin-Shian Lin (Happy)",
+      "rating": 5,
+      "text": "I’ve been thinking visit this restaurant for a year, but the pandemic impede the dine in option. We choose to takeout! It was fabulous! The chopan kbab was flavorful,and the murgh kbab was tender. The curry sauce are not spicy which is what I want. I definitely will order again! We were too hungry to take a picture before we finished them🤪",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Millie W",
+      "rating": 4,
+      "text": "I love the food here - everything I have tried had been fresh and wonderful. Their decor is nice, even if the tables are all small and a little crowded for even four people.\nHowever, their rating as a one $ restaurant should genuinely be reviewed! Maybe it was based on an old menu, but we brought five people, and shared one $10 appetizer, with no drinks at all, the teen with us was still quite hungry when we were done, and it cost almost $100. That's not one $, at $20 per person with no drinks.",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Madeline Strom",
+      "rating": 5,
+      "text": "We did take out from Khyber Pass tonight for a family celebration. How fortuitous that it was also Persian New Year! We ordered the New Year's dish (the nat'l dish of Afghanistan) called Kabuli Pulao which was so special. Our 2yo loved it, too. We also ordered the lamb Choban Kebab which was totally tender and so good. We picked up some apricot and cherry chutneys to go with the lamb. Everything was delicious and the staff at the restaurant could not have been kinder or more lovely. We can't wait to come back!",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Alisa Schilmoeller",
+      "rating": 5,
+      "text": "The food is great! The braised lamb is delicious and the chicken curry was tender and flavorful! I ordered online, received a phone call confirming my pickup time (the staff were great!) and the curbside pickup was quick and easy. Definitely recommend trying Khyber Pass Cafe!",
+      "date": "5 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "David Welker",
+      "rating": 5,
+      "text": "It's been a while, just getting around to write a review on our incredible experience here. Staff were extremely helpful & friendly. Authentic menu and everything we had was delicious. I'd recommend Khyber Pass Cafe for any occasion but it'll be a fun date night out.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Rachel F",
+      "rating": 5,
+      "text": "Incredibly sweet staff even though we ordered takeout in the last hour they were open. Meatballs and lamb kebab were incredible, as was the hummus and pita. But the chutney is really where it’s at. Mainline that into my soul.",
+      "date": "4 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Serenity Silvers",
+      "rating": 5,
+      "text": "The did was phenomenal! We got three country's with bread to start: Cilantro Walnut, Red Pepper Chili, and Ginger Jalapeno. For entrees we got Lamb and vegetarian dishes. The lamb was tender and flavorful and everything was cooked perfectly. Will definitely be back!",
+      "date": "5 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mary Carpenter",
+      "rating": 5,
+      "text": "They serve authentic Afghan food, and they seem to love what they do. The have the most fabulous (unsweetened) yogurt/cucumber/mint drink, as well as some wonderful fresh chutneys. I ordered a lamb curry with eggplant and it was as tender\nas could be.",
+      "date": "6 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:59:04.311Z"
+}
