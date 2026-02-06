@@ -36,6 +36,16 @@ import eurekaCompassData from '../../enriched-data/eureka-compass-REAL-DATA.json
 import crepeAndSpoonData from '../../enriched-data/crepe-and-spoon-REAL-DATA.json';
 import pizzaLuceData from '../../enriched-data/pizza-luce-REAL-DATA.json';
 import shishMediterraneanData from '../../enriched-data/shish-mediterranean-REAL-DATA.json';
+// Batch 3
+import theDrippingRootData from '../../enriched-data/the-dripping-root-REAL-DATA.json';
+import afroDeliData from '../../enriched-data/afro-deli-REAL-DATA.json';
+import commonRootsCafeData from '../../enriched-data/common-roots-cafe-REAL-DATA.json';
+import khyberPassCafeData from '../../enriched-data/khyber-pass-cafe-REAL-DATA.json';
+import crispAndGreenData from '../../enriched-data/crisp-and-green-REAL-DATA.json';
+import wedgeTableData from '../../enriched-data/wedge-table-REAL-DATA.json';
+import wokInTheParkData from '../../enriched-data/wok-in-the-park-REAL-DATA.json';
+import toriRamenData from '../../enriched-data/tori-ramen-REAL-DATA.json';
+import redCowData from '../../enriched-data/red-cow-REAL-DATA.json';
 
 // Map of restaurant slug to data
 const enhancedRestaurantData: Record<string, any> = {
@@ -64,6 +74,16 @@ const enhancedRestaurantData: Record<string, any> = {
   'crepe-and-spoon': crepeAndSpoonData,
   'pizza-luce': pizzaLuceData,
   'shish-mediterranean': shishMediterraneanData,
+  // Batch 3
+  'the-dripping-root': theDrippingRootData,
+  'afro-deli': afroDeliData,
+  'common-roots-cafe': commonRootsCafeData,
+  'khyber-pass-cafe': khyberPassCafeData,
+  'crisp-and-green': crispAndGreenData,
+  'wedge-table': wedgeTableData,
+  'wok-in-the-park': wokInTheParkData,
+  'tori-ramen': toriRamenData,
+  'red-cow': redCowData,
 };
 
 interface PlaceDetails {
