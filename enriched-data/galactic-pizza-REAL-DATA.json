@@ -1,0 +1,164 @@
+{
+  "topProducts": [
+    {
+      "name": "Vegan Pizza",
+      "description": "A popular pizza option, frequently cited as being among the best in the city. Made with vegan cheese and available with various toppings.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "I’ve been getting a vegan pizza Bianca from Galactic since high school and recently started branching out- everything is just as good",
+        "They have outstanding stuff and their vegan pizza is amazing",
+        "Not the best vegan pizza in the Midwest"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Pizza Crust",
+      "description": "The pizza base, often described as great and crispy, with a New York style quality. However, some reviews mention it can be inconsistent, occasionally being tough or cracker-like.",
+      "category": "component",
+      "badge": "Featured",
+      "quotes": [
+        "They offer the best gluten free pizza crust I’ve ever had"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Pasta",
+      "description": "A highly-rated dish, with one review calling it the 'absolute best'. There is a creamy vodka sauce pasta, though one diner had a poor experience with it.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "this is the absolute best pasta and pizza i have had at a restaurant",
+        "The food wasn’t as described I had got the creamy vodka sauce pasta and it was just come chunks of tomato with melted cheese and the pizza tasted like cardboard",
+        "Un lugar tranquilo, tienen muchas opciones de pizza y pasta"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Cheese Sticks",
+      "description": "House-made and not greasy, considered a must-get item. Also referred to as 'breadsticks', though one review described them negatively as a baguette with cheese.",
+      "category": "appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "In addition get the cheese sticks, house made and not greasy at all",
+        "Their cheese sticks live up to the hype"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Paul Bunyon Pizza",
+      "description": "A specialty pizza made with all local ingredients.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "I got wings and a Paul Bunyon pizza, made with all local ingredients"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "The Shroomer Pizza",
+      "description": "A specific pizza variety that was highly praised by a customer.",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Spinach Artichoke Dip",
+      "description": "Described as the 'best I've ever had' by a repeat customer.",
+      "category": "appetizer",
+      "badge": "Featured",
+      "quotes": [
+        "Best spinach artichoke dip I’ve ever had and the cheesecake is beyond as well"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Cheesecake",
+      "description": "A dessert item described as 'beyond as well' in quality.",
+      "category": "dessert",
+      "badge": "Top Pick",
+      "quotes": [
+        "Best spinach artichoke dip I’ve ever had and the cheesecake is beyond as well",
+        "We ordered a large Paul Bunyan, raspberry cheesecake and chocolate chip cookies",
+        "Muddy Paws cheesecakes and Cookie Cart desserts available"
+      ],
+      "reviewMentions": 5
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Brittany Jiménez",
+      "rating": 5,
+      "text": "Galactic Pizza is delicious! We really love the Paul Bunyan pizza, made with toppings native to MN. The Thailander is another favorite of ours. They have unique and tasty specialty pizzas, many of which can be made vegan or are vegan. We haven't tried their pasta, apps, or salads, but we did thoroughly enjoy the strawberry vegan cheesecake.\nPizza Luce is the popular local pizza joint, but after going to Galatic, we are definitely switching over to Galatic. Vegan cheese option, crust is sturdier so everything stays on when you pick up the slice, unique flavor combos, and friendly service. Can't recommend enough. Wish more people would go here so we can make sure it stays in business.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Zack Virgo",
+      "rating": 5,
+      "text": "My wife and I were visiting from our of town, and we eat..probably more than our fair share of pizza. We stopped in because we saw the pictures online and thought it looked fun. So glad we stopped. I got wings and a Paul Bunyon pizza, made with all local ingredients. My wife got just cheese. Everything we ate was spectacular and the service was so friendly and top notch. Next time we happen to be in the Twin Cities we are definitely coming back",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Cami",
+      "rating": 5,
+      "text": "This place has the nicest owner that served us. He was kind, and helpful. I highly recommend getting a bunch of 10 inch smaller pizzas and then sharing so you can try out a few of the unique ones. The chicken wings are a bit small so I recommend upgrading to the full plate. Nice to have the option of baking them though. Food was good, but the crust was a bit thin for my personal preference. I recommend this place for a new pizza flavor.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Gaige Steele",
+      "rating": 5,
+      "text": "this is the absolute best pasta and pizza i have had at a restaurant. there are tons of gluten-free, vegetarian, and vegan options. John really seems to care about his quality of food, and it shows. i got the pasta, and my girlfriend got the pizza, and we were both snagging bites from each other with how good it was. When i come back to Minnesota, this is a must stop.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Todd Jelinski",
+      "rating": 5,
+      "text": "Awesome experience!! Not sure why we were the only ones there, but it was a summer Saturday afternoon. As the only ones in the restaurant we were spoiled by the great service!! Nice personal touch explaining some history of the restaurant along with the menu and emphasizing local ingredients. One in our party is gluten free and most everything on their menu has a gluten free option, which was so nice. We tried a Brooklyn Bee (my favorite), a Paul Bunyon(which is so Minnesotan and so very, very good), and a Shroomer (which was also good). Enjoyed a Lift Bridge Rootbeer, which was so smooth and creamy. And as it was my birthday they have me a choice of dessert and I chose the gluten free marble cheesecake with raspberry sauce, which was so good and from a nearby local bakery. Such a nice touch with the free birthday treat. The restaurant also has a great vibe and atmosphere, something you would expect from a local pizza shop. Such an awesome experience, great food, and fantastic service!! Highly recommend!!",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "danielle spinozzi",
+      "rating": 5,
+      "text": "Coming from Chicago I'm a bit of a pizza snob, so wasn't expecting much from Galactic Pizza when I stopped in during vacation. WOW is all I can say, I was blown away with the super friendly service, the cute location and most of all the pizza. The san marzano pizza sauce is house made and a 10 out of 10. One if the best pizzas I've ever had. In addition get the cheese sticks, house made and not greasy at all. Wish Galactic was closer to home because this pizza is damn near perfect.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ashley Green",
+      "rating": 5,
+      "text": "They offer the best gluten free pizza crust I’ve ever had. Last year, I learned I can’t eat gluten anymore and it’s been really difficult finding restaurants that are both accommodating and put just as much love and energy into their GF options. Galactic does both.\n\nThey have a wide variety of options for everyone and that’s so rare and refreshing.\n\nIngredients taste fresh and it’s just great quality, yummy food that anyone can enjoy! The world needs more of this lol!\n\nI also have quite a few strictly vegan family members and it’s so good to be able to order truly fantastic pizza for everyone’s needs. Their Second Harvest Heartland is my favorite.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jason Buchanan",
+      "rating": 5,
+      "text": "Vegetarian, Vegan, GF options for almost every pizza!\n\nvery friendly staff, and a very inviting environment. it feels nice and campy, this space travel decor and the extravagant-but-not-pretentious seating, wall treatments and ceiling elements are all having a lot of fun, but aren't pretending to be something they aren't. staff is all very down to earth, and the pizzas use all natural ingredients wherever possible. lots of options for many dietary choices.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Patrick Gallagher",
+      "rating": 4,
+      "text": "Inoffensive pizza is about all I can say for the pie, but they do generally have fresh ingredients that are pretty good, and they have some decent specialty pies. That being said, this place is under takeout strain, waited for our order for quite a bit and heard a seated table was waiting on DoorDash orders to clear before getting their food. Beware dining in during peak times.",
+      "date": "3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Zach",
+      "rating": 5,
+      "text": "Met a friend for lunch here. While it was empty for weekday lunch, the owner made us feel welcome and served us. Gave us suggestions on what to get and even brought back a free tasting of another pizza he was cooking up for himself. Friendly, good pizza, quality selection of drinks and food. Pizza reminded me of New York style. Expensive ($24ish for the pizza we got in the picture) but what restaurant eating out now isn’t?",
+      "date": "2 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:17:24.132Z"
+}

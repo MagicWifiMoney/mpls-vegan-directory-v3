@@ -1,0 +1,158 @@
+{
+  "topProducts": [
+    {
+      "name": "Quiche",
+      "description": "Described as delicious, fluffy, and very cheesy. It is served with a side salad. A specific Bacon and Swiss variety was mentioned.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "The most delicious quiche I’ve ever had in my life",
+        "The quiche was great it was fluffy and super cheesey and it came with with a large side salad",
+        "The Bacon and Swiss quiche was relatively good"
+      ],
+      "reviewMentions": 8
+    },
+    {
+      "name": "Croissants",
+      "description": "Highly praised, especially the almond croissant which is noted as 'amazing, nice and flaky and nutty'. The ham and cheese version was also called delicious. Some regulars miss the old croissants that are no longer available.",
+      "category": "baked good",
+      "badge": "Popular",
+      "quotes": [
+        "UPDATE: there are now croissants and the danishes are very good again",
+        "They have some of the best chai tea chocolates or almond croissants I thoroughly enjoy their Vietnamese coffee",
+        "I stopped in to by croissants for my team, they have always had the best croissants"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Scones",
+      "description": "A popular item, with a desire for more predictable flavor schedules. Currant and gluten-free varieties are specifically mentioned.",
+      "category": "baked good",
+      "badge": "Popular",
+      "quotes": [
+        "They have the best scones - I just wish they had some sort of predictable schedule for flavors as the currant ones are my favorite and they haven't had them the last few times I've gone",
+        "Smaller, good food and good coffee with GF and Vegan options on the menu (their GF scones were awesome"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Danish",
+      "description": "Reviews are mixed due to a recipe change. Formerly made with cream cheese and considered 'special', a switch to pastry cream was disliked by one reviewer, though another states they are 'very good again'.",
+      "category": "baked good",
+      "badge": "Featured",
+      "quotes": [
+        "UPDATE: there are now croissants and the danishes are very good again"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Breakfast Burrito",
+      "description": "Mentioned as being 'excellent' by one customer, but just 'okay' by another.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "I took my friend there for her birthday and it was my mocha was excellent so was the breakfast burrito",
+        "The breakfast burrito was just okay",
+        "Unfortunately the food was subpar - my breakfast burrito was cold inside and my friend's bean burrito was a brick of bland mashed beans and white rice"
+      ],
+      "reviewMentions": 7
+    },
+    {
+      "name": "Chai Tea",
+      "description": "Considered to be one of the best by a reviewer, and also described as delicious.",
+      "category": "drink",
+      "badge": "Popular",
+      "quotes": [
+        "My friend had Chai tea and and a ham and cheese croissant which she found to be delicious",
+        "They have some of the best chai tea chocolates or almond croissants I thoroughly enjoy their Vietnamese coffee"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Focaccia",
+      "description": "Multiple reviews criticize it for being 'very dense and bland' and 'sub-par', suggesting it's a recipe that needs improvement.",
+      "category": "baked good",
+      "badge": "Popular",
+      "quotes": [
+        "Their focaccia was very dense and bland",
+        "I've been coming here since 96' and will continue to despite the grumbling, but let's own up to the sub-par focaccia and make it right"
+      ],
+      "reviewMentions": 2
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Brian Huilman",
+      "rating": 5,
+      "text": "Strongly recommend! We just moved into South Minneapolis and walked to this place from our new home and I can already tell this is going to be one of our favorite spots! The breakfast burrito and sandwich were amazing and the sweet roll was exactly how my grandma used to make them: fluffy, sweet, and cinnamony! Wonderful staff had our food ready in no time.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "R. B.",
+      "rating": 5,
+      "text": "By far, the best breakfast sandwich I've ever had is at May Day cafe. It's the veggie sausage breakfast sandwich- gooey cheese, eggs, and sausage so good you won't notice it's vegetarian! All on a panini style sandwich - even though I don't live in the neighborhood anymore I still return for it occasionally!",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Willow",
+      "rating": 5,
+      "text": "First time coming here with some friends, not a ton of seating, but it was easy enough to get a table for three of us. The quiche was great it was fluffy and super cheesey and it came with with a large side salad. The almond croissant was amazing, nice and flaky and nutty. The breakfast burrito was just okay. The coffee drinks were all super tasty. Overall, I liked this place and will be back for the quiche!",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Louis Johnson",
+      "rating": 4,
+      "text": "Food was alright. The Bacon and Swiss quiche was relatively good. Didn’t really like how they didn’t tell me that it came with a salad, which I don’t like. Atmosphere is also pretty nice. Liked the paintings they had in there. Relatively convenient as it’s right along the route 14 bus line and a 6 minute walk to the 22 and 8 minute walk to the 23",
+      "date": "9 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Elizabeth Kerwin",
+      "rating": 5,
+      "text": "Quintessential Minneapolis local with excellent, above average quiche, bakery, and burritos. Phenomenal atmosphere - very diverse and welcoming. It encapsulates what I miss about living here! Definitely worth a trip - we went after bearing witness at George Floyd Plaza with our kids and before a long walk around the lake at Powderhorn. Great spot.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Gabriel Pass",
+      "rating": 5,
+      "text": "The MayDay Cafe is one of my favorite coffee shops ever.  A unique and eclectic vibe. The coffee and beverages are good but the food is really exceptional.  It's all made in-house, fresh, with quality ingredients, plus so many great options that are vegan, gluten-free, etc.\nWatch for their specials, but make sure to get them before they're gone! 😋",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ali",
+      "rating": 5,
+      "text": "The May Day is a bright spot in the universe! The food is incredible, the coffee spot on, and the service is fast/friendly/knowledgable. Vegetarian options, vegan baked goods. The absolutely magical neighborhood and community vibe that shines from this place is unmatched! MmmmmmMay Day ❤️🌈💫 Bring your friendly face and community vibe and you’ll fit right in. InJoy!! 😘",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Dave Brand",
+      "rating": 5,
+      "text": "One of my must visits on every trip to Minneapolis. The egg sandwiches on a biscuit are amazing but can put you in a food coma for the rest of the day, better for sharing. Quiches and pastries are great too.\nTry the Arnold Palmer with mint tea.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kathryn Van Wert",
+      "rating": 5,
+      "text": "UPDATE: there are now croissants and the danishes are very good again!!! Yay!!!\n\nI’m really supportive of the workers’ coop and I want this place to succeed. In that spirit, I wish they’d step up their baked goods game. The baked goods used to be sooooo good and I’m sorry to say they’re not so good now. Specifically, they used to have the absolutely best croissants, and now they have none. Also, the fruit danish used to be really special; now, it’s made with pastry cream instead of cream cheese, and it’s not a good change. I’m not sure why these changes happened; maybe the old pastry chef left when they switched to a coop?",
+      "date": "Edited 3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Cory C.",
+      "rating": 4,
+      "text": "You guys bought a turn-key business with decades of experience and a collection of much loved recipes. Please put things back until you've mastered the old system under new ownership and then experiment with different ingredients and recipes on the side. I'm sure suppliers would be happy to give you samples to test out. Just my opinion but I think a popular one.  I've been coming here since 96' and will continue to despite the grumbling, but let's own up to the sub-par focaccia and make it right.",
+      "date": "7 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:20:17.119Z"
+}

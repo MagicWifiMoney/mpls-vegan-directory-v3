@@ -1,0 +1,154 @@
+{
+  "topProducts": [
+    {
+      "name": "Cakes (General)",
+      "description": "Highly praised for special occasions like birthdays and weddings. They are described as delicious and amazing, with specific mentions of a 'Surly cake' and a 'vegan chocolate cake' that was called one of the best ever eaten.",
+      "category": "Dessert",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Croissants",
+      "description": "Come in several varieties including ham, ham & cheese, and chocolate hazelnut. Generally described as light, buttery, and flaky. The chocolate hazelnut version is noted as 'outstanding'.",
+      "category": "Pastry",
+      "badge": "Top Pick",
+      "quotes": [
+        "I look forward to eating at their main location, but I purchased two ham and cheese croissants at their airport location for 18",
+        "Croissants are light, buttery, and flaky",
+        "My go-to items are the croissants (both chocolate and ham and cheese) and the brioche"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Baguette",
+      "description": "Described as 'crusted & chewy' and considered a favorite by customers, perfect with butter. One review mentions a simple baguette and coffee brought them 'instant bliss'.",
+      "category": "Baked Goods",
+      "badge": "Popular",
+      "quotes": [
+        "An easily overlooked place, but head on in don't be shy; I had a 3 dollar baguette and a coffee, was brought to instant bliss",
+        "my favorite baguettes are from the salty tart"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Macaroons",
+      "description": "Mentioned as being phenomenal and the 'best I've ever had', particularly the ones experienced at the State Fair.",
+      "category": "Dessert",
+      "badge": "Top Pick",
+      "quotes": [
+        "I had their macaroons at the State Fair",
+        "The macaroons are also phenomenal",
+        "Of course the coconut macaroons are outstanding but don't overlook some of the other cookies - sour cherry, peanut butter, chocolate chip, and (been awhile since I've seen it) the salted caramel pretzel"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Coffee",
+      "description": "Generally well-regarded, with comments like 'Great coffee' and 'ain't too bad either'. A specialty 'coconut macaroon latte' was described as amazing.",
+      "category": "Drink",
+      "badge": "Top Pick",
+      "quotes": [
+        "An easily overlooked place, but head on in don't be shy; I had a 3 dollar baguette and a coffee, was brought to instant bliss",
+        "Their coffee ☕ ain't too bad either",
+        "00 for a cup of coffee"
+      ],
+      "reviewMentions": 5
+    },
+    {
+      "name": "Lemon Meringue Tart",
+      "description": "Described as 'to die for', featuring a crispy, warm bottom that contrasts with the soft meringue on top.",
+      "category": "Dessert",
+      "badge": "Featured",
+      "quotes": [
+        "The lemon meringue tart is to die for"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Egg Sandwich",
+      "description": "A breakfast item ordered alongside other dishes like the salmon tartine. Part of their savory breakfast menu.",
+      "category": "Breakfast/Entree",
+      "badge": "Featured",
+      "quotes": [
+        "We ordered the egg sandwich and salmon tartine then went back for dessert"
+      ],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Priya",
+      "rating": 5,
+      "text": "I was looking for a vegan cake  for my dad's birthday. Well I  didnt know they needed 48 hr notice. I called the day before and they were able to fit me in.  When I  went in Heidi  was really helpful. The cake was a hit. I would get it again except try different  fillings. Thanks again  for making  my dad's day great. Also it was the Minneapolis location.",
+      "date": "7 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mark Koester",
+      "rating": 5,
+      "text": "I'm a borderline Salty Tart evangelist. I greatly enjoy and don't mind paying for the quality of the baked goods from this place. My go-to items are the croissants (both chocolate and ham and cheese) and the brioche. I always enjoy the seasonal items (fruit and savory tarts, creme fraiche cake, anything lemon) as well. Of course the coconut macaroons are outstanding but don't overlook some of the other cookies - sour cherry, peanut butter, chocolate chip, and (been awhile since I've seen it) the salted caramel pretzel.\n\nI've converted coworkers who initially said they didn't like pastries. I've got very good reviews when I bring Salty Tart to customers, especially instead of the same old tired bagel assortment that other people bring.\n\nIf you're not familiar with all of the different kinds of pastries, the counter staff (at least in the mornings when I usually go) is very helpful in describing what everything is and steering you toward things you'll enjoy.",
+      "date": "9 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "James B",
+      "rating": 4,
+      "text": "Five stars for the food - I ordered two different styles of cakes for my wedding in September and both were amazing. Guests provided great feedback and had many inquiries on where we got them. Docking 1 star though because I paid extra for delivery and asked way ahead of time if I could get it dropped off at a certain timeblock. Day of wedding, they came to drop it off 5 hours ahead of time when no one was there to receive. The delivery driver was annoyed that no one was there and had to come back at the time I requested for drop off.",
+      "date": "7 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Fernando Campofreda",
+      "rating": 4,
+      "text": "I love salty tart , no crazy about the location inside the global market but i.really enjoy the pastries and everything they do .\nThe prices are a little high but everything taste good almost guaranteed .\nI recomend this place for anyone who love.pastrys , also I love the ham croisants.\nThe store is not to easy to find Inside the global.market but you can always ask for directions.\nThe area and parking is not very convenient but once inside.the global.market you must try this place .",
+      "date": "7 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Rachael Wernett",
+      "rating": 5,
+      "text": "The staff was very friendly, it was a beautiful room and the food and coconut macaroon latte was amazing! We ordered the egg sandwich and salmon tartine then went back for dessert. Will definitely visit again!",
+      "date": "8 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Henry Nieberg",
+      "rating": 5,
+      "text": "Some of the best baked goods I've had period.  The lemon meringue tart is to die for.  When ordered, the bottom is crispy and warm and the soft merengue makes a great contrast.  The macaroons are also phenomenal.    A little pricy, but it's worth it.",
+      "date": "8 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Robert Sung",
+      "rating": 4,
+      "text": "Small bakery that makes great croissants.  Almost as good as Rustica, which is my favorite bakery in the MSP metro.\n\nSmall space limits the amount/variety of products available at any given time this is also why they're a 4 star bakery and not 5.",
+      "date": "11 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Rick",
+      "rating": 5,
+      "text": "my favorite baguettes are from the salty tart. They are crusted & chewy.. perfect with fresh unsalted butter.",
+      "date": "8 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Pinky Patel",
+      "rating": 5,
+      "text": "We ordered a vegan chocolate cake it was one of the best vegan cakes I have eaten\nWould like them to have more eggless options\nTheir vegan chocolate was too good",
+      "date": "8 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Patrick Zabinski",
+      "rating": 5,
+      "text": "An easily overlooked place, but head on in don't be shy; I had a 3 dollar baguette and a coffee, was brought to instant bliss.",
+      "date": "7 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:21:11.208Z"
+}

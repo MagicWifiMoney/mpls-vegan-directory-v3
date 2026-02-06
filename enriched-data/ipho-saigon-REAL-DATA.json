@@ -1,0 +1,158 @@
+{
+  "topProducts": [
+    {
+      "name": "Pho",
+      "description": "A rich and flavorful noodle soup, frequently described as outstanding and the best in the city. It's served in generous, large bowls with plenty of meat and a great broth. A go-to comfort food.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "But if you'd like me to be more specific the pho is outstanding",
+        "I absolutely love going to this place when im craving pho as it gives you great proportions and fills you up for sure 💓",
+        "This establishment is really well done with their pho soups"
+      ],
+      "reviewMentions": 42
+    },
+    {
+      "name": "Banh Mi",
+      "description": "A fantastic and flavorful sandwich, noted for being well-priced and served very quickly. The flavor and cost are described as unmatched.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "Great service right when you walk in and a fresh banh mi sandwich bar is nothing short of perfect",
+        "I would also recommend the fried rice, banh mi and vermicelli bowls",
+        "This place is my go-to for fantastic, well priced banh mi - so good"
+      ],
+      "reviewMentions": 8
+    },
+    {
+      "name": "Spring Rolls",
+      "description": "Highly recommended appetizer, with the pork and shrimp variety being specifically praised as some of the best reviewers have had.",
+      "category": "appetizer",
+      "badge": "Top Pick",
+      "quotes": [
+        "The spring rolls with pork were some of the best I've had, the pho was good with some minor complaints with the taste of the dumplings (we'll take the blame for that, my wife wanted to try a new type) and the cream cheese wontons were top notch",
+        "Also amazing spring rolls, sweet potato fries, and banh mi",
+        "Their banh mi & shrimp + pork spring rolls are also really good"
+      ],
+      "reviewMentions": 5
+    },
+    {
+      "name": "Egg Rolls",
+      "description": "Described as incredible and among the best reviewers have tasted. A frequently mentioned and highly-rated appetizer.",
+      "category": "appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "Vietnamese menu classic pho, vermicelli spring and egg rolls",
+        "The Pho and egg rolls are incredible",
+        "They have amazing food and great service and the egg rolls are one of the best i’ve had :)"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Vermicelli Bowls",
+      "description": "A recommended dish alongside other restaurant staples like pho and banh mi.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "I would also recommend the fried rice, banh mi and vermicelli bowls"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Boba Drinks",
+      "description": "A recommended beverage option to accompany the meal.",
+      "category": "drink",
+      "badge": "Featured",
+      "quotes": [
+        "Don't forget about the boba drinks"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Cream Cheese Wontons",
+      "description": "Mentioned as a 'top notch' appetizer choice.",
+      "category": "appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "The spring rolls with pork were some of the best I've had, the pho was good with some minor complaints with the taste of the dumplings (we'll take the blame for that, my wife wanted to try a new type) and the cream cheese wontons were top notch",
+        "🙌Great portions, the broth is light but flavorful, always super quick service, and don’t miss out on the cream cheese wontons (another of my favorite in the US"
+      ],
+      "reviewMentions": 2
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Natalie Jo Baker",
+      "rating": 5,
+      "text": "iPho by Saigon in Saint Paul is a fantastic spot for anyone craving authentic, flavorful Vietnamese cuisine in a welcoming and relaxed atmosphere. From the moment you step inside, you’re greeted with friendly smiles and attentive service that makes you feel right at home. The cozy, casual vibe is perfect for a quick lunch, dinner with friends, or a comforting solo meal.\n\nThe menu offers a great variety of classic Vietnamese dishes, but the star of the show is, of course, their pho. The broth is rich, aromatic, and deeply satisfying — clearly simmered to perfection with traditional spices and fresh ingredients. Whether you choose the rare beef, brisket, or chicken pho, each bowl arrives steaming hot, generously portioned, and packed with flavor. The fresh herbs, bean sprouts, and lime wedges on the side allow you to customize every bite.\n\nBeyond pho, their vermicelli noodle bowls and banh mi sandwiches are equally delicious. The grilled meats are tender and flavorful, and the fresh vegetables add just the right balance. Vegetarian options are also available and thoughtfully prepared.\n\nPrices are reasonable, especially considering the quality and portion sizes. Service is consistently prompt and courteous, with staff always willing to offer recommendations or adjust spice levels to your taste.\n\nIf you’re in the Saint Paul area and looking for a go-to spot for comforting, authentic Vietnamese food, iPho by Saigon is a must-visit. It’s the kind of local gem you’ll find yourself returning to again and again.",
+      "date": "9 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Dylandylan Dylandylandylan",
+      "rating": 5,
+      "text": "Everything here is so dang good, and reasonably priced! I feel you could just take the menu, tape it to the wall and throw a dart at it, then order whatever the dart hit and you would be extremely satisfied. But if you'd like me to be more specific the pho is outstanding. Especially when you're in the grip of a cold Minnesota winter. Additionally their bahn mi sandwiches are fantastic.",
+      "date": "Edited a day ago",
+      "source": "Google"
+    },
+    {
+      "author": "Miles Kao",
+      "rating": 5,
+      "text": "This is one of the best Vietnamese restaurants in the Twin Cities!! For the shear size to price ratio, this place is worth a visit. I personally love their phos, egg noodle soups, and spring rolls. Not only that, they serve food very fast and the quality never disappoints. If you haven't been here yet, add this to your list!",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Laura Noren",
+      "rating": 5,
+      "text": "Got the fresh spring rolls - exquisitely fresh, indeed - and the mock duck banh mi with tea for two. My dining companion got the pho with tofu, which was served in an immense portion. It's really hard to find a vegetarian banh mi. This mock duck version was very good (needs Sriracha). The service was lightning fast and the atmosphere is lively.",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Shane Tchen",
+      "rating": 5,
+      "text": "This establishment is really well done with their pho soups. I haven't had anything bad yet here and their portions are super generous! That can also be said for their staff! Great service right when you walk in and a fresh banh mi sandwich bar is nothing short of perfect.",
+      "date": "2 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "Christian Karim",
+      "rating": 5,
+      "text": "I ordered a P2 jumbo and it was massive I think it could feed 3 adults easily for such a good price. They took our order and then brought the pho out within 2-3 minutes even though the restaurant was close to full. I also got the steak banh mi and it was so yummy for a great price. Staff was very friendly great service",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Trypp Adams",
+      "rating": 5,
+      "text": "I walked in and to the right, which seemed like the take out line, ordered a BahnMi (Regular Sandwich) and then some Pho (Saigon Special Pho) and then sat done, I messed up the order... you can sit down and order from a menu. Food was fantastic! The peppers were hot, I mistakenly dropped one in the pho and it took a while for it to wear off. Interior is pretty basic and I didn't love the flimsy disposable pho spoon but it's very clean and service is great.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mai Yer Xiong",
+      "rating": 5,
+      "text": "The best pho in Saint Paul! The broth is so good. I would also recommend the fried rice, banh mi and vermicelli bowls. Service is fast and efficient. I got my pho within 15 minutes of sitting down. The regular size was huge! I was able to pay my check without any wait time. I highly recommend this place for a fast, affordable and most importantly delicious meal.",
+      "date": "4 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Rodney Michael",
+      "rating": 4,
+      "text": "Classic St. Paul pho spot.  Vietnamese menu classic pho, vermicelli spring and egg rolls. Big bowls of pho so go with an appetite. Food comes out fresh and super fast. Don't forget about the boba drinks. Grab a bahn mi sandwich too.",
+      "date": "3 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chloe Kirk",
+      "rating": 5,
+      "text": "My family has been going here for years so I am well overdue to write this review. Best Pho in the US and also the cheapest. 🙌Great portions, the broth is light but flavorful, always super quick service, and don’t miss out on the cream cheese wontons (another of my favorite in the US!!). Affordable, friendly, quick service, we bring out of town friends here any chance we get. Thank you for staying delicious for years and years! 🙏\n\nP.s. takeout is also good but we have found you don’t get more broth if you do an XL vs a regular, but more noodles meat etc. tells you how often we go haha",
+      "date": "6 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:13:21.183Z"
+}
