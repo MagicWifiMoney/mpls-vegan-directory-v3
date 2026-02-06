@@ -45,6 +45,7 @@ export default function Header() {
             {[
               { href: '/', label: 'Home' },
               { href: '/#restaurants', label: 'Restaurants' },
+              { href: '/blog', label: 'Blog' },
               { href: '/neighborhoods', label: 'Neighborhoods' },
               { href: '/about', label: 'About' },
               { href: '/contact', label: 'Contact' },
@@ -89,13 +90,14 @@ export default function Header() {
         {/* Mobile Navigation */}
         <div 
           className={`md:hidden overflow-hidden transition-all duration-500 ease-out ${
-            isMenuOpen ? 'max-h-80 opacity-100 pb-6' : 'max-h-0 opacity-0'
+            isMenuOpen ? 'max-h-96 opacity-100 pb-6' : 'max-h-0 opacity-0'
           }`}
         >
           <div className="flex flex-col gap-1 pt-4 border-t border-[#f5f0e8]/10">
             {[
               { href: '/', label: 'Home' },
               { href: '/#restaurants', label: 'Restaurants' },
+              { href: '/blog', label: 'Blog' },
               { href: '/neighborhoods', label: 'Neighborhoods' },
               { href: '/about', label: 'About' },
               { href: '/contact', label: 'Contact' },
