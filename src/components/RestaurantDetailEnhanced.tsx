@@ -46,6 +46,18 @@ import wedgeTableData from '../../enriched-data/wedge-table-REAL-DATA.json';
 import wokInTheParkData from '../../enriched-data/wok-in-the-park-REAL-DATA.json';
 import toriRamenData from '../../enriched-data/tori-ramen-REAL-DATA.json';
 import redCowData from '../../enriched-data/red-cow-REAL-DATA.json';
+// Batch 4
+import blackSheepPizzaData from '../../enriched-data/black-sheep-pizza-REAL-DATA.json';
+import peninsulaMalaysianData from '../../enriched-data/peninsula-malaysian-REAL-DATA.json';
+import ngonVietnameseData from '../../enriched-data/ngon-vietnamese-REAL-DATA.json';
+import iphoSaigonData from '../../enriched-data/ipho-saigon-REAL-DATA.json';
+import worldStreetKitchenData from '../../enriched-data/world-street-kitchen-REAL-DATA.json';
+import gandhiMahalData from '../../enriched-data/gandhi-mahal-REAL-DATA.json';
+import galacticPizzaData from '../../enriched-data/galactic-pizza-REAL-DATA.json';
+import brasaPremiumRotisserieData from '../../enriched-data/brasa-premium-rotisserie-REAL-DATA.json';
+import cafeLatteData from '../../enriched-data/cafe-latte-REAL-DATA.json';
+import mayDayCafeData from '../../enriched-data/may-day-cafe-REAL-DATA.json';
+import saltyTartData from '../../enriched-data/salty-tart-REAL-DATA.json';
 
 // Map of restaurant slug to data
 const enhancedRestaurantData: Record<string, any> = {
@@ -84,6 +96,18 @@ const enhancedRestaurantData: Record<string, any> = {
   'wok-in-the-park': wokInTheParkData,
   'tori-ramen': toriRamenData,
   'red-cow': redCowData,
+  // Batch 4
+  'black-sheep-pizza': blackSheepPizzaData,
+  'peninsula-malaysian': peninsulaMalaysianData,
+  'ngon-vietnamese': ngonVietnameseData,
+  'ipho-saigon': iphoSaigonData,
+  'world-street-kitchen': worldStreetKitchenData,
+  'gandhi-mahal': gandhiMahalData,
+  'galactic-pizza': galacticPizzaData,
+  'brasa-premium-rotisserie': brasaPremiumRotisserieData,
+  'cafe-latte': cafeLatteData,
+  'may-day-cafe': mayDayCafeData,
+  'salty-tart': saltyTartData,
 };
 
 interface PlaceDetails {
