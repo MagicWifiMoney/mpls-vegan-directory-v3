@@ -1,3 +1,8 @@
+export interface FAQ {
+  question: string;
+  answer: string;
+}
+
 export interface BlogPost {
   slug: string;
   title: string;
@@ -9,6 +14,10 @@ export interface BlogPost {
   tags: string[];
   featuredImage?: string;
   readingTime: string;
+  tldr: string;
+  faqs: FAQ[];
+  relatedRestaurants: string[]; // slugs
+  relatedPosts: string[]; // slugs
   content: string;
 }
 
@@ -23,8 +32,33 @@ export const blogPosts: BlogPost[] = [
     category: "Guide",
     tags: ["vegan restaurants", "minneapolis", "plant-based", "dining guide"],
     readingTime: "12 min read",
+    tldr: "Minneapolis has 46+ incredible vegan dining options in 2026. Top picks: The Herbivorous Butcher (America's first vegan butcher shop), Lulu EthioVegan (4.9 stars—highest rated), J. Selby's (comfort food champion), Reverie Cafe (best for omnivore skeptics), and Hard Times Cafe (budget-friendly punk vibes). For date night, try Tongue in Cheek. Best brunch spots: Modern Times and Seward Cafe. Whether you want Ethiopian injera, Korean BBQ ribs made from plants, or a classic Juicy Lucy, Minneapolis delivers.",
+    faqs: [
+      {
+        question: "What is the best vegan restaurant in Minneapolis?",
+        answer: "The Herbivorous Butcher is widely considered the best vegan restaurant in Minneapolis, offering America's first vegan butcher shop experience with house-made meats and cheeses. For fine dining, Tongue in Cheek offers an exceptional vegan tasting menu. Lulu EthioVegan has the highest Google rating at 4.9 stars."
+      },
+      {
+        question: "How many vegan restaurants are in Minneapolis?",
+        answer: "Minneapolis has over 46 vegan and vegan-friendly restaurants as of 2026, including 15+ that are 100% vegan. The city has one of the strongest vegan food scenes in the Midwest."
+      },
+      {
+        question: "What are the best 100% vegan restaurants in Minneapolis?",
+        answer: "The top 100% vegan restaurants in Minneapolis are: The Herbivorous Butcher (vegan meats/cheeses), J. Selby's (comfort food), Reverie Cafe + Bar (creative cuisine), Lulu EthioVegan (Ethiopian), Hard Times Cafe (punk diner), and Francis Burger Joint (burgers)."
+      },
+      {
+        question: "Where can I find vegan Ethiopian food in Minneapolis?",
+        answer: "Lulu EthioVegan is Minneapolis's only 100% vegan Ethiopian restaurant and has the highest rating (4.9 stars) of any restaurant in our directory. Bole Ethiopian Cuisine in Saint Paul also offers excellent vegan options with traditional injera and veggie platters."
+      },
+      {
+        question: "Is Minneapolis a good city for vegans?",
+        answer: "Yes! Minneapolis is one of the best cities for vegans in the Midwest. It has diverse options from fine dining to casual cafes, strong community support through co-ops like the Wedge, and innovative spots like The Herbivorous Butcher that have gained national recognition."
+      }
+    ],
+    relatedRestaurants: ["herbivorous-butcher", "j-selbys", "lulu-ethiovegan", "reverie-cafe-bar", "hard-times-cafe", "tongue-in-cheek", "francis-burger-joint"],
+    relatedPosts: ["vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
     content: `
-# Best Vegan Restaurants in Minneapolis 2026: The Ultimate Guide
+## The Ultimate Minneapolis Vegan Restaurant Guide for 2026
 
 Let's cut the crap—finding good vegan food in Minneapolis used to feel like hunting for a needle in a haystack made entirely of bacon. But 2026? This city has absolutely *exploded* with plant-based options that'll make even your carnivore uncle shut up at Thanksgiving.
 
@@ -34,11 +68,11 @@ After spending an embarrassing amount of time (and money) eating my way through 
 
 These restaurants get it. No compromises, no cross-contamination anxiety, no asking "wait, is the bread vegan?"
 
-### 1. The Herbivorous Butcher ⭐ 4.8 (1,500+ reviews)
+### The Herbivorous Butcher ⭐ 4.8 (1,500+ reviews)
 
 **Northeast Minneapolis | $$**
 
-Look, I'll just say it: this is the best vegan butcher shop in the country. Yes, the *country*. Siblings Aubry and Kale Walch have been doing the impossible since 2016—making vegan meats that actually fool meat-eaters.
+Look, I'll just say it: [The Herbivorous Butcher](/restaurants/herbivorous-butcher) is the best vegan butcher shop in the country. Yes, the *country*. Siblings Aubry and Kale Walch have been doing the impossible since 2016—making vegan meats that actually fool meat-eaters.
 
 *"One of the best Italian Cold Cut Sandwiches that I've ever had, with such friendly and helpful staff"* — Amber Schlater
 
@@ -47,15 +81,15 @@ Look, I'll just say it: this is the best vegan butcher shop in the country. Yes,
 - Italian Cold Cut Sandwich ($17.49) — As seen on Diners, Drive-ins and Dives
 - Pastrami ($15.99/8oz) — "Top fan-favorite deeply seasoned with cracked pepper"
 
-**Pro tip:** Go on a weekday morning. Weekend lines are *brutal*, and popular items sell out.
+**Pro tip:** Go on a weekday morning. Weekend lines are *brutal*, and popular items sell out. If you're exploring the [Northeast Minneapolis vegan scene](/blog/northeast-minneapolis-vegan-guide), start here.
 
 ---
 
-### 2. J. Selby's ⭐ 4.7 (2,900+ reviews)
+### J. Selby's ⭐ 4.7 (2,900+ reviews)
 
 **St. Paul | $$**
 
-The OG of Twin Cities vegan comfort food. J. Selby's is where you bring your skeptical friends to prove that vegan food can be *indulgent*.
+The OG of Twin Cities vegan comfort food. [J. Selby's](/restaurants/j-selbys) is where you bring your skeptical friends to prove that vegan food can be *indulgent*.
 
 *"I've been to J. Selby's twice now, and both times were fantastic. The food, service, and atmosphere were all top-notch."* — Mansi Suresh
 
@@ -64,34 +98,36 @@ The OG of Twin Cities vegan comfort food. J. Selby's is where you bring your ske
 - Dirty Secret Burger — Signature item, messy in the best way
 - Carrot Cake — "Rich and delicious"
 
-**Insider tip:** They use Herbivorous Butcher products, so you're getting the best of both worlds. No parking lot though—street parking only.
+**Insider tip:** They use Herbivorous Butcher products, so you're getting the best of both worlds. No parking lot though—street parking only. This spot also made our [vegan brunch guide](/blog/vegan-brunch-minneapolis).
 
 ---
 
-### 3. Reverie Cafe + Bar ⭐ 4.7 (1,100+ reviews)
+### Reverie Cafe + Bar ⭐ 4.7 (1,100+ reviews)
 
 **South Minneapolis | $$**
 
 *"Best all vegan restaurant in MN. Mac and cheese? Bangs. Burger? Bangs. Cauliflower tacos? Bangs."* — Andrew Lewandowski
 
-This is the spot where you take your omnivore friends and watch them slowly realize they don't need meat to be happy.
+[Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) is the spot where you take your omnivore friends and watch them slowly realize they don't need meat to be happy.
 
 **Must-order:**
 - Mock Duck Korean BBQ Tacos — "Outstanding texture and flavor"
 - Mac and Cheese with Shiitake Bacon — "Mature and smokey"
 - Beignets — "Simply excellent"
 
-**Why it works:** The prices are actually reasonable, and unlike some vegan spots, you don't feel like you're paying a "vegan tax."
+**Why it works:** The prices are actually reasonable, and unlike some vegan spots, you don't feel like you're paying a "vegan tax." Perfect for a [casual vegan date night](/blog/vegan-date-night-minneapolis).
 
 ---
 
-### 4. Lulu EthioVegan ⭐ 4.9 (305 reviews)
+### Lulu EthioVegan ⭐ 4.9 (305 reviews)
 
 **Minneapolis | $$**
 
 The highest-rated restaurant on this entire list. 4.9 stars. Let that sink in.
 
 *"This restaurant is a must-visit for vegans and non-vegans! The food is incredible, the drinks are delicious, and the owner has an amazing memory."* — Ryn Marchese
+
+For a deep dive into why [Lulu EthioVegan](/restaurants/lulu-ethiovegan) and other spots shine, check out our complete [Ethiopian vegan food guide](/blog/ethiopian-vegan-food-minneapolis).
 
 **Must-order:**
 - Awaze Tibs — "Unique and highly recommended"
@@ -103,13 +139,15 @@ The highest-rated restaurant on this entire list. 4.9 stars. Let that sink in.
 
 ---
 
-### 5. Hard Times Cafe ⭐ 4.5 (500+ reviews)
+### Hard Times Cafe ⭐ 4.5 (500+ reviews)
 
 **Seward | $**
 
 Punk rock vibes, cash only, and some of the best vegan comfort food in the city at prices that won't destroy your wallet.
 
 *"No other vegan place in Minneapolis even came close to Hard Times Cafe."* — Fawn Armagost
+
+[Hard Times Cafe](/restaurants/hard-times-cafe) is a staple of the Minneapolis vegan scene and one of our top [brunch recommendations](/blog/vegan-brunch-minneapolis).
 
 **Must-order:**
 - Vegan Biscuits and Gravy — "So so good"
@@ -123,7 +161,7 @@ Punk rock vibes, cash only, and some of the best vegan comfort food in the city 
 
 ## Best for Date Night
 
-Planning to impress someone? These spots combine great food with atmosphere that doesn't scream "we're at a vegan restaurant."
+Planning to impress someone? These spots combine great food with atmosphere that doesn't scream "we're at a vegan restaurant." See our complete [vegan date night guide](/blog/vegan-date-night-minneapolis) for more options.
 
 ### Tongue in Cheek ⭐ 4.8 (500+ reviews)
 
@@ -131,7 +169,7 @@ Planning to impress someone? These spots combine great food with atmosphere that
 
 *"First, any review that is less than 5 stars for this establishment is just plain wrong."* — John Madison
 
-This isn't just a vegan restaurant—it's one of the best restaurants in the Twin Cities, period. The vegan options are phenomenal, and the cocktails are dangerously good.
+[Tongue in Cheek](/restaurants/tongue-in-cheek) isn't just a vegan restaurant—it's one of the best restaurants in the Twin Cities, period. The vegan options are phenomenal, and the cocktails are dangerously good.
 
 **Date night order:**
 - Vegasm (yes, that's really what it's called)
@@ -147,7 +185,7 @@ This isn't just a vegan restaurant—it's one of the best restaurants in the Twi
 
 *"These burgers are better than most meat burger joints I've been to."* — Jordan E-B
 
-The vibe is fun and casual, the burgers are legitimately incredible, and the Juicy Lucy will make you question everything you thought you knew about vegan cheese.
+[Francis Burger Joint](/restaurants/francis-burger-joint) brings fun, casual vibes with legitimately incredible vegan burgers and a fully vegan bar. Part of the vibrant [Northeast Minneapolis vegan scene](/blog/northeast-minneapolis-vegan-guide).
 
 **The move:**
 - Juicy Lucy — "Haven't stopped thinking about it"
@@ -158,13 +196,13 @@ The vibe is fun and casual, the burgers are legitimately incredible, and the Jui
 
 ## Best for Brunch
 
-Because sometimes you need greasy vegan food at 11am on a Sunday.
+Because sometimes you need greasy vegan food at 11am on a Sunday. For the complete breakdown, read our [vegan brunch guide](/blog/vegan-brunch-minneapolis).
 
 ### Seward Cafe ⭐ 4.6 (600+ reviews)
 
 **Seward | $**
 
-A worker-owned cooperative serving the neighborhood since 1974. The vegan options are extensive and the portions are massive.
+A worker-owned cooperative serving the neighborhood since 1974. [Seward Cafe](/restaurants/seward-cafe) has extensive vegan options and massive portions.
 
 *"Seward Cafe is simply the best! The food is great, and it's an excellent community space."* — Shannon Mahedy
 
@@ -182,7 +220,7 @@ A worker-owned cooperative serving the neighborhood since 1974. The vegan option
 
 *"This very well may be my favorite restaurant in Minneapolis!"* — Breanna Peltz
 
-Punk cafe vibes with progressive politics on the walls and incredible vegan brunch on the table.
+[Modern Times Cafe](/restaurants/modern-times) offers punk cafe vibes with progressive politics on the walls and incredible vegan brunch on the table.
 
 **What to get:**
 - Deadwood with Tempeh — "Literally salivating just thinking about it"
@@ -201,6 +239,8 @@ Fast, cheap, and the falafel slaps.
 
 *"Their falafel sandwich was genuinely some of the best falafel I have ever had and their fries were undoubtedly the best fries I have ever had."* — Ajay Krishnan
 
+[Afro Deli](/restaurants/afro-deli) combines African and Mediterranean flavors with excellent vegan options.
+
 ---
 
 ## Vegan-Friendly MVPs
@@ -211,24 +251,24 @@ These aren't 100% vegan, but they do vegan *well*.
 
 **Uptown | $$**
 
-Been doing organic and plant-based before it was cool. Great for groups with mixed dietary needs.
+[French Meadow](/restaurants/french-meadow) has been doing organic and plant-based before it was cool. Great for groups with mixed dietary needs and a top pick in our [brunch roundup](/blog/vegan-brunch-minneapolis).
 
 ### Bole Ethiopian ⭐ 4.8 (200+ reviews)
 
 **Maple Grove | $$**
 
-The veggie combo is "out of this world." Ethiopian food is naturally vegan-friendly, and Bole executes it perfectly.
+The veggie combo at [Bole Ethiopian](/restaurants/bole-ethiopian) is "out of this world." Ethiopian food is naturally vegan-friendly, and Bole executes it perfectly. Learn more in our [Ethiopian vegan food guide](/blog/ethiopian-vegan-food-minneapolis).
 
 ---
 
 ## The Bottom Line
 
-Minneapolis in 2026 is genuinely one of the best cities in the Midwest for vegan food. We've got everything from punk rock diners to upscale tasting menus, from Ethiopian injera to Korean BBQ ribs made entirely from plants.
+Minneapolis in 2026 is genuinely one of the best cities in the Midwest for vegan food. We've got everything from punk rock diners to upscale tasting menus, from [Ethiopian injera](/blog/ethiopian-vegan-food-minneapolis) to Korean BBQ ribs made entirely from plants.
 
 My personal top 3?
-1. **Herbivorous Butcher** — For changing the game entirely
-2. **Lulu EthioVegan** — For that 4.9 rating and pure heart
-3. **Hard Times Cafe** — For keeping it real and affordable
+1. **[Herbivorous Butcher](/restaurants/herbivorous-butcher)** — For changing the game entirely
+2. **[Lulu EthioVegan](/restaurants/lulu-ethiovegan)** — For that 4.9 rating and pure heart
+3. **[Hard Times Cafe](/restaurants/hard-times-cafe)** — For keeping it real and affordable
 
 Now stop reading and go eat. 🌱
     `
@@ -243,8 +283,33 @@ Now stop reading and go eat. 🌱
     category: "Guide",
     tags: ["vegan brunch", "minneapolis", "breakfast", "weekend"],
     readingTime: "10 min read",
+    tldr: "Best vegan brunch in Minneapolis: J. Selby's for indulgent comfort food, Hard Times Cafe for punk vibes and the best biscuits & gravy (cash only!), Seward Cafe for worker-owned community vibes, Modern Times for greasy spoon hangover cures, and French Meadow when you want a full bar with your pancakes. Pro tip: arrive right at opening for Modern Times and Hard Times—they fill up fast.",
+    faqs: [
+      {
+        question: "Where can I get vegan brunch in Minneapolis?",
+        answer: "The best vegan brunch spots in Minneapolis are J. Selby's (St. Paul), Hard Times Cafe (Seward), Seward Cafe, Modern Times Cafe (Powderhorn), and French Meadow Bakery (Uptown). All offer extensive vegan menus with dishes like tofu scrambles, vegan biscuits and gravy, and pancakes."
+      },
+      {
+        question: "What Minneapolis restaurant has the best vegan biscuits and gravy?",
+        answer: "Hard Times Cafe and Seward Cafe are both famous for their vegan biscuits and gravy. Hard Times uses a rich mushroom gravy that locals say is 'good enough to take home.' Both are affordable, cash-friendly options."
+      },
+      {
+        question: "Does J. Selby's serve vegan brunch?",
+        answer: "Yes! J. Selby's is 100% vegan and serves brunch including a breakfast burger, cauliflower wings, Animal Fries, and a Crunchwrap. They also offer bottomless mimosas and feature products from The Herbivorous Butcher."
+      },
+      {
+        question: "Are there any vegan brunch spots with outdoor seating?",
+        answer: "Seward Cafe has a lovely garden patio perfect for summer brunch. French Meadow also offers outdoor seating and has the bonus of a free, shaded parking lot—a rarity in Minneapolis."
+      },
+      {
+        question: "What time should I arrive for vegan brunch in Minneapolis?",
+        answer: "For popular spots like Modern Times Cafe and Hard Times Cafe, arrive right when they open. These places fill up fast, especially on weekends. J. Selby's and Seward Cafe tend to have shorter waits but can still get busy by late morning."
+      }
+    ],
+    relatedRestaurants: ["j-selbys", "hard-times-cafe", "seward-cafe", "modern-times", "french-meadow"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
     content: `
-# Vegan Brunch Minneapolis: The Complete Guide to Weekend Feasting
+## Your Complete Guide to Vegan Brunch in Minneapolis
 
 Listen, I get it. It's Saturday morning, you're slightly hungover (or completely hungover, no judgment), and you need carbs, grease, and caffeine in that exact order. The problem? Half of Minneapolis' brunch spots think "vegan option" means a sad fruit cup and dry toast.
 
@@ -260,7 +325,7 @@ I've spent way too many weekend mornings scouting the perfect vegan brunch spots
 
 *"The breakfast burger is my number one choice every time."* — K G
 
-J. Selby's is what happens when someone actually understands that vegans want *brunch food*, not health food. This is greasy, indulgent, "I might need a nap after this" territory.
+[J. Selby's](/restaurants/j-selbys) is what happens when someone actually understands that vegans want *brunch food*, not health food. This is greasy, indulgent, "I might need a nap after this" territory. It's a top pick in our [complete Minneapolis vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026).
 
 **The Order:**
 - **Cauliflower Wings** — Start here. The ranch dipping sauce is so good people ask for extra to-go.
@@ -273,7 +338,7 @@ J. Selby's is what happens when someone actually understands that vegans want *b
 
 **Real talk:** They don't have a parking lot, so plan for street parking. Weekends can get busy, but it's worth the wait.
 
-**Insider tip:** They use products from Herbivorous Butcher, so the "bacon" actually tastes like bacon.
+**Insider tip:** They use products from [Herbivorous Butcher](/restaurants/herbivorous-butcher), so the "bacon" actually tastes like bacon.
 
 ---
 
@@ -281,7 +346,7 @@ J. Selby's is what happens when someone actually understands that vegans want *b
 
 **Seward | $ | ⭐ 4.6 (600+ reviews)**
 
-A worker-owned cooperative that's been feeding the neighborhood since 1974. The vibe is eclectic (think community bulletin boards and local art), and almost everything can be made vegan.
+A worker-owned cooperative that's been feeding the neighborhood since 1974. [Seward Cafe](/restaurants/seward-cafe) has an eclectic vibe (think community bulletin boards and local art), and almost everything can be made vegan.
 
 *"This has always been a favorite place because they have vegan biscuits and gravy on the menu."* — Alane Klein
 
@@ -306,6 +371,8 @@ Cash only. Anarchist posters on the walls. Some of the best vegan biscuits and g
 
 *"Classic diner food and vibes but vegetarian and vegan-ified."* — Mariah Mckenzie
 
+[Hard Times Cafe](/restaurants/hard-times-cafe) is a beloved institution and one of the [best vegan restaurants in Minneapolis](/blog/best-vegan-restaurants-minneapolis-2026).
+
 **The Order:**
 - **Vegan Biscuits and Gravy** — "A half order is plenty! The mushroom gravy is good enough to take home"
 - **Helter Skelter** — Their signature scramble with all the veggies
@@ -321,11 +388,13 @@ Cash only. Anarchist posters on the walls. Some of the best vegan biscuits and g
 
 ### Modern Times Cafe — The Uptown Favorite
 
-**Uptown | $ | ⭐ 4.7 (400+ reviews)**
+**Powderhorn | $ | ⭐ 4.7 (400+ reviews)**
 
 Progressive politics, killer tempeh, and the kind of greasy spoon vibes that make a hangover feel manageable.
 
 *"Punk cafes 4 ever! Love all the vegan options while still fulfilling my greasy spoon cravings."* — Emily Mills
+
+[Modern Times Cafe](/restaurants/modern-times) is perfect for when you need comfort food with a side of community.
 
 **The Order:**
 - **Deadwood with Tempeh** — "Literally salivating just thinking about it"
@@ -344,7 +413,7 @@ Progressive politics, killer tempeh, and the kind of greasy spoon vibes that mak
 
 **Uptown | $$ | ⭐ 4.5 (1,000+ reviews)**
 
-When you're brunching with a mixed group (vegans, vegetarians, and the uninitiated), French Meadow is your diplomatic choice. They've been doing organic and plant-based before it was trendy.
+When you're brunching with a mixed group (vegans, vegetarians, and the uninitiated), [French Meadow](/restaurants/french-meadow) is your diplomatic choice. They've been doing organic and plant-based before it was trendy.
 
 *"Great restaurant with a ton of options. They have many vegan and vegetarian items which makes it super easy to eat there as a vegan."* — Nick Koons
 
@@ -378,11 +447,11 @@ Here's what I've learned after too many weekend mornings staring at wait lists:
 
 ## The Real Talk Section
 
-**Best vegan biscuits and gravy:** Hard Times or Seward, honestly it's a toss-up and I refuse to choose
+**Best vegan biscuits and gravy:** [Hard Times](/restaurants/hard-times-cafe) or [Seward](/restaurants/seward-cafe), honestly it's a toss-up and I refuse to choose
 
-**Best for hangovers:** Modern Times. Something about those greasy spoon vibes and progressive politics just hits different when you're feeling rough
+**Best for hangovers:** [Modern Times](/restaurants/modern-times). Something about those greasy spoon vibes and progressive politics just hits different when you're feeling rough
 
-**Best for impressing someone:** French Meadow or J. Selby's. More polished, still delicious
+**Best for impressing someone:** [French Meadow](/restaurants/french-meadow) or [J. Selby's](/restaurants/j-selbys). More polished, still delicious. For actual date ideas, check our [vegan date night guide](/blog/vegan-date-night-minneapolis).
 
 **Best value:** Hard Times. Cheap, filling, excellent. Cash only though.
 
@@ -409,6 +478,8 @@ Look, I'm not going to pretend I don't have favorites. My typical Sunday rotatio
 - **Taking out-of-towners:** J. Selby's—it shuts up the "vegan food is boring" crowd real quick
 - **Just vibing:** Seward Cafe garden, Monster Mash, people watching
 
+For more comprehensive options beyond brunch, browse our [complete Minneapolis vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026) or plan a [Northeast Minneapolis vegan tour](/blog/northeast-minneapolis-vegan-guide).
+
 Now go forth and brunch. 🥞🌱
     `
   },
@@ -422,8 +493,33 @@ Now go forth and brunch. 🥞🌱
     category: "Date Ideas",
     tags: ["date night", "romantic", "vegan", "minneapolis", "dinner"],
     readingTime: "8 min read",
+    tldr: "Best vegan date night spots in Minneapolis: Tongue in Cheek (upscale tasting menu, best cocktails), Reverie Cafe + Bar (100% vegan, casual-but-impressive), Francis Burger Joint (fun burgers + fully vegan bar in NE), and Masu Sushi for fancy Japanese. For first dates, try Reverie (no-tipping = no awkward bill moment). For \"I really like you\" dates, book Tongue in Cheek.",
+    faqs: [
+      {
+        question: "What is the best vegan restaurant for a date in Minneapolis?",
+        answer: "Tongue in Cheek in East St. Paul is the top choice for vegan date night. It offers a six-course vegetarian tasting menu (fully vegan available), exceptional cocktails, and an intimate atmosphere. For a more casual date, Reverie Cafe + Bar or Francis Burger Joint are excellent choices."
+      },
+      {
+        question: "Are there any upscale vegan restaurants in Minneapolis?",
+        answer: "Yes! Tongue in Cheek offers fine dining with vegan tasting menus. Masu Sushi & Robata provides upscale Japanese with excellent vegetable options. For special occasions, these two restaurants offer the most sophisticated vegan dining experiences in the Twin Cities."
+      },
+      {
+        question: "Where can I take a non-vegan on a date in Minneapolis?",
+        answer: "Reverie Cafe + Bar is perfect for converting skeptics—everything is 100% vegan but doesn't taste like 'health food.' Tongue in Cheek also works well because the food is so exceptional that dietary preferences become irrelevant."
+      },
+      {
+        question: "What vegan restaurants in Minneapolis have full bars?",
+        answer: "Francis Burger Joint has a fully vegan bar program (no animal-derived ingredients in any drinks). Tongue in Cheek offers craft cocktails including the legendary Cross-Eyed Mary. Reverie Cafe + Bar has 20 craft beers on tap."
+      },
+      {
+        question: "Is there good vegan sushi in Minneapolis?",
+        answer: "Masu Sushi & Robata offers excellent vegan sushi options including vegetable rolls and robata-grilled vegetables. While not 100% vegan, their plant-based options are thoughtfully prepared and the upscale atmosphere makes it perfect for date night."
+      }
+    ],
+    relatedRestaurants: ["tongue-in-cheek", "reverie-cafe-bar", "francis-burger-joint", "masu-sushi", "herbivorous-butcher"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
     content: `
-# Vegan Date Night Minneapolis: Where to Take Someone You Actually Like
+## The Ultimate Guide to Vegan Date Night in Minneapolis
 
 So you've got a date. Congrats. And either you're vegan, they're vegan, or you both are (jackpot). The problem? Most "romantic restaurant" lists assume you're cool with a menu that's 90% meat with a token portobello mushroom entrée hiding at the bottom.
 
@@ -441,7 +537,7 @@ These are spots where the vegan options are *actually good*, the atmosphere does
 
 *"First, any review that is less than 5 stars for this establishment is just plain wrong."* — John Madison
 
-Let me be clear: this is probably the best restaurant in the Twin Cities for a vegan date night. It's not 100% vegan, but the vegan options are so thoughtfully executed that you'll forget to be jealous of whatever your date is eating.
+Let me be clear: [Tongue in Cheek](/restaurants/tongue-in-cheek) is probably the best restaurant in the Twin Cities for a vegan date night. It's not 100% vegan, but the vegan options are so thoughtfully executed that you'll forget to be jealous of whatever your date is eating.
 
 **The Vibe:** Upscale but not stuffy. Quirky art on the walls. The kind of place where you feel sophisticated without pretending to be someone you're not.
 
@@ -453,7 +549,7 @@ Let me be clear: this is probably the best restaurant in the Twin Cities for a v
 
 *"One of my fav restaurants in MN. Wonderful service and staff as well. Dining here can turn the worst of days around."* — Hollie Chase
 
-**Pricing:** Expect ~$60-80/person with drinks. Worth it.
+**Pricing:** Expect ~$60-80/person with drinks. Worth it. This restaurant is also featured in our [best vegan restaurants guide](/blog/best-vegan-restaurants-minneapolis-2026).
 
 ---
 
@@ -463,7 +559,7 @@ Let me be clear: this is probably the best restaurant in the Twin Cities for a v
 
 *"This is probably the only all vegan restaurant I could safely take an omnivore to and them not think it sucks."* — Andrew Lewandowski
 
-If your date is skeptical about vegan food, Reverie is your secret weapon. Everything is 100% vegan, but it doesn't taste like it's *trying* to be healthy. It just tastes good.
+If your date is skeptical about vegan food, [Reverie](/restaurants/reverie-cafe-bar) is your secret weapon. Everything is 100% vegan, but it doesn't taste like it's *trying* to be healthy. It just tastes good.
 
 **The Vibe:** Bright, artsy, casual but intentional. Not as fancy as Tongue in Cheek, but perfect for a second or third date when you want good food without the pressure.
 
@@ -485,7 +581,7 @@ If your date is skeptical about vegan food, Reverie is your secret weapon. Every
 
 *"These burgers are better than most meat burger joints I've been to."* — Jordan E-B
 
-For when you want a date that's fun, casual, and involves the best vegan burgers in the city.
+For when you want a date that's fun, casual, and involves the best vegan burgers in the city. [Francis Burger Joint](/restaurants/francis-burger-joint) is part of the vibrant [Northeast Minneapolis vegan scene](/blog/northeast-minneapolis-vegan-guide).
 
 **The Vibe:** Cool, casual Northeast spot with murals, good music, and zero pretension. Perfect for a "let's just hang and see where this goes" vibe.
 
@@ -508,7 +604,7 @@ For when you want a date that's fun, casual, and involves the best vegan burgers
 
 **Northeast Minneapolis | $$$ | ⭐ 4.6**
 
-Not 100% vegan, but the vegan sushi options here are *excellent*, and the atmosphere is unmistakably date night material.
+Not 100% vegan, but the vegan sushi options at [Masu](/restaurants/masu-sushi) are *excellent*, and the atmosphere is unmistakably date night material.
 
 **The Vibe:** Moody lighting, beautiful presentation, the kind of place where you feel like you're in a movie.
 
@@ -528,16 +624,16 @@ Not 100% vegan, but the vegan sushi options here are *excellent*, and the atmosp
 
 **Northeast Minneapolis | $$ | ⭐ 4.8**
 
-*"We had the pleasure of having our evening meal catered by Reverie [sic—they mean Herbivorous]. It was hands down the best meal we've had all week."* — Liz Fathman
+*"We had the pleasure of having our evening meal catered by Herbivorous Butcher. It was hands down the best meal we've had all week."* — Liz Fathman
 
-Wait, hear me out. It's a butcher shop, but they have seating and ready-to-eat sandwiches. For a casual daytime date, nothing says "I know cool stuff" like taking someone to America's first vegan butcher shop.
+Wait, hear me out. It's a butcher shop, but [The Herbivorous Butcher](/restaurants/herbivorous-butcher) has seating and ready-to-eat sandwiches. For a casual daytime date, nothing says "I know cool stuff" like taking someone to America's first vegan butcher shop.
 
 **The Move:**
 - **Italian Cold Cut Sandwich** — "Amazing"
 - **Hot Bacon Brat with Cheese** — Share this
 - Split some meats and cheeses to take home
 
-**Why it works:** It's different, memorable, and you'll have leftovers for a late-night snack if the date goes well.
+**Why it works:** It's different, memorable, and you'll have leftovers for a late-night snack if the date goes well. Check out our full [Northeast Minneapolis vegan guide](/blog/northeast-minneapolis-vegan-guide) for more spots in the area.
 
 ---
 
@@ -549,10 +645,10 @@ Here's my recommended progression for a perfect date night:
 1. Drinks at Tongue in Cheek → Dinner at Tongue in Cheek → Walk along the river
 
 **Option B: The NE Minneapolis Tour**
-1. Early dinner at Francis Burger Joint → Drinks at a nearby NE brewery → Stop by Herbivorous Butcher if they're open
+1. Early dinner at [Francis Burger Joint](/restaurants/francis-burger-joint) → Drinks at a nearby NE brewery → Stop by [Herbivorous Butcher](/restaurants/herbivorous-butcher) if they're open
 
 **Option C: The South Minneapolis Chill**
-1. Dinner at Reverie → Walk around Lake Harriet or Bde Maka Ska → Ice cream (if any vegan spots are open)
+1. Dinner at [Reverie](/restaurants/reverie-cafe-bar) → Walk around Lake Harriet or Bde Maka Ska → Ice cream (if any vegan spots are open)
 
 ---
 
@@ -560,11 +656,11 @@ Here's my recommended progression for a perfect date night:
 
 | Situation | Go Here | Why |
 |-----------|---------|-----|
-| First date | Reverie | Casual, no pressure, easy to split |
-| Impressive second date | Tongue in Cheek | The food speaks for itself |
-| Fun and casual | Francis Burger Joint | Burgers + milkshakes = success |
-| Special occasion | Masu | Fancy vibes, great sushi |
-| Weekend daytime date | Herbivorous Butcher | Unique, memorable, delicious |
+| First date | [Reverie](/restaurants/reverie-cafe-bar) | Casual, no pressure, easy to split |
+| Impressive second date | [Tongue in Cheek](/restaurants/tongue-in-cheek) | The food speaks for itself |
+| Fun and casual | [Francis](/restaurants/francis-burger-joint) | Burgers + milkshakes = success |
+| Special occasion | [Masu](/restaurants/masu-sushi) | Fancy vibes, great sushi |
+| Weekend daytime date | [Herbivorous Butcher](/restaurants/herbivorous-butcher) | Unique, memorable, delicious |
 
 ---
 
@@ -584,6 +680,8 @@ If you're looking for fancy white tablecloth fine dining that's 100% vegan... Mi
 
 The best date isn't about the fanciest restaurant anyway. It's about good food, good conversation, and not having to explain to a waiter what "plant-based" means for the fifteenth time.
 
+For more options, check out our [complete Minneapolis vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026) or plan a [vegan brunch date](/blog/vegan-brunch-minneapolis).
+
 Happy dating. 🌱💚
     `
   },
@@ -597,8 +695,33 @@ Happy dating. 🌱💚
     category: "Neighborhood Guide",
     tags: ["northeast", "walking tour", "vegan", "minneapolis", "neighborhood"],
     readingTime: "9 min read",
+    tldr: "Northeast Minneapolis is the best neighborhood for vegan food in MPLS. Must-hit spots: The Herbivorous Butcher (America's first vegan butcher—start here!), Francis Burger Joint (incredible Juicy Lucy and fully vegan bar), and Masu Sushi for upscale veggie rolls. The whole tour is walkable, and you can hit breweries between stops. Best strategy: arrive at Herbivorous Butcher in the morning (weekend lines are brutal), lunch at Francis, brewery break, then Masu for dinner.",
+    faqs: [
+      {
+        question: "What vegan restaurants are in Northeast Minneapolis?",
+        answer: "Northeast Minneapolis has several excellent vegan options: The Herbivorous Butcher (America's first vegan butcher shop), Francis Burger Joint (100% vegan burgers and bar), Masu Sushi & Robata (upscale Japanese with vegan options), and Brasa Premium Rotisserie (exceptional vegetable sides)."
+      },
+      {
+        question: "Is The Herbivorous Butcher worth visiting?",
+        answer: "Absolutely! The Herbivorous Butcher is America's first vegan butcher shop and offers house-made vegan meats and cheeses that have fooled countless meat-eaters. The Korean BBQ Ribs and Italian Cold Cut sandwich are must-tries. Go on weekday mornings to avoid lines."
+      },
+      {
+        question: "Can I walk between vegan restaurants in Northeast Minneapolis?",
+        answer: "Yes! NE Minneapolis is very walkable. The Herbivorous Butcher, Francis Burger Joint, and Masu are all within reasonable walking distance of each other, making it perfect for a vegan food tour."
+      },
+      {
+        question: "Are there vegan options at Northeast Minneapolis breweries?",
+        answer: "Most NE breweries don't have their own food but allow outside food. Grab takeout from Herbivorous Butcher or Francis and bring it to Indeed Brewing, Bauhaus Brew Labs, or Dangerous Man Brewing for a perfect pairing."
+      },
+      {
+        question: "What's the best time to visit Herbivorous Butcher?",
+        answer: "Weekday mornings or early afternoons are best. Weekend lines can stretch out the door, and popular items like Korean BBQ Ribs and certain cheeses sell out. Call ahead if you need something specific."
+      }
+    ],
+    relatedRestaurants: ["herbivorous-butcher", "francis-burger-joint", "masu-sushi", "brasa-premium-rotisserie"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-brunch-minneapolis", "ethiopian-vegan-food-minneapolis"],
     content: `
-# Northeast Minneapolis Vegan Guide: A Walking Tour of NE's Best Plant-Based Spots
+## A Walking Tour of Northeast Minneapolis' Best Vegan Spots
 
 Northeast Minneapolis is where Minneapolis gets weird in the best way. Old warehouses turned into breweries, artists' studios next to meat markets, and somehow—right in the middle of it all—the best vegan food scene in the city.
 
@@ -612,7 +735,7 @@ This is your complete guide to eating vegan in NE, organized as a walking tour f
 
 Start here. You have to.
 
-This is America's first vegan butcher shop, and if you haven't been, you're missing out on one of the most innovative food concepts in the country. Siblings Aubry and Kale Walch opened this place in 2016, and they've been quietly changing minds about what vegan meat can be ever since.
+[The Herbivorous Butcher](/restaurants/herbivorous-butcher) is America's first vegan butcher shop, and if you haven't been, you're missing out on one of the most innovative food concepts in the country. Siblings Aubry and Kale Walch opened this place in 2016, and they've been quietly changing minds about what vegan meat can be ever since.
 
 *"Fake meat never tasted this good."* — Actual review
 
@@ -649,47 +772,23 @@ Don't sleep on the deli counter. These are some of the best sandwiches in the ci
 
 *"I ordered so much stuff including a steak, pepperoni, jerky and deli meat and I was shocked to find out the total was only $48."* — Philip
 
----
-
-## Walk: Herbivorous Butcher → Crepe & Spoon (0.3 mi, 6 min)
-
-Head south on 1st Ave, cross the railroad tracks. You're in the heart of NE now.
+This spot is also featured in our [best Minneapolis vegan restaurants guide](/blog/best-vegan-restaurants-minneapolis-2026) and makes a great [unique date idea](/blog/vegan-date-night-minneapolis).
 
 ---
 
-## Stop 2: Crepe & Spoon
+## Walk: Herbivorous Butcher → Francis Burger Joint (0.8 mi, 15 min)
 
-**401 13th Ave NE**
-
-**Editor's Note:** Crepe & Spoon closed in 2023. We're keeping this entry because (1) they were legendary and (2) we're hoping for a comeback. Skip to Francis if you're walking the tour today.
-
-If they ever reopen, here's what you need to know:
-
-*"This is the best and most excellent ice cream in the MSP area."* — Tigra
-
-They made their vegan ice cream fresh on-site with an almond and cashew base. The flavors rotated constantly and included hits like:
-- Cookie Monster (blue lips included)
-- Lemon Bar
-- Ube
-- Rose Water Cardamom
-
-The crepes were equally legendary—including a ham and cheese made with Herbivorous Butcher products.
+Head north on Central Ave through the heart of NE. Grab a coffee if you need it.
 
 ---
 
-## Walk: (Former) Crepe & Spoon → Francis Burger Joint (0.5 mi, 10 min)
-
-Continue south through the neighborhood. Grab a coffee if you need it.
-
----
-
-## Stop 3: Francis Burger Joint
+## Stop 2: Francis Burger Joint
 
 **2318 Central Ave NE | $$ | ⭐ 4.7**
 
 *"Delightful food options for a vegetarian feeling oppressed by America's meat-forward culture. Honestly some of the best burgers I've ever eaten."* — Davi Gray
 
-Francis is everything a vegan burger joint should be: the burgers are legitimately better than most meat spots, the vibe is fun, and the milkshakes actually taste like milkshakes.
+[Francis](/restaurants/francis-burger-joint) is everything a vegan burger joint should be: the burgers are legitimately better than most meat spots, the vibe is fun, and the milkshakes actually taste like milkshakes.
 
 ### The Must-Orders
 
@@ -709,19 +808,21 @@ Cool murals, good music, a crowd that's half art school kids and half neighborho
 
 *"I go to Francis way more often than I reasonably should."* — Brandon Sullivan
 
----
-
-## Walk: Francis → Masu (0.4 mi, 8 min)
-
-Head back north on Central Ave toward the main NE corridor.
+Francis is perfect for a casual [vegan date night](/blog/vegan-date-night-minneapolis).
 
 ---
 
-## Stop 4: Masu Sushi & Robata
+## Walk: Francis → Masu (0.6 mi, 12 min)
+
+Head south back toward Hennepin Ave.
+
+---
+
+## Stop 3: Masu Sushi & Robata
 
 **330 E Hennepin Ave | $$$**
 
-Not 100% vegan, but excellent vegan options and the fanciest stop on this tour.
+Not 100% vegan, but [Masu](/restaurants/masu-sushi) has excellent vegan options and is the fanciest stop on this tour.
 
 **What to get:**
 - Vegetable rolls (several options)
@@ -729,7 +830,7 @@ Not 100% vegan, but excellent vegan options and the fanciest stop on this tour.
 - Edamame
 - Ask your server for recommendations
 
-The charcoal robata grill adds a smoky depth that works beautifully with vegetables. The atmosphere is moody and intimate—this is where you end the day if you're on a date.
+The charcoal robata grill adds a smoky depth that works beautifully with vegetables. The atmosphere is moody and intimate—this is where you end the day if you're on a date. See our [vegan date night guide](/blog/vegan-date-night-minneapolis) for more romantic options.
 
 ---
 
@@ -741,7 +842,7 @@ NE Minneapolis is walkable, bikeable, and absolutely packed with breweries if yo
 - **Bauhaus Brew Labs** — The building alone is worth seeing
 - **Dangerous Man Brewing** — Small, cash only, excellent
 
-Most NE breweries don't have food, so grab takeout from Herbivorous Butcher or Francis and bring it with you.
+Most NE breweries don't have food, so grab takeout from [Herbivorous Butcher](/restaurants/herbivorous-butcher) or [Francis](/restaurants/francis-burger-joint) and bring it with you.
 
 ---
 
@@ -766,10 +867,10 @@ Most NE breweries don't have food, so grab takeout from Herbivorous Butcher or F
 
 | Time | Stop | What to Get |
 |------|------|-------------|
-| 10am | Herbivorous Butcher | Italian Cold Cut, meats/cheeses to take home |
-| 12pm | Francis Burger Joint | Juicy Lucy, fries, milkshake |
+| 10am | [Herbivorous Butcher](/restaurants/herbivorous-butcher) | Italian Cold Cut, meats/cheeses to take home |
+| 12pm | [Francis Burger Joint](/restaurants/francis-burger-joint) | Juicy Lucy, fries, milkshake |
 | 3pm | Brewery break | Indeed or Bauhaus |
-| 6pm | Masu | Robata vegetables, veggie rolls, sake |
+| 6pm | [Masu](/restaurants/masu-sushi) | Robata vegetables, veggie rolls, sake |
 
 ---
 
@@ -798,6 +899,8 @@ The artists and weirdos who made NE cool also made it accepting. Nobody bats an 
 
 This neighborhood is proof that vegan food doesn't have to exist in its own little bubble. It can be right there next to the breweries and art studios and dive bars, just being part of the neighborhood.
 
+For the complete citywide perspective, check our [best Minneapolis vegan restaurants guide](/blog/best-vegan-restaurants-minneapolis-2026), or if you're craving something specific, try our [Ethiopian vegan food guide](/blog/ethiopian-vegan-food-minneapolis).
+
 Now go explore. 🌱
     `
   },
@@ -811,8 +914,33 @@ Now go explore. 🌱
     category: "Cuisine Guide",
     tags: ["ethiopian", "vegan", "minneapolis", "injera", "african cuisine"],
     readingTime: "8 min read",
+    tldr: "Ethiopian food is a vegan paradise—centuries of plant-based fasting traditions mean extensive, well-developed vegan menus. Best spots: Lulu EthioVegan (4.9 stars, 100% vegan, highest-rated restaurant in our directory), Bole Ethiopian (Maple Grove, exceptional veggie sampler), and Afro Deli (quick lunch, amazing falafel). Order the veggie combo/sampler at any Ethiopian restaurant—it's always the best value and lets you try everything.",
+    faqs: [
+      {
+        question: "Why is Ethiopian food good for vegans?",
+        answer: "Ethiopian Orthodox Christians observe numerous fasting days (Wednesdays, Fridays, plus extended periods) where only plant-based foods are eaten. This means Ethiopian restaurants have extensive, well-developed vegan menus that aren't afterthoughts—they're traditional recipes perfected over generations."
+      },
+      {
+        question: "What is the best vegan Ethiopian restaurant in Minneapolis?",
+        answer: "Lulu EthioVegan is the best—it's 100% vegan and has the highest Google rating (4.9 stars) of any restaurant in our directory. The owner Lulu creates authentic Ethiopian dishes using only plant-based ingredients, including a rare vegan baklava."
+      },
+      {
+        question: "What should I order at an Ethiopian restaurant as a vegan?",
+        answer: "Order the veggie combo or veggie sampler—it's always the best value and includes 4-6 different dishes like misir wot (red lentil stew), gomen (collard greens), shiro (chickpea stew), and more. Everything comes on injera bread, which you use as your utensil."
+      },
+      {
+        question: "What is injera and is it vegan?",
+        answer: "Injera is a spongy, slightly sour flatbread made from teff flour. It's naturally vegan and often gluten-free (when made with 100% teff). It serves as both the plate and the utensil—you tear off pieces and use them to scoop up food."
+      },
+      {
+        question: "How do you eat Ethiopian food?",
+        answer: "Ethiopian food is eaten with your hands. Tear off a piece of injera, use it to scoop up some of the food, and fold it slightly before eating. Traditionally, you use your right hand. It's a communal experience—order a sampler and eat from the same platter."
+      }
+    ],
+    relatedRestaurants: ["lulu-ethiovegan", "bole-ethiopian", "afro-deli"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide"],
     content: `
-# Ethiopian Vegan Food Minneapolis: A Complete Guide to Injera and Beyond
+## A Complete Guide to Ethiopian Vegan Food in Minneapolis
 
 Here's a secret that vegans who've lived in Minneapolis for a while already know: Ethiopian food is *incredible* for plant-based eating. It's not an afterthought or a modification—Ethiopian cuisine has been doing vegan feasts for centuries, long before it was trendy.
 
@@ -858,15 +986,15 @@ Most Ethiopian restaurants offer a "veggie combo" or "veggie sampler." This is u
 
 ## The Best Ethiopian Vegan Restaurants in Minneapolis
 
-### 1. Lulu EthioVegan ⭐ 4.9 (305 reviews)
+### Lulu EthioVegan ⭐ 4.9 (305 reviews)
 
 **Minneapolis | $$ | 100% VEGAN**
 
-This is it. The highest-rated restaurant on our entire directory. 4.9 stars. All vegan.
+This is it. The highest-rated restaurant on our entire [Minneapolis vegan directory](/blog/best-vegan-restaurants-minneapolis-2026). 4.9 stars. All vegan.
 
 *"Minneapolis has many options for Ethiopian food, and Lulu is the best of them all."* — Matthew Racchini
 
-Lulu isn't just vegan Ethiopian food—it's one of the best vegan restaurants in the city, period. Owner Lulu and her family run the place with genuine warmth, and the food is consistently incredible.
+[Lulu EthioVegan](/restaurants/lulu-ethiovegan) isn't just vegan Ethiopian food—it's one of the best vegan restaurants in the city, period. Owner Lulu and her family run the place with genuine warmth, and the food is consistently incredible.
 
 **What to Order:**
 - **Veggie Sampler** — "Cannot believe how much amazing food I got for $20"
@@ -883,11 +1011,11 @@ Lulu isn't just vegan Ethiopian food—it's one of the best vegan restaurants in
 
 ---
 
-### 2. Bole Ethiopian ⭐ 4.8 (200+ reviews)
+### Bole Ethiopian ⭐ 4.8 (200+ reviews)
 
 **Maple Grove | $$**
 
-Not 100% vegan, but the vegetarian/vegan options are outstanding. This is the spot if you're in the northwest suburbs.
+Not 100% vegan, but the vegetarian/vegan options at [Bole Ethiopian](/restaurants/bole-ethiopian) are outstanding. This is the spot if you're in the northwest suburbs.
 
 *"Some of the best Ethiopian food in the Twin Cities. Everything is so flavorful."* — Andrew Zay
 
@@ -901,15 +1029,15 @@ Not 100% vegan, but the vegetarian/vegan options are outstanding. This is the sp
 
 *"We ordered the Tokkumaa to share and were absolutely amazed and shocked at the amount, presentation, and quality of the food."* — Blue
 
-**The Vibe:** Warm decor, great music, feels like a special occasion.
+**The Vibe:** Warm decor, great music, feels like a special occasion. Perfect for a [vegan date night](/blog/vegan-date-night-minneapolis).
 
 ---
 
-### 3. Afro Deli ⭐ 4.5 (800+ reviews)
+### Afro Deli ⭐ 4.5 (800+ reviews)
 
 **Stadium Village + Downtown Skyway | $**
 
-Afro Deli is Somali rather than Ethiopian, but it shares the East African flavor profiles and has excellent vegan options. It's also fast, cheap, and perfect for a quick lunch.
+[Afro Deli](/restaurants/afro-deli) is Somali rather than Ethiopian, but it shares the East African flavor profiles and has excellent vegan options. It's also fast, cheap, and perfect for a quick lunch.
 
 *"Their falafel sandwich was genuinely some of the best falafel I have ever had and their fries were undoubtedly the best fries I have ever had."* — Ajay Krishnan
 
@@ -953,12 +1081,12 @@ This isn't like Western "vegan options"—it's a deeply integrated part of the c
 
 | Situation | Go Here |
 |-----------|---------|
-| First Ethiopian experience | Lulu EthioVegan |
-| In the suburbs | Bole Ethiopian |
-| Quick lunch downtown | Afro Deli |
-| 100% vegan requirement | Lulu EthioVegan |
-| Date night | Bole Ethiopian |
-| Budget meal | Afro Deli |
+| First Ethiopian experience | [Lulu EthioVegan](/restaurants/lulu-ethiovegan) |
+| In the suburbs | [Bole Ethiopian](/restaurants/bole-ethiopian) |
+| Quick lunch downtown | [Afro Deli](/restaurants/afro-deli) |
+| 100% vegan requirement | [Lulu EthioVegan](/restaurants/lulu-ethiovegan) |
+| Date night | [Bole Ethiopian](/restaurants/bole-ethiopian) |
+| Budget meal | [Afro Deli](/restaurants/afro-deli) |
 
 ---
 
@@ -992,9 +1120,11 @@ You'll likely leave with leftovers.
 
 Ethiopian food is one of the best-kept secrets for vegans in Minneapolis. While everyone's arguing about which vegan burger is best, there's a whole cuisine that's been perfecting plant-based dishes for centuries.
 
-Lulu EthioVegan's 4.9-star rating isn't an accident. These aren't compromise dishes or modifications—they're the real deal, made by people who grew up eating this way.
+[Lulu EthioVegan's](/restaurants/lulu-ethiovegan) 4.9-star rating isn't an accident. These aren't compromise dishes or modifications—they're the real deal, made by people who grew up eating this way.
 
 If you haven't tried Ethiopian food yet, let this be your sign. If you have, you already know.
+
+For more Minneapolis vegan options, check out our [complete restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026), explore the [Northeast Minneapolis vegan scene](/blog/northeast-minneapolis-vegan-guide), or find your next [brunch spot](/blog/vegan-brunch-minneapolis).
 
 Now go eat. 🌱
     `
@@ -1007,4 +1137,13 @@ export function getBlogPostBySlug(slug: string): BlogPost | undefined {
 
 export function getAllBlogSlugs(): string[] {
   return blogPosts.map(post => post.slug);
+}
+
+export function getRelatedPosts(currentSlug: string): BlogPost[] {
+  const currentPost = getBlogPostBySlug(currentSlug);
+  if (!currentPost) return [];
+  
+  return currentPost.relatedPosts
+    .map(slug => getBlogPostBySlug(slug))
+    .filter((post): post is BlogPost => post !== undefined);
 }

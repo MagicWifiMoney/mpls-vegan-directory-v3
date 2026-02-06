@@ -29,6 +29,8 @@ export interface Restaurant {
   whatToOrder?: string[];
   bestFor?: string[];
   theVibe?: string;
+  // Related blog posts (slugs)
+  relatedBlogs?: string[];
 }
 
 export const restaurants: Restaurant[] = [
@@ -60,7 +62,8 @@ export const restaurants: Restaurant[] = [
       'Havarti Cheese - Creamy, melts like the real thing'
     ],
     bestFor: ['Meal prep', 'Weekend grocery runs', 'Unique gifts', 'Converting carnivores', 'Quick lunch'],
-    theVibe: "Industrial-chic butcher shop meets neighborhood gem—serious about craft, unpretentious about being vegan."
+    theVibe: "Industrial-chic butcher shop meets neighborhood gem—serious about craft, unpretentious about being vegan.",
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'northeast-minneapolis-vegan-guide', 'vegan-brunch-minneapolis']
   },
   {
     id: '2',
@@ -80,7 +83,8 @@ export const restaurants: Restaurant[] = [
     description: "A beloved plant-based haven in Saint Paul, J. Selby's serves innovative takes on American comfort food and fast food favorites. The menu features playful dishes like the legendary Crunchwrap (vegan taco meat wrapped in a grilled flour tortilla), crispy fried lion's mane mushroom 'wings,' and the indulgent Dirty Double burger with secret sauce. Their brunch features bottomless mimosas and hearty breakfast burritos. Don't miss the dairy-free shakes, sundaes, and extra-thick Frostbites with mix-ins like cookie dough.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery', 'Brunch', 'Full Bar'],
-    coordinates: { lat: 44.9533, lng: -93.1377 }
+    coordinates: { lat: 44.9533, lng: -93.1377 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
   },
   {
     id: '4',
@@ -100,7 +104,8 @@ export const restaurants: Restaurant[] = [
     description: "Chef TG Feyisa brings heart, heritage, and serious culinary skill to her exclusively vegan Ethiopian restaurant. Traditional dishes are reimagined with plant-based ingredients: beef tibs become tender rosemary mushrooms with peppers, doro wot transforms into crispy shimbra asa (chickpeas in berbere sauce). The sampler platters are perfect for sharing, featuring sambusa (lentil-filled pastries), foule (crushed fava beans), and hearty lentil stews. Everything is scooped up with airy injera flatbread. The cozy Franklin Avenue spot is ideal for sipping ginger tea or telba (Ethiopian flaxseed drink).",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Catering'],
-    coordinates: { lat: 44.9625, lng: -93.2688 }
+    coordinates: { lat: 44.9625, lng: -93.2688 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'ethiopian-vegan-food-minneapolis']
   },
   {
     id: '5',
@@ -120,7 +125,8 @@ export const restaurants: Restaurant[] = [
     description: "A vibrant community hub in Powderhorn, Reverie Cafe + Bar features a completely plant-based menu with big personality. The scratch kitchen serves creative dishes like lemongrass tofu tacos, Korean BBQ mock-duck tacos, Cuban sandwiches with pulled jackfruit, and the famous Rev Burger made with tempeh, tomato jam, smoked onions, and kimchi aioli. Dark chocolate beignets and cashew cheesecake prove vegan desserts can be transcendent. With 20 craft beers on tap and mural-lined walls, it's the perfect spot for a night out.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Full Bar', 'Brunch', 'Live Music'],
-    coordinates: { lat: 44.9341, lng: -93.2447 }
+    coordinates: { lat: 44.9341, lng: -93.2447 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis']
   },
   {
     id: '6',
@@ -140,7 +146,8 @@ export const restaurants: Restaurant[] = [
     description: "A longtime staple for organic, locally-sourced food since 1985, French Meadow offers extensive vegan options alongside their full menu. The tempeh Reuben is legendary, as is the tofu scramble for breakfast. Blackened tempeh tacos and veggie quesadillas satisfy lunch cravings. Their bakery case features vegan muffins, pastries, and their famous organic breads. With locations in both Minneapolis and Saint Paul's Grand Avenue, it's an accessible choice for plant-based dining. The relaxed atmosphere is perfect for lingering over brunch.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Bakery', 'Brunch', 'Patio'],
-    coordinates: { lat: 44.9508, lng: -93.2879 }
+    coordinates: { lat: 44.9508, lng: -93.2879 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
   },
   {
     id: '7',
@@ -160,7 +167,8 @@ export const restaurants: Restaurant[] = [
     description: "Since 1992, this collectively-owned punk cafe with its hand-painted bright green facade has been a classic haunt for vegan and vegetarian bites. The vibe is grungy and unpretentious—perfect for students and creatives. Breakfast items like the vegan Helter Skelter (hash browns and tofu), vegan biscuits with mushroom gravy, and the 'big fat pancake' are served all day. Lunch brings a seitan Philly and Korean BBQ tofu bun. Cash only, but an ATM is available. Affordable prices and generous portions keep regulars coming back.",
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Cash Only', 'All-Day Breakfast'],
-    coordinates: { lat: 44.9706, lng: -93.2471 }
+    coordinates: { lat: 44.9706, lng: -93.2471 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
   },
   {
     id: '8',
@@ -180,7 +188,8 @@ export const restaurants: Restaurant[] = [
     description: "A collectively-owned neighborhood institution, Seward Cafe serves up vegan-friendly brunch in a cozy, community-focused setting. The Earth breakfast, built on a base of hash browns with eggs or scrambled tofu, is a longtime favorite. Their fluffy, diner-style vegan pancakes come with options to add blueberries, chocolate chips, tahini, or jam. The cafe emphasizes local, organic ingredients and fair trade coffee. It's a gathering place for the Seward neighborhood, where regulars are greeted by name and newcomers feel welcome.",
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Brunch', 'Coffee'],
-    coordinates: { lat: 44.9620, lng: -93.2376 }
+    coordinates: { lat: 44.9620, lng: -93.2376 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
   },
   {
     id: '9',
@@ -200,7 +209,8 @@ export const restaurants: Restaurant[] = [
     description: "Francis serves incredible vegan burgers: a taco-seasoned Impossible burger, a garlicky black bean burger, even a Juicy Lucy stuffed with vegan cheese. But what truly sets Francis apart is their fully vegan bar program—no animal-derived dyes, additives, or fining agents in any drink. No crushed beetle dyes in Negronis, no fish bladder-filtered wines. The industrial-chic Northeast space is perfect for a casual night out. A second location in Longfellow expands their reach across the city.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Full Bar', 'Late Night'],
-    coordinates: { lat: 45.0123, lng: -93.2473 }
+    coordinates: { lat: 45.0123, lng: -93.2473 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'northeast-minneapolis-vegan-guide']
   },
   {
     id: '10',
@@ -240,7 +250,8 @@ export const restaurants: Restaurant[] = [
     description: "A staple in Minneapolis's progressive cafe scene with a cozy vibe—'for punks and their parents'—Modern Times serves veggie bowls, sandwiches, breakfast burritos, and pancakes made with organic, local ingredients. Most items are vegetarian-friendly, and many can be made vegan by swapping in tofu or tempeh. The space doubles as a community gathering spot with occasional events. Fair trade coffee and a laid-back atmosphere make it ideal for working remotely or catching up with friends.",
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Coffee', 'Brunch', 'WiFi'],
-    coordinates: { lat: 44.9372, lng: -93.2615 }
+    coordinates: { lat: 44.9372, lng: -93.2615 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
   },
   {
     id: '12',
@@ -280,7 +291,8 @@ export const restaurants: Restaurant[] = [
     description: "Located just west of Como Park, Bole Ethiopian Cuisine has helped Saint Paul maintain its reputation for top-tier Ethiopian food since Rekik Meratsion and Solomon Hailie relaunched it in 2021. The vegan sampler platter is exceptional, featuring house specialties like roasted beets, sautéed collard greens, and lentil and vegetable stews. Gluten-free injera is available by request. Don't skip the honey wine (tej). The warm, welcoming atmosphere makes every meal feel like a celebration.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Reservations', 'Gluten-Free Options'],
-    coordinates: { lat: 44.9685, lng: -93.1634 }
+    coordinates: { lat: 44.9685, lng: -93.1634 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'ethiopian-vegan-food-minneapolis']
   },
   {
     id: '14',
@@ -380,7 +392,8 @@ export const restaurants: Restaurant[] = [
     description: "Too often, vegan restaurants get pigeonholed as curiosities. Tongue in Cheek changes that with a six-course vegetarian tasting menu (fully vegan available) that ranks among the best dining in the Twin Cities, period. Chef-prepared dishes, top-notch service, and an intimate Payne Avenue atmosphere create a truly special experience. Over half the remaining menu is vegan or can be prepared vegan. When animal products are used, they're sourced humanely and sustainably. A destination for special occasions.",
     priceRange: '$$$',
     features: ['Dine-In', 'Reservations Required', 'Tasting Menu', 'Fine Dining'],
-    coordinates: { lat: 44.9780, lng: -93.0755 }
+    coordinates: { lat: 44.9780, lng: -93.0755 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis']
   },
   {
     id: '19',
@@ -561,7 +574,8 @@ export const restaurants: Restaurant[] = [
     description: "A fusion of African and Mediterranean flavors in the heart of Cedar-Riverside, Afro Deli has grown from a small spot to multiple locations across the metro. The vegan falafel wrap is exceptional—crispy chickpea fritters with tahini, fresh vegetables, and house-made hot sauce. Try the vegetable sambusa (savory pastries) or the hearty lentil soup. The atmosphere is casual and welcoming, reflecting the diverse neighborhood. Ethiopian coffee ceremony available on request for a special experience.",
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Delivery', 'Coffee'],
-    coordinates: { lat: 44.9706, lng: -93.2478 }
+    coordinates: { lat: 44.9706, lng: -93.2478 },
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'ethiopian-vegan-food-minneapolis']
   },
   {
     id: '28',
@@ -841,7 +855,8 @@ export const restaurants: Restaurant[] = [
     description: "Upscale Japanese cuisine with a thoughtful selection of vegan options. Masu's vegetable sushi rolls are expertly crafted—try the avocado caterpillar or the vegetable rainbow roll. The robata grill produces incredible charred vegetables: shishito peppers, asparagus, mushrooms. Edamame, seaweed salad, and vegetable tempura start the meal right. The sleek, modern space in Northeast is perfect for special occasions. The sake menu is extensive. A sophisticated option for plant-based Japanese dining.",
     priceRange: '$$$',
     features: ['Dine-In', 'Takeout', 'Full Bar', 'Sake Menu', 'Date Night'],
-    coordinates: { lat: 44.9894, lng: -93.2610 }
+    coordinates: { lat: 44.9894, lng: -93.2610 },
+    relatedBlogs: ['vegan-date-night-minneapolis', 'northeast-minneapolis-vegan-guide']
   },
   {
     id: '42',
