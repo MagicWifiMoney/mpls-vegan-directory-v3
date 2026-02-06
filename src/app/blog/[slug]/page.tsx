@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { blogPosts, getBlogPostBySlug } from '@/data/blog-posts';
+import { blogPosts, getBlogPostBySlug, getRelatedPosts } from '@/data/blog-posts';
 import ReactMarkdown from 'react-markdown';
 
 interface Props {
@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-function generateSchema(post: ReturnType<typeof getBlogPostBySlug>) {
+function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post) return null;
   
   return {
@@ -68,6 +68,52 @@ function generateSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   };
 }
 
+function generateFAQSchema(post: ReturnType<typeof getBlogPostBySlug>) {
+  if (!post || !post.faqs || post.faqs.length === 0) return null;
+  
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: post.faqs.map(faq => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer,
+      },
+    })),
+  };
+}
+
+function generateBreadcrumbSchema(post: ReturnType<typeof getBlogPostBySlug>) {
+  if (!post) return null;
+  
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://mplsvegan.com',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Blog',
+        item: 'https://mplsvegan.com/blog',
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: post.title,
+        item: `https://mplsvegan.com/blog/${post.slug}`,
+      },
+    ],
+  };
+}
+
 export default async function BlogPostPage({ params }: Props) {
   const { slug } = await params;
   const post = getBlogPostBySlug(slug);
@@ -76,19 +122,32 @@ export default async function BlogPostPage({ params }: Props) {
     notFound();
   }
 
-  const schema = generateSchema(post);
+  const blogPostingSchema = generateBlogPostingSchema(post);
+  const faqSchema = generateFAQSchema(post);
+  const breadcrumbSchema = generateBreadcrumbSchema(post);
 
-  // Find related posts (same category, excluding current)
-  const relatedPosts = blogPosts
-    .filter(p => p.slug !== post.slug)
-    .slice(0, 3);
+  // Get related posts using the new relatedPosts field
+  const relatedPosts = getRelatedPosts(post.slug);
 
   return (
     <>
-      {schema && (
+      {/* Schema.org JSON-LD */}
+      {blogPostingSchema && (
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
+        />
+      )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+      {breadcrumbSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         />
       )}
 
@@ -107,15 +166,30 @@ export default async function BlogPostPage({ params }: Props) {
         </div>
 
         <div className="relative z-10 w-full max-w-4xl mx-auto px-6 lg:px-8 py-16 pt-32">
-          <Link 
-            href="/blog" 
-            className="inline-flex items-center gap-2 text-sm text-[#f5f0e8]/50 hover:text-[#d4a574] transition-colors mb-8 group"
-          >
-            <svg className="w-4 h-4 group-hover:-translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-              <path d="M19 12H5M12 19l-7-7 7-7" />
-            </svg>
-            Back to blog
-          </Link>
+          {/* Breadcrumb Navigation */}
+          <nav aria-label="Breadcrumb" className="mb-8">
+            <ol className="flex items-center gap-2 text-sm text-[#f5f0e8]/50">
+              <li>
+                <Link href="/" className="hover:text-[#d4a574] transition-colors">
+                  Home
+                </Link>
+              </li>
+              <li className="flex items-center gap-2">
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <path d="M9 18l6-6-6-6" />
+                </svg>
+                <Link href="/blog" className="hover:text-[#d4a574] transition-colors">
+                  Blog
+                </Link>
+              </li>
+              <li className="flex items-center gap-2">
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <path d="M9 18l6-6-6-6" />
+                </svg>
+                <span className="text-[#f5f0e8]/70 truncate max-w-[200px]">{post.title}</span>
+              </li>
+            </ol>
+          </nav>
 
           <div className="space-y-6">
             <div className="flex flex-wrap items-center gap-3">
@@ -158,6 +232,21 @@ export default async function BlogPostPage({ params }: Props) {
       {/* Article Content */}
       <article className="py-16 px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
+          {/* TL;DR Summary Box - Answer First for LLM/AI Discovery */}
+          {post.tldr && (
+            <div className="mb-12 p-6 rounded-2xl bg-gradient-to-br from-[#3d4a3d]/50 to-[#2a2a2a] border border-[#d4a574]/20">
+              <div className="flex items-center gap-2 mb-3">
+                <svg className="w-5 h-5 text-[#d4a574]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
+                </svg>
+                <h2 className="font-display text-lg text-[#d4a574]">TL;DR</h2>
+              </div>
+              <p className="text-[#f5f0e8]/90 leading-relaxed">
+                {post.tldr}
+              </p>
+            </div>
+          )}
+
           <div className="prose prose-invert prose-lg max-w-none
             prose-headings:font-display prose-headings:text-[#f5f0e8] prose-headings:font-normal
             prose-h1:text-4xl prose-h1:mb-8 prose-h1:mt-16
@@ -180,17 +269,41 @@ export default async function BlogPostPage({ params }: Props) {
           ">
             <ReactMarkdown>{post.content}</ReactMarkdown>
           </div>
+
+          {/* FAQ Section */}
+          {post.faqs && post.faqs.length > 0 && (
+            <section className="mt-16 pt-12 border-t border-[#f5f0e8]/10">
+              <h2 className="font-display text-3xl text-[#f5f0e8] mb-8">
+                Frequently Asked Questions
+              </h2>
+              <div className="space-y-6">
+                {post.faqs.map((faq, index) => (
+                  <div 
+                    key={index}
+                    className="card-elevated rounded-xl p-6"
+                  >
+                    <h3 className="font-display text-xl text-[#f5f0e8] mb-3">
+                      {faq.question}
+                    </h3>
+                    <p className="text-[#f5f0e8]/70 leading-relaxed">
+                      {faq.answer}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
         </div>
       </article>
 
-      {/* Related Posts */}
+      {/* Related Guides Section */}
       {relatedPosts.length > 0 && (
         <section className="py-16 px-6 lg:px-8 border-t border-[#f5f0e8]/10">
           <div className="max-w-7xl mx-auto">
             <h2 className="font-display text-3xl text-[#f5f0e8] mb-8 text-center">
-              More Guides
+              Related Guides
             </h2>
-            <div className="grid md:grid-cols-3 gap-8">
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               {relatedPosts.map((relatedPost) => (
                 <Link 
                   key={relatedPost.slug} 

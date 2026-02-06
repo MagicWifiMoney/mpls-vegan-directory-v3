@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { restaurants, getRestaurantBySlug } from '@/data/restaurants';
+import { getBlogPostBySlug } from '@/data/blog-posts';
 import RestaurantDetail from '@/components/RestaurantDetail';
 import RestaurantDetailEnhanced from '@/components/RestaurantDetailEnhanced';
 import InstagramGallery from '@/components/InstagramGallery';
@@ -36,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-function generateSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
+function generateRestaurantSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
   if (!restaurant) return null;
   
   return {
@@ -69,6 +70,35 @@ function generateSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
   };
 }
 
+function generateBreadcrumbSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
+  if (!restaurant) return null;
+  
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://mplsvegan.com',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Restaurants',
+        item: 'https://mplsvegan.com/#restaurants',
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: restaurant.name,
+        item: `https://mplsvegan.com/restaurants/${restaurant.slug}`,
+      },
+    ],
+  };
+}
+
 export default async function RestaurantPage({ params }: Props) {
   const { slug } = await params;
   const restaurant = getRestaurantBySlug(slug);
@@ -77,7 +107,15 @@ export default async function RestaurantPage({ params }: Props) {
     notFound();
   }
 
-  const schema = generateSchema(restaurant);
+  const restaurantSchema = generateRestaurantSchema(restaurant);
+  const breadcrumbSchema = generateBreadcrumbSchema(restaurant);
+
+  // Get related blog posts
+  const relatedBlogs = restaurant.relatedBlogs
+    ? restaurant.relatedBlogs
+        .map(blogSlug => getBlogPostBySlug(blogSlug))
+        .filter(Boolean)
+    : [];
 
   const statusConfig = {
     '100% Vegan': { class: 'badge-vegan', label: '100% Vegan' },
@@ -89,10 +127,16 @@ export default async function RestaurantPage({ params }: Props) {
 
   return (
     <>
-      {schema && (
+      {restaurantSchema && (
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(restaurantSchema) }}
+        />
+      )}
+      {breadcrumbSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         />
       )}
 
@@ -111,15 +155,30 @@ export default async function RestaurantPage({ params }: Props) {
         </div>
 
         <div className="relative z-10 w-full max-w-7xl mx-auto px-6 lg:px-8 py-16 pt-32">
-          <Link 
-            href="/#restaurants" 
-            className="inline-flex items-center gap-2 text-sm text-[#f5f0e8]/50 hover:text-[#d4a574] transition-colors mb-8 group"
-          >
-            <svg className="w-4 h-4 group-hover:-translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-              <path d="M19 12H5M12 19l-7-7 7-7" />
-            </svg>
-            Back to directory
-          </Link>
+          {/* Breadcrumb Navigation */}
+          <nav aria-label="Breadcrumb" className="mb-8">
+            <ol className="flex items-center gap-2 text-sm text-[#f5f0e8]/50">
+              <li>
+                <Link href="/" className="hover:text-[#d4a574] transition-colors">
+                  Home
+                </Link>
+              </li>
+              <li className="flex items-center gap-2">
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <path d="M9 18l6-6-6-6" />
+                </svg>
+                <Link href="/#restaurants" className="hover:text-[#d4a574] transition-colors">
+                  Restaurants
+                </Link>
+              </li>
+              <li className="flex items-center gap-2">
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <path d="M9 18l6-6-6-6" />
+                </svg>
+                <span className="text-[#f5f0e8]/70 truncate max-w-[200px]">{restaurant.name}</span>
+              </li>
+            </ol>
+          </nav>
 
           <div className="space-y-6">
             <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium ${status.class}`}>
@@ -157,6 +216,34 @@ export default async function RestaurantPage({ params }: Props) {
               restaurantName={restaurant.name}
             />
           </div>
+        )}
+
+        {/* Featured In Our Guides Section */}
+        {relatedBlogs.length > 0 && (
+          <section className="mt-16 pt-12 border-t border-[#f5f0e8]/10">
+            <h2 className="font-display text-2xl text-[#f5f0e8] mb-6">
+              Featured In Our Guides
+            </h2>
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {relatedBlogs.map((blog) => blog && (
+                <Link 
+                  key={blog.slug} 
+                  href={`/blog/${blog.slug}`}
+                  className="group card-elevated rounded-xl p-5 hover:ring-2 hover:ring-[#d4a574]/30 transition-all duration-300"
+                >
+                  <span className="inline-flex px-2 py-1 rounded-full text-xs font-medium bg-[#2a2a2a] text-[#f5f0e8]/60 mb-3">
+                    {blog.category}
+                  </span>
+                  <h3 className="font-display text-lg text-[#f5f0e8] group-hover:text-[#d4a574] transition-colors line-clamp-2 mb-2">
+                    {blog.title}
+                  </h3>
+                  <p className="text-[#f5f0e8]/50 text-sm line-clamp-2">
+                    {blog.description}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </section>
         )}
       </div>
     </>
