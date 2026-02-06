@@ -1,0 +1,174 @@
+{
+  "topProducts": [
+    {
+      "name": "Somali Steak Sandwich",
+      "description": "A delicious and satisfying sandwich, often highlighted as a favorite. Can be ordered spicy or not spicy, though one review noted it as chewy and unenjoyable.",
+      "category": "Entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "Chicken fantastic (pictured) and chicken curry are highlights, somali steak sandwich is also great",
+        "I got the Somali Steak Sandwich, you may get it spicy or not spicy",
+        "I've also had the chicken gyros, Somali steak sandwich, and a vegetable and rice dish"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Chapati Wrap",
+      "description": "Large, delicious wraps with various protein options including lamb, chicken, gyro meat, and steak. Often served as a go-to lunch combo, though some reviews mentioned issues with excessive sauce (Tzatiki) or dry rice.",
+      "category": "Entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "I recommend the lamb chapati wrap",
+        "The chicken chapati wrap with fries is my goto lunch combo and absolutely delicious",
+        "I had the Chapati wrap with lamb and it was really good"
+      ],
+      "reviewMentions": 8
+    },
+    {
+      "name": "Sambusa",
+      "description": "Delicious savory pastries, often described as addictive and a must-try. Veggie versions can be a bit bean-heavy but still tasty.",
+      "category": "Appetizer",
+      "badge": "Top Pick",
+      "quotes": [
+        "Had the Steak dinner and a Sambusa (Could have eaten 3) Delicious",
+        "The veggie sambusas are a bit bean heavy, but still tasty",
+        "The sambusas are delicious"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Fries",
+      "description": "A popular side dish that often comes with wraps and sandwiches, generally described as great.",
+      "category": "Side",
+      "badge": "Top Pick",
+      "quotes": [
+        "Best sweet potato fries in the world",
+        "With the meal it came with fries but there was no drink included",
+        "The chicken chapati wrap with fries is my goto lunch combo and absolutely delicious"
+      ],
+      "reviewMentions": 12
+    },
+    {
+      "name": "Chicken Curry",
+      "description": "A flavorful dish with a 'little kick', often mentioned as a highlight. One review, however, reported being served raw chicken.",
+      "category": "Entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "Chicken fantastic (pictured) and chicken curry are highlights, somali steak sandwich is also great",
+        "I absolutely love Afro Deli but I ordered chicken curry today and was served raw chicken",
+        "I've enjoyed both the Chicken curry dinner (a little kick) and the Chicken Sandwich w/fries"
+      ],
+      "reviewMentions": 5
+    },
+    {
+      "name": "Chicken Fantastic",
+      "description": "A highly praised chicken dish, frequently cited as a favorite.",
+      "category": "Entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "Chicken fantastic (pictured) and chicken curry are highlights, somali steak sandwich is also great",
+        "Love the chicken fantastic",
+        "I ALWAYS rave about their chicken fantastic and sweet potato fries, both are my absolute go-to's and I find myself craving them frequently"
+      ],
+      "reviewMentions": 5
+    },
+    {
+      "name": "Falafel",
+      "description": "Described as 'off the chain' and having fabulous flavor.",
+      "category": "Appetizer",
+      "badge": "Top Pick",
+      "quotes": [
+        "The falafel was off the chain and their hot sauce was crazy fresh",
+        "Love the samosas, falafel and wraps",
+        "Their falafel sandwich was genuinely some of the best falafel I have ever had and their fries were undoubtedly the best fries I have ever had"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Tiramisu",
+      "description": "A dessert option, described as 'really good' and 'great'.",
+      "category": "Dessert",
+      "badge": "Popular",
+      "quotes": [
+        "The tiramisu is also really good",
+        ", I got Tiramisu also it’s great"
+      ],
+      "reviewMentions": 2
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Anita J",
+      "rating": 4,
+      "text": "The first visit to Afro Deli, I ordered their steak with rice dish, and it was incredibly spicy. I couldn't even finish it. But on my second visit, I opted for the chicken fantastic and steak sandwich, which were both delicious and healthier with just the right amount of spice, and not greasy. I particularly enjoyed the zucchini in the chicken fantastic.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Creole Chef",
+      "rating": 4,
+      "text": "I'll start with the food first. I ordered the chicken curry, chapati wrap ( it came with a  salad)  and the vegetable sambusa (Stuffed triangular flour pastry appetizer stuffed with  sautéed  onions, peppers & green chili and potatoes)\n\n. The Chicken curry perfectly seasoned with super tender chicken breast and  vegetables. It was was very good. The Chicken chapati wrap was absolutely delicious and the vegetable sambusa  was also delicious. The only thing that I didn't like about this meal was the salad wasn't that great.  The service was top notch and the prices are actually very good. I hope I'm able to come back  here again on Friday before I fly back home on Saturday. I would like to take some of the vegetables sambusas back home.",
+      "date": "Edited 2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "H G",
+      "rating": 5,
+      "text": "The two types of gyros were amazing. Both meats, lamb and chicken, tasted great and seemed high quality (not that strange over-processed chicken). Would eat the gyros again in a heartbeat but will be trying the wraps and beef sandwich on my next visits after running into a old colleague of mine at the restaurant who was eating those and highly recommended them! I can’t believe it took me so long to visit this restaurant! Besides the great food, the service was great and quick, and the meal reasonably priced!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "avery adams",
+      "rating": 4,
+      "text": "Love Afrodeli - my coworkers took me to the skyway location for lunch. It was really good and the portions were way too big for lunch. Every time I travel to MSP, I order from Afrodeli. Love the samosas, falafel and wraps. This time I tried a bowl which was also delicious.  I normally choose beef as my protein and this time I also tried a side of chicken. A little dry, but rich flavors.",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Lily Wilkerson",
+      "rating": 5,
+      "text": "One of my favorite restaurants around campus if not my favorite... Best sweet potato fries in the world. Chicken fantastic (pictured) and chicken curry are highlights, somali steak sandwich is also great. Been here many times and it's incredibly consistent.",
+      "date": "4 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jose C",
+      "rating": 5,
+      "text": "Afro Deli is one of my favorite places to eat. The sambusas are delicious. I've also had the chicken gyros, Somali steak sandwich, and a vegetable and rice dish. They have all been good, and I highly recommend it. It's a small place, but there usually is a table or two open.",
+      "date": "10 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Simone N",
+      "rating": 5,
+      "text": "The food was stellar. Had the chicken curry and samosas. Tried all three types. The one with potatoes was ok but the steak and chicken was really good. The chicken curry was super yummy. Had me even eating my veggies willingly. The service was fast and friendly. He checked all orders immediately fixed any mistakes. Also communicated any changes to customers.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Patrick G",
+      "rating": 5,
+      "text": "Was in town to visit the medical center around the corner and wanted something not fast food.\nwell, this food was served pretty fast, but this ain't no McDonalds.  Spouse and I had the steak sandwich, and it was very tasty.  Nice heat to it, I call things like this a rich heat.  It is spicy, but it has flavor and doesn't melt your face off.  The veggies (onion and peppers) were very good, and the lettuce and tomato was a nice touch. The whole mess was pretty reasonably priced as well.\nI will surely be going back when I'm in the neighborhood.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Scott Reel",
+      "rating": 4,
+      "text": "First, amazing Chapati: Chicken 8.9, Lamb 8.1, Falafel 7.5 (flavor preferences will vary but the Chapati itself slaps). Chicken Wings, 6.5: sauce is weak and wings are meh (so hard nowadays to find even a decent wing). More important than the food, however, is that you must check your food, because they always seem to screw it up, which really, really pisses me off - enough not to come back were it not for that delicious Chicken Chapati. If they ran their ship better, it'd have been a 5-star review easy.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Khoi B.N.",
+      "rating": 5,
+      "text": "Great take-out! Portions are massive for the price point, and food is very fast.\n\nI ordered online for my first time trying the place. When I came to the location, the guy handling the orders was very fast and polite. He did seem surprised to see me tip, though. Told him I did it in cash so it couldn't get taxxed, and it was a pleasant exchange.\n\nWhen I turned to leave, though, someone immediately tried to solicit me for money. I was going to give her a few dollars too, since I know times are rough.\n\nHowever, the gyro guy somehow materialized behind me and immediately told the woman that she could not solicit money in the deli and that the kitchen would make her food. It got to the point where he was kind of guiding her gaze towards the counter so I could leave with my sandwich.\n\nI have never been in a scenario where I've seen a guy move so fast. I have further never been in a situation where a guy was that resolute after I tipped in cash. Probably gonna become a regular just for that, though. That was a crazy-nice thing to do for someone he just met, and I respect him a lot for also getting that lady food.\n\nThe sandwich itself is REAL good, though. I love a lot of tzaziki sauce on my sandwich, so the bread-to-sauce-to-meat ratio is perfect for me. I'm also small, so this was easily 2 meals for me. It's great if you don't have much money and need to eat a lot of meat. The tiramisu is also really good.\n\nThe only downside I can think of is the deli at Stadium Village is small, so plan to have 3 people in your party tops if you want to eat in-person. Worth at least one try in my book, but for me, I love it. Nothing beats a good, huge box of food made by folks who keep the world spinning with their attitudes. Hope this place remains open forever.",
+      "date": "8 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-05T23:57:19.350Z"
+}

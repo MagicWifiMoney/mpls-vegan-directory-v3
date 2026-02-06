@@ -1,0 +1,169 @@
+{
+  "topProducts": [
+    {
+      "name": "Double Barrel Burger",
+      "description": "A popular, top-rated burger, frequently mentioned as a go-to item. Also available in a slider version.",
+      "category": "Entree",
+      "badge": "Popular",
+      "quotes": [
+        "Got the ahi crisps, the double barrel burger, and one beer",
+        "the double barrel burger with truffle fries were full of flavor"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Ahi Crisps",
+      "description": "A frequently mentioned appetizer of ahi tuna crisps. One review noted the drizzle was a bit too sweet and salty.",
+      "category": "Appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "Got the ahi crisps, the double barrel burger, and one beer",
+        "I had Ahi crisps, 60/40 burger, and an old fashioned",
+        "For the next part, we split a few dishes--a bowl of the tomato basil soup, the Ahi Crisps, and the 60/40 burger"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "60/40 Burger",
+      "description": "A signature burger made with a blend of 60% beef and 40% ground bacon, also available as a slider.",
+      "category": "Entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "I had Ahi crisps, 60/40 burger, and an old fashioned",
+        "For the next part, we split a few dishes--a bowl of the tomato basil soup, the Ahi Crisps, and the 60/40 burger",
+        "Cheese curds and the 60/40 burger were phenomenal"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Truffle Fries",
+      "description": "A very popular side dish, described by reviewers as 'excellent' and 'full of flavor'.",
+      "category": "Side",
+      "badge": "Top Pick",
+      "quotes": [
+        "I settled on a Pornstar martini, a blues burger and a side of truffle fries",
+        "the double barrel burger with truffle fries were full of flavor",
+        "Truffle fries were good with a generous amount of parmesan the cheese dusted on them"
+      ],
+      "reviewMentions": 5
+    },
+    {
+      "name": "Onion Rings",
+      "description": "An appetizer described as thick-cut rings with a light batter. Can be used to top burgers.",
+      "category": "Appetizer",
+      "badge": "Popular",
+      "quotes": [
+        "We started out with the cheese curds and onion rings--both of them good",
+        "We also ordered onion rings to start"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Tomato Basil Soup",
+      "description": "A soup with mixed reviews, described as both 'outstanding' and 'incredibly acidic and salty'.",
+      "category": "Side",
+      "badge": "Popular",
+      "quotes": [
+        "For the next part, we split a few dishes--a bowl of the tomato basil soup, the Ahi Crisps, and the 60/40 burger",
+        "The tomato basil soup is outstanding but the smash burgers were way overcooked, edges were burnt"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Blues Burger",
+      "description": "A burger featuring blue cheese that is present but not overwhelming, adding a 'little funk'.",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "I settled on a Pornstar martini, a blues burger and a side of truffle fries"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Alpine Burger",
+      "description": "A specialty burger that one review noted was a 'toast to the Alps with Raclette & perfectly caramelized onions'.",
+      "category": "Entree",
+      "badge": "Popular",
+      "quotes": [
+        "Mediocre food both the alpine burger and the steak frites",
+        "The Alpine burger was great as well as the Fish and chips"
+      ],
+      "reviewMentions": 2
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Matt C",
+      "rating": 5,
+      "text": "What an amazing experience! From the moment we arrived, the service was top-notch. The atmosphere is stunning; while it can get a bit loud, it really adds to the lively vibe. The menu offers a wonderful variety, featuring appetizers like oysters and dips, along with salads, burgers, sandwiches, and a few other enticing dishes. I’d say the menu is impressively diverse with many standout options. The Mediterranean bowl was bursting with flavor, the grains were cooked perfectly, and the steak was just right. Although the portion wasn’t massive, it was quite satisfying. The fish and chips were equally delightful; the fish was well-seasoned and cooked to perfection. Overall, we left feeling thoroughly pleased!",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "I “The Swedish Chef” I",
+      "rating": 5,
+      "text": "Here's a rewritten version:\nRed Cow has several locations, and this one stands out as my favorite. The interior has a fresh, contemporary design that feels current and inviting. Both the attentive service and delicious food exceeded expectations. It's an excellent choice for anyone looking for quality burgers. Even the salad I had was amazing.",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jenn LaRue",
+      "rating": 5,
+      "text": "The hamburger experience was yummy and well cooked, in a great way!! Great music! Beers were great, they only carry local beers so keep that in mind. Truffle fries were good with a generous amount of parmesan the cheese dusted on them. The gouda hash was totally scrumptious! The tacos are to write home about!",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chris Goggin",
+      "rating": 4,
+      "text": "First time visit since they refreshed the restaurant - it’s very nice.  They also refreshed the menu, better starters and more options than burgers.  Service was excellent. Very good vibe.  By the time we left, there were 15 people waiting outside to get in. Dog friendly patio.  Nice bar.  We had the shrimp tacos, guacamole dip, and chip & dip, all were good. The Expresso martini is very good. Their beer selection is unique and well crafted.",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Dexter Smith",
+      "rating": 5,
+      "text": "Great food and great service.  Came across this place while visiting Minneapolis and had dinner here.  Tried thier Blue Burger and other person had thier Shroon Burger.  Both were delicious,  juicy,  fresh with lots of flavor.  We throughly enjoyed our meal.   Had cocktails too.  The What's up Doc was delicious and very well made.  I'd definitely recommend giving this place a try I am sure you'll love it!",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Katherine Lohman",
+      "rating": 5,
+      "text": "Red Cow was one of the best dining experiences we've had in a very long time. A huge shoutout to our amazing server Tyler who was very knowledgable about the gluten free options (which are plentiful!) and was incredibly kind, fun, and attentive to our needs. The manager came over to our table at one point and was very personable and engaged -- you can tell he values his staff and educates them well. The beet salad and the 60/40 burger were great! I wish we lived locally so that we could give this restaurant more of our business. If you're debating where to eat, go here!",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Teresa",
+      "rating": 4,
+      "text": "Love the new look of the restaurant in North Loop after their renovation. Always have wonderful servers/service here. Usually our go-to for happy hours after they revamped their HH menu a couple of years ago. They changed their HH menu in the fall, which took their 60/40 & Double Barrel sliders off the menu, our  usual go-to. Don't know if this is a seasonal change or if this is permanent, but we hope it'll change back, eventually. Prices for burgers/sandwiches are a little high considering they no longer come with a side, which is disappointing (you have to pay for your own individual side(s) as they added more options to the menu. Burgers are always fantastic.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jacob Ullom",
+      "rating": 5,
+      "text": "This location has an elevated feel and modern design on the inside. Exemplary staff & dining experience. The burger special was a toast to the Alps with Raclette & perfectly caramelized onions. The beet salad never misses. I also tried one of the mocktails and it was very delicious with blood orange. Worth a stop or two or three.",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "sterling sibley",
+      "rating": 5,
+      "text": "I went Red Cow to have a burger I had the ultimate it was fabulous however I only gave 4 stars for the food because at the end of my burger I ordered some Buffalo wings and they were awful, Buffalo you think tangy alittle spicy but the wings were to sweet , why would anyone put sugar in the wing sauce is beyond me other that that the service was awesome I would recommend this place.",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Adam Portner",
+      "rating": 5,
+      "text": "A go-to spot for office lunches. Online ordering makes it so easy and rarely if ever have we experienced wrong order or missing items. Double barrel is a top 5 burger. The only complaint, and I realize we all have different tastes, the house made ketchup is just not good. I can see how sweet sauce people would love it but nearly everyone at our office dumps it in the trash. The aioli is awesome however",
+      "date": "a week ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:04:37.326Z"
+}

@@ -1,0 +1,134 @@
+{
+  "topProducts": [
+    {
+      "name": "Coffee",
+      "description": "Excellent coffee and good lattes, popular for working or a quick stop.",
+      "category": "Drink",
+      "badge": "Top Pick",
+      "quotes": [
+        "Excellent coffee, takeout food, and basic co-op groceries",
+        "Can also come to do work with a cup of coffee",
+        "Great place: coffee shop, grocery and meeting space , all in one"
+      ],
+      "reviewMentions": 7
+    },
+    {
+      "name": "Smoothie",
+      "description": "Described as delicious and a good option for a quick drink.",
+      "category": "Drink",
+      "badge": "Popular",
+      "quotes": [
+        "Good place for a smoothie but that goth chick at the smoothie bar is kinda weird",
+        "Delicious food and smoothies",
+        "A small gas station sized selection of shelved, refrigerated & frozen foods as well as a salad bar, sandwich & hot food bar, soups, smoothies coffee beverages and more, made fresh to order"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Mayan Bowl",
+      "description": "Praised as 'the best' and 'full of fiber and vitamins,' sometimes includes carnitas.",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "Best MAYAN BOWL I ever had"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Goddess Bowl",
+      "description": "A favorite bowl featuring smoked salmon, avocado, and chevre on a bed of quinoa and baby spinach.",
+      "category": "Entree",
+      "badge": "Featured",
+      "quotes": [
+        "The Goddess Bowl with smoked salmon, avacado, and chevre on a bed of quinoa and baby spinach is my fave"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Kombucha",
+      "description": "Available on tap as a refreshing beverage option.",
+      "category": "Drink",
+      "badge": "Popular",
+      "quotes": [
+        "Try the Kombucha on tap",
+        "Full service deli and sandwich stations, kombucha on tap,to rate prepared sushi to - go, with sitting areas inside and out that make for great people watching while getting your naturganic on point"
+      ],
+      "reviewMentions": 2
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Joshua Lange",
+      "rating": 5,
+      "text": "This place is perfect for a quick fill up of your natural foods. A small gas station sized selection of shelved, refrigerated & frozen foods as well as a salad bar, sandwich & hot food bar, soups, smoothies coffee beverages and more, made fresh to order! Also a large cafeteria style dining area with a small bar that serves wine & beer. Possibly organic vodka? Not sure on that.",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jen Kennedy",
+      "rating": 5,
+      "text": "This little nook off of Nicolette and 23rd is small, but it's packed with everything you need if you're not near the Wedge on Lyndale. Full service deli and sandwich stations, kombucha on tap,to rate prepared sushi to - go, with sitting areas inside and out that make for great people watching while getting your naturganic on point. Selection is eccentric on certain items, but always good, always quality, and the staff rocks.",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "T and J H (JT)",
+      "rating": 5,
+      "text": "Selection for groceries has improved. Staff and food are always lovely and I can buy almost all of my favorite groceries.\nThe little deli/cafe is good. I've had several things made for me that I just didn't like even though i had liked them other times. There can be mild quality fluctuation.  I recommend keeping it simple--the ingredients themselves are typically very,  VERY good anyway.",
+      "date": "Edited 5 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "jesse james johnson",
+      "rating": 4,
+      "text": "This place is convenient for the quick after work stop. I wish the variety was bit bigger and they used the space a little more completely (I mean my corner bodega has nearly floor to ceiling goods, so why can't they?). Lastly I blame the people who shop here as nearly an entire aisle is devoted to water and since my house has a tap I see no value in walking water back to my house.",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Cam Kalra",
+      "rating": 5,
+      "text": "It's a nice place. It's part grocery store/deli/bakery but also a meeting/community space. I am pretty sure that you can't bring outside food but correct me if I'm wrong.\n\nI like it because having casual community spaces is important, and it's great for meetups.\n\nThey have board games and two separate meeting rooms, one with a kitchen, in addition to general seating. Reservations for the meeting rooms might cost some cash.",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Karen Engelsen",
+      "rating": 5,
+      "text": "This is a place that can satisfy both the carnivore and the vegetarian, while offering gluten free for either. The Goddess Bowl with smoked salmon, avacado, and chevre on a bed of quinoa and baby spinach is my fave. Try the Kombucha on tap.  Cheery, laid back atmosphere..",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "J Waterous",
+      "rating": 5,
+      "text": "I just got a bowl of soup and bread and butter. However small it sounds it was a very satisfying and health giving meal. I always feel comfortable at the Wedge Table.",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nicholas Bussa",
+      "rating": 5,
+      "text": "This is a great neighborhood place to get made to order food and quick groceries. It’s the closest thing I’ve seen in Minneapolis to a bodega in NY so check it out!!",
+      "date": "5 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ƶ Makila",
+      "rating": 5,
+      "text": "A super great hybrid of grocery store and counter service meals! I love going here to get something to eat for lunch and then a few things to cook later for dinner!",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "G B",
+      "rating": 5,
+      "text": "I love this place, I work with Cathy in Colorado and she told me all about it and how much she loved working here... this store looks beautiful, clean, vibrant and healthy... wonderful co-op! I’ll have to visit some time!",
+      "date": "6 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:00:43.839Z"
+}

@@ -1,0 +1,160 @@
+{
+  "topProducts": [
+    {
+      "name": "Fried Kimchi",
+      "description": "A highly recommended and frequently mentioned appetizer, described as a favorite and delicious by many reviewers.",
+      "category": "appetizer",
+      "badge": "Top Pick",
+      "quotes": [
+        "Make sure to try the fried kimchi",
+        "My absolute favorite thing on their menu is the fried kimchi",
+        "I highly, highly recommend their fried kimchi"
+      ],
+      "reviewMentions": 8
+    },
+    {
+      "name": "DraMN Ramen",
+      "description": "A chicken-based version of tonkotsu ramen with a rich, flavorful chicken bone broth. Toppings include leeks. Considered by some to be the best ramen in Minnesota.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "I tried the DRAMN Ramen"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Gochu Chicken Wings",
+      "description": "An appetizer of chicken wings, also referred to as 'Honey Gochu'. Reviews are mixed, from 'great' to 'soggy' and 'partially warm'.",
+      "category": "appetizer",
+      "badge": "Featured",
+      "quotes": [
+        "We ended up ordering the Yukayaki (vegan version), Honey Gochu Chicken wings, Salted duck ramen and \"Show you\" ramen"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Bali Bali Ramen",
+      "description": "A spicy ramen dish featuring a tahini and sesame sauce. Noted for its well-executed flavors but can be very spicy.",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Salted Duck Ramen",
+      "description": "A ramen dish with a slightly sweet, yet savory broth, served with duck and vegetables. The broth was noted as being a bit oily by one reviewer.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "We ended up ordering the Yukayaki (vegan version), Honey Gochu Chicken wings, Salted duck ramen and \"Show you\" ramen",
+        "Ordered the Salted Duck Ramen"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "RaMN",
+      "description": "A ramen dish praised for its thick, creamy sauce with lots of flavor.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "I had the RaMN and it was really good",
+        "Definitely ranks in the top 3 spots for ramen in Minneapolis, we really enjoyed the DraMN",
+        "The broth and ingredients for the DraMN tasted really good: my Japanese American friend said it was the best ramen she has had in MN"
+      ],
+      "reviewMentions": 13
+    },
+    {
+      "name": "Chicken Shoyu Ramen",
+      "description": "A ramen with a salty and savory broth. One review was critical, finding the broth overly salty and the noodles too firm.",
+      "category": "entree",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Yukayaki",
+      "description": "A vegan appetizer described as being similar to takoyaki, but with a potato-like texture instead of octopus.",
+      "category": "appetizer",
+      "badge": "Featured",
+      "quotes": [
+        "We ended up ordering the Yukayaki (vegan version), Honey Gochu Chicken wings, Salted duck ramen and \"Show you\" ramen"
+      ],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Kong Lee",
+      "rating": 5,
+      "text": "Tori 44 (and Tori Ramen, their St. Paul location), is literally one of the top ramen spots in the Twin Cities. This is because they embody the spirit of what ramen is. They have original and unique ramen. You won't find a ramen like their's in the state or in the country even. They make their own noodles, which is rare in the States. Their main ramen selections are poultry based, although they do run some unqiue ramen specials every now and then.\n\nMy personal ramen picks here are the DraMN and Duck Ramen.\n\nThe DraMN is their OG and first original bowl of ramen that I know of. They had this ramen back when they ran Unideli, a former ramen spot that used to occupy the deli area in the Japanese grocery store United Noodles (some MN ramen history for ya). The broth is emulsified chicken bone broth. Think tonkotsu, but instead of pork, it is chicken. The broth is thick, creamy, and fatty. It comes with chicken chashu, soft boiled eggs, and some other really delicious and unique toppings. This bowl incorporates unique flavors, salty, sweet, and umami.\n\nThe Duck Ramen is a more citrusy broth. The Duck chashu is so moist and tender. Super delicious. Again, with the soft boiled egg and their unique and delicious toppings.\n\nTheir noodles have a perfect bounce and bite to them.\n\nAgain, they do a lot of specials. Sometimes, they run some unique ramen incorporating other kinds of meat like lamb. It is also a norm to find them doing specials that is vegan/plant-based (they had a really good vegan/plant-based tsukemen/dipping ramen one time). Speaking of plant-based, they are plant-based friendly and do have good options. See pictures I've attached for a couple photos of specials they had.\n\nMy go-to appetizers/small plates here are their yuchayaki (plant-based takoyaki made of yucha), wings, and fried kimchi (think of extra crispy battered kimchi, making it like kimchi chips/karaage). Just think fried pickles, but kimchi instead. Just to note, they recently took out yuchayaki, but sometimes they bring it back.\n\nLastly, their cocktails are amazing. The Shiso cocktail is so refreshing and aromatic.\n\nThat being said, I hope you understand now why this spot is a top-notch ramen spot. If you're a ramen fanatic, Tori 44 (their Minneapolis location) and Tori Ramen (their St. Paul Location) is a must stop in the Twin Cities. Aside from ramen, they are just an awesome restaurant in general with delicious food. They serve other dishes besides ramen too.",
+      "date": "Edited 2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Tyler Fiecke",
+      "rating": 5,
+      "text": "This was the best meal I’ve had in months. I came in cold and feeling down about summer being over and I’ve been warmed to the bone with spicy fatty umami rich soup.\n\nI tried the DRAMN Ramen. Unbelievable! I added just a teaspoon of the hot sauce and it was a perfect medium to\nmedium-high intensity on the spice.\n\nThe broth was really rich and perfectly seasoned with a nice slick of garlicky chicken (or maybe pork) fat over the top.\n\nThe meat and egg and veggie garnishes were perfect together and had a nice balance of chewy-crispy-soft textures.\n\nNoodles were amazing. I don’t know a ton about ramen but I’ve never had better in Minnesota. They were bouncy, maybe would be the word. I wish I’d gotten a double portion. Not that I needed it as I’m completely full but they were tremendous to slurp and bite.\n\nI wish I’d taken a picture because it looked great on the table but I killed it before I had the chance.\n\n10/10 highly recommend and will be back soon.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nico Dornemann",
+      "rating": 5,
+      "text": "I went here about a year ago and was somewhat underwhelmed, though that impression was likely largely a result of a dish described as khao soi not having anything like the rich, spicy broth I love.\n\nThis time my wife and I ordered the honey gochu wings, crispy and doused in delicious sauce with a side of fresh, crispy, complex kimchi. My wife had the DraMN and I had the Live a Lil Kimchi Ramen (the names a bit hipstery for my taste).\n\nThese folks are doing something different with Ramen. The broth does not have the rich umami that I love from Ramen Kazama. The broths here are lighter, though just as complex. I believe all the broths are veggie, chicken, or duck-based.\n\nIf you are looking for a super rich broth, you may be disappointed. But if you approach it with an open mind I bet you will find the food here excellent.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chris",
+      "rating": 5,
+      "text": "Definitely ranks in the top 3 spots for ramen in Minneapolis, we really enjoyed the DraMN. The DraMN is like a chicken based version of tonkotsu ramen (pork). The chicken bone broth is so rich flavor, and the leek is a nice addition as a topping. For an appetizer, we really liked the friend kimchi, so delicious!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jael O'Hare",
+      "rating": 4,
+      "text": "Great flavor with a few gripes. I got the Bali Bali. Everything tastes great flavor wise, perfectly cooked soft egg, but there was maybe a single tablespoon of the chicken and the food was ice cold. I did get it to go, but my drive was only 3 min. It was also served in bare recycled paper bowl, no coating even so it kinda felt like eating cold soup off a thick paper towel, which disintegrated during the meal. The servers were very sweet. Although I got the impression the service may be on the slower side given it took about 35-40min for my order of a single dish with only 1 couple in the restaurant (who knows if they’re mostly doing take out but it was only 5pm). Seems like a fun place for a date, but with the small portions and high price tag maybe not a regular joint, at least for me. The hungry & price conscious might come away underwhelmed but for those in search of well executed flavors it’s definitely worth a trip.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Sahar C",
+      "rating": 5,
+      "text": "So excited about this place after moving to the area. Very casual joint. This place is perfect for a cozy winter night. Got the bali bali which had a balance of salty and sweeter notes. The Dra MN was salty and savory. Chef stopped by and asked how things were told us in the summer they make banh mi’s. We will definitely be going back to try wings and few other items.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Alex Rudie",
+      "rating": 5,
+      "text": "A delicious ramen joint with broth to die for! Their ramen broth is so rich and creamy with loads of umami. The duck ramen and korean wings were incredible. Great atmosphere with very friendly and attentive staff. Lots of dishes are available vegetarian or gluten free. Ordering is all online, you open a tab for your table, making it super easy to customize dishes. Definitely coming back.",
+      "date": "Edited 2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Josh Wolf",
+      "rating": 5,
+      "text": "We hadn't been to this place in several years and I will say it has changed. Instead of a super busy congested space, it was much more laid back, with perceivably less pressure to eat and get out. The ramen was a little pricey but super delicious, and a quality like I've had in a friend's home kitchen. Not overly fancy, and straight to the point. I'm not a fan of ordering on a digital menu, I'd rather walk up to a counter to ask questions, or see a person at the table, thankfully it was optional. The drink menu was only online, I wish I'd had a little more time to take it in - it was honestly refreshing to see they don't serve alcohol. I went there wanting a beer, but I left there not missing it. And the vegetarian/vegan/can be vegan (CBV) indicators on the menu were super helpful because I know where I can bring my veg friends for a good hot meal. I highly, highly recommend their fried kimchi.",
+      "date": "Edited 2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ariel Eisel-Draven",
+      "rating": 5,
+      "text": "The food is amazing… however do not go with low blood sugar because it takes a min. I say this because I made this mistake one day and I felt sick before my food got to me, need mind you it was not busy… the food is amazing but the downside is, it does take awhile so take out is probably preferred if you are legitimately hungry. The chicken they use is a different kind of amazing. The way they make meat here is really really good. I am celiac/gluten free not by choice and they do have accommodations with gluten free noodles and food items!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Lindsey Atchison",
+      "rating": 5,
+      "text": "This place blows my mind everytime. Hands down the best ramen I've ever had. The wings are so unique and delicious and to top it off they have some of the best creme brulee I've ever had. The guy in the camo with the stellar old school tattoos is one of the best. Not only does he make the tastiest food he goes above and beyond to ensure guests are experiencing excellent service. From service to cooking this guys does it all. Top 5 restaurants in the city for a reason and everyone deserves a round of applause.",
+      "date": "2 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:03:43.052Z"
+}
