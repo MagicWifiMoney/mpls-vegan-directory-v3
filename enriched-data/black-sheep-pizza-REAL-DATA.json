@@ -1,0 +1,160 @@
+{
+  "topProducts": [
+    {
+      "name": "Pizza",
+      "description": "Generally described as excellent and amazing, often with unique flavors. Features a thin crust cooked on coals and is sometimes available by the slice. While some find it pricey, it's broadly highly regarded.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "Pizza came out and was cooked perfectly",
+        "This was the worst experience I’ve ever had at any pizza shop",
+        "Great pizza, great atmosphere"
+      ],
+      "reviewMentions": 62
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "description": "Considered the 'best pizza ever' by some, featuring a crispy bottom, light and refreshing sauce, good cheese flavor, and mild pepperoni that harmonizes well with other ingredients. Also referred to as 'simple pepperoni'.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "I got a pepperoni pizza",
+        "My son is a basic pizza kid so we split a pepperoni pizza which we also enjoyed"
+      ],
+      "reviewMentions": 2
+    },
+    {
+      "name": "Ricotta Meatball Pizza",
+      "description": "Praised for its flavorful, perfectly thin, and crispy crust.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "We got the ricotta meatball pizza"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Roasted Vegetables",
+      "description": "Surprisingly tasty and delicious, often highly recommended by staff.",
+      "category": "appetizer/side",
+      "badge": "Featured",
+      "quotes": [
+        "We also got the roasted vegetables"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Hot Salami Pizza",
+      "description": "Described as 'good', though one reviewer felt it was not hot enough (temperature-wise).",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "We got the hot salami pizza and it was good though not hot enough in my personal opinion"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Mushroom Skewer",
+      "description": "A good option, often served as an appetizer.",
+      "category": "appetizer",
+      "badge": "Featured",
+      "quotes": [
+        "Original: The mushroom skewer was good"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Root Beer (on tap)",
+      "description": "Described as a delicious beverage option.",
+      "category": "drink",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Salad",
+      "description": "A great and satisfying option, particularly noted for good taste.",
+      "category": "appetizer/side",
+      "badge": "Featured",
+      "quotes": [
+        "I had a salad and it was great"
+      ],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Braydi McPherson",
+      "rating": 5,
+      "text": "I was visiting for a work trip and someone from Chicago told me I had to try this pizza on my way in on the Amtrak. The pizza was so good!! They even let you do half and half pizzas, so you can try more of their delicious flavors. I went with the meatball/ricotta (#4) and the smoked chicken (#14), and it was one of the best pizzas I’ve had. The crust was perfectly crispy and the flavors were freak and complex. The service was phenomenal and they made sure my water never got below half full on a hot day in the city. I did pay $3/hr for parking, but that’s to be expected anywhere in the city. If you like quality pizza from a local company that supports their workers, this is a must try spot.",
+      "date": "7 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Joe Reno",
+      "rating": 5,
+      "text": "Service was prompt and tentative. Pizza came out and was cooked perfectly. Crispy bottom with just enough flop to it. Ordered a simple pepperoni. Sauce is light and refreshing. Cheese had very good flavor. Pepperoni were on the mild side but worked well with all the flavors. The crust had nice spots of char without being over cooked.",
+      "date": "3 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "G Wat",
+      "rating": 5,
+      "text": "Very cool spot! Had great reviews so stopped in for dinner with the family. We had the cheesy bread with marinara which was good. We also ordered the grilled vegetables appetizer that we enjoyed.\n\nThen my wife and daughter ordered a pizza with tomatoes, feta cheese, harissa and fennel sausage which they really enjoyed. My son is a basic pizza kid so we split a pepperoni pizza which we also enjoyed. We all liked the coal fired approach which reminded us of some of the places we enjoyed when we lived in CT (New Haven).\n\nService is going to get its own section here in the write up because it was exceptional! We had an Asian guy (apologies I can't recall his name) who took care of us who was fantastic! Positive attitude, super upbeat and friendly. Very helpful with menu suggestions and beer suggestions as well. Very attentive, refills were timely, never had any long stretches where he disappeared (and they were PACKED). Really stayed on top of everything and provided a great experience overall.\n\nExcellent meal and experience and I highly recommend you give it a shot if you're in the area.",
+      "date": "7 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Yusra Farhat Ullah",
+      "rating": 5,
+      "text": "Bar-like pizza place with fresh coal fired pizza, and unique toppings.\nThis is the only gluten free pizza that tasted so good, it could be wheat pizza. And their mozzarella did not cause my lactose-intolerant self any issues. Favorite toppings (not all together) are Persian beef, mushrooms, margarita, Kalamata olives, harissa sauce, rosemary, and smoked mozzarella.\nAlso, don’t sleep on the eggplant dip, it’s so delicious.\nCocktails are excellent, too.\nPizza is on the expensive end but so worth it.\n\n3 points for atmosphere because it’s very bar-like, loud, dark, juke box, sports tv, etc, which may be right up someone else’s alley, just not mine\n\n4 points for service, could be better. They seem exhausted and exasperated consistently. And this isn’t a judgement of the employees, but rather the employer. The employer should hire more staff rather than have overworked and exhausted employees.",
+      "date": "8 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chelsea Didinger",
+      "rating": 5,
+      "text": "Update: We went back and had a fantastic meal!! We got the ricotta meatball pizza. The crust was flavorful and perfectly thin and crispy. We also got the roasted vegetables. Emily (who was awesome!!) recommended them to us, and we are so glad we took her up on her suggestion! They may not sound very exciting, but WOW so tasty and delicious! We will definitely go back and get the roasted vegetables again.\n\nOriginal: The mushroom skewer was good! The mushroom pizza we got was just okay. Maybe because of all the water released by the mushrooms, the bottom crust was kind of soggy.",
+      "date": "Edited 3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Austin Gillmann",
+      "rating": 5,
+      "text": "I have been coming to this north loop location for the last decade or so, and every time has been a very enjoyable experience that I have always been happy to share with friends and family over the years. Place has a very unique vibe to it that brings a nice atmosphere to this pizza shop, the food over the years has always been superb, and has always stayed up to date with pizza trends (ex. Hot Honey!) - servers here are always the best and will ensure that any problems that arise are promptly resolved to your satisfaction!\n\nHere's to another decade of great north loop pizza!",
+      "date": "4 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nick Wright",
+      "rating": 5,
+      "text": "Really good pizza. It wasn’t even very hot because we had it Uber Eats delivered but I could have crushed an entire pizza by myself. Surprisingly the cheese pizza was really good. Not usually a fan of just cheese but this was great. Nice chew to the crust. Good sauce. Good toppings on the others. Nice slight coal fired flavored. Definitely a win. The rest of the city is crap but this place is good.",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "David Troby",
+      "rating": 5,
+      "text": "Teamed up with friends to get 3 different pizzas. Meatball was my favorite. Pineapple and bacon was 2nd and pepperoni onion and olives were a 3rd place. All tasted great. Service was very good stopping at the table multiple times to check on drinks and refills. Interior is industrial downtown vibe. You can see the flames from the coal fire oven from seating area.",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Anna",
+      "rating": 5,
+      "text": "Can definitely be harder to find parking on the weekend when there’s a Tim’s game or twins game going on, but definitely worth it, really great location, amazing service and phenomenal food. Really delicious and exciting mocktails! for one pizza split between two people and two drinks it was about $20 each!!",
+      "date": "8 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Rebecca Costigan",
+      "rating": 5,
+      "text": "The flavor of the Persian beef pizza with ricotta and tomato was outstanding! I ordered take-out so I can't comment on the service here, but the pizza was ready right on time and I picked it up without issue. Black Sheep has a harder crust with the coal fire (I prefer wood fired) but the flavor was still great.",
+      "date": "9 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:10:45.279Z"
+}

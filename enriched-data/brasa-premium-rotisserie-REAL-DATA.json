@@ -1,0 +1,166 @@
+{
+  "topProducts": [
+    {
+      "name": "Smothered Chicken",
+      "description": "A chicken dish, also served as a sandwich with red sauce and coleslaw, praised as being 'delicious' and 'fabulous'.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "I absolutely adored the smothered chicken sandwich, which is served with red sauce and coke slaw",
+        "The smothered chicken and fried yucca is the key to my heart",
+        "I recommend the smothered chicken (it's so moist) or the pork bowl"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Pulled Pork",
+      "description": "Slow-cooked, tender pork, available as a sandwich with pickles and green sauce or as a main dish.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "We had the pulled pork sandwich, which is served with pickles and green sauce",
+        "We enjoyed the pulled pork sandwich and the chicken gumbo",
+        "My sandwich\nwas wonderful, the pulled pork was tender and juicy, and the fried plantains were perfect"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Fried Sweet Plantains",
+      "description": "Caramelized and sweet fried plantains, served as a side dish or appetizer with a green dipping sauce.",
+      "category": "side/appetizer",
+      "badge": "Featured",
+      "quotes": [
+        "We started with the fried sweet plantains, really caramelized and yummy"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Yucca Fries",
+      "description": "Fried yucca, served as a side dish and described as being highly enjoyable.",
+      "category": "side",
+      "badge": "Featured",
+      "quotes": [
+        "Ordered chicken chilaquiles verde with a side of yucca fries and fried plaintains"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Collard Greens",
+      "description": "A classic side dish, mentioned as being particularly delicious.",
+      "category": "side",
+      "badge": "Top Pick",
+      "quotes": [
+        "Collard greens were delicious as well as the smoked beef",
+        "The collard greens with smoked chicken are my favorite side; they put most other collards to shame",
+        "Their collard greens were 10/10 and the best I’ve had from any restaurant"
+      ],
+      "reviewMentions": 5
+    },
+    {
+      "name": "Smoked Beef",
+      "description": "A smoked beef dish noted for its high quality and flavor, considered a standout in the local area.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "Collard greens were delicious as well as the smoked beef"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Piri Piri Chicken",
+      "description": "A chicken special that received a '10/10' rating in a review.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "Piri Piri chicken special was 10/10"
+      ],
+      "reviewMentions": 1
+    },
+    {
+      "name": "Sangria",
+      "description": "A wine-based drink that is specifically recommended by a reviewer.",
+      "category": "drink",
+      "badge": "Popular",
+      "quotes": [
+        "Make sure to order a sangria",
+        "Do wish sangria on menu would actually be available"
+      ],
+      "reviewMentions": 2
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Thomas Atkinson",
+      "rating": 5,
+      "text": "I'm not sure how or why I haven't eaten at Brasa until yesterday afternoon, but what an excellent lunch.  Seated outside, we ordered using the QR code to pull up the menu, order and pay.  Lot's of selections and a very easy method to order.  In a matter of what seemed like a minute or two, our drinks were delivered followed shortly thereafter by our food.  The food was excellent.  I ordered the Chilaquiles topped with a sunny side up fresh farm egg and my friend ordered a sandwich that came with chips.  10 out of 10s.  The chicken in my chilaquiles was most and plentiful.  The bright golden yoke egg was a nice addition.  His sandwich was made with an excellent roll and the meat had a great smokey flavor.  We skipped the chips so I can't comment on the same...though they were part of my dish, smothered in verde sauce.  I will be back...soon.",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Linda McLoon",
+      "rating": 5,
+      "text": "I forgot how truly delicious the food is at Brasa. I needed to pick up food for an event, and decided to get take out.\n\nWe started with the fried sweet plantains, really caramelized and yummy. They are served with an interesting green dipping sauce. Lovely. We had the pulled pork sandwich, which is served with pickles and green sauce. The meat was so tender, and the accomplishments really complemented the pork. I absolutely adored the smothered chicken sandwich, which is served with red sauce and coke slaw. My goodness - this was DELICIOUS! They both came with house made tortilla chips - these were just as yummy the next day!\n\nI enjoyed the butterscotch pudding also. The only slightly negative note was the chocolate cake, which was dry despite the whipped cream and topping.\n\nI heartily recommend Brasa, in particular that fabulous smothered chicken!!\n\nYou can eat in, or order for takeout also.",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Lake Katrina",
+      "rating": 4,
+      "text": "One of our family favorites whenever we go through Minneapolis! The food is always fantastic, authentic & fresh!!!\nI always go with a BOWL! I recommend the smothered chicken (it's so moist) or the pork bowl! Everytime we go I buy a hot vinegar to take home as well. Brasa would easily be a 5 star place but the recent move to QR code orders is a bit frustrating.",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Venita S",
+      "rating": 5,
+      "text": "Dad came to visit us in Minneapolis from Florida. Brought him in for a surprised birthday dinner here. Everyone from the host, cashier, and servers is so attentive and full of great positive energy! Jacob - one of the most amazing servers that I ever met really made my day and made this birthday surprise above and beyond special! Thank you so much! We will recommend your restaurant to friends and family :)",
+      "date": "9 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Andrew Butterbrodt",
+      "rating": 5,
+      "text": "Have loved eating here and getting takeout for years. Recently picked up an order when coming back into town from a camping trip and my wife remarked how this is the best takeout around and always satisfies. Leftovers keep well too so it’s just as good the next day. The collard greens with smoked chicken are my favorite side; they put most other collards to shame. Douse them (and your chips) with the hot pepper vinegar to really make them great.",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mika Baer",
+      "rating": 5,
+      "text": "The menu is rooted in Southern and Caribbean-inspired flavors, and everything is made with care. My personal go-to is the pulled chicken, which is juicy, tender, and perfectly seasoned. Pair it with the creamed jalapeño spinach - a side dish so unexpectedly addictive that I now find myself ordering it every time, no matter what else I get.\n\nThe atmosphere is casual and welcoming, with a laid-back counter-service setup that somehow still manages to feel intentional and warm. It’s the kind of place where regulars bring newcomers, knowing the food will speak for itself.\n\nOther favorites include the slow-roasted pork, collard greens, and desserts. They are all flavorful, filling, and made to be mixed, matched, and shared. The portions are generous, and there are great options for gluten-free and dairy-free diners, too.\n\nBrasa doesn’t try to be trendy or overcomplicated. It focuses on doing comfort food right. With quality ingredients, bold flavor, and heart, if you’re looking for a meal that hits all the right notes without trying too hard, this is it.\n\n@foodiemsp on Instagram",
+      "date": "9 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Tor Swanson",
+      "rating": 4,
+      "text": "Great chicken, great pork. Acceptable plantains. Accepting that everyone has bad days, my experience with the wait staff was that they seemed somewhat annoyed that I had come there for a meal. Everything was correct, and brought to the table quickly, so mechanically the server was good. They just had a little more disdain for customers than I prefer.",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Rochelle Becker",
+      "rating": 5,
+      "text": "The entire menu looks amazing!  It was hard to choose!  Ordered chicken chilaquiles verde with a side of yucca fries and fried plaintains.  The green sauce is so incredibly good.  Everything was cooked perfectly.  Service was great!  Attentive but not overbearing.  Atmoshere was busy but not distracting or unpleasant! Absolutely will stop here anytime I am in town!!!",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Shalon Johnson",
+      "rating": 5,
+      "text": "Hidden gem! I came here for the 1st time last week for a staff meeting. Upon arriving, everyone was extrmelely friendly. We were seated immediately and given menus to review. I ordered the rotisserie chicken with Yuca fries, Mac and cheese, and cornbread. Everything arrived very quickly. I’ve been to numerous restaurants, and the wait time here was almost non-existent. The food came out within 5 to 7 minutes of ordering. The waiter was extremely attentive and continuously returned to see how we were doing and checked in to see how everything tasted. The rotisserie chicken I ordered with the green sauce was phenomenal. The mac and cheese and everything else was exceptional. I would definitely return. I had a really great experience and the environment was very welcoming.",
+      "date": "7 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Phil Domek",
+      "rating": 5,
+      "text": "Simple and comfortable atmosphere with a lot of natural light. Our wait person was wonderful, having a pleasant and down to earth personality combined a great sense of humor.  My sandwich\nwas wonderful, the pulled pork was tender and juicy, and the fried plantains were perfect. All combined; the staff, the food,  and amosphere made for a great afternoon experience.",
+      "date": "9 months ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:18:19.049Z"
+}

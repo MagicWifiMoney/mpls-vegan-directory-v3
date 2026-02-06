@@ -1,0 +1,157 @@
+{
+  "topProducts": [
+    {
+      "name": "Roti Canai",
+      "description": "A popular flatbread dish, praised for its authentic flavor that is reminiscent of being in Malaysia. It's often served with a curry sauce that is described as very good.",
+      "category": "appetizer",
+      "badge": "Top Pick",
+      "quotes": [
+        "I also tried the Roti Canai (presented slightly different than stands in Malaysia) and the flavor brought me right back to Kuala Lumpar… ❤️",
+        "Roti canai and chicken satay are old favorites from when we used to dine in store",
+        "Their roti canai and rendang are absolutely authentic"
+      ],
+      "reviewMentions": 9
+    },
+    {
+      "name": "Chicken Satay",
+      "description": "Skewered chicken that is described as authentic Malay style and delicious. Reviewers note it's different from other types of satay.",
+      "category": "appetizer",
+      "badge": "Top Pick",
+      "quotes": [
+        "I had Char Kwai teoy, chicken satay, roti cana, and pilut hitam, and it was really good",
+        "Chicken Satay (Malay) is different than other satay and this place nailed it",
+        "Roti canai and chicken satay are old favorites from when we used to dine in store"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Nasi Lemak",
+      "description": "A traditional Malaysian rice dish. Its flavor is highlighted by the accompanying sambal (chili paste). It is served with chicken.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "As one of the few, if not the only place, that has nasi lemak, this establishment does a great job in providing dishes that range from Chinese to Malaysian to Singaporean cultures",
+        "The Malay style food is pretty legit IMHO, they have Nasi Lemak, Rendang, Belacan style stit fry, Kari and Laksa",
+        "I love their sambal in the nasi lemak"
+      ],
+      "reviewMentions": 6
+    },
+    {
+      "name": "Boba / Milk Tea",
+      "description": "Highly recommended drinks, considered some of the best. A specialty drink with mango popping boba, strawberry, and pineapple was called 'life-changing'. The milk tea is also very popular.",
+      "category": "drink",
+      "badge": null,
+      "quotes": [],
+      "reviewMentions": 0
+    },
+    {
+      "name": "Rendang",
+      "description": "An authentic meat dish, with Lamb (Kambing) Rendang being a specific 'go-to' for customers. Praised for its authentic taste.",
+      "category": "entree",
+      "badge": "Top Pick",
+      "quotes": [
+        "The Malay style food is pretty legit IMHO, they have Nasi Lemak, Rendang, Belacan style stit fry, Kari and Laksa",
+        "Their roti canai and rendang are absolutely authentic",
+        "Our go-tos are lamb (kambing) rendang and golden tofu, but the nasi lemak and roti canai are also on-point (the roti canai curry sauce is sooo good)"
+      ],
+      "reviewMentions": 4
+    },
+    {
+      "name": "Char Kway Teow",
+      "description": "A stir-fried noodle dish with a 'good flavor and soft texture', providing a positive tasting experience.",
+      "category": "entree",
+      "badge": "Popular",
+      "quotes": [
+        "The char kway teow had both good flavor and soft texture, allowing a positive tasting experience",
+        "Roti Cana, satay chicken, char kway teow, red curry chicken",
+        "Also got the char kway teow, had shrimp and sotong (squid)"
+      ],
+      "reviewMentions": 3
+    },
+    {
+      "name": "Chili Chicken",
+      "description": "Mentioned as a fantastic and long-time favorite dish by repeat customers.",
+      "category": "entree",
+      "badge": "Featured",
+      "quotes": [
+        "Their chili chicken, vegetable fried rice, and mee siam noodles are fantastic"
+      ],
+      "reviewMentions": 1
+    }
+  ],
+  "highlightedReviews": [
+    {
+      "author": "Jay Shen",
+      "rating": 4,
+      "text": "As one of the few, if not the only place, that has nasi lemak, this establishment does a great job in providing dishes that range from Chinese to Malaysian to Singaporean cultures. I believe that since COVID they have transitioned to takeout only, and it's great to see that the business is still thriving even if they are still operating under the takeout only model despite how the world has evolved away from the pandemic.\n\nFor the few dishes that I came here for, qualities varied, with some dishes lacking flavor while others simply sloppily created. The Hainanese chicken relied solely on the extra dipping sauces for flavor while the chicken itself had no flavor alone. The nasi lemak had good flavor mainly because of the sambal, and the chicken had good texture. I didn't see any peanuts in the dish, which I thought was needed for nasi lemak. The sizzling beef and ginger scallion duck had pretty expected flavor because of their ingredients, meaning that what they looked like was what they tasted like, if that makes sense.\n\nWhen I got food from there a second time 4 months later, overall the food was better. The chili tofu wasn't spicy at all even if I asked for spicy in my original order. The char kway teow had both good flavor and soft texture, allowing a positive tasting experience. The sambal shrimp had a good amount of vegetables and not enough shrimp, and had very good flavor because of the sambal infused with the dish.\n\nBecause their menu is huge, I think they have an adequate selection of options that can serve customers of all kinds. Even though this is not one of my favorite spots within the Twin Cities, the dishes they have already solidifies this establishment as a \"must not miss\" within the area.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Marilyn Preston",
+      "rating": 5,
+      "text": "I have been a big fan of Peninsula for years. I like the roti, and i like the pineapple rice, but my hands down absolute favorite comfort meal in the twin cities is Peninsula's Spicy and Salted Tofu. Holy buckets is this a delicious dish. The tofu is homemade and tender, the flavoring is superb. Every time I am sick, or I am sad, or I am just hungry, I want this meal. I hate leaving reviews, but I have loved this dish for over a decade and figured I owed at least one review to the restaurant.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Sandra George",
+      "rating": 5,
+      "text": "I wish I had known about this place when dine in was an option. I lived in Malaysia for a few years and have tried several restaurants in different states that say they are Malay. However, it wasn’t the same. I had resolved to just find “American” Malay when someone told me of this place. To my surprise my favorite Malay food was available and amazing. Chicken Satay (Malay) is different than other satay and this place nailed it!  I also tried the Roti Canai (presented slightly different than stands in Malaysia) and the flavor brought me right back to Kuala Lumpar… ❤️. I will be ordering from them again!",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Morgan Erickson-Davis",
+      "rating": 5,
+      "text": "Love the food here. Our go-tos are lamb (kambing) rendang and golden tofu, but the nasi lemak and roti canai are also on-point (the roti canai curry sauce is sooo good). Wasn't a huge fan of the popiah, but maybe it's just not my thing.\nNot much heat, though; we chose the \"hot\" spice level and it was barely discernible. Nbd since the flavors more than make up for it.\nAlso fyi they weren't open for dine-in when we tried to get a table on 9/24/22. Take out only. I hope they reopen the dining room soon!",
+      "date": "Edited a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Daniel B",
+      "rating": 4,
+      "text": "Don't have any point of reference but what I had was pretty good overall. The coconut butter chicken was tasty but a bit monotoned. The nasi lemak (medium) was a nice variety of main and side, just at the higher end of my spice tolerance but still great. The roti canai unfortunately sat too long before I got to it but the dipping sauce was very flavorful.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "RS",
+      "rating": 5,
+      "text": "Ordered a range of items, Roti Canai and Roti Telur were gobbled up, vegetable fried rice was backup for the youngest eaters and appreciated, Satay chicken had no leftovers and generous peanut sauce dip, really enjoyed the beef brisket curry noodle soup. Order was ready very quickly.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Danae Hudson",
+      "rating": 5,
+      "text": "I was really craving Hainenese chicken. I ordered that and a matcha bubble tea. Lately, I’ve been trying to get almost no sugar in my bubble teas because they’ve been so sweet. This one was perfect. The Hainenese chicken was delicious and had large portions. I’m hoping to order from here again in the near future.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nam Anh Nguyen",
+      "rating": 5,
+      "text": "One of my favorite restaurants in the Twin Cities, I get food from here almost every week. Huge menu of food to try out but my go to is Mee Siam. Their desserts and drinks are incredible too – I always get drinks or desserts with my food. It's been a while since they only takeout only but the it's a very short wait and the food is always packed so well. Highly recommend spot!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Andrew Koly",
+      "rating": 5,
+      "text": "My name is Andrew Koly. I had my right arm amputated some years ago and I’m currently traveling from Denver Colorado to Minneapolis.\nMinniapolis seems like they found Boba and this city went all in and there is a lot of Boba in the city but, this particular store and this particular Boba is the top of the top. The cream of the cream as good as it gets. As a disabled man, I order DoorDash a lot, and I was blown away the first time I tasted their Drink drinks. It’s a specialty drink with mango popping Boba and it was life-changing. It also had strawberry and pineapple in it and I could tell if these were frozen fruit that they cut up and put in the drink. It was amazing.\n\nIf you get a chance to go there, my server’s name was Sunny. I told her about my experiences that was having drinking her Boba and she insisted on me to try other things. Her Deep understanding of the menu, her passion for creating works of art and calling them drinks and her empathy and the question she asked me to find out what I liked brought me to tasting flavors. I could not imagine. I’m so grateful when a company hires. Good customer service when they get a good person who really cares.\n\nPlease, if you are management with this company, you need to promote Sunny as soon as possible. She needs to be training everybody on how to talk to the customers. She really needs her own store because this lady made me feel so good. I’m ready to move to Minneapolis over my experience at a boba drink place!!!!!\n\nI can’t stress this enough, you took an out of place disabled man, five days before his birthday. He was having a really bad time because recent loss he’s experienced and you made him forget that he Is missing his right arm and his family members. He brought him a place of love and happiness and peace and it’s all thanks to your drinks and a lady named Sonny answering the phone and directing me to peace and happiness.",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Josh Dahlberg",
+      "rating": 5,
+      "text": "This is like the one and only place you can get a taste of sg/msia in MN... Yes it's slightly ok maybe really unhealthy for your cardiovascular system but it's balanced by the benefits to your mental health from eating the COCONUT BUTTER CHICKEN",
+      "date": "2 years ago",
+      "source": "Google"
+    }
+  ],
+  "timingInsights": [],
+  "dataQuality": "REAL - From Apify-scraped Google reviews",
+  "lastUpdated": "2026-02-06T00:11:38.490Z"
+}
