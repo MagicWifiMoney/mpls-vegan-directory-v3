@@ -1,112 +1,104 @@
 {
   "topProducts": [
     {
-      "name": "Tibs (various forms)",
-      "description": "A popular beef dish, frequently mentioned for being tender and flavorful. Varieties like Zil zil, Lega, and Derek are highlighted, with some having a notable jalapeño flavor.",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Sambusa",
-      "description": "A crispy appetizer, available in both veggie and beef versions. The veggie sambusa is described as 'perfectly crispy' and the dish is rated 10/10 by one reviewer.",
-      "category": "appetizer",
-      "badge": "Popular",
-      "quotes": [
-        "The Sambusas 10/10, the Vegie combo 10/10, the Zil zil Tibs:11/10, the gingery tea: perfect",
-        "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Kitfo",
-      "description": "A traditional dish, mentioned as being perfectly seasoned, buttered, and well-done. It is often included in combination platters.",
-      "category": "entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa",
-        "I’ve loved the combo meals that feature both kitfo and tibs, but the vegetarian and vegan options are excellent as well",
-        "I had the Kitfo and Derek Tibs (highly recommend)"
-      ],
-      "reviewMentions": 7
-    },
-    {
-      "name": "Veggie Combo",
-      "description": "A combination platter of vegetarian dishes. It's highly rated (10/10) and praised for its flavorful components, including lentils that impressed even skeptics.",
-      "category": "entree",
-      "badge": "Popular",
-      "quotes": [
-        "Got the half meat / half veggie combo and instantly knew I would have to come back soon because it was delicious",
-        "The veggie combo did not taste good at all"
-      ],
-      "reviewMentions": 2
-    },
-    {
       "name": "Tokkumaa",
-      "description": "A shareable dish praised for its generous portion size, presentation, and quality. Described as unique, delicious, and full of flavor and spice.",
+      "description": "A flavorful and spiced dish of mixed beans and vegetables.",
       "category": "entree",
+      "reviewMentions": 2,
       "badge": "Popular",
       "quotes": [
         "We ordered the Tokkumaa and Yebeg Alicha to share and we're absolutely amazed and shocked at the amount, presentation, an quality of the food",
         "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa"
-      ],
-      "reviewMentions": 2
+      ]
     },
     {
-      "name": "Potato and Carrot Alicha",
-      "description": "A specific vegetable stew (alicha) that is recommended as a great side or component of a meal.",
-      "category": "side dish",
+      "name": "Veggie Sambusa",
+      "description": "Perfectly crispy fried pastry filled with vegetables.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa"
+      ]
+    },
+    {
+      "name": "Vegie combo",
+      "description": "A combination platter of various vegetarian dishes.",
+      "category": "entree",
+      "reviewMentions": 2,
+      "badge": "Popular",
+      "quotes": [
+        "The Sambusas 10/10, the Vegie combo 10/10, the Zil zil Tibs:11/10, the gingery tea: perfect",
+        "I have tried to post a photo because the vegie combo was delightful but it is not accepting the photo"
+      ]
+    },
+    {
+      "name": "Gingery tea",
+      "description": "A hot, ginger-flavored tea.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "The Sambusas 10/10, the Vegie combo 10/10, the Zil zil Tibs:11/10, the gingery tea: perfect"
+      ]
+    },
+    {
+      "name": "Miser",
+      "description": "Flavorful and delicious lentil stew.",
+      "category": "entree",
+      "reviewMentions": 2,
       "badge": "Popular",
       "quotes": [
         "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa",
         "For veggies, the miser, potato and carrot alicha, and roasted beets are phenomenal"
-      ],
-      "reviewMentions": 2
+      ]
     },
     {
-      "name": "Cakes (Tiramisu/Tres Leches)",
-      "description": "The restaurant is noted for baking 'amazing' cakes, with specific mentions of Tiramisu and Tres Leches. One review highlights a special custom cake for a celebration.",
-      "category": "dessert",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "name": "Potato and carrot alicha",
+      "description": "A dish with potatoes and carrots.",
+      "category": "entree",
+      "reviewMentions": 2,
+      "badge": "Popular",
+      "quotes": [
+        "Highly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa",
+        "For veggies, the miser, potato and carrot alicha, and roasted beets are phenomenal"
+      ]
+    },
+    {
+      "name": "Beets",
+      "description": "A dish made with beets.",
+      "category": "entree",
+      "reviewMentions": 2,
+      "badge": "Popular",
+      "quotes": [
+        "Wasn't sure what to order but the potato/carrot, beets, midway tibs, and the collard greens were great",
+        "For veggies, the miser, potato and carrot alicha, and roasted beets are phenomenal"
+      ]
+    },
+    {
+      "name": "Collard Greens",
+      "description": "A dish made with collard greens.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Wasn't sure what to order but the potato/carrot, beets, midway tibs, and the collard greens were great"
+      ]
     }
   ],
   "highlightedReviews": [
     {
-      "author": "Carey Sir",
+      "author": "Andrew Zay",
       "rating": 5,
-      "text": "Popped in for lunch on New Years' Day...DELICIOUS!! We've eatten at most of the Ethiopian restaurants in the Twin Cities, and Bole is far superior to them all. The food was fresh and uniquely yummy. The Sambusas 10/10, the Vegie combo 10/10, the Zil zil Tibs:11/10, the gingery tea: perfect!\nWe loved the warm decor and the music...the waitress could have been more friendly (we were the only customers in the place, but she was completely engaged by her phone). But all in all, a hearty 5 stars! We'll be back.",
-      "date": "a month ago",
+      "text": "Some of the best Ethiopian food in the Twin Cities. Everything is so flavorful. I’ve loved the combo meals that feature both kitfo and tibs, but the vegetarian and vegan options are excellent as well. Repeat customer, will be back.",
+      "date": "2 months ago",
       "source": "Google"
     },
     {
-      "author": "Julie Chiu",
+      "author": "Dan Salem",
       "rating": 5,
-      "text": "I am obsessed with this place. It was a few years ago since I've had Ethiopian food. I was craving Ethiopian food so I was excited to find Bole! I've dined for lunch and had takeout for dinner.\n\nHighly recommend a visit and try: veggie sambusa (perfectly crispy), miser, lega tibs (delightful jalepeno flavor), kitfo (well done), potato and carrot alicha, tokkumaa. I advise ordering extra injera as well!\n\nAll I can think about after eating Bole is the next time I'll be feasting there again!",
-      "date": "a month ago",
-      "source": "Google"
-    },
-    {
-      "author": "Natnael Amare",
-      "rating": 5,
-      "text": "I went to Bole for lunch this Sunday and was pleasantly surprised! I had the Kitfo and Derek Tibs (highly recommend). The Kitfo was perfectly seasoned and buttered perfectely, while the Tibs were cooked to perfection, it was tender and flavorful. Bole has definitely earned a loyal customer. Keep up the great work!",
-      "date": "3 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Nahom Walelinge",
-      "rating": 5,
-      "text": "After trying several restaurants in the Twin Cities with a friend, I had the pleasure of dining at Bole Restaurant, and it was an unforgettable experience. The special kitfo and lamb shekela tibs were perfectly seasoned, tender, and full of flavor. The service was exceptional, and the atmosphere made me feel right at home.\n\nI also enjoyed traditional Ethiopian coffee, rich and aromatic, which complemented the meal perfectly. To top it off, the homemade tiramisu was divine—rich, creamy, and perfectly balanced with espresso-soaked ladyfingers and a dusting of cocoa. It was a perfect ending to a fantastic meal.\n\n5/5 Highly Recommend!",
-      "date": "10 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Blue",
-      "rating": 5,
-      "text": "Bole Ethiopian Cuisine has some of the best food, service, and atmosphere of any of the restaurants I have been to in the twin cities. We ordered the Tokkumaa and Yebeg Alicha to share and we're absolutely amazed and shocked at the amount, presentation, an quality of the food. Each bite was unique and delicious, filled with so much flavor and spice. We left completely full, in spirit and in stomach, several take out containers filled with food for several more meals later this week. Thank you Bole for the excellent service and community.",
-      "date": "a week ago",
+      "text": "I stumbled upon this wonderful new restaurant in Maple Grove with meat and vegan options. I can’t wait to go back! The vegan sampler was out of this world, as were the appetizers. My friend had a couple different traditional meat dishes.",
+      "date": "4 months ago",
       "source": "Google"
     },
     {
@@ -117,6 +109,20 @@
       "source": "Google"
     },
     {
+      "author": "Blue",
+      "rating": 5,
+      "text": "Bole Ethiopian Cuisine has some of the best food, service, and atmosphere of any of the restaurants I have been to in the twin cities. We ordered the Tokkumaa and Yebeg Alicha to share and we're absolutely amazed and shocked at the amount, presentation, an quality of the food. Each bite was unique and delicious, filled with so much flavor and spice. We left completely full, in spirit and in stomach, several take out containers filled with food for several more meals later this week. Thank you Bole for the excellent service and community.",
+      "date": "a week ago",
+      "source": "Google"
+    },
+    {
+      "author": "Carey Sir",
+      "rating": 5,
+      "text": "Popped in for lunch on New Years' Day...DELICIOUS!! We've eatten at most of the Ethiopian restaurants in the Twin Cities, and Bole is far superior to them all. The food was fresh and uniquely yummy. The Sambusas 10/10, the Vegie combo 10/10, the Zil zil Tibs:11/10, the gingery tea: perfect!\nWe loved the warm decor and the music...the waitress could have been more friendly (we were the only customers in the place, but she was completely engaged by her phone). But all in all, a hearty 5 stars! We'll be back.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
       "author": "Alicia Shinn",
       "rating": 5,
       "text": "I was looking for a unique yet flavorful place to eat while in Minnesota on business travel and came across this spot! At first glance, you think you’re in the wrong location, but you’re not!\nAs soon as I opened the door I was greeted and seated, which is an A+ for me.\nMy waitress was amazing with the recommendations.\nI tried the Midway dish with the three sides.\nEVERYTHING WAS FLAVORFUL AND GOOD!\nCome try it, you will not be disappointed!!",
@@ -124,17 +130,10 @@
       "source": "Google"
     },
     {
-      "author": "Krista Mastel",
+      "author": "Allyson C",
       "rating": 5,
-      "text": "Three of us met for dinner at the St. Paul location. Ordered the Tibs Combo and let the chef decide the sides. The meal was FANTASTIC! Very tasty, excellent variety of spice/flavors, and huge portions (we all took home leftovers). Staff was friendly and checked in throughout the meal. Great ambiance too.",
-      "date": "a month ago",
-      "source": "Google"
-    },
-    {
-      "author": "Andrew Zay",
-      "rating": 5,
-      "text": "Some of the best Ethiopian food in the Twin Cities. Everything is so flavorful. I’ve loved the combo meals that feature both kitfo and tibs, but the vegetarian and vegan options are excellent as well. Repeat customer, will be back.",
-      "date": "2 months ago",
+      "text": "Got the half meat / half veggie combo and instantly knew I would have to come back soon because it was delicious! I went with my brother who suggested what veggie dishes to get, and I was amazed at how good everything was. For example, I normally don’t like lentils, but the lentils here might have changed my mind with just how flavorful and delicious they were.\n\nOne of my favorite recent meals and a place I want to make one of my new regular places!",
+      "date": "3 months ago",
       "source": "Google"
     },
     {
@@ -143,9 +142,23 @@
       "text": "Bole Restaurant is simply outstanding! The food is always fresh and delicious, the service is excellent, and the hospitality is warm and welcoming. I recently brought my friends, and they were just as impressed. Maintaining such consistent quality for so many years is rare—this truly is one of the best restaurants around!",
       "date": "3 months ago",
       "source": "Google"
+    },
+    {
+      "author": "Mai Yer Xiong",
+      "rating": 5,
+      "text": "Delicious food, fast and friendly service. Love the tibs! Great vegetarian options too. Nice indoor and patio seating. The injera is good and they serve a generous amount with each entree. The best Ethiopian food I've tried in the Twin Cities!",
+      "date": "4 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Lauren Lathrop",
+      "rating": 4,
+      "text": "Great flavors and options for a lovely Ethiopian meal. Our large group shared several plates and everything was delicious. Service was a bit slow and we were waiting on water refills or the chance to order now drinks a few times. Our group of seven were seated in a small booth with deep seats that felt a little cramped and warm. Overall, a nice dinner with a few small issues.",
+      "date": "4 months ago",
+      "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:24:11.186Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:23:12.477Z"
 }

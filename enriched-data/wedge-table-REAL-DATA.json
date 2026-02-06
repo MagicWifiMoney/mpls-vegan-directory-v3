@@ -2,75 +2,29 @@
   "topProducts": [
     {
       "name": "Coffee",
-      "description": "Excellent coffee and good lattes, popular for working or a quick stop.",
-      "category": "Drink",
+      "description": "Excellent coffee.",
+      "category": "drink",
+      "reviewMentions": 7,
       "badge": "Top Pick",
       "quotes": [
         "Excellent coffee, takeout food, and basic co-op groceries",
         "Can also come to do work with a cup of coffee",
         "Great place: coffee shop, grocery and meeting space , all in one"
-      ],
-      "reviewMentions": 7
+      ]
     },
     {
-      "name": "Smoothie",
-      "description": "Described as delicious and a good option for a quick drink.",
-      "category": "Drink",
-      "badge": "Popular",
-      "quotes": [
-        "Good place for a smoothie but that goth chick at the smoothie bar is kinda weird",
-        "Delicious food and smoothies",
-        "A small gas station sized selection of shelved, refrigerated & frozen foods as well as a salad bar, sandwich & hot food bar, soups, smoothies coffee beverages and more, made fresh to order"
-      ],
-      "reviewMentions": 3
-    },
-    {
-      "name": "Mayan Bowl",
-      "description": "Praised as 'the best' and 'full of fiber and vitamins,' sometimes includes carnitas.",
-      "category": "Entree",
-      "badge": "Featured",
-      "quotes": [
-        "Best MAYAN BOWL I ever had"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Goddess Bowl",
-      "description": "A favorite bowl featuring smoked salmon, avocado, and chevre on a bed of quinoa and baby spinach.",
-      "category": "Entree",
-      "badge": "Featured",
-      "quotes": [
-        "The Goddess Bowl with smoked salmon, avacado, and chevre on a bed of quinoa and baby spinach is my fave"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Kombucha",
-      "description": "Available on tap as a refreshing beverage option.",
-      "category": "Drink",
+      "name": "Kombucha on tap",
+      "description": "Fermented tea drink available on tap.",
+      "category": "drink",
+      "reviewMentions": 2,
       "badge": "Popular",
       "quotes": [
         "Try the Kombucha on tap",
         "Full service deli and sandwich stations, kombucha on tap,to rate prepared sushi to - go, with sitting areas inside and out that make for great people watching while getting your naturganic on point"
-      ],
-      "reviewMentions": 2
+      ]
     }
   ],
   "highlightedReviews": [
-    {
-      "author": "Joshua Lange",
-      "rating": 5,
-      "text": "This place is perfect for a quick fill up of your natural foods. A small gas station sized selection of shelved, refrigerated & frozen foods as well as a salad bar, sandwich & hot food bar, soups, smoothies coffee beverages and more, made fresh to order! Also a large cafeteria style dining area with a small bar that serves wine & beer. Possibly organic vodka? Not sure on that.",
-      "date": "6 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Jen Kennedy",
-      "rating": 5,
-      "text": "This little nook off of Nicolette and 23rd is small, but it's packed with everything you need if you're not near the Wedge on Lyndale. Full service deli and sandwich stations, kombucha on tap,to rate prepared sushi to - go, with sitting areas inside and out that make for great people watching while getting your naturganic on point. Selection is eccentric on certain items, but always good, always quality, and the staff rocks.",
-      "date": "6 years ago",
-      "source": "Google"
-    },
     {
       "author": "T and J H (JT)",
       "rating": 5,
@@ -93,17 +47,31 @@
       "source": "Google"
     },
     {
-      "author": "Karen Engelsen",
+      "author": "Joshua Lange",
       "rating": 5,
-      "text": "This is a place that can satisfy both the carnivore and the vegetarian, while offering gluten free for either. The Goddess Bowl with smoked salmon, avacado, and chevre on a bed of quinoa and baby spinach is my fave. Try the Kombucha on tap.  Cheery, laid back atmosphere..",
+      "text": "This place is perfect for a quick fill up of your natural foods. A small gas station sized selection of shelved, refrigerated & frozen foods as well as a salad bar, sandwich & hot food bar, soups, smoothies coffee beverages and more, made fresh to order! Also a large cafeteria style dining area with a small bar that serves wine & beer. Possibly organic vodka? Not sure on that.",
       "date": "6 years ago",
       "source": "Google"
     },
     {
-      "author": "J Waterous",
+      "author": "Jen Kennedy",
       "rating": 5,
-      "text": "I just got a bowl of soup and bread and butter. However small it sounds it was a very satisfying and health giving meal. I always feel comfortable at the Wedge Table.",
+      "text": "This little nook off of Nicolette and 23rd is small, but it's packed with everything you need if you're not near the Wedge on Lyndale. Full service deli and sandwich stations, kombucha on tap,to rate prepared sushi to - go, with sitting areas inside and out that make for great people watching while getting your naturganic on point. Selection is eccentric on certain items, but always good, always quality, and the staff rocks.",
       "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "G B",
+      "rating": 5,
+      "text": "I love this place, I work with Cathy in Colorado and she told me all about it and how much she loved working here... this store looks beautiful, clean, vibrant and healthy... wonderful co-op! I’ll have to visit some time!",
+      "date": "6 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Sabrina Miller",
+      "rating": 5,
+      "text": "Best MAYAN BOWL I ever had! So full of fiber and vitamins, what an amazing treat! Thank you wedge table!",
+      "date": "5 years ago",
       "source": "Google"
     },
     {
@@ -114,21 +82,21 @@
       "source": "Google"
     },
     {
-      "author": "Ƶ Makila",
+      "author": "Karen Engelsen",
       "rating": 5,
-      "text": "A super great hybrid of grocery store and counter service meals! I love going here to get something to eat for lunch and then a few things to cook later for dinner!",
+      "text": "This is a place that can satisfy both the carnivore and the vegetarian, while offering gluten free for either. The Goddess Bowl with smoked salmon, avacado, and chevre on a bed of quinoa and baby spinach is my fave. Try the Kombucha on tap.  Cheery, laid back atmosphere..",
       "date": "6 years ago",
       "source": "Google"
     },
     {
-      "author": "G B",
+      "author": "Rizwan Kassam",
       "rating": 5,
-      "text": "I love this place, I work with Cathy in Colorado and she told me all about it and how much she loved working here... this store looks beautiful, clean, vibrant and healthy... wonderful co-op! I’ll have to visit some time!",
+      "text": "The employees are very friendly and efficient. I frequent this place at least 2-3 times weekly. I like the variety and assortments of everything you offer. The employees make make it a great experience for me. In my opinion this would not be possible without a good and supportive management team!",
       "date": "6 years ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-06T00:00:43.839Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:29:30.447Z"
 }

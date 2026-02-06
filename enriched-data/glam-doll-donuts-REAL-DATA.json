@@ -2,82 +2,71 @@
   "topProducts": [
     {
       "name": "Vegan Donuts",
-      "description": "A large selection of vegan donuts that are frequently praised for tasting like traditional donuts, although some reviews mention they can be dense or dry.",
-      "category": "Dessert",
+      "description": "A large selection of unique donut flavors are available as vegan options. Some reviews note they can be dry, but others praise them as top-tier.",
+      "category": "dessert",
+      "reviewMentions": 6,
       "badge": "Top Pick",
       "quotes": [
         "My first time coming I was refered by a friend since going vegan and had a taste for a donut; I got two of each of 4 vegan donuts selections (Vanilla Starlet, orange, ginger & cinnamon infused glaze, Sugar Kane (vanilla glaze), and a vegan strawberry), so 8 donuts total",
         "Top tier vegan donuts that taste just like normal ones and the service is great",
         "Vegan donuts changed my life"
-      ],
-      "reviewMentions": 6
+      ]
     },
     {
-      "name": "Bananaramma",
-      "description": "A specific donut flavor mentioned as a favorite by customers.",
-      "category": "Dessert",
+      "name": "Vanilla Starlet",
+      "description": "A specific vegan donut flavor mentioned by a customer.",
+      "category": "dessert",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "We loved all of the options we brought home but especially the bananaramma, the caramel apple cheesecake and the chocolate w/ salted caramel"
-      ],
-      "reviewMentions": 1
+        "My first time coming I was refered by a friend since going vegan and had a taste for a donut; I got two of each of 4 vegan donuts selections (Vanilla Starlet, orange, ginger & cinnamon infused glaze, Sugar Kane (vanilla glaze), and a vegan strawberry), so 8 donuts total"
+      ]
     },
     {
-      "name": "Caramel Apple Cheesecake Donut",
-      "description": "A unique and favored donut flavor highlighted in reviews.",
-      "category": "Dessert",
+      "name": "Orange, Ginger & Cinnamon Infused Glaze Donut",
+      "description": "A vegan donut with an orange, ginger, and cinnamon infused glaze.",
+      "category": "dessert",
+      "reviewMentions": 0,
       "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "quotes": []
     },
     {
-      "name": "Chocolate with Salted Caramel Donut",
-      "description": "A highly-rated donut with a combination of chocolate and salted caramel.",
-      "category": "Dessert",
+      "name": "Sugar Kane Donut",
+      "description": "A vegan donut with a vanilla glaze.",
+      "category": "dessert",
+      "reviewMentions": 0,
       "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "quotes": []
     },
     {
-      "name": "Coffee & Lattes",
-      "description": "Numerous coffee and latte options, including seasonal flavors like Snickerdoodle Latte. Some specialty lattes receive mixed reviews.",
-      "category": "Drink",
+      "name": "Vegan Strawberry Donut",
+      "description": "A vegan donut with strawberry flavor.",
+      "category": "dessert",
+      "reviewMentions": 0,
       "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "quotes": []
     },
     {
-      "name": "Femme Fatale",
-      "description": "A specific donut variety available for purchase, mentioned as part of an assorted selection.",
-      "category": "Dessert",
-      "badge": "Popular",
+      "name": "Coffee",
+      "description": "Various coffee selections are available.",
+      "category": "drink",
+      "reviewMentions": 14,
+      "badge": "Top Pick",
       "quotes": [
-        "My First Time Ordering Through Glam Doll Donuts In Minneapolis MN With DoorDash\nI Got Some Half Dozen Assorted Dark Angel\nFemme Fatale,Misfit And Chocolate Starlet And My Drink Was Strawberry Malt Shake",
-        "The Misfit and the femme fatale were out of this world"
-      ],
-      "reviewMentions": 2
+        "Loved my donut & coffee",
+        "The donuts and coffee selections were numerous and tasty",
+        "Friend had the drip coffee, would NOT recommend"
+      ]
     },
     {
-      "name": "Misfit",
-      "description": "A named donut variety that is part of the assorted options offered.",
-      "category": "Dessert",
-      "badge": "Popular",
-      "quotes": [
-        "My First Time Ordering Through Glam Doll Donuts In Minneapolis MN With DoorDash\nI Got Some Half Dozen Assorted Dark Angel\nFemme Fatale,Misfit And Chocolate Starlet And My Drink Was Strawberry Malt Shake",
-        "The Misfit and the femme fatale were out of this world",
-        "We got the vegan misfit and a non-vegan glazed, and both were dry on the inside and the icing/glaze on both cracked and fell off"
-      ],
-      "reviewMentions": 3
-    },
-    {
-      "name": "Strawberry Donut",
-      "description": "A classic donut flavor noted for its croissant-like texture and rich, frosting-like topping.",
-      "category": "Dessert",
+      "name": "Chai Latte",
+      "description": "A customer mentioned a 'perfect' Chai latte. Vegan status would depend on the milk used.",
+      "category": "drink",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "Their dirty chai is to die for, along with the strawberry donut"
-      ],
-      "reviewMentions": 1
+        "Chai latte was perfect and I got a free doughnut :) thanks"
+      ]
     }
   ],
   "highlightedReviews": [
@@ -86,27 +75,6 @@
       "rating": 5,
       "text": "Love the outside of the store with its pretty pink facade. We found this place after visiting Children's Minneapolis for a dr visit. We were welcomed so warmly as soon as we walked in and enjoyed the vast array of unique donut flavors offered including vegan options. You can tell that the bakery and staff are very supportive of the city which is something that always makes me happy. We hemmed and hawed over a couple flavors because there were so many good options that it was tough to decide. The lovely lady that was helping us made sure that was not a problem and gave us two free donuts on top of the half dozen we ended up paying for. We loved all of the options we brought home but especially the bananaramma, the caramel apple cheesecake and the chocolate w/ salted caramel. We'll be back again in the future without a question.",
       "date": "3 weeks ago",
-      "source": "Google"
-    },
-    {
-      "author": "WyldWeezle",
-      "rating": 5,
-      "text": "First time back to MN in more than 10 years, STILL amazing!\nI didn't think to ask her name (She made the model donut shop in the glass box on the wall), but our server was friendly and awesome. Had a Pecan Scotchie, a Calendar Girl, half of my wife's Showgirl, and hot chocolate. EPIC! Go! Eat donuts!",
-      "date": "6 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Kristen Costello",
-      "rating": 5,
-      "text": "The donuts and coffee selections were numerous and tasty! Shout out to the seasonal Snickerdoodle Latte. That pumpkin donut makes me feel sorry for every other donut. They have vegan versions, which is dope for folks with unique dietary needs.\n\nThe service and atmosphere were outstanding. The folks working are happy, kind, and funny. Making conversation and singing along while we made our tough choices. You felt welcomed instantly and left in a lighter spirit (though maybe not a lighter weight 😅).",
-      "date": "2 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Chanthy And Tina Taem",
-      "rating": 5,
-      "text": "My First Time Ordering Through Glam Doll Donuts In Minneapolis MN With DoorDash\nI Got Some Half Dozen Assorted Dark Angel\nFemme Fatale,Misfit And Chocolate Starlet And My Drink Was Strawberry Malt Shake. Definitely Will Come Back Again To Glam Doll Donuts.",
-      "date": "3 months ago",
       "source": "Google"
     },
     {
@@ -138,6 +106,20 @@
       "source": "Google"
     },
     {
+      "author": "Anna Wilson",
+      "rating": 5,
+      "text": "Vegans like donuts too!! 🫶🏾 Thank you for including us! I’ve been a patron of this place for years and the donuts are always delicious and the service is always super friendly. They are particularly aware and helpful of any type of food preference or allergy, offering things like separate boxes for non-dairy or nuts etc. While I usually get mine to go, the funky, bright atmosphere inside always makes you want to stay and hang out. Thank you for being inclusive in all the ways 🍩🏳️‍🌈",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kristen Costello",
+      "rating": 5,
+      "text": "The donuts and coffee selections were numerous and tasty! Shout out to the seasonal Snickerdoodle Latte. That pumpkin donut makes me feel sorry for every other donut. They have vegan versions, which is dope for folks with unique dietary needs.\n\nThe service and atmosphere were outstanding. The folks working are happy, kind, and funny. Making conversation and singing along while we made our tough choices. You felt welcomed instantly and left in a lighter spirit (though maybe not a lighter weight 😅).",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
       "author": "Ryan Sweet",
       "rating": 5,
       "text": "Everyone else is right. The donuts and building are great. Retro and kitschy but most of all fun. If you’re reading this review trying to decide if you should go. Do it. Highly endorse. I had the OG and the vegan donuts. Both great. Vegan donut was a little more dense, but ultimately just as good as the others.\n\nIf you’re the owner/manager/staff reading this. Great job. Thank you! The staff the morning of Mar 22 ‘25 could not have been better. Helpful, funny, thoughtful and cool! Any business would be lucky to have them.",
@@ -145,14 +127,21 @@
       "source": "Google"
     },
     {
-      "author": "Anna Wilson",
+      "author": "Dominique Martinez",
       "rating": 5,
-      "text": "Vegans like donuts too!! 🫶🏾 Thank you for including us! I’ve been a patron of this place for years and the donuts are always delicious and the service is always super friendly. They are particularly aware and helpful of any type of food preference or allergy, offering things like separate boxes for non-dairy or nuts etc. While I usually get mine to go, the funky, bright atmosphere inside always makes you want to stay and hang out. Thank you for being inclusive in all the ways 🍩🏳️‍🌈",
-      "date": "a year ago",
+      "text": "Amazing donut shop with a large selection of vegan options. The staff is SO COOL and easy to hang with.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "CRBondi",
+      "rating": 5,
+      "text": "Absolutely excellent client service. The donuts were BEYOND EXCELLENT. I ordered 9 dozen online on a Friday at 2pm needing them at 8am the next morning. I was hopeful but didn’t think this was reasonable for me to expect. The online ordering they have was super easy, the online payment was a breeze.  I placed the order and then was able to locate their contact info very easily on their page and sent a quick email requesting confirmation they could do this order. Within minutes I received a reply that it would be ready. GlamDoll Donuts came through after I wasted 2 hrs and 40 minutes trying to get assistance with Krispy Kreme. Obviously GlamDoll is committed to superior client service and the “donut bar” was the hit of the whole event and it exposed 150 new people to GlamDoll and your excellent client service. Thank you for saving this event.",
+      "date": "2 months ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:50:01.296Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:26:17.887Z"
 }

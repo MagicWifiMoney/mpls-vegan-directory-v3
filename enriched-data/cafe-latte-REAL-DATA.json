@@ -1,89 +1,98 @@
 {
   "topProducts": [
     {
-      "name": "Tres Leches Cake",
-      "description": "A very popular cake available in various flavors and forms like cupcakes and pastries. Described as amazing, delightful, and flavorful.",
-      "category": "Dessert",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Chocolate Cake",
-      "description": "Frequently cited as a favorite and the 'best in the Twin Cities'. Available in different varieties, including flourless and gluten-free options.",
-      "category": "Dessert",
-      "badge": "Top Pick",
-      "quotes": [
-        "Otherwise their chocolate cakes and cheesecake style cakes are a favorite of mine",
-        "The raspberry cream torte, banana cake, flourless chocolate cake, and vanilla tres leches were all very tasty",
-        "Best chocolate cake in the Twin Cities"
-      ],
-      "reviewMentions": 9
-    },
-    {
-      "name": "Soup",
-      "description": "Praised as 'beyond wonderful' and a good choice for cold weather. Served alongside salads and sandwiches, with Artichoke Leek being a specifically mentioned flavor.",
-      "category": "Entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "Great Soup and Salad options and Latte/Coffee worthy Desserts",
-        "The soup is beyond wonderful",
-        "Best salads, soups and sandwiches"
-      ],
-      "reviewMentions": 12
-    },
-    {
-      "name": "Salad",
-      "description": "Known for being made with fresh ingredients. A popular option is the 'three salad combo' which offers a variety of flavors and cuisines.",
-      "category": "Entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "Great Soup and Salad options and Latte/Coffee worthy Desserts",
-        "Food is fantastic I had the Wild Sweet Potato and the red beet asparagus salad and finished it with a amazing tres leches cupcake that was out of this world",
-        "Best salads, soups and sandwiches"
-      ],
-      "reviewMentions": 11
-    },
-    {
-      "name": "Cheesecake",
-      "description": "Available by the slice or as a whole cake in multiple sizes and flavors. The Classic Vanilla with whipped cream and strawberries is noted for its beautiful presentation.",
-      "category": "Dessert",
-      "badge": "Top Pick",
-      "quotes": [
-        "Otherwise their chocolate cakes and cheesecake style cakes are a favorite of mine",
-        "Recently, I wanted to thank a helpful neighbor by gifting them with a cheesecake",
-        "A comfortable cafe atmosphere with soups and salads and entres in one line and a delicious pizza place\nPlus it has good wines , coffee, cakes and several kinds of really, really delicious cheesecake"
-      ],
-      "reviewMentions": 7
-    },
-    {
-      "name": "Scones",
-      "description": "The award-winning Blueberry Lemon Scones are a highlight. They are recommended fresh in the morning and offer a 'European clotted cream / scone experience'.",
-      "category": "Pastry",
+      "name": "Wild Sweet Potato",
+      "description": "A food item, possibly an entree or side dish.",
+      "category": "entree",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "Individuals can select from gourmet pizzas to their own award-winning Blueberry Lemon Scones and Turtle Cake"
-      ],
-      "reviewMentions": 1
+        "Food is fantastic I had the Wild Sweet Potato and the red beet asparagus salad and finished it with a amazing tres leches cupcake that was out of this world"
+      ]
     },
     {
-      "name": "Sandwiches",
-      "description": "A staple menu item, served as part of a classic cafe selection with fresh ingredients, alongside soups and salads.",
-      "category": "Entree",
+      "name": "Red Beet Asparagus Salad",
+      "description": "A salad featuring red beets and asparagus.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Food is fantastic I had the Wild Sweet Potato and the red beet asparagus salad and finished it with a amazing tres leches cupcake that was out of this world"
+      ]
+    },
+    {
+      "name": "Focaccia",
+      "description": "A type of Italian bread.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": []
+    },
+    {
+      "name": "Coffee",
+      "description": "A classic brewed coffee beverage.",
+      "category": "drink",
+      "reviewMentions": 11,
+      "badge": "Top Pick",
+      "quotes": [
+        "Great Soup and Salad options and Latte/Coffee worthy Desserts",
+        "Great coffee, great cake selection, great sandwiches, pizza,wine and beer",
+        "Cafe Latte serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts"
+      ]
+    },
+    {
+      "name": "Tea",
+      "description": "A hot or cold brewed tea beverage.",
+      "category": "drink",
+      "reviewMentions": 2,
       "badge": "Popular",
       "quotes": [
-        "Great coffee, great cake selection, great sandwiches, pizza,wine and beer",
-        "Best salads, soups and sandwiches"
-      ],
-      "reviewMentions": 2
+        "Cafe Latte serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts",
+        "Server was more content on telling me what he could't do instead of accommodating my request"
+      ]
     }
   ],
   "highlightedReviews": [
+    {
+      "author": "Lillys Osorio",
+      "rating": 5,
+      "text": "😀Today I visited Cafe Latte. I was served by Duffez,👈👌 who was very quick and friendly. Then a Mexican gentleman who speaks Spanish💪 found me a menu and was very helpful. I will return and I recommend it. They have vegan and gluten-free options.✨️",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Christian Engelbrecht",
+      "rating": 5,
+      "text": "Visiting yesterday, I saw they were celebrating 40 years and I think I've been coming here about that long. I left Minnesota a while ago, but whenever I come back, this is often the first place I go. In an era of chains and copycat restaurants, I find this place truly unique and really appreciate that. The quality of food, I think, is also exceptional. I always look forward to my bowl of chili and a takeaway slice of turtle cake for later on. Thanks to the owners who started this and kept this going for the last 40 and all the best for the next 40 to come.",
+      "date": "2 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Rivix K",
+      "rating": 5,
+      "text": "Easily one of my favorite places. Friendly service, clean building, and amazing desserts. So far I havent found a better place to get cake. I would definitely recommend during summer to get their fruit tart cake slice. Otherwise their chocolate cakes and cheesecake style cakes are a favorite of mine.",
+      "date": "a week ago",
+      "source": "Google"
+    },
+    {
+      "author": "Magarara",
+      "rating": 5,
+      "text": "I love their food! The desserts are another notch as Emeril used to say. The soup is beyond wonderful. I think it was artichoke leek I had. Given that it was -24° F, (-47° F with wind chill) it hit the spot. Unfortunately the prices have increased dramatically.",
+      "date": "Edited 2 days ago",
+      "source": "Google"
+    },
     {
       "author": "Jeannie Hill",
       "rating": 5,
       "text": "I've been going to Cafe Latte for years and years; meeting clients for business, taking a dear senior friend on an outing, going out to eat with fellow dancers before or after a class, or just for my own pleasure. It's a bit like a salad, soup, and sandwich bar, where you make selections and place your order as you go. However, I'd call this gourmet quality menu entrees.\n\nMy favorite is to order their three salad combos. The selection is great, with a good variety of flavors and cuisines, and they are unusually tasty. Cafe Latte serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts. Individuals can select from gourmet pizzas to their own award-winning Blueberry Lemon Scones and Turtle Cake.\n\nIf you want the European clotted cream / scone experience, this is as close as you can come to it in the United States. I highly recommend going for scones first thing in the morning, when you cannot the \"fresh out of the oven\" flavor.\n\nRecently, I wanted to thank a helpful neighbor by gifting them with a cheesecake. I checked closer to home, in Minnetonka, Eden Prairie, and Edina - no one else had full cheesecakes ready for pickup-and-go. Not only that, Cafe Latte, has them in three sizes as well as selling cheesecake by the slice. In addition, you have multiple flavors to choose from. For my neighbor, I selected their Classic Vanilla Cheesecake. It's boxed nicely and is a stunning presentation with whipped cream and strawberries on top.\n\nThere are three distinct dining areas an upstairs, lower-level tables and booths, as well as the dessert/coffee lounge on the south end. Conveniently, they have two cash register areas.\nLarge men and women restrooms are available directly across the hall. There is street parking and a paid parking lot across the street on the west. To avoid peak hours, I recommend going mid-afternoon.\n\nExcellent service. Top notch ambience.",
       "date": "Edited 4 weeks ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mathew Heart",
+      "rating": 5,
+      "text": "We ordered a ton of tres leches pastries in various flavors for our Christmas party, along with their chocolate truffles, and everything was perfect!\n\nThe packing was amazing--neat and secure. The service was excellent, and the staff made the entire process so smooth. As for the sweets, they were absolutely delightful! Every bite was flavorful and worth raving about.\n\nThe quality was top-notch, and everything was incredibly tasty. Parking on the street can be a bit of a challenge, but it's well worth the effort for treats this good.\n\nHighly recommend for any special occasion--or just because!",
+      "date": "a month ago",
       "source": "Google"
     },
     {
@@ -101,56 +110,21 @@
       "source": "Google"
     },
     {
-      "author": "Michael McMn",
-      "rating": 4,
-      "text": "A comfortable cafe atmosphere with soups and salads and entres in one line and a delicious pizza place\nPlus it has good wines , coffee, cakes and several kinds of really, really delicious cheesecake.  Yum!",
-      "date": "a month ago",
-      "source": "Google"
-    },
-    {
-      "author": "Rube Castelar",
-      "rating": 5,
-      "text": "The chicken dumpling soup was delicious as well as the smoked turkey sandwich. The German chocolate cake was a bit too sweet for me but overall good. The service was outstanding, shout-out to the girl serving the soup who gave me the soup recommendation :)",
-      "date": "2 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Padraic McGuire",
-      "rating": 5,
-      "text": "As a salad & sandwich cafeteria,   pretty good, kinda spendy.\n\nXlnt desserts, though I wish they'd bring the Black Forest Cherry cake back.\n\nSadly they now have a computerized coffee machine, so pretty much downgrade their coffee score. You have a Ristretto button but can't make one?",
-      "date": "Edited 2 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Crystal Vrieze",
-      "rating": 5,
-      "text": "Espresso drinks, gluten free flourless chocolate cake and gluten free cheesecake are all that I've had so far and they are very good. The chocolate is a dark chocolate but it's not too dark and not to rich. Its really good. Highly recommend.\nI do wish they had more gluten free soup options then I would try the soup. I have only seen two, both of which I couldn't have. Darn food issues 😑",
-      "date": "3 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Christian Engelbrecht",
-      "rating": 5,
-      "text": "Visiting yesterday, I saw they were celebrating 40 years and I think I've been coming here about that long. I left Minnesota a while ago, but whenever I come back, this is often the first place I go. In an era of chains and copycat restaurants, I find this place truly unique and really appreciate that. The quality of food, I think, is also exceptional. I always look forward to my bowl of chili and a takeaway slice of turtle cake for later on. Thanks to the owners who started this and kept this going for the last 40 and all the best for the next 40 to come.",
-      "date": "2 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Ken Mbeke",
-      "rating": 5,
-      "text": "Great coffee, great cake selection, great sandwiches, pizza,wine and beer! Very spacious facility with both upstairs and downstairs seating.  A great spot to chill, study, or meet up with friends",
-      "date": "2 weeks ago",
-      "source": "Google"
-    },
-    {
       "author": "asha p",
       "rating": 5,
       "text": "One of my favourite spots for dessert date night. Have only tried the sweet treats so far, which tend to be on the pricier side. Have dined in a few times but depending on the time/day it can be very busy and hectic. The raspberry cream torte, banana cake, flourless chocolate cake, and vanilla tres leches were all very tasty.",
       "date": "4 weeks ago",
       "source": "Google"
+    },
+    {
+      "author": "Poppy",
+      "rating": 4,
+      "text": "The food is excellent. My experiences with service have been mixed. Today, the chick serving was quite rude, rolling her eyes and sighing at me. I really can’t imagine why. I smiled, asked for what I wanted, and said thanks, that was the extent of the interaction, add in her asking one question, which I answered “yes, please,” and and her unexplainable huffing and eye rolling. She did not greet me or thank me, only acted like I was somehow a pain in her side. I’m not asking for stellar customer service, only for kindness to other humans. I have been there twice before and once had excellent service and the other time it was fine and unremarkable. I guess they can’t all be stars. 🤷‍♀️",
+      "date": "Edited a month ago",
+      "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-06T00:19:25.505Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:31:26.661Z"
 }

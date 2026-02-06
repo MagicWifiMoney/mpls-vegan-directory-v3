@@ -2,127 +2,138 @@
   "topProducts": [
     {
       "name": "Vegan Biscuits and Gravy",
-      "description": "A favorite dish among reviewers, described as very good and filling. The mushroom gravy is specifically highlighted as being delicious enough to buy on its own.",
+      "description": "A favorite dish, the half order is very filling. The mushroom gravy is good enough to take home.",
       "category": "entree",
+      "reviewMentions": 3,
       "badge": "Popular",
       "quotes": [
         "The vegan biscuits and gravy are my favorite, and all the baked goods I’ve had have been outstanding",
         "The vegan biscuits and gravy were so so good",
         "My favorites are the vegan biscuits and gravy (a half order is plenty"
-      ],
-      "reviewMentions": 3
+      ]
     },
     {
       "name": "Baked Goods",
-      "description": "A general category that receives high praise, with reviewers calling them \"outstanding\" and \"REAL good.\"",
+      "description": "Outstanding vegan baked goods are available.",
       "category": "dessert",
+      "reviewMentions": 5,
       "badge": "Top Pick",
       "quotes": [
         "The vegan biscuits and gravy are my favorite, and all the baked goods I’ve had have been outstanding",
         "Still the best coffee vegan/vegetarian baked goods and food",
         "and, you can get the biscuit breakfast with the gravy which is a nice hearty meal), the Reuben, hash-browns, and their wide range of baked goods"
-      ],
-      "reviewMentions": 5
+      ]
+    },
+    {
+      "name": "Seiten Philly Sub",
+      "description": "A fantastic sub made with seitan and vegan cheese.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Had the Seiten Philly sub vegan cheese"
+      ]
+    },
+    {
+      "name": "Tofu Scramble",
+      "description": "A breakfast dish that was noted as having little flavor or seasoning.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Both the tofu scramble and breakfast sandwich had little flavor, which I assume is down to a lack of seasoning"
+      ]
+    },
+    {
+      "name": "Vegan Breakfast Sandwich",
+      "description": "A breakfast sandwich that was noted as having little flavor or seasoning.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "I went for a late breakfast here and got their vegan breakfast sandwich and a muddy water"
+      ]
+    },
+    {
+      "name": "Falafel Bowl",
+      "description": "Described as a colorfully appetizing dish.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Sadly only 1 of the three plates we ordered were colorfully appetizing (the falafel bowl)"
+      ]
+    },
+    {
+      "name": "Lentil Soup",
+      "description": "A delicious soup, though its appearance was described as muted and brown.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "The lentil soup was delicious, but looked muted and brown like the “chicken and waffles” which visually did not live up to the pretty good flavor"
+      ]
+    },
+    {
+      "name": "Chips and Salsa",
+      "description": "The salsa was liked, but the reviewer wished for more and better chips.",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Chips and salsa could have had more chips, and maybe some better ones"
+      ]
+    },
+    {
+      "name": "Desserts",
+      "description": "The desserts are described as excellent.",
+      "category": "dessert",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Their desserts are excellent, I will give them that"
+      ]
     },
     {
       "name": "Coffee",
-      "description": "Mentioned as being high quality and one of the best, attracting repeat customers.",
+      "description": "The restaurant serves quality coffee.",
       "category": "drink",
+      "reviewMentions": 15,
       "badge": "Top Pick",
       "quotes": [
         "Still the best coffee vegan/vegetarian baked goods and food",
         "We just moved to Minneapolis, and excitedly checked out our neighborhood coffee shop",
         "The coffee is always great, the food is overall good"
-      ],
-      "reviewMentions": 15
+      ]
     },
     {
-      "name": "Seiten Philly Sub",
-      "description": "A vegan Philly cheesesteak made with seitan and vegan cheese, described by a reviewer as \"Fantastic!\"",
-      "category": "entree",
-      "badge": "Featured",
-      "quotes": [
-        "Had the Seiten Philly sub vegan cheese"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Non-alcoholic Drinks",
-      "description": "Noted for having an excellent and large selection, including cafe-style drinks, a wide variety of bottled root beer, and kombucha.",
+      "name": "Root Beer",
+      "description": "There is a large selection of bottled root beer available.",
       "category": "drink",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "reviewMentions": 2,
+      "badge": "Popular",
+      "quotes": [
+        "They have a bunch of bottled root beer, so I will for sure go back for that (and bakery), and give them another shot for food",
+        "Between the cafe style choices, the large selection of root beer, and some other non-pop drinks like kombucha, there is a drink option for anyone"
+      ]
     },
     {
-      "name": "Falafel Bowl",
-      "description": "Mentioned as a visually appealing and colorful dish.",
-      "category": "entree",
+      "name": "Kombucha",
+      "description": "Offered as a non-pop drink option.",
+      "category": "drink",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "Sadly only 1 of the three plates we ordered were colorfully appetizing (the falafel bowl)"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Lentil Soup",
-      "description": "Described as delicious in flavor, although its appearance was noted as muted and brown.",
-      "category": "appetizer",
-      "badge": "Featured",
-      "quotes": [
-        "The lentil soup was delicious, but looked muted and brown like the “chicken and waffles” which visually did not live up to the pretty good flavor"
-      ],
-      "reviewMentions": 1
+        "Between the cafe style choices, the large selection of root beer, and some other non-pop drinks like kombucha, there is a drink option for anyone"
+      ]
     }
   ],
   "highlightedReviews": [
-    {
-      "author": "Tatiana Padilla",
-      "rating": 4,
-      "text": "We just moved to Minneapolis, and excitedly checked out our neighborhood coffee shop!\n\nI love the concept of vegan/veg cuisine, & what I most love about veg restaurants (event thought I’m not vegetarian) is the use of color and amazing ingredients. Sadly only 1 of the three plates we ordered were colorfully appetizing (the falafel bowl). The lentil soup was delicious, but looked muted and brown like the “chicken and waffles” which visually did not live up to the pretty good flavor.\n\nUnfortunately, the service was also quite slow, despite the restaurant not being that busy midday on a random weekday— and the ordering system was confusing. Plus, the cash only policy, put a strict budget on our visit since neither of us regularly carry cash.\n\nThat said, we loved the outdoor seating space was wonderful, and the portions were very reasonable (large for the price— good value)! We’ve been back for coffee & love the unpretentious vibes.",
-      "date": "3 months ago",
-      "source": "Google"
-    },
     {
       "author": "Fawn Armagost",
       "rating": 5,
       "text": "WOW. GREAT.\n\nI was visiting from out of town and had a list of vegan spots to check out in Minneapolis. I went for a late breakfast here and got their vegan breakfast sandwich and a muddy water. It was SO GOOD. Perfectly seasoned, tastes were well thought out. It was so good I ended up there again a few days later. I ordered a LOT of food - I wanted to try all the items on the menu that called to me and I wanted leftovers to carry me through the next day. Everything was so great. Truly, this food is full of flavor. The staff are really nice. It's hard to pick a favorite, but the Korean bun was probably the most unique and flavor filled. Their house made vegan burger patties are excellent (it's always nice to see a vegan burger that isn't the impossible/beyond or bean burger). The space itself fits the vibe they have. I had a great time both times I went. No other vegan place in Minneapolis even came close to Hard Times Cafe.",
       "date": "6 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Paul Hudalla",
-      "rating": 5,
-      "text": "My favorite establishment in the twin cities. This coffee shop / restaurant has been a staple of my existence: from when I was a college student to now as an adult with kids of my own. It offers a casual atmosphere for study/work, socializing, and playing games, and is a great place to meet people. It has also been open late at night and on holidays throughout the years. They have a fantastic, inexpensive vegetarian and vegan menu. Some highlights are the tempeh Reuben, veggie wrap, and hash browns. Anything in the bakery case is worth a stop but especially the muffins, which I longed for when I briefly lived elsewhere. Also, they make the best cup of coffee in the twin cities using French press as the default and ridiculously inexpensive too. I really can't say enough good things about this place. If you don't like it, you probably wouldn't like me.",
-      "date": "Edited a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Annabel S",
-      "rating": 5,
-      "text": "Gives cool, dive bar energy in the daylight. Something about the place stands defiant to the soulless corporate franchise model of Barstucks and the like- no plastic payment, and early on a fellow customer got my attention to kindly alert me some cash had fallen out of my pocket. Just seems like the kind of behavior that is expected there rather than hoped for.\nAs for the food: Arabic coffee/ chocolate mix was complex and rich, with the perfect amount of sweetness. Thai peanut wrap with tofu was also quite flavorful and hearty, only drawback was it had a little too much sauce- really only deserves a half star off, if that. Prices were quite reasonable, especially considering the quality- what I would have spent on something comparable anywhere else I was happy to put in the tip jar. Will definitely be back!",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Tod H",
-      "rating": 4,
-      "text": "It's pretty good. If you are a vegetarian, it's always nice to find a place where you can get some hearty, decently-priced, creative food, and Hard Times delivers this...sometimes. About half the times we go there, we come away with an amazing vegan version of a classic like a Reuben, Banh Mi, or Philly cheesesteak. The other half, we come away with a half-hearted wilted effort. I will say the breakfasts, especially the helter skelter, are almost always awesome. The atmosphere is a mix of diner, college dorm room, and aging hippie, all of which appeal to me, but don't expect neatness. My suggestion is that if you are veggie, it's absolutely worth going here...just - if you get something to go -  taste before you leave in case you want to ask for a remake.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Ivy Bolthouse",
-      "rating": 5,
-      "text": "A staple for Minneapolis veg food, and for good reason. Their prices are fair, pretty wide variety of choices, and you can tell everything is made from scratch. Some other reviews mention the staff, but I have always had fine experiences; some staff are just more outwardly friendly than others. All are respectful and the cooks are as well.\nMy favorites are the vegan biscuits and gravy (a half order is plenty! and, you can get the biscuit breakfast with the gravy which is a nice hearty meal), the Reuben, hash-browns, and their wide range of baked goods.\n\nThey have 2 single-user bathrooms which are both gender neutral.",
-      "date": "Edited 11 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Nevin Steinbrink",
-      "rating": 5,
-      "text": "I really like that this place specializes in vegetarian and vegan foods. The staff are very nice, laid back, and make great food! I had the Tempeh Reuben w/ split pea soup. It was all delicious! Cash only BTW.",
-      "date": "a year ago",
       "source": "Google"
     },
     {
@@ -133,21 +144,63 @@
       "source": "Google"
     },
     {
-      "author": "Shaleen Meyer",
+      "author": "Paul Hudalla",
       "rating": 5,
-      "text": "Great tasting, quality and ethically sourced vegetarian and vegan fare, run by a collective worker owned crew since 1992. Great place to meet with friends or meet new ones. Diverse atmosphere. Punks, Africans, students, professors, old timers, straight up characters. The West Bank, Cedar Riverside is a storied, historic neighborhood run by local businesses, activists, and immigrants.",
-      "date": "Edited 5 months ago",
+      "text": "My favorite establishment in the twin cities. This coffee shop / restaurant has been a staple of my existence: from when I was a college student to now as an adult with kids of my own. It offers a casual atmosphere for study/work, socializing, and playing games, and is a great place to meet people. It has also been open late at night and on holidays throughout the years. They have a fantastic, inexpensive vegetarian and vegan menu. Some highlights are the tempeh Reuben, veggie wrap, and hash browns. Anything in the bakery case is worth a stop but especially the muffins, which I longed for when I briefly lived elsewhere. Also, they make the best cup of coffee in the twin cities using French press as the default and ridiculously inexpensive too. I really can't say enough good things about this place. If you don't like it, you probably wouldn't like me.",
+      "date": "Edited a year ago",
       "source": "Google"
     },
     {
-      "author": "Lucky Strains",
+      "author": "Tatiana Padilla",
+      "rating": 4,
+      "text": "We just moved to Minneapolis, and excitedly checked out our neighborhood coffee shop!\n\nI love the concept of vegan/veg cuisine, & what I most love about veg restaurants (event thought I’m not vegetarian) is the use of color and amazing ingredients. Sadly only 1 of the three plates we ordered were colorfully appetizing (the falafel bowl). The lentil soup was delicious, but looked muted and brown like the “chicken and waffles” which visually did not live up to the pretty good flavor.\n\nUnfortunately, the service was also quite slow, despite the restaurant not being that busy midday on a random weekday— and the ordering system was confusing. Plus, the cash only policy, put a strict budget on our visit since neither of us regularly carry cash.\n\nThat said, we loved the outdoor seating space was wonderful, and the portions were very reasonable (large for the price— good value)! We’ve been back for coffee & love the unpretentious vibes.",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ivy Bolthouse",
       "rating": 5,
-      "text": "Rad vegetarian and vegan spot with loads of character! We ordered dinner and started eating our delicious vegan baked🍪goods while we waited.\nWe ordered a Ruhben and Philly both Vegan. Both sandwiches were outstanding!!! We will definitely be back. Thanks for being totally groovy Hard Times Cafe🙏💚",
+      "text": "A staple for Minneapolis veg food, and for good reason. Their prices are fair, pretty wide variety of choices, and you can tell everything is made from scratch. Some other reviews mention the staff, but I have always had fine experiences; some staff are just more outwardly friendly than others. All are respectful and the cooks are as well.\nMy favorites are the vegan biscuits and gravy (a half order is plenty! and, you can get the biscuit breakfast with the gravy which is a nice hearty meal), the Reuben, hash-browns, and their wide range of baked goods.\n\nThey have 2 single-user bathrooms which are both gender neutral.",
+      "date": "Edited 11 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Emily Feldkamp",
+      "rating": 5,
+      "text": "Awesome vibes, tons of vegan options. I would totally hang out here all the time if I lived in the area!! Service was quick on a weekday morning. The biscuits and gravy wasn't my favorite I've ever had but I would love to come back and try some more stuff! Cash only but they have an ATM in the front.",
       "date": "7 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Benjamin Randall (Ben)",
+      "rating": 4,
+      "text": "The food is good! Well worth the price, especially for an all vegan restaurant which can be spendy at times. Also, Hard Times Cafe had EXCELLENT non-alcoholic drink options. Between the cafe style choices, the large selection of root beer, and some other non-pop drinks like kombucha, there is a drink option for anyone. The bakery options were also REAL good.\n\nThe aesthetics of the restaurant gives vegan punk cafe. They played some cool music too, but not too loud to disrupt conversation or other people studying.\n\nThey are cash only but have an ATM on site.\n\nI would definitely go again despite the 4 star review. Might even bump it up to 5 star if I find a dish I really love.",
+      "date": "4 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nevin Steinbrink",
+      "rating": 5,
+      "text": "I really like that this place specializes in vegetarian and vegan foods. The staff are very nice, laid back, and make great food! I had the Tempeh Reuben w/ split pea soup. It was all delicious! Cash only BTW.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Mariah Mckenzie",
+      "rating": 5,
+      "text": "Classic diner food and vibes but vegetarian and vegan-ified. Got the vegan helter skelter with rye toast and tried the biscuits and gravy. I am obsessed with the gravy on the biscuits! Helter skelter was simple but had fresh veggies. Recently had an amazing chai cupcake there! This place is cash only so make sure you bring cash.  You write your order on a slip and hand it to them to pay.",
+      "date": "Edited a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Tod H",
+      "rating": 4,
+      "text": "It's pretty good. If you are a vegetarian, it's always nice to find a place where you can get some hearty, decently-priced, creative food, and Hard Times delivers this...sometimes. About half the times we go there, we come away with an amazing vegan version of a classic like a Reuben, Banh Mi, or Philly cheesesteak. The other half, we come away with a half-hearted wilted effort. I will say the breakfasts, especially the helter skelter, are almost always awesome. The atmosphere is a mix of diner, college dorm room, and aging hippie, all of which appeal to me, but don't expect neatness. My suggestion is that if you are veggie, it's absolutely worth going here...just - if you get something to go -  taste before you leave in case you want to ask for a remake.",
+      "date": "a year ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:22:05.419Z"
+  "dataQuality": "VEGAN-FILTERED - Vegetarian restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:21:57.782Z"
 }

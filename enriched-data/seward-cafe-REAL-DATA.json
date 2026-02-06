@@ -1,75 +1,100 @@
 {
   "topProducts": [
     {
-      "name": "Coffee",
-      "description": "A standard cafe offering with mixed reviews. Some find it great and very good, while others have described it as decent, acidic, or gross. No longer self-serve.",
+      "name": "Monster Mash",
+      "description": "Hot apple cider and miso caramel topped with coconut whip.",
       "category": "drink",
-      "badge": "Top Pick",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "Never had their food it's one star because the coffee was extremely acidic and frankly gross :( but I love everything else about this place and have been here for many events",
-        "The person who took our order was borderline dismissive of allergen concerns and was very preoccupied talking with a friend at the counter, to the point their friend was the one who refilled our coffees despite them not being an employee at the cafe",
-        "Me, my husband and our friend went and enjoy the breakfast and coffee as we had years before"
-      ],
-      "reviewMentions": 18
+        "Had the monster mash and its landing in my top 10 drinks of my life"
+      ]
     },
     {
-      "name": "Fluffy Pancakes",
-      "description": "A favorite dish for many customers, mentioned as a reason for repeat visits. Described as a standout item, especially with maple syrup.",
+      "name": "Vegan breakfast burrito",
+      "description": "An incredible vegan breakfast burrito.",
       "category": "entree",
-      "badge": "Popular",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "I get the fluffy pancakes every time I go",
-        "Enormous fluffy pancakes and scrambles are also stars of the menu"
-      ],
-      "reviewMentions": 2
+        "Got a vegan breakfast burrito which was INCREDIBLE and also loved the vegan sausage biscuit"
+      ]
     },
     {
-      "name": "Tofu Scramble",
-      "description": "A popular vegan breakfast option. The smoky tempeh within the scramble is frequently highlighted as being flavorful and satisfying.",
+      "name": "Vegan sausage biscuit",
+      "description": "A vegan sausage biscuit, mentioned as a great breakfast option.",
       "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Got a vegan breakfast burrito which was INCREDIBLE and also loved the vegan sausage biscuit"
+      ]
+    },
+    {
+      "name": "Lemonade",
+      "description": "A refreshing drink.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Biked over from the river and was lovely to sip on refreshing drinks- got the lemonade and Jamaica, both so delicious"
+      ]
+    },
+    {
+      "name": "Jamaica",
+      "description": "A delicious and refreshing hibiscus tea drink.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Biked over from the river and was lovely to sip on refreshing drinks- got the lemonade and Jamaica, both so delicious"
+      ]
+    },
+    {
+      "name": "Vegan breakfast sausage and biscuits and gravy",
+      "description": "Vegan version of the classic breakfast dish.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "I have especially enjoyed their vegan breakfast sausage and biscuits and gravy"
+      ]
+    },
+    {
+      "name": "Tofu scramble",
+      "description": "Flavorful and satisfying scramble with smoky tempeh.",
+      "category": "entree",
+      "reviewMentions": 3,
       "badge": "Popular",
       "quotes": [
         "I didn’t love the hash browns, too oily for me, but the tofu scramble was good",
         "I had the tofu scramble, and the smoky tempeh in it was hands-down my favorite part—so flavorful and satisfying",
         "Otherwise, loved the tofu scramble and the vegan sausage patty was good"
-      ],
-      "reviewMentions": 3
+      ]
     },
     {
-      "name": "Vegan Sausage and Biscuits",
-      "description": "A savory vegan breakfast dish, specifically praised in reviews. Also referred to as 'vegan breakfast sausage and biscuits and gravy'.",
+      "name": "Fluffy pancake",
+      "description": "A standout fluffy pancake, especially with maple syrup.",
       "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+      "reviewMentions": 4,
+      "badge": "Top Pick",
+      "quotes": [
+        "I get the fluffy pancakes every time I go",
+        "The fluffy pancake was also a standout, especially drizzled with maple syrup",
+        "People sleeping in booths, chaotic vibe…\n\nI ordered biscuit breakfast, rancheros and a fluffy pancake"
+      ]
     },
     {
-      "name": "Monster Mash",
-      "description": "A unique hot beverage made with apple cider and miso caramel, topped with coconut whip. Described by one reviewer as a 'top 10 drink'.",
+      "name": "Coffee",
+      "description": "Decent, very good coffee.",
       "category": "drink",
-      "badge": "Featured",
+      "reviewMentions": 18,
+      "badge": "Top Pick",
       "quotes": [
-        "Had the monster mash and its landing in my top 10 drinks of my life"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Vegan Breakfast Burrito",
-      "description": "A breakfast burrito with a vegan filling, described as 'INCREDIBLE' by a reviewer.",
-      "category": "entree",
-      "badge": "Featured",
-      "quotes": [
-        "Got a vegan breakfast burrito which was INCREDIBLE and also loved the vegan sausage biscuit"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Super Earth / Basic Green Earth",
-      "description": "A long-standing menu item consisting of hash browns and broccoli. A nostalgic favorite for some, though there are reports of recent, uncommunicated changes to the recipe.",
-      "category": "entree",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
+        "Never had their food it's one star because the coffee was extremely acidic and frankly gross :( but I love everything else about this place and have been here for many events",
+        "The person who took our order was borderline dismissive of allergen concerns and was very preoccupied talking with a friend at the counter, to the point their friend was the one who refilled our coffees despite them not being an employee at the cafe",
+        "Me, my husband and our friend went and enjoy the breakfast and coffee as we had years before"
+      ]
     }
   ],
   "highlightedReviews": [
@@ -78,27 +103,6 @@
       "rating": 5,
       "text": "Seward Cafe is a gem for anyone looking for amazing vegan options! I had the tofu scramble, and the smoky tempeh in it was hands-down my favorite part—so flavorful and satisfying. The fluffy pancake was also a standout, especially drizzled with maple syrup. Cozy atmosphere, great food, and friendly service. Definitely worth a visit!",
       "date": "9 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Albert Danielson",
-      "rating": 4,
-      "text": "A snazzy little cafe on the Franklin just off the highway. This restaurant functions a little differently than others, but the food is pretty good for the value. When you come in you can seat yourself and put your order in at the register. Tons of indoor and outdoor seating and fun things to check out on the walls. Free Wifi is easily accessible and posted in a few spots. They'll call out when the drinks and food is ready and you'll have to pick that and utensils up yourself. They note that it'll take a bit, but as long as you keep yourself occupied, it's not really noticeable and is certainly worth the wait. Mocha was definitely one of the better ones I've had in the Twin Cities. The Super Red Earth was pretty big and a solid breakfast item that was very filling. Overall, a pretty fun and progressive vibe that's nice to just sit and chill in for a while and get some good food. Was pretty quiet for breakfast, but seemed to start getting packed around brunch/lunchtime. Very vegan friendly menu for those who prefer it, and thankfully not crazily upcharged, and still plenty of options for those who don't swing that way. Definitely worth a visit.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Joel Abrahamson",
-      "rating": 4,
-      "text": "The cafe is back! The full breakfast and brunch menu has returned. The biscuits and gravy (vegan or not) are excellent. Enormous fluffy pancakes and scrambles are also stars of the menu. Full range of espresso drinks and creative herbal tea blends.\nIf you are uncomfortable with the anarchist/ antifa scene... You won't like Seward Cafe.",
-      "date": "Edited a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Jenny Saufl",
-      "rating": 5,
-      "text": "Always the best. Been going here for over 20 years, but moved away from MN in 2014. I was devastated that it closed during covid and remained closed while I was last in MN.\n\nFast forward to May, visiting Minnesota and so happy to find it open and working as it used to. Me, my husband and our friend went and enjoy the breakfast and coffee as we had years before.\n\nI was a little sad that you don't write your own ticket and the coffee is no longer self serve, but I absolutely understand these changes.\n\nWill make sure to visit every time I'm in the area.",
-      "date": "7 months ago",
       "source": "Google"
     },
     {
@@ -116,13 +120,6 @@
       "source": "Google"
     },
     {
-      "author": "Santiago O'Connor",
-      "rating": 5,
-      "text": "The Seward will continue to be the best Breakfast in Minnesota on my book.\nSomething there is to mention. If graffiti offends you, or the occasional homeless person hanging out inside or the weirdos that choose to frequent here (me included)...bothers you.\nThan this fine establishment is not for you.\nIf you are fine with the crowd, please go in and enjoy their food cause is really good",
-      "date": "Edited 3 months ago",
-      "source": "Google"
-    },
-    {
       "author": "Leena Aurora",
       "rating": 5,
       "text": "Fantastic vibes, food and drinks. Stopped in just minutes before the kitchen closed and wasn’t rushed in ordering food and drinks. Got a vegan breakfast burrito which was INCREDIBLE and also loved the vegan sausage biscuit. Biked over from the river and was lovely to sip on refreshing drinks- got the lemonade and Jamaica, both so delicious. And the vibes are wonderful- a chill welcoming patio + truly a community space within. Can’t wait to return",
@@ -130,21 +127,49 @@
       "source": "Google"
     },
     {
-      "author": "Taylor Ruud",
-      "rating": 5,
-      "text": "Their pancakes are straight up delicious. I had the carnitas omelette w/ sourdough bread & jam, which was also a hit. Didn't care for the medium roast coffee, but it was by no means sub par - just personal preferences. Highly recommend, especially during summer months when the patio is open!",
-      "date": "5 years ago",
+      "author": "Albert Danielson",
+      "rating": 4,
+      "text": "A snazzy little cafe on the Franklin just off the highway. This restaurant functions a little differently than others, but the food is pretty good for the value. When you come in you can seat yourself and put your order in at the register. Tons of indoor and outdoor seating and fun things to check out on the walls. Free Wifi is easily accessible and posted in a few spots. They'll call out when the drinks and food is ready and you'll have to pick that and utensils up yourself. They note that it'll take a bit, but as long as you keep yourself occupied, it's not really noticeable and is certainly worth the wait. Mocha was definitely one of the better ones I've had in the Twin Cities. The Super Red Earth was pretty big and a solid breakfast item that was very filling. Overall, a pretty fun and progressive vibe that's nice to just sit and chill in for a while and get some good food. Was pretty quiet for breakfast, but seemed to start getting packed around brunch/lunchtime. Very vegan friendly menu for those who prefer it, and thankfully not crazily upcharged, and still plenty of options for those who don't swing that way. Definitely worth a visit.",
+      "date": "a year ago",
       "source": "Google"
     },
     {
-      "author": "Espen Dinneen",
+      "author": "Laura Ford",
+      "rating": 5,
+      "text": "A very cute cafe with lots of delicious vegan food and good prices. They are able to make most of the menu vegan- all the breakfasts and scrambles. They also have a community cork board and many community health initiative information (narcan kits,exc). This would be a great place to hang out and do work at or have a community event. The food was delicious and can’t wait to go back.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Sasha Renee",
+      "rating": 5,
+      "text": "I’ve been going here since I was a kid. I am so glad they reopened. I am also happy that they have the same menu. I ordered the super earth and it tasted just as I remembered it.\nI know some people are a bit put off by the atmosphere, but I love it. It’s so eclectic and cozy. They have an awesome patio too.\nIt’s always been an order at the counter place. They call your name when your order is ready. They no longer have the order sheets to fill out.\nI definitely recommend if you like good food with tons of vegetarian and vegan options.",
+      "date": "a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jasmine Petal",
+      "rating": 5,
+      "text": "I love seward cafe because the food is decent and vegan also i love how they have a  free room to encourage reusing  belongings including clothes and kitchenware  vds, books, shoes, yarn, beads and any material  belongings people just donate there, but yes i love getting cute grungey worn out clothes also nice clothes too, childrens clothes from there but also sometimes you can find really nice stuff as well like one time i found a whole box of victoria secret bras and garments, VS isnt really my style but like, thats what you can find there is basically anythingg!! I love it there and hope it reopens soon, like, real soon...   edit: they only have part of the restaurant open and the free room doesnt seem to be used which makes me really sad i hope the free room opens soon!!",
+      "date": "Edited 3 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Joel Abrahamson",
       "rating": 4,
-      "text": "Seward Cafe is so great!!! The breakfast here is fantastic, the drinks are great, and the vibes are also so nice! Seward Cafe is very community based so sometimes they host events or sell local things too! I really enjoy the community atmosphere that this cafe upholds. I do knock a star off because I think the service is very hit or miss. I've been here 5+ times and maybe 2 or so times I had the absolute sweetest barista & great interactions!!! The other times, not so much. Breakfast is also very hit or miss depending on who is working. Might take 10 minutes to get your food-- might take 40 minutes to get your food. Consistency seems to be a weak point with this cafe, but the quality and affordability makes up for it by a landslide. I really love how they have a pay-it-forward type of donation system where you can add funds to a card for those who are in need of food or something to drink. I'll keep coming back here for sure, I recommend others to try them out too!!",
-      "date": "3 months ago",
+      "text": "The cafe is back! The full breakfast and brunch menu has returned. The biscuits and gravy (vegan or not) are excellent. Enormous fluffy pancakes and scrambles are also stars of the menu. Full range of espresso drinks and creative herbal tea blends.\nIf you are uncomfortable with the anarchist/ antifa scene... You won't like Seward Cafe.",
+      "date": "Edited a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Shannon Mahedy",
+      "rating": 5,
+      "text": "Seward Cafe is simply the best! The food is great, and it’s an excellent community space. Everyone is welcome, and you feel good about supporting a worker-led cooperative. I love the vegan biscuits and gravy, but everything is delicious and fairly priced.",
+      "date": "Edited a year ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:22:30.077Z"
+  "dataQuality": "VEGAN-FILTERED - Vegetarian restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:22:22.054Z"
 }

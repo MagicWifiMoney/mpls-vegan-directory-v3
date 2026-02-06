@@ -1,116 +1,77 @@
 {
   "topProducts": [
     {
-      "name": "Rice",
-      "description": "Frequently served as a side, with mixed reviews; some found it 'old and reheated' with a 'slimy texture,' while others noted it as a common accompaniment to meals.",
-      "category": "Side",
-      "badge": "Top Pick",
-      "quotes": [
-        "I ordered the Feast combo kebab (one beef kebab, one chicken kebab, salad, rice, and a Coke)",
-        "However - prices keep rising",
-        "All I have was rice, 2 kebabs, and veggies"
-      ],
-      "reviewMentions": 12
-    },
-    {
-      "name": "Gyros",
-      "description": "A popular choice, including 'gyro wrap' and 'gyro pita,' described as 'the BOMB!!!' and 'delicious,' though one review mentioned an 'excessive' price.",
-      "category": "Entree/Wrap",
+      "name": "babaghanoush",
+      "description": "A delicious dip made from eggplant.",
+      "category": "appetizer",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "I’m trying to eat less gluten and love gyros and meddteranian food"
-      ],
-      "reviewMentions": 1
+        "The best coffee and babaghanoush - for real, delicious"
+      ]
     },
     {
-      "name": "Chicken Kebab",
-      "description": "A common entree item, often part of combo meals. Described as 'fine' to 'delicious tenderloin and chicken kebab.'",
-      "category": "Entree",
-      "badge": "Popular",
-      "quotes": [
-        "I ordered the Feast combo kebab (one beef kebab, one chicken kebab, salad, rice, and a Coke)",
-        "Delicious tenderloin and chicken kebab"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Chicken Shawarma",
-      "description": "A favorite, especially 'on a pita,' praised as 'comfort to me' and 'the BOMB!!!'",
-      "category": "Entree/Wrap",
+      "name": "hummus",
+      "description": "A dip served as part of a dinner plate.",
+      "category": "appetizer",
+      "reviewMentions": 6,
       "badge": "Top Pick",
       "quotes": [
-        "Chicken shawarma pita and gyro pita were the BOMB",
+        "We just enjoyed a kebab dinner with chicken, rice, babaganoush, hummus, flatbread, and salad",
         "I've only done takeout of the family chicken shawarma meal and hummus",
-        "Best chicken Shawarma and tzatziki sauce I've ever had"
-      ],
-      "reviewMentions": 4
+        "Middle eastern food stamp of approval from me ✅\nJerusalem Hummus incredible"
+      ]
     },
     {
-      "name": "Coffee",
-      "description": "Includes various types such as 'Turkish coffee' and general 'coffee,' consistently lauded as 'the best' and 'amazing.'",
-      "category": "Drink",
+      "name": "Foul Medames",
+      "description": "A dish of cooked fava beans, recommended for breakfast.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Highly recommend going for breakfast And ordering the Foul Medames with Arabic tea"
+      ]
+    },
+    {
+      "name": "coffee",
+      "description": "The best coffee.",
+      "category": "drink",
+      "reviewMentions": 4,
       "badge": "Top Pick",
       "quotes": [
         "The best coffee and babaghanoush - for real, delicious",
         "Today I ordered a gyro wrap (no rice, no fries, etc) and a coffee and paid over $15 - before the tip",
         "The Turkish coffee is amazing ☕"
-      ],
-      "reviewMentions": 4
+      ]
     },
     {
-      "name": "Babaghanoush",
-      "description": "A highly-rated appetizer or side, described as 'delicious' and 'for real, delicious.'",
-      "category": "Appetizer/Side",
+      "name": "Turkish coffee",
+      "description": "Amazing Turkish coffee, recommended for breakfast.",
+      "category": "drink",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "The best coffee and babaghanoush - for real, delicious"
-      ],
-      "reviewMentions": 1
+        "The Turkish coffee is amazing ☕"
+      ]
     },
     {
-      "name": "Salad",
-      "description": "Offered as a side or part of larger meals, noted for being 'fresh and flavorful.'",
-      "category": "Side",
-      "badge": "Top Pick",
-      "quotes": [
-        "I ordered the Feast combo kebab (one beef kebab, one chicken kebab, salad, rice, and a Coke)",
-        "We just enjoyed a kebab dinner with chicken, rice, babaganoush, hummus, flatbread, and salad",
-        "Love that you guys offered side salad and rice as options (keep in mind this is an extra charge)"
-      ],
-      "reviewMentions": 4
-    },
-    {
-      "name": "Baklava",
-      "description": "A dessert that, while appreciated, was sometimes noted for presentation issues like being 'fallen apart' or 'in crumbles.'",
-      "category": "Dessert",
+      "name": "Arabic tea",
+      "description": "A tea recommended to be ordered with Foul Medames for breakfast.",
+      "category": "drink",
+      "reviewMentions": 2,
       "badge": "Popular",
       "quotes": [
-        "The food was good and generous in amount other than the baklava which had fallen apart and was less than 1",
-        "The place was busy but the owner remembered our allergy & even gave us some baklava"
-      ],
-      "reviewMentions": 2
+        "Highly recommend going for breakfast And ordering the Foul Medames with Arabic tea",
+        "I highly recommend the Arabic tea and coffee"
+      ]
     }
   ],
   "highlightedReviews": [
     {
-      "author": "Yen Cheng (Rachael)",
+      "author": "Matt Hoffman",
       "rating": 5,
-      "text": "Hubby and I was really craving Mediterranean/greek food- I went out of the way to drive to pick up our order. Road construction and parking was questionable, but I was able to find a safe spot to park during the night where I didn’t have to walk too far after scoping the area around the buildings aside from this restaurant for the first time.\n\nChicken shawarma pita and gyro pita were the BOMB!!! Love that you guys offered side salad and rice as options (keep in mind this is an extra charge)! Hubby and I really went big backing on this place and that was only our first time ordering too and we wanted to try a variety!\n\nI am so excited to order from Shish again in the next couple of months when we have our cravings to try the numerous other delicious things on the menu!  Portions were unexpectedly generous that we actually have leftover food saved for the next day (for the price I paid I feel that it’s wonderful and fair)! When I came inside to pick up our order around 8pm it dining room was booming with people at the booths! When you come to this place whether it be for lunch or for dinner (especially when the whole road in front of the restaurant is closed off for construction) and see that the place is busy at peak meal times, you KNOW it’s worth the walk to get in and order or to sit down and grab a bite to eat!\n\n10000/10 would make a take out order again or better yet we’ll try and come back to have a sit-in dining experience!",
-      "date": "4 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Andrew Hamilton",
-      "rating": 5,
-      "text": "We have been enjoying shish for many years. It never disappoints, and there are so many options. Every time I have their dishes, I think \"why haven't I had this sooner?\". That's a true sign of how great shish is. We just enjoyed a kebab dinner with chicken, rice, babaganoush, hummus, flatbread, and salad. We need to do this more often.",
+      "text": "Exceptional service and beautiful atmosphere. Delicious and healthy food with clearly identified Vegan and GF options. I especially recommend for breakfast. The Turkish coffee is amazing ☕",
       "date": "a month ago",
-      "source": "Google"
-    },
-    {
-      "author": "Chloe Kirk",
-      "rating": 5,
-      "text": "We catered our grooms dinner from here and WOW!! Blown away!! We ordered more than enough food but people loved it so much by the end of the night it was gone because people came back for seconds thirds and fourths. Also a big plug for getting it the night before your wedding because it’s filling while still being healthy and not too heavy so it was perfect for the pre-wedding nerves :) tons of compliments that it was the best Mediterranean food people had had!\n\nPicture doesn’t show the spanakopita (a MUST try), pita bread (so good you can eat it plain) and salad!",
-      "date": "6 months ago",
       "source": "Google"
     },
     {
@@ -121,24 +82,45 @@
       "source": "Google"
     },
     {
-      "author": "T A",
+      "author": "Mary Anne Jacob Peterson",
       "rating": 5,
-      "text": "Love this restaurant! The shish burger is my go to option. It’s good to know the owner Leo is a Palestinian from Jerusalem. Honestly I wouldn’t eat here if it was an Israeli masquerading as a middle-eastern owner. Appreciate their administrative staff for being honest about that when I called to ask.",
+      "text": "Leo and Beth Judeh are the best. The catering services were top notch. The food was outstanding: presented beautifully and tasted amazing. It is clear that the food is prepared with love and attention to the details. You cannot go wrong eating at their restaurant -it is worth the trip if you are not local to their St. Paul Grand Avenue location. If you have an event to cater: a grad party, a special family gathering, an office party...do yourself a favor and call Shish. You will be complimented the entire time on \"how great the food is!\"  This is a wonderful business: provides a great product, gives to the local community, caring owners. I cannot say enough wonderful things about them! Thank you Leo and Beth!",
+      "date": "Edited 7 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Laura Nelson",
+      "rating": 5,
+      "text": "I have been coming here for years and this place is a 10/10. I just went and had the pleasure of having Noah as a server. He was AMAZING! So delighted and attentive! He was accommodating, moved tables around to fit our group, made sure our drinks were full! I’ve always had exceptional service at Shish but Noah takes the cake! 10/10 person. WE LOVED NOAH!!",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Yen Cheng (Rachael)",
+      "rating": 5,
+      "text": "Hubby and I was really craving Mediterranean/greek food- I went out of the way to drive to pick up our order. Road construction and parking was questionable, but I was able to find a safe spot to park during the night where I didn’t have to walk too far after scoping the area around the buildings aside from this restaurant for the first time.\n\nChicken shawarma pita and gyro pita were the BOMB!!! Love that you guys offered side salad and rice as options (keep in mind this is an extra charge)! Hubby and I really went big backing on this place and that was only our first time ordering too and we wanted to try a variety!\n\nI am so excited to order from Shish again in the next couple of months when we have our cravings to try the numerous other delicious things on the menu!  Portions were unexpectedly generous that we actually have leftover food saved for the next day (for the price I paid I feel that it’s wonderful and fair)! When I came inside to pick up our order around 8pm it dining room was booming with people at the booths! When you come to this place whether it be for lunch or for dinner (especially when the whole road in front of the restaurant is closed off for construction) and see that the place is busy at peak meal times, you KNOW it’s worth the walk to get in and order or to sit down and grab a bite to eat!\n\n10000/10 would make a take out order again or better yet we’ll try and come back to have a sit-in dining experience!",
+      "date": "4 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Chloe Kirk",
+      "rating": 5,
+      "text": "We catered our grooms dinner from here and WOW!! Blown away!! We ordered more than enough food but people loved it so much by the end of the night it was gone because people came back for seconds thirds and fourths. Also a big plug for getting it the night before your wedding because it’s filling while still being healthy and not too heavy so it was perfect for the pre-wedding nerves :) tons of compliments that it was the best Mediterranean food people had had!\n\nPicture doesn’t show the spanakopita (a MUST try), pita bread (so good you can eat it plain) and salad!",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Amber Cathey Lahm",
+      "rating": 5,
+      "text": "Short review: Authentic. Fresh. Served with love.\n\nLong review: Wow. What an AMAZING spot for breakfast. I came pregnant, not wanting any raw egg or feta cheese. The owner talked me through the menu and cheerfully exclaimed he would fix any dish the way I needed it. We ended up getting two breakfast dishes to share family style. The owner was careful to hard scramble the eggs and put all the fresh feta on the side. It was a FEAST! He even gave us some Arabic coffee and read our mug for us. It was evident that love played a big role in everything he did that morning, and truly has been the highlight to my day!\n\nI highly recommend the Arabic tea and coffee.",
       "date": "9 months ago",
       "source": "Google"
     },
     {
-      "author": "Kallee Graham",
+      "author": "William Zelenka",
       "rating": 5,
-      "text": "I’ve been coming here for years, my friend got us take out once and ever since I’ve been obsessed and continue to come back for the best falafel wraps/bowls/pitas. The carrot cake is also fantastic. Any time I’ve brought someone here who has or has not had Mediterranean food they always enjoy it! 😊 it’s a consistent 10/10 in my book",
-      "date": "10 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Blythe Norenberg",
-      "rating": 5,
-      "text": "Shish was delicious!  I loved their crispy seasoned fries to go with the Leo Burger. 😋. The chicken shawarma atop the hummus really hit the spot, and the veggies were sweet and crisp! We wish our city had a Shish!",
-      "date": "10 months ago",
+      "text": "Unfortunately, six stars was not an option. Having eaten for years in the Bay Ridge area of Brooklyn at various Mediterranean restaurants, we never thought we would find the same quality in the Midwest. We were wrong. If you’re looking for a friendly staff with reasonable prices and some of the best Mediterranean food you’ve ever had, try this place.",
+      "date": "a month ago",
       "source": "Google"
     },
     {
@@ -149,21 +131,14 @@
       "source": "Google"
     },
     {
-      "author": "Fatima Miranda",
+      "author": "Katie Kowalczyk",
       "rating": 5,
-      "text": "I have been to this place many times and recommend the following menu items, which are some of my favorites. Gyro Pita, falafel bowl, hish breakfast, spinach omelet and the chicken sandwich.",
-      "date": "Edited 5 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Amber Cathey Lahm",
-      "rating": 5,
-      "text": "Short review: Authentic. Fresh. Served with love.\n\nLong review: Wow. What an AMAZING spot for breakfast. I came pregnant, not wanting any raw egg or feta cheese. The owner talked me through the menu and cheerfully exclaimed he would fix any dish the way I needed it. We ended up getting two breakfast dishes to share family style. The owner was careful to hard scramble the eggs and put all the fresh feta on the side. It was a FEAST! He even gave us some Arabic coffee and read our mug for us. It was evident that love played a big role in everything he did that morning, and truly has been the highlight to my day!\n\nI highly recommend the Arabic tea and coffee.",
-      "date": "9 months ago",
+      "text": "I love middle eastern food and this place surpassed my expectations. As a vegetarian, our highlights were the meze plate, the veggie bowl and the special hibiscus tea. Service was nice and fast. Atmosphere was surprisingly nice for a fast casual restaurant. Currently a bit more difficult due to road construction, but you can still access.",
+      "date": "6 months ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:54:30.625Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:27:10.081Z"
 }

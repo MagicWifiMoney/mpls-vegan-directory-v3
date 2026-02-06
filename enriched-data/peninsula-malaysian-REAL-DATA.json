@@ -2,84 +2,97 @@
   "topProducts": [
     {
       "name": "Roti Canai",
-      "description": "A popular flatbread dish, praised for its authentic flavor that is reminiscent of being in Malaysia. It's often served with a curry sauce that is described as very good.",
+      "description": "A type of flatbread, mentioned as a favorite. The curry sauce it comes with is described as 'sooo good'.",
       "category": "appetizer",
+      "reviewMentions": 9,
       "badge": "Top Pick",
       "quotes": [
         "I also tried the Roti Canai (presented slightly different than stands in Malaysia) and the flavor brought me right back to Kuala Lumpar… ❤️",
         "Roti canai and chicken satay are old favorites from when we used to dine in store",
         "Their roti canai and rendang are absolutely authentic"
-      ],
-      "reviewMentions": 9
+      ]
     },
     {
-      "name": "Chicken Satay",
-      "description": "Skewered chicken that is described as authentic Malay style and delicious. Reviewers note it's different from other types of satay.",
+      "name": "Golden Tofu",
+      "description": "A tofu dish listed as a 'go-to' item.",
       "category": "appetizer",
-      "badge": "Top Pick",
-      "quotes": [
-        "I had Char Kwai teoy, chicken satay, roti cana, and pilut hitam, and it was really good",
-        "Chicken Satay (Malay) is different than other satay and this place nailed it",
-        "Roti canai and chicken satay are old favorites from when we used to dine in store"
-      ],
-      "reviewMentions": 4
-    },
-    {
-      "name": "Nasi Lemak",
-      "description": "A traditional Malaysian rice dish. Its flavor is highlighted by the accompanying sambal (chili paste). It is served with chicken.",
-      "category": "entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "As one of the few, if not the only place, that has nasi lemak, this establishment does a great job in providing dishes that range from Chinese to Malaysian to Singaporean cultures",
-        "The Malay style food is pretty legit IMHO, they have Nasi Lemak, Rendang, Belacan style stit fry, Kari and Laksa",
-        "I love their sambal in the nasi lemak"
-      ],
-      "reviewMentions": 6
-    },
-    {
-      "name": "Boba / Milk Tea",
-      "description": "Highly recommended drinks, considered some of the best. A specialty drink with mango popping boba, strawberry, and pineapple was called 'life-changing'. The milk tea is also very popular.",
-      "category": "drink",
-      "badge": null,
-      "quotes": [],
-      "reviewMentions": 0
-    },
-    {
-      "name": "Rendang",
-      "description": "An authentic meat dish, with Lamb (Kambing) Rendang being a specific 'go-to' for customers. Praised for its authentic taste.",
-      "category": "entree",
-      "badge": "Top Pick",
-      "quotes": [
-        "The Malay style food is pretty legit IMHO, they have Nasi Lemak, Rendang, Belacan style stit fry, Kari and Laksa",
-        "Their roti canai and rendang are absolutely authentic",
-        "Our go-tos are lamb (kambing) rendang and golden tofu, but the nasi lemak and roti canai are also on-point (the roti canai curry sauce is sooo good)"
-      ],
-      "reviewMentions": 4
-    },
-    {
-      "name": "Char Kway Teow",
-      "description": "A stir-fried noodle dish with a 'good flavor and soft texture', providing a positive tasting experience.",
-      "category": "entree",
-      "badge": "Popular",
-      "quotes": [
-        "The char kway teow had both good flavor and soft texture, allowing a positive tasting experience",
-        "Roti Cana, satay chicken, char kway teow, red curry chicken",
-        "Also got the char kway teow, had shrimp and sotong (squid)"
-      ],
-      "reviewMentions": 3
-    },
-    {
-      "name": "Chili Chicken",
-      "description": "Mentioned as a fantastic and long-time favorite dish by repeat customers.",
-      "category": "entree",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "Their chili chicken, vegetable fried rice, and mee siam noodles are fantastic"
-      ],
-      "reviewMentions": 1
+        "Our go-tos are lamb (kambing) rendang and golden tofu, but the nasi lemak and roti canai are also on-point (the roti canai curry sauce is sooo good)"
+      ]
+    },
+    {
+      "name": "Vegetable Fried Rice (no eggs)",
+      "description": "A vegetable fried rice ordered without eggs, described as having 'so much flavor' and being 'piping hot'.",
+      "category": "entree",
+      "reviewMentions": 0,
+      "badge": null,
+      "quotes": []
+    },
+    {
+      "name": "Chili Tofu",
+      "description": "A tofu dish, although a review noted it wasn't spicy even when requested.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "The chili tofu wasn't spicy at all even if I asked for spicy in my original order"
+      ]
+    },
+    {
+      "name": "Pilut Hitam",
+      "description": "A black glutinous rice dessert.",
+      "category": "dessert",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "I had Char Kwai teoy, chicken satay, roti cana, and pilut hitam, and it was really good"
+      ]
+    },
+    {
+      "name": "Mango Sticky Rice",
+      "description": "A dessert described as 'absolutely spectacular'.",
+      "category": "dessert",
+      "reviewMentions": 4,
+      "badge": "Top Pick",
+      "quotes": [
+        "The desserts are also absolutely spectacular - especially the mango sticky rice",
+        "I can only speak on the mango sticky rice as that’s all we ordered for delivery",
+        "the tofu was heavenly and the mango sticky rice was soooo good"
+      ]
+    },
+    {
+      "name": "Bubble Tea",
+      "description": "A popular drink at the establishment, mentioned multiple times.",
+      "category": "drink",
+      "reviewMentions": 3,
+      "badge": "Popular",
+      "quotes": [
+        "My favorites are their skewers, roti, and bubble tea",
+        "It’s a pretty solid restaurant, but I have to say I was absolutely shook when I got the orange mango bubble tea and it came with whole chunks of orange with the rind still on and pieces of tomato",
+        "I ordered that and a matcha bubble tea"
+      ]
+    },
+    {
+      "name": "Specialty Drink with Mango Popping Boba",
+      "description": "A life-changing specialty drink containing mango popping boba, strawberry, and pineapple from fresh or frozen fruit.",
+      "category": "drink",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "It’s a specialty drink with mango popping Boba and it was life-changing"
+      ]
     }
   ],
   "highlightedReviews": [
+    {
+      "author": "Marilyn Preston",
+      "rating": 5,
+      "text": "I have been a big fan of Peninsula for years. I like the roti, and i like the pineapple rice, but my hands down absolute favorite comfort meal in the twin cities is Peninsula's Spicy and Salted Tofu. Holy buckets is this a delicious dish. The tofu is homemade and tender, the flavoring is superb. Every time I am sick, or I am sad, or I am just hungry, I want this meal. I hate leaving reviews, but I have loved this dish for over a decade and figured I owed at least one review to the restaurant.",
+      "date": "2 years ago",
+      "source": "Google"
+    },
     {
       "author": "Jay Shen",
       "rating": 4,
@@ -88,9 +101,30 @@
       "source": "Google"
     },
     {
-      "author": "Marilyn Preston",
+      "author": "Andrew Koly",
       "rating": 5,
-      "text": "I have been a big fan of Peninsula for years. I like the roti, and i like the pineapple rice, but my hands down absolute favorite comfort meal in the twin cities is Peninsula's Spicy and Salted Tofu. Holy buckets is this a delicious dish. The tofu is homemade and tender, the flavoring is superb. Every time I am sick, or I am sad, or I am just hungry, I want this meal. I hate leaving reviews, but I have loved this dish for over a decade and figured I owed at least one review to the restaurant.",
+      "text": "My name is Andrew Koly. I had my right arm amputated some years ago and I’m currently traveling from Denver Colorado to Minneapolis.\nMinniapolis seems like they found Boba and this city went all in and there is a lot of Boba in the city but, this particular store and this particular Boba is the top of the top. The cream of the cream as good as it gets. As a disabled man, I order DoorDash a lot, and I was blown away the first time I tasted their Drink drinks. It’s a specialty drink with mango popping Boba and it was life-changing. It also had strawberry and pineapple in it and I could tell if these were frozen fruit that they cut up and put in the drink. It was amazing.\n\nIf you get a chance to go there, my server’s name was Sunny. I told her about my experiences that was having drinking her Boba and she insisted on me to try other things. Her Deep understanding of the menu, her passion for creating works of art and calling them drinks and her empathy and the question she asked me to find out what I liked brought me to tasting flavors. I could not imagine. I’m so grateful when a company hires. Good customer service when they get a good person who really cares.\n\nPlease, if you are management with this company, you need to promote Sunny as soon as possible. She needs to be training everybody on how to talk to the customers. She really needs her own store because this lady made me feel so good. I’m ready to move to Minneapolis over my experience at a boba drink place!!!!!\n\nI can’t stress this enough, you took an out of place disabled man, five days before his birthday. He was having a really bad time because recent loss he’s experienced and you made him forget that he Is missing his right arm and his family members. He brought him a place of love and happiness and peace and it’s all thanks to your drinks and a lady named Sonny answering the phone and directing me to peace and happiness.",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Morgan Erickson-Davis",
+      "rating": 5,
+      "text": "Love the food here. Our go-tos are lamb (kambing) rendang and golden tofu, but the nasi lemak and roti canai are also on-point (the roti canai curry sauce is sooo good). Wasn't a huge fan of the popiah, but maybe it's just not my thing.\nNot much heat, though; we chose the \"hot\" spice level and it was barely discernible. Nbd since the flavors more than make up for it.\nAlso fyi they weren't open for dine-in when we tried to get a table on 9/24/22. Take out only. I hope they reopen the dining room soon!",
+      "date": "Edited a year ago",
+      "source": "Google"
+    },
+    {
+      "author": "Nam Anh Nguyen",
+      "rating": 5,
+      "text": "One of my favorite restaurants in the Twin Cities, I get food from here almost every week. Huge menu of food to try out but my go to is Mee Siam. Their desserts and drinks are incredible too – I always get drinks or desserts with my food. It's been a while since they only takeout only but the it's a very short wait and the food is always packed so well. Highly recommend spot!",
+      "date": "2 years ago",
+      "source": "Google"
+    },
+    {
+      "author": "Michael Pohlad",
+      "rating": 5,
+      "text": "I have ordered Peninsula through Uber Eats a couple of times and I have always enjoyed their food; however I did not feel compelled to write a review (which I rarely do) until I received the wrong order in the Uber Eats bag. I called Peninsula and spoke to a professional and polite woman named Sana (I apologize if I have misspelled her name) who offered to make things right without me having to deal with Uber Eats. Not only was I able to get my food free of charge and hassle, but Peninsula gave us two beautiful cakes and mango sticky rice (both of which I highly recommend). In addition to the food being the best Malaysian Cuisine in the Twin Cities, the service you can expect is equally as impressive.",
       "date": "2 years ago",
       "source": "Google"
     },
@@ -102,23 +136,9 @@
       "source": "Google"
     },
     {
-      "author": "Morgan Erickson-Davis",
+      "author": "Jacqueline Mussack",
       "rating": 5,
-      "text": "Love the food here. Our go-tos are lamb (kambing) rendang and golden tofu, but the nasi lemak and roti canai are also on-point (the roti canai curry sauce is sooo good). Wasn't a huge fan of the popiah, but maybe it's just not my thing.\nNot much heat, though; we chose the \"hot\" spice level and it was barely discernible. Nbd since the flavors more than make up for it.\nAlso fyi they weren't open for dine-in when we tried to get a table on 9/24/22. Take out only. I hope they reopen the dining room soon!",
-      "date": "Edited a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "Daniel B",
-      "rating": 4,
-      "text": "Don't have any point of reference but what I had was pretty good overall. The coconut butter chicken was tasty but a bit monotoned. The nasi lemak (medium) was a nice variety of main and side, just at the higher end of my spice tolerance but still great. The roti canai unfortunately sat too long before I got to it but the dipping sauce was very flavorful.",
-      "date": "a year ago",
-      "source": "Google"
-    },
-    {
-      "author": "RS",
-      "rating": 5,
-      "text": "Ordered a range of items, Roti Canai and Roti Telur were gobbled up, vegetable fried rice was backup for the youngest eaters and appreciated, Satay chicken had no leftovers and generous peanut sauce dip, really enjoyed the beef brisket curry noodle soup. Order was ready very quickly.",
+      "text": "I got this food delivered on door dash. It's soooooo good! I recommend the yam pot! I wish I could order hundreds of the taro nest bowls and eat them plain. The Pulut Hitam (wild rice dessert with coconut milk) is my new favorite dessert. The drinks are out of this world, especially the ones with jasmine, and the chestnut and taro smoothies. They have black sesame cheese foam, which tastes like really good black sesame flavored whipped cream. It is not cheesy, it is sweet and delicious. There's a huge variety of delicious, flavorful, aromatic entrees and appetizers as well.",
       "date": "a year ago",
       "source": "Google"
     },
@@ -130,28 +150,14 @@
       "source": "Google"
     },
     {
-      "author": "Nam Anh Nguyen",
+      "author": "Shveta Setia",
       "rating": 5,
-      "text": "One of my favorite restaurants in the Twin Cities, I get food from here almost every week. Huge menu of food to try out but my go to is Mee Siam. Their desserts and drinks are incredible too – I always get drinks or desserts with my food. It's been a while since they only takeout only but the it's a very short wait and the food is always packed so well. Highly recommend spot!",
-      "date": "2 years ago",
-      "source": "Google"
-    },
-    {
-      "author": "Andrew Koly",
-      "rating": 5,
-      "text": "My name is Andrew Koly. I had my right arm amputated some years ago and I’m currently traveling from Denver Colorado to Minneapolis.\nMinniapolis seems like they found Boba and this city went all in and there is a lot of Boba in the city but, this particular store and this particular Boba is the top of the top. The cream of the cream as good as it gets. As a disabled man, I order DoorDash a lot, and I was blown away the first time I tasted their Drink drinks. It’s a specialty drink with mango popping Boba and it was life-changing. It also had strawberry and pineapple in it and I could tell if these were frozen fruit that they cut up and put in the drink. It was amazing.\n\nIf you get a chance to go there, my server’s name was Sunny. I told her about my experiences that was having drinking her Boba and she insisted on me to try other things. Her Deep understanding of the menu, her passion for creating works of art and calling them drinks and her empathy and the question she asked me to find out what I liked brought me to tasting flavors. I could not imagine. I’m so grateful when a company hires. Good customer service when they get a good person who really cares.\n\nPlease, if you are management with this company, you need to promote Sunny as soon as possible. She needs to be training everybody on how to talk to the customers. She really needs her own store because this lady made me feel so good. I’m ready to move to Minneapolis over my experience at a boba drink place!!!!!\n\nI can’t stress this enough, you took an out of place disabled man, five days before his birthday. He was having a really bad time because recent loss he’s experienced and you made him forget that he Is missing his right arm and his family members. He brought him a place of love and happiness and peace and it’s all thanks to your drinks and a lady named Sonny answering the phone and directing me to peace and happiness.",
-      "date": "3 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Josh Dahlberg",
-      "rating": 5,
-      "text": "This is like the one and only place you can get a taste of sg/msia in MN... Yes it's slightly ok maybe really unhealthy for your cardiovascular system but it's balanced by the benefits to your mental health from eating the COCONUT BUTTER CHICKEN",
-      "date": "2 years ago",
+      "text": "I have been to this place twice and have had great experience. The food is AWESOME. Roti kanai is a must before starting anything else. I absolutely LOVED their beef brisket hot pot. Service was not McDonald's fast, but decent. We didn't wait for our food for more than 15-20 minutes, which should be expected if you are going to a place that serves freshly made food. I highly recommend this place.",
+      "date": "Edited 2 years ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-06T00:11:38.490Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:30:32.764Z"
 }

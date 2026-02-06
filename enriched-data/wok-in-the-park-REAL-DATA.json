@@ -1,114 +1,65 @@
 {
   "topProducts": [
     {
-      "name": "Wontons",
-      "description": "Described as 'wonderfully done' and the 'best I've ever had'.",
-      "category": "appetizer",
-      "badge": "Top Pick",
+      "name": "Sunrise Curry",
+      "description": "A dairy-free curry dish. The reviewer notes that any curry is a delicious dairy-free option and that they customized theirs with extra pineapple.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "Wontons are wonderfully done",
-        "The best wontons I’ve ever had",
-        "The staff if friendly, the wontons are homemade and different all the time, the food comes out hot and veggies are done perfectly"
-      ],
-      "reviewMentions": 8
+        "Some of my favorites: Summer Roles with shrimp and chicken with gf sauce, Chicken Fried Rice, ANY CURRY - this day I got Sunrise Curry (with no onions and extra pineapple), and finished it off with a Sweet Mango Sticky Rice"
+      ]
+    },
+    {
+      "name": "Sweet Mango Sticky Rice",
+      "description": "A dessert listed as a delicious dairy-free option.",
+      "category": "dessert",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "Some of my favorites: Summer Roles with shrimp and chicken with gf sauce, Chicken Fried Rice, ANY CURRY - this day I got Sunrise Curry (with no onions and extra pineapple), and finished it off with a Sweet Mango Sticky Rice"
+      ]
     },
     {
       "name": "Summer Rolls",
-      "description": "Praised as being 'balanced' and are available with a gluten-free sauce.",
+      "description": "The rolls were mentioned as being balanced and fresh. One review specified getting them with gluten-free sauce, implying a customizable and potentially vegan option is available.",
       "category": "appetizer",
+      "reviewMentions": 4,
       "badge": "Top Pick",
       "quotes": [
         "The Summer rolls were balanced, the shared the garlic stir-fry was well supplied with variation, but the lettuce wraps stole the event",
         "The summer rolls are fresh, light, and full of flavor",
         "Love their Egg Rolls, Summer Rolls, Pad Thai— hits the spot every time"
-      ],
-      "reviewMentions": 4
-    },
-    {
-      "name": "Chicken Fried Rice",
-      "description": "A popular dish mentioned as part of a phenomenal family meal and a delicious gluten-free option.",
-      "category": "entree",
-      "badge": "Popular",
-      "quotes": [
-        "We had the egg rolls, potstickers, pad Thai with shrimp, sesame chicken, chicken fried rice and stir fry with steak",
-        "Some of my favorites: Summer Roles with shrimp and chicken with gf sauce, Chicken Fried Rice, ANY CURRY - this day I got Sunrise Curry (with no onions and extra pineapple), and finished it off with a Sweet Mango Sticky Rice"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Crab Rangoons",
-      "description": "Mentioned as being 'amazing'.",
-      "category": "appetizer",
-      "badge": "Popular",
-      "quotes": [
-        "Super delicious and the crab rangoons are amazing",
-        "I’ve eaten a ton of crab rangoons in my life, but none that were cutely made to look like crabs"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Calamari",
-      "description": "Described enthusiastically as 'to die for'.",
-      "category": "appetizer",
-      "badge": "Featured",
-      "quotes": [
-        "The calamari was to die for"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Curry",
-      "description": "Various curries are available and noted as delicious gluten and dairy-free options. Sunrise Curry is one specific type mentioned.",
-      "category": "entree",
-      "badge": "Popular",
-      "quotes": [
-        "Some of my favorites: Summer Roles with shrimp and chicken with gf sauce, Chicken Fried Rice, ANY CURRY - this day I got Sunrise Curry (with no onions and extra pineapple), and finished it off with a Sweet Mango Sticky Rice",
-        "Tonight my family had Cream Cheese Wontons (perfect amount of cream cheese) Pad Thai, Massman Curry (special) & Lo Mein"
-      ],
-      "reviewMentions": 2
+      ]
     },
     {
       "name": "Lettuce Wraps",
-      "description": "Highly praised as 'remarkable' and the highlight of the meal.",
+      "description": "Described as remarkable and the highlight of the meal.",
       "category": "appetizer",
+      "reviewMentions": 2,
       "badge": "Popular",
       "quotes": [
         "The Summer rolls were balanced, the shared the garlic stir-fry was well supplied with variation, but the lettuce wraps stole the event",
         "wontons, lettuce wraps, potstickers were probably the favorites"
-      ],
-      "reviewMentions": 2
+      ]
     },
     {
-      "name": "Mango Sticky Rice",
-      "description": "A sweet dessert option that is noted to be a delicious gluten and dairy-free choice.",
-      "category": "dessert",
+      "name": "Green Papaya Salad",
+      "description": "Mentioned as the best in town.",
+      "category": "appetizer",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "Some of my favorites: Summer Roles with shrimp and chicken with gf sauce, Chicken Fried Rice, ANY CURRY - this day I got Sunrise Curry (with no onions and extra pineapple), and finished it off with a Sweet Mango Sticky Rice"
-      ],
-      "reviewMentions": 1
+        "The green papaya salad is the best in town  and the Singapore noodles with steak is loaded with fresh vegetables, delectable turmeric noodles and thin sliced steak"
+      ]
     }
   ],
   "highlightedReviews": [
     {
-      "author": "Greg Lamothe",
-      "rating": 4,
-      "text": "The lunch specials are generous portions with exceptional food. I had the Beef Pad Thai with Hot & Sour Soup and an Egg Roll. The hot and sour soup was exceptional with its fresh ingredients and delectable flavor. The Pad Thai was rich with a very tasteful sauce, although definitely lacking heat (even though I had requested extra spicy and said, \"I not referring to Minnesota style\"). The egg roll was fresh, crisp, and very tasteful. The service was excellent and the decor was classic modern. Other than the lack of heat on the Pad Thai it was an exceptional lunch. I highly recommend this place. It will be my go-to Asian restaurant, when I'm nearby.",
-      "date": "4 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Emily Koehler",
+      "author": "Christina Althoff",
       "rating": 5,
-      "text": "The food at Wok is off the charts! I have a family of 6, with 4 kids ages ranging from 10-15 and they all LOVED the food. We had the egg rolls, potstickers, pad Thai with shrimp, sesame chicken, chicken fried rice and stir fry with steak. It was all phenomenal! Seriously. I wish I didn't live in WI, because we would be here all the time! Also, the servers there are top notch and are personable, helpful, and super attentive. 10/10 recommend.",
-      "date": "a month ago",
-      "source": "Google"
-    },
-    {
-      "author": "Bridgette",
-      "rating": 5,
-      "text": "Wok in the Park is hands down one of the best Asian bistros in the area! We've been coming here for awhile, and it never disappoints!! The Fresh Summer Rolls are always a hit, the classic Fried Rice is perfectly cooked, and the Sweet and Sour Chicken is absolutely amazing. It can get a little busy around dinner time, so I definitely recommend making a reservation. The food is consistently delicious, and the staff is incredibly friendly. I’ll definitely be back and will be bringing new customers with me!!!!",
-      "date": "11 months ago",
+      "text": "This is my favorite place in the Minneapolis area to go for vegan pho and tofu spring rolls!! Their broth is SO flavorful and their tofu in the pho and spring rolls is so delicious! Great atmosphere and great service!!",
+      "date": "7 months ago",
       "source": "Google"
     },
     {
@@ -119,31 +70,38 @@
       "source": "Google"
     },
     {
-      "author": "Chris Haight",
+      "author": "Timothy Olson",
       "rating": 5,
-      "text": "The green papaya salad is the best in town  and the Singapore noodles with steak is loaded with fresh vegetables, delectable turmeric noodles and thin sliced steak.  The staff is super.  The chef cares.  5 ⭐️",
-      "date": "3 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Andrew Betts",
-      "rating": 5,
-      "text": "Great experience!  The food was fresh, plentiful, HOT (as freshly prepared food should be), and delicious.  The Summer rolls were balanced, the shared the garlic stir-fry was well supplied with variation, but the lettuce wraps stole the event.  They were remarkable.\n\nWe were greeted quickly and kindly, sat quickly eve though we failed to get there early or get on list, and our individual service was really really good.\n\nWill absolutely go back!!!",
-      "date": "4 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Alex Anderson",
-      "rating": 4,
-      "text": "Cute place tucked away on the side street, we ordered family style so we could taste all the things... wontons, lettuce wraps, potstickers were probably the favorites. Someone told us not to miss the steak & chips, but that was our least favorite. Service was attentive.",
+      "text": "I'm not the best person to review the food here, as I was on a diet and only ate a bird-like portion. However, what I did have was delicious, and my friend was raving about his meal. What truly made this place special was the amazing staff. The servers were absolutely fantastic, and despite the place being small, it was clear it's very well-loved and constantly busy. We enjoyed the little bit of outside seating, and the prices were completely reasonable. If I lived in the area, I'd be back often. Next time, my diet is taking a day off.",
       "date": "5 months ago",
       "source": "Google"
     },
     {
-      "author": "Christina Althoff",
+      "author": "Kelsey Molloy",
       "rating": 5,
-      "text": "This is my favorite place in the Minneapolis area to go for vegan pho and tofu spring rolls!! Their broth is SO flavorful and their tofu in the pho and spring rolls is so delicious! Great atmosphere and great service!!",
-      "date": "7 months ago",
+      "text": "AMAZING! We were in the area and decided to finally try this place out. Had a little bit of a wait but the vibe is very chill. Staff were so friendly/kind. THE FOOD WAS AMAZING. The best wontons I’ve ever had. The calamari was to die for. Entrees were large portion sized and so delicious. Definitely recommend. We will be coming back!!",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Paul Park",
+      "rating": 5,
+      "text": "Wow! We literally loved everything!  Our family was visiting from Iowa. Right when we walked in they made us feel special. The atmosphere was great. It was busy, but in a good way. Like everyone working hard, smiling, eating great food and happy. The food was amazing, served quickly, and the portions are huge! I’ve eaten a ton of crab rangoons in my life, but none that were cutely made to look like crabs. Our server Brittany was awesome too!  Incredible experience thank you. 🙏",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Bridgette",
+      "rating": 5,
+      "text": "Wok in the Park is hands down one of the best Asian bistros in the area! We've been coming here for awhile, and it never disappoints!! The Fresh Summer Rolls are always a hit, the classic Fried Rice is perfectly cooked, and the Sweet and Sour Chicken is absolutely amazing. It can get a little busy around dinner time, so I definitely recommend making a reservation. The food is consistently delicious, and the staff is incredibly friendly. I’ll definitely be back and will be bringing new customers with me!!!!",
+      "date": "11 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Julie Klapak",
+      "rating": 5,
+      "text": "This is our go-to celebration restaurant! Frankly, the best Asian food I've ever had. Space is a bit tight, but the atmosphere is cozy without feeling restrictive. The staff are all lovely and incredibly welcoming; their rendition of Happy Birthday was genuinely *hauntingly beautiful.* Often busy at popular times, but absolutely worth the wait. Portions are always large and steaming hot. Cannot recommend them enough!",
+      "date": "a month ago",
       "source": "Google"
     },
     {
@@ -154,14 +112,21 @@
       "source": "Google"
     },
     {
-      "author": "Todd Husom",
-      "rating": 5,
-      "text": "⭐⭐⭐⭐⭐\nI’ve been here twice now and both times have been fantastic. The summer rolls are fresh, light, and full of flavor. On my last visit, I was looking for a ginger stir fry and the staff recommended the fresh vegetable stir fry of the day with ginger sauce. Perfect choice! I added protein and went with the standard rice—everything was really tasty, filling, and most importantly, fresh. Great service, great flavors, and I’ll definitely be coming back again.",
+      "author": "Greg Lamothe",
+      "rating": 4,
+      "text": "The lunch specials are generous portions with exceptional food. I had the Beef Pad Thai with Hot & Sour Soup and an Egg Roll. The hot and sour soup was exceptional with its fresh ingredients and delectable flavor. The Pad Thai was rich with a very tasteful sauce, although definitely lacking heat (even though I had requested extra spicy and said, \"I not referring to Minnesota style\"). The egg roll was fresh, crisp, and very tasteful. The service was excellent and the decor was classic modern. Other than the lack of heat on the Pad Thai it was an exceptional lunch. I highly recommend this place. It will be my go-to Asian restaurant, when I'm nearby.",
       "date": "4 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Julie Hanson",
+      "rating": 4,
+      "text": "The food here is amazing and lots of gluten free options - the wait is long and reservations are highly recommended. The order ahead and pick up system needs some improvements tho - waited 25 minutes on hold just to learn a pick up slot wasn’t available for an hour. Definitely recommend adding that to the voicemail message Or implementing online ordering.",
+      "date": "5 days ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-06T00:01:46.552Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:33:58.621Z"
 }

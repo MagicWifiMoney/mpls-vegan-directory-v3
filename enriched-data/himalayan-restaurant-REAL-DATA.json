@@ -1,131 +1,59 @@
 {
   "topProducts": [
     {
-      "name": "Momo",
-      "description": "Delicious dumplings available in various styles such as Kathmandu, vegan chili, and lamb. Consistently described as a favorite.",
-      "category": "Appetizer",
-      "badge": "Top Pick",
+      "name": "Vegan Chili Momos",
+      "description": "praised as \"so good, 10/10\"",
+      "category": "appetizer",
+      "reviewMentions": 1,
+      "badge": "Featured",
       "quotes": [
-        "The Kathmandu momo is delicious and I got this excellent salmon tikka they had on special a while ago",
-        "The vegan chili momos are so good, 10/10",
-        "We had the lamb kabab, goat curry, lamb tiki Marsala (favorite), garlic naan (also favorite), and lamb momo"
-      ],
-      "reviewMentions": 11
-    },
-    {
-      "name": "Chicken Tikka Masala",
-      "description": "A classic entree described as delicious. Other popular variations mentioned include salmon, lamb, beef, and jackfruit tikka.",
-      "category": "Entree",
-      "badge": "Popular",
-      "quotes": [
-        "The chicken tikka masala was delicious",
-        "the food is absolutely divine — some favorites are the chicken tikka masala, chicken choyala, and green curry",
-        "The chicken tikka masala and the mixed curry were absolutely delicious"
-      ],
-      "reviewMentions": 3
+        "The vegan chili momos are so good, 10/10"
+      ]
     },
     {
       "name": "Samosas",
-      "description": "A favorite appetizer among reviewers, noted for being very good.",
-      "category": "Appetizer",
+      "description": "described as \"so good\" and a favorite",
+      "category": "appetizer",
+      "reviewMentions": 3,
       "badge": "Popular",
       "quotes": [
         "The samosas and mango lassi were also so good",
         "The samosas were our favorite",
         "I personally think maybe having 3 or 4 samosas would work better as an appetizer, and the potato and pea fillings were a bit plain, meaning underseasoned"
-      ],
-      "reviewMentions": 3
+      ]
+    },
+    {
+      "name": "Vegetarian Combo",
+      "description": "A lunch combo, enough for two people, featuring dishes like Jackfruit Tiki Masala.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "We had the vegetarian combo"
+      ]
+    },
+    {
+      "name": "Jackfruit Tiki Masala",
+      "description": "Mentioned as a \"very good\" dish included in the vegetarian combo.",
+      "category": "entree",
+      "reviewMentions": 1,
+      "badge": "Featured",
+      "quotes": [
+        "The jackfruit tiki masala was very good"
+      ]
     },
     {
       "name": "Paan",
-      "description": "A unique item that is highly recommended by reviewers, described as an incredible must-try.",
-      "category": "Digestif",
+      "description": "A recommended item you \"won't regret\"",
+      "category": "appetizer",
+      "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
         "Don’t miss out paan too"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Garlic Naan",
-      "description": "A favorite bread accompaniment for main dishes.",
-      "category": "Bread",
-      "badge": "Top Pick",
-      "quotes": [
-        "We had the lamb kabab, goat curry, lamb tiki Marsala (favorite), garlic naan (also favorite), and lamb momo",
-        "They serve delicious garlic naan, flavorful curry, palak paneer & many more",
-        "I always get garlic naan with my meal, which is pillowy and delightful"
-      ],
-      "reviewMentions": 4
-    },
-    {
-      "name": "Lamb Curry",
-      "description": "A flavorful lamb entree, with other variations like goat and chicken curry also being popular choices.",
-      "category": "Entree",
-      "badge": "Popular",
-      "quotes": [
-        "Went here and enjoyed sharing Kothe (fried dumplings- lamb), one person had lamb curry, another had green curry and I had chicken tikka",
-        "Instead of getting goat curry as usual, I got the lamb curry this time, and it tasted pretty good in a conventional way as well"
-      ],
-      "reviewMentions": 2
-    },
-    {
-      "name": "Kheer",
-      "description": "A traditional rice pudding dessert that was described as 'really good'.",
-      "category": "Dessert",
-      "badge": "Featured",
-      "quotes": [
-        "The kheer was also really good"
-      ],
-      "reviewMentions": 1
-    },
-    {
-      "name": "Mango Lassi",
-      "description": "A popular and refreshing yogurt-based mango drink.",
-      "category": "Drink",
-      "badge": "Featured",
-      "quotes": [
-        "The samosas and mango lassi were also so good"
-      ],
-      "reviewMentions": 1
+      ]
     }
   ],
   "highlightedReviews": [
-    {
-      "author": "Douglas Erickson",
-      "rating": 5,
-      "text": "Excellent, as always.  Updated for post-covid ... Party of 6, indoor seating.  Jackfruit Tikka masala was outstanding!\n\nBiryani always excellent.  Tried Thukpa with chicken, (Tibetan-style rice noodles mixed with fresh garden vegetables in a savory broth). Excellent chicken noodle soup for the soul on a fall day!  Timely, yummy, not cheap yet a  great value.",
-      "date": "Edited 3 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Ava Kurszewski",
-      "rating": 5,
-      "text": "I looked to Reddit to find the best South Asian food in the Twin Cities area, and the most recommended was Himalayan. I got the chicken coconut curry (mild) and thought it was one of the best South Asian curry/stew dishes I’ve had! The price is pretty high for a one-meal portion. Usually when I get Indian/South Asian food I have leftovers, for a price of ~$15 per entree. I paid ~$18 for my entree at Himalayan and had no leftovers. Despite the higher than average price, I quite enjoyed my experience here and will definitely be coming back. Clean bathrooms, good music, friendly staff, and a good menu.",
-      "date": "6 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Tina Xinastle",
-      "rating": 5,
-      "text": "My husband and I had a splendid lunch date at the Himalayan Restaurant. The seating outdoors is so beautiful and is decorated with many flowers. The atmosphere inside for lunch was quite peaceful, which is my ideal type of restaurant.\nWe ordered dumplings as an appetizer. My husband enjoyed the extra spicy sauce. I liked the sauce with tomatoes and spices.\nThe main courses are made to the spice level you prefer. The chicken tikka masala and the mixed curry were absolutely delicious. The naan was seasoned well with garlic and herbs. The white and brown rice were fluffy and cooked perfectly as well.\nWe are hoping to eat here again soon. Highly recommend!\nThank you!",
-      "date": "4 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Brandon Sullivan",
-      "rating": 5,
-      "text": "This is the best tikka in the city. I've had lots of dishes from Himalayan over the years, but I always find myself coming back to their mushroom tikka masala. Back when I ate meat, their chicken and lamb tikka dishes were my go-to. But it's about the sauce; it's so flavorful and so rich. I always get garlic naan with my meal, which is pillowy and delightful.\n\nI often find myself ordering takeout from here out of convenience while out running errands, but the ambiance of the place is splendid with large pieces of hand-painted art on the walls of serene locations in Nepal and Tibet.\n\nFor anyone who is looking for Nepalese, Tibetan, or Indian food, I always highly recommend Himalayan.",
-      "date": "5 months ago",
-      "source": "Google"
-    },
-    {
-      "author": "Amod",
-      "rating": 5,
-      "text": "Himalayan Restaurant delivers an unforgettable dining experience that blends authentic Nepali flavors with a welcoming atmosphere. The moment you walk in, you’re greeted with warm smiles, the comforting aroma of spices, and décor that reflects the beauty of the Himalayas.\n\nThe Nepali food choice set was the highlight: fragrant rice, hearty lentil soup, sautéed greens, and tender curry, all presented in traditional style. Each dish tasted fresh, balanced, and full of love. The achar was perfectly crisp on the outside and soft inside, bringing a nostalgic festival flavor to the table.\n\nService is top-notch — attentive, kind, and genuinely passionate about sharing Nepali cuisine. The staff happily explains dishes for newcomers while making regulars feel right at home.",
-      "date": "5 months ago",
-      "source": "Google"
-    },
     {
       "author": "Alane Klein",
       "rating": 5,
@@ -134,10 +62,10 @@
       "source": "Google"
     },
     {
-      "author": "Robert Vincoli",
-      "rating": 5,
-      "text": "I have not been here since they did away with the buffet. I was in the area today and stopped in, picked up a Togo order chicken tikka,  garlic naan, and an order of samosa. The food was just as I remember it outstanding as was the friendly service and atmosphere. I hope to get back sooner rather than later.",
-      "date": "6 months ago",
+      "author": "clayton rosine",
+      "rating": 4,
+      "text": "So this restaurant is one of my favorites and I used to order from here twice a week, however their naan is burnt beyond being edible 9 out of 10 times i order it. The rest of their food is great but they need to get their shit together on the naan. It sucks because i love everything about this place butt i basically throw $6 in the trash every time i order because i cant eat the naan.",
+      "date": "3 months ago",
       "source": "Google"
     },
     {
@@ -148,10 +76,17 @@
       "source": "Google"
     },
     {
-      "author": "Jay Shen",
-      "rating": 4,
-      "text": "My friend who visited from out of town specifically wanted to visit here because of the thukpa, which I thought was very tasty as well, upon trying it a bit. The dishes that I ordered, I found them to be mediocre to good overall, which is why I am giving this establishment a 4 rather than a 5 rating. Regardless, I know that they serve authentic Nepali food, so I would still recommend them to people, especially visitors.\n\nThe momos were pretty good in a conventional way with the sauce included, and it was a pleasant experience consuming them. They weren't out of this world, which is not a bad thing here. I personally think maybe having 3 or 4 samosas would work better as an appetizer, and the potato and pea fillings were a bit plain, meaning underseasoned.\n\nInstead of getting goat curry as usual, I got the lamb curry this time, and it tasted pretty good in a conventional way as well. The lamb flavor along with the seasonings were there, along with the bones. Having rice with it was necessary. I thought having the extra diced tomatoes on top of the tomato curry sauce was pretty unique, but that could be because of my ignorance.\n\nAs mentioned previously, I would definitely recommend this establishment to those that are looking for authentic Nepali food. It's definitely a neighborhood gem in Minneapolis, even if I think there are areas of improvement.",
-      "date": "3 months ago",
+      "author": "Brandon Sullivan",
+      "rating": 5,
+      "text": "This is the best tikka in the city. I've had lots of dishes from Himalayan over the years, but I always find myself coming back to their mushroom tikka masala. Back when I ate meat, their chicken and lamb tikka dishes were my go-to. But it's about the sauce; it's so flavorful and so rich. I always get garlic naan with my meal, which is pillowy and delightful.\n\nI often find myself ordering takeout from here out of convenience while out running errands, but the ambiance of the place is splendid with large pieces of hand-painted art on the walls of serene locations in Nepal and Tibet.\n\nFor anyone who is looking for Nepalese, Tibetan, or Indian food, I always highly recommend Himalayan.",
+      "date": "5 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Douglas Erickson",
+      "rating": 5,
+      "text": "Excellent, as always.  Updated for post-covid ... Party of 6, indoor seating.  Jackfruit Tikka masala was outstanding!\n\nBiryani always excellent.  Tried Thukpa with chicken, (Tibetan-style rice noodles mixed with fresh garden vegetables in a savory broth). Excellent chicken noodle soup for the soul on a fall day!  Timely, yummy, not cheap yet a  great value.",
+      "date": "Edited 3 months ago",
       "source": "Google"
     },
     {
@@ -160,9 +95,37 @@
       "text": "I was looking for the best Nepalese Restaurant in the whole Minnesota while I was here traveling. This restaurant is so much best as per environment, music choices while eating and the best part is - “The food reminds me of Kathmandu with typical style “\nIf anyone miss Nepal or someone from US wants to taste the best food in word but can’t travel to Nepal, you should come and check this🔥♥️",
       "date": "6 months ago",
       "source": "Google"
+    },
+    {
+      "author": "Ava Kurszewski",
+      "rating": 5,
+      "text": "I looked to Reddit to find the best South Asian food in the Twin Cities area, and the most recommended was Himalayan. I got the chicken coconut curry (mild) and thought it was one of the best South Asian curry/stew dishes I’ve had! The price is pretty high for a one-meal portion. Usually when I get Indian/South Asian food I have leftovers, for a price of ~$15 per entree. I paid ~$18 for my entree at Himalayan and had no leftovers. Despite the higher than average price, I quite enjoyed my experience here and will definitely be coming back. Clean bathrooms, good music, friendly staff, and a good menu.",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Jay Shen",
+      "rating": 4,
+      "text": "My friend who visited from out of town specifically wanted to visit here because of the thukpa, which I thought was very tasty as well, upon trying it a bit. The dishes that I ordered, I found them to be mediocre to good overall, which is why I am giving this establishment a 4 rather than a 5 rating. Regardless, I know that they serve authentic Nepali food, so I would still recommend them to people, especially visitors.\n\nThe momos were pretty good in a conventional way with the sauce included, and it was a pleasant experience consuming them. They weren't out of this world, which is not a bad thing here. I personally think maybe having 3 or 4 samosas would work better as an appetizer, and the potato and pea fillings were a bit plain, meaning underseasoned.\n\nInstead of getting goat curry as usual, I got the lamb curry this time, and it tasted pretty good in a conventional way as well. The lamb flavor along with the seasonings were there, along with the bones. Having rice with it was necessary. I thought having the extra diced tomatoes on top of the tomato curry sauce was pretty unique, but that could be because of my ignorance.\n\nAs mentioned previously, I would definitely recommend this establishment to those that are looking for authentic Nepali food. It's definitely a neighborhood gem in Minneapolis, even if I think there are areas of improvement.",
+      "date": "3 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Ильяс Абрaмович Старк (Эльяс)",
+      "rating": 5,
+      "text": "Himalayan Restaurant boasts a delicious Nepali menu of curries, vegetarian dishes and best of all the momos! We have tried almost all the variety of momos, several different meat curries and many vegetarian dishes here, none disappointed! The naan comes fresh from the tandoor, all the food are fresh and tasty! Highly recommended for anyone looking for South Asian food!",
+      "date": "6 months ago",
+      "source": "Google"
+    },
+    {
+      "author": "Tina Xinastle",
+      "rating": 5,
+      "text": "My husband and I had a splendid lunch date at the Himalayan Restaurant. The seating outdoors is so beautiful and is decorated with many flowers. The atmosphere inside for lunch was quite peaceful, which is my ideal type of restaurant.\nWe ordered dumplings as an appetizer. My husband enjoyed the extra spicy sauce. I liked the sauce with tomatoes and spices.\nThe main courses are made to the spice level you prefer. The chicken tikka masala and the mixed curry were absolutely delicious. The naan was seasoned well with garlic and herbs. The white and brown rice were fluffy and cooked perfectly as well.\nWe are hoping to eat here again soon. Highly recommend!\nThank you!",
+      "date": "4 months ago",
+      "source": "Google"
     }
   ],
   "timingInsights": [],
-  "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:46:18.974Z"
+  "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
+  "lastUpdated": "2026-02-06T02:24:33.443Z"
 }
