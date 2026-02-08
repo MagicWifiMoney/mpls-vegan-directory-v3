@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minneapolis Vegan Dining Guide 2026</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+    
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #1a1a1a;
+      color: #f5f0e8;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    
+    h1, h2, h3 { font-family: 'Playfair Display', serif; }
+    
+    .cover {
+      text-align: center;
+      padding: 80px 40px;
+      background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
+      border: 1px solid rgba(245, 240, 232, 0.1);
+      border-radius: 24px;
+      margin-bottom: 60px;
+    }
+    
+    .cover h1 {
+      font-size: 2.5rem;
+      margin-bottom: 16px;
+      color: #f5f0e8;
+    }
+    
+    .cover .subtitle {
+      color: #d4a574;
+      font-size: 1.1rem;
+      margin-bottom: 24px;
+    }
+    
+    .cover .year {
+      display: inline-block;
+      background: #d4a574;
+      color: #1a1a1a;
+      padding: 8px 24px;
+      border-radius: 20px;
+      font-weight: 600;
+    }
+    
+    .section {
+      margin-bottom: 48px;
+    }
+    
+    .section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 24px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid #d4a574;
+    }
+    
+    .category {
+      margin-bottom: 32px;
+    }
+    
+    .category h3 {
+      font-size: 1.3rem;
+      color: #d4a574;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .restaurant {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(245, 240, 232, 0.1);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    
+    .restaurant-name {
+      font-weight: 600;
+      font-size: 1.1rem;
+      margin-bottom: 4px;
+    }
+    
+    .restaurant-meta {
+      color: rgba(245, 240, 232, 0.5);
+      font-size: 0.9rem;
+      margin-bottom: 8px;
+    }
+    
+    .restaurant-desc {
+      font-size: 0.95rem;
+      color: rgba(245, 240, 232, 0.7);
+      margin-bottom: 12px;
+    }
+    
+    .try-this {
+      background: rgba(212, 165, 116, 0.1);
+      border-left: 3px solid #d4a574;
+      padding: 12px 16px;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .try-this-label {
+      color: #d4a574;
+      font-weight: 600;
+      font-size: 0.85rem;
+      margin-bottom: 4px;
+    }
+    
+    .try-this-item {
+      font-size: 0.9rem;
+    }
+    
+    .badge {
+      display: inline-block;
+      background: #3d4a3d;
+      color: #d4a574;
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      margin-left: 8px;
+    }
+    
+    .tip-box {
+      background: linear-gradient(135deg, rgba(61, 74, 61, 0.3) 0%, rgba(61, 74, 61, 0.1) 100%);
+      border: 1px solid rgba(212, 165, 116, 0.2);
+      border-radius: 16px;
+      padding: 24px;
+      margin: 32px 0;
+    }
+    
+    .tip-box h4 {
+      color: #d4a574;
+      margin-bottom: 12px;
+      font-family: 'Playfair Display', serif;
+    }
+    
+    .neighborhood-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+      margin-top: 16px;
+    }
+    
+    .neighborhood-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(245, 240, 232, 0.1);
+      border-radius: 12px;
+      padding: 16px;
+    }
+    
+    .neighborhood-name {
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    
+    .neighborhood-desc {
+      font-size: 0.85rem;
+      color: rgba(245, 240, 232, 0.5);
+    }
+    
+    .footer {
+      text-align: center;
+      padding: 40px;
+      border-top: 1px solid rgba(245, 240, 232, 0.1);
+      margin-top: 60px;
+    }
+    
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      margin-bottom: 8px;
+    }
+    
+    .footer-url {
+      color: #d4a574;
+    }
+    
+    @media print {
+      body { background: white; color: #1a1a1a; }
+      .cover { background: #f5f5f5; }
+      .restaurant, .neighborhood-card { border-color: #ddd; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Cover -->
+  <div class="cover">
+    <h1>Minneapolis Vegan Dining Guide</h1>
+    <p class="subtitle">Your curated guide to plant-based eating in the Twin Cities</p>
+    <span class="year">2026 Edition</span>
+  </div>
+
+  <!-- Quick Stats -->
+  <div class="tip-box">
+    <h4>📊 By The Numbers</h4>
+    <p>40+ restaurants · 15+ neighborhoods · 100% plant-based options · Updated weekly</p>
+  </div>
+
+  <!-- Featured Restaurants by Category -->
+  <div class="section">
+    <h2>🍳 Brunch Favorites</h2>
+    
+    <div class="restaurant">
+      <div class="restaurant-name">J. Selby's <span class="badge">100% Vegan</span></div>
+      <div class="restaurant-meta">Cathedral Hill, Saint Paul · $$</div>
+      <div class="restaurant-desc">The crown jewel of Twin Cities vegan dining. Famous for comfort food classics done entirely plant-based.</div>
+      <div class="try-this">
+        <div class="try-this-label">Try This:</div>
+        <div class="try-this-item">The Crunchwrap — Vegan taco meat, "cheese," and all the fixings wrapped in a grilled tortilla. Legendary.</div>
+      </div>
+    </div>
+
+    <div class="restaurant">
+      <div class="restaurant-name">Modern Times Cafe <span class="badge">Vegetarian</span></div>
+      <div class="restaurant-meta">Powderhorn, Minneapolis · $</div>
+      <div class="restaurant-desc">Cozy neighborhood cafe with creative brunch plates and strong coffee. Worker-owned cooperative vibes.</div>
+      <div class="try-this">
+        <div class="try-this-label">Try This:</div>
+        <div class="try-this-item">Weekend brunch specials — They change weekly and always include stellar vegan options.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>🍔 Comfort Food Cravings</h2>
+    
+    <div class="restaurant">
+      <div class="restaurant-name">The Herbivorous Butcher <span class="badge">100% Vegan</span></div>
+      <div class="restaurant-meta">Northeast Minneapolis · $$</div>
+      <div class="restaurant-desc">America's first vegan butcher shop. House-made meats and cheeses that have converted countless skeptics.</div>
+      <div class="try-this">
+        <div class="try-this-label">Try This:</div>
+        <div class="try-this-item">Korean BBQ Ribs — Smoky, tender, and their most famous item. Also grab the Italian Sub for lunch.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>🌍 Global Flavors</h2>
+    
+    <div class="restaurant">
+      <div class="restaurant-name">Lulu EthioVegan <span class="badge">100% Vegan</span></div>
+      <div class="restaurant-meta">Elliot Park, Minneapolis · $$</div>
+      <div class="restaurant-desc">Authentic Ethiopian cuisine, entirely vegan. Injera bread with flavorful stews you scoop by hand.</div>
+      <div class="try-this">
+        <div class="try-this-label">Try This:</div>
+        <div class="try-this-item">The sampler platter — Try multiple stews (misir wot, gomen, shiro) on one big injera.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Neighborhood Guide -->
+  <div class="section">
+    <h2>🗺️ Neighborhood Guide</h2>
+    <p style="color: rgba(245, 240, 232, 0.6); margin-bottom: 16px;">Where to eat based on where you are:</p>
+    
+    <div class="neighborhood-grid">
+      <div class="neighborhood-card">
+        <div class="neighborhood-name">Northeast Minneapolis</div>
+        <div class="neighborhood-desc">The vegan epicenter. Home to Herbivorous Butcher and artsy cafes.</div>
+      </div>
+      <div class="neighborhood-card">
+        <div class="neighborhood-name">Uptown / Lyn-Lake</div>
+        <div class="neighborhood-desc">Trendy spots, late night eats, and walkable restaurant hopping.</div>
+      </div>
+      <div class="neighborhood-card">
+        <div class="neighborhood-name">Cathedral Hill (St. Paul)</div>
+        <div class="neighborhood-desc">J. Selby's territory. Worth the drive from Minneapolis.</div>
+      </div>
+      <div class="neighborhood-card">
+        <div class="neighborhood-name">Seward / Longfellow</div>
+        <div class="neighborhood-desc">Co-ops, cafes, and a crunchy-granola vibe in the best way.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Pro Tips -->
+  <div class="tip-box">
+    <h4>💡 Insider Tips</h4>
+    <ul style="margin-left: 20px; color: rgba(245, 240, 232, 0.7);">
+      <li style="margin-bottom: 8px;">Most restaurants mark vegan items with "V" or "VG" — but always double-check with your server</li>
+      <li style="margin-bottom: 8px;">Pizza Lucé offers Daiya cheese on any pizza at all locations</li>
+      <li style="margin-bottom: 8px;">Weekends at J. Selby's get busy — arrive before 10am or after 2pm</li>
+      <li style="margin-bottom: 8px;">The Herbivorous Butcher has a grab-and-go deli counter for quick lunches</li>
+      <li>Join our newsletter at mplsvegan.com for weekly updates on new spots</li>
+    </ul>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    <div class="footer-logo">MPLS Vegan</div>
+    <p class="footer-url">mplsvegan.com</p>
+    <p style="color: rgba(245, 240, 232, 0.4); font-size: 0.85rem; margin-top: 16px;">
+      © 2026 MPLS Vegan Directory. Updated February 2026.
+    </p>
+  </div>
+</body>
+</html>
