@@ -91,7 +91,7 @@ export default function Hero() {
                     
                     {/* Featured stat */}
                     <div>
-                      <span className="font-display text-7xl lg:text-8xl text-gradient">20+</span>
+                      <span className="font-display text-7xl lg:text-8xl text-gradient">70+</span>
                       <p className="text-[#f5f0e8]/50 mt-2">Curated restaurants across<br />Minneapolis & Saint Paul</p>
                     </div>
                   </div>
@@ -99,11 +99,11 @@ export default function Hero() {
                   {/* Bottom stats grid */}
                   <div className="grid grid-cols-3 gap-4 pt-6 border-t border-[#f5f0e8]/10">
                     <div>
-                      <span className="font-display text-2xl text-[#f5f0e8]">14</span>
+                      <span className="font-display text-2xl text-[#f5f0e8]">25</span>
                       <p className="text-xs text-[#f5f0e8]/40 mt-1">Neighborhoods</p>
                     </div>
                     <div>
-                      <span className="font-display text-2xl text-[#f5f0e8]">10+</span>
+                      <span className="font-display text-2xl text-[#f5f0e8]">15+</span>
                       <p className="text-xs text-[#f5f0e8]/40 mt-1">Cuisines</p>
                     </div>
                     <div>
