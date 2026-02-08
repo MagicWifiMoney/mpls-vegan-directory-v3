@@ -18,8 +18,8 @@ export default function Header() {
   return (
     <header 
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-        isScrolled 
-          ? 'bg-[#1a1a1a]/95 backdrop-blur-md border-b border-[#f5f0e8]/5' 
+        isScrolled || isMenuOpen
+          ? 'bg-[#1a1a1a] border-b border-[#f5f0e8]/5' 
           : 'bg-transparent'
       }`}
     >
@@ -93,7 +93,7 @@ export default function Header() {
             isMenuOpen ? 'max-h-96 opacity-100 pb-6' : 'max-h-0 opacity-0'
           }`}
         >
-          <div className="flex flex-col gap-1 pt-4 border-t border-[#f5f0e8]/10">
+          <div className="flex flex-col gap-1 pt-4 border-t border-[#f5f0e8]/10 bg-[#1a1a1a]">
             {[
               { href: '/', label: 'Home' },
               { href: '/#restaurants', label: 'Restaurants' },
