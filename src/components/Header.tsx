@@ -87,13 +87,14 @@ export default function Header() {
           </button>
         </div>
 
-        {/* Mobile Navigation */}
+      </nav>
+
+      {/* Mobile Navigation — full screen overlay */}
+      {isMenuOpen && (
         <div 
-          className={`md:hidden overflow-hidden transition-all duration-500 ease-out ${
-            isMenuOpen ? 'max-h-96 opacity-100 pb-6' : 'max-h-0 opacity-0'
-          }`}
+          className="md:hidden fixed inset-0 top-20 z-50 bg-[#1a1a1a]"
         >
-          <div className="flex flex-col gap-1 pt-4 border-t border-[#f5f0e8]/10 bg-[#1a1a1a]">
+          <div className="flex flex-col px-6 pt-6">
             {[
               { href: '/', label: 'Home' },
               { href: '/#restaurants', label: 'Restaurants' },
@@ -101,20 +102,19 @@ export default function Header() {
               { href: '/neighborhoods', label: 'Neighborhoods' },
               { href: '/about', label: 'About' },
               { href: '/contact', label: 'Contact' },
-            ].map((link, index) => (
+            ].map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
                 onClick={() => setIsMenuOpen(false)}
-                className="py-3 px-2 text-lg text-[#f5f0e8]/70 hover:text-[#d4a574] transition-colors duration-300 border-b border-[#f5f0e8]/5"
-                style={{ animationDelay: `${index * 50}ms` }}
+                className="py-4 text-lg text-[#f5f0e8]/80 hover:text-[#d4a574] transition-colors duration-300 border-b border-[#f5f0e8]/10"
               >
                 {link.label}
               </Link>
             ))}
           </div>
         </div>
-      </nav>
+      )}
     </header>
   );
 }
