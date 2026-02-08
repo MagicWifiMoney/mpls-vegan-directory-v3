@@ -19,7 +19,27 @@
     "https://mplsvegan.com/restaurants/himalayan-restaurant",
     "https://mplsvegan.com/restaurants/foxy-falafel",
     "https://mplsvegan.com/restaurants/tongue-in-cheek",
-    "https://mplsvegan.com/restaurants/amazing-thailand"
+    "https://mplsvegan.com/restaurants/amazing-thailand",
+    "https://mplsvegan.com/guide",
+    "https://mplsvegan.com/faq",
+    "https://mplsvegan.com/neighborhoods",
+    "https://mplsvegan.com/blog",
+    "https://mplsvegan.com/about",
+    "https://mplsvegan.com/contact",
+    "https://mplsvegan.com/restaurants/glam-doll-donuts",
+    "https://mplsvegan.com/restaurants/seed-cafe",
+    "https://mplsvegan.com/restaurants/eureka-compass",
+    "https://mplsvegan.com/restaurants/crepe-and-spoon",
+    "https://mplsvegan.com/restaurants/pizza-luce",
+    "https://mplsvegan.com/restaurants/shish-mediterranean",
+    "https://mplsvegan.com/restaurants/the-dripping-root",
+    "https://mplsvegan.com/restaurants/afro-deli",
+    "https://mplsvegan.com/restaurants/common-roots-cafe",
+    "https://mplsvegan.com/restaurants/khyber-pass-cafe",
+    "https://mplsvegan.com/restaurants/crisp-and-green",
+    "https://mplsvegan.com/restaurants/wedge-table",
+    "https://mplsvegan.com/restaurants/may-day-cafe",
+    "https://mplsvegan.com/restaurants/peninsula-malaysian"
   ],
   "failed": [],
   "batches": [
@@ -48,6 +68,33 @@
         "https://mplsvegan.com/restaurants/foxy-falafel",
         "https://mplsvegan.com/restaurants/tongue-in-cheek",
         "https://mplsvegan.com/restaurants/amazing-thailand"
+      ]
+    },
+    {
+      "date": "2026-02-08T12:30:58.547Z",
+      "success": 20,
+      "fail": 0,
+      "urls": [
+        "https://mplsvegan.com/guide",
+        "https://mplsvegan.com/faq",
+        "https://mplsvegan.com/neighborhoods",
+        "https://mplsvegan.com/blog",
+        "https://mplsvegan.com/about",
+        "https://mplsvegan.com/contact",
+        "https://mplsvegan.com/restaurants/glam-doll-donuts",
+        "https://mplsvegan.com/restaurants/seed-cafe",
+        "https://mplsvegan.com/restaurants/eureka-compass",
+        "https://mplsvegan.com/restaurants/crepe-and-spoon",
+        "https://mplsvegan.com/restaurants/pizza-luce",
+        "https://mplsvegan.com/restaurants/shish-mediterranean",
+        "https://mplsvegan.com/restaurants/the-dripping-root",
+        "https://mplsvegan.com/restaurants/afro-deli",
+        "https://mplsvegan.com/restaurants/common-roots-cafe",
+        "https://mplsvegan.com/restaurants/khyber-pass-cafe",
+        "https://mplsvegan.com/restaurants/crisp-and-green",
+        "https://mplsvegan.com/restaurants/wedge-table",
+        "https://mplsvegan.com/restaurants/may-day-cafe",
+        "https://mplsvegan.com/restaurants/peninsula-malaysian"
       ]
     }
   ]
