@@ -1,0 +1,54 @@
+{
+  "submitted": [
+    "https://mplsvegan.com",
+    "https://mplsvegan.com/restaurants",
+    "https://mplsvegan.com/restaurants/herbivorous-butcher",
+    "https://mplsvegan.com/restaurants/j-selbys",
+    "https://mplsvegan.com/restaurants/lulu-ethiovegan",
+    "https://mplsvegan.com/restaurants/reverie-cafe-bar",
+    "https://mplsvegan.com/restaurants/french-meadow",
+    "https://mplsvegan.com/restaurants/hard-times-cafe",
+    "https://mplsvegan.com/restaurants/seward-cafe",
+    "https://mplsvegan.com/restaurants/francis-burger-joint",
+    "https://mplsvegan.com/restaurants/vegan-east",
+    "https://mplsvegan.com/restaurants/modern-times",
+    "https://mplsvegan.com/restaurants/lutunjis-palate",
+    "https://mplsvegan.com/restaurants/bole-ethiopian",
+    "https://mplsvegan.com/restaurants/everest-on-grand",
+    "https://mplsvegan.com/restaurants/namaste-cafe",
+    "https://mplsvegan.com/restaurants/himalayan-restaurant",
+    "https://mplsvegan.com/restaurants/foxy-falafel",
+    "https://mplsvegan.com/restaurants/tongue-in-cheek",
+    "https://mplsvegan.com/restaurants/amazing-thailand"
+  ],
+  "failed": [],
+  "batches": [
+    {
+      "date": "2026-02-08T09:08:29.376Z",
+      "success": 20,
+      "fail": 0,
+      "urls": [
+        "https://mplsvegan.com",
+        "https://mplsvegan.com/restaurants",
+        "https://mplsvegan.com/restaurants/herbivorous-butcher",
+        "https://mplsvegan.com/restaurants/j-selbys",
+        "https://mplsvegan.com/restaurants/lulu-ethiovegan",
+        "https://mplsvegan.com/restaurants/reverie-cafe-bar",
+        "https://mplsvegan.com/restaurants/french-meadow",
+        "https://mplsvegan.com/restaurants/hard-times-cafe",
+        "https://mplsvegan.com/restaurants/seward-cafe",
+        "https://mplsvegan.com/restaurants/francis-burger-joint",
+        "https://mplsvegan.com/restaurants/vegan-east",
+        "https://mplsvegan.com/restaurants/modern-times",
+        "https://mplsvegan.com/restaurants/lutunjis-palate",
+        "https://mplsvegan.com/restaurants/bole-ethiopian",
+        "https://mplsvegan.com/restaurants/everest-on-grand",
+        "https://mplsvegan.com/restaurants/namaste-cafe",
+        "https://mplsvegan.com/restaurants/himalayan-restaurant",
+        "https://mplsvegan.com/restaurants/foxy-falafel",
+        "https://mplsvegan.com/restaurants/tongue-in-cheek",
+        "https://mplsvegan.com/restaurants/amazing-thailand"
+      ]
+    }
+  ]
+}
