@@ -39,7 +39,27 @@
     "https://mplsvegan.com/restaurants/crisp-and-green",
     "https://mplsvegan.com/restaurants/wedge-table",
     "https://mplsvegan.com/restaurants/may-day-cafe",
-    "https://mplsvegan.com/restaurants/peninsula-malaysian"
+    "https://mplsvegan.com/restaurants/peninsula-malaysian",
+    "https://mplsvegan.com/restaurants/ngon-vietnamese",
+    "https://mplsvegan.com/restaurants/cafe-latte",
+    "https://mplsvegan.com/restaurants/brasa-premium-rotisserie",
+    "https://mplsvegan.com/restaurants/ipho-saigon",
+    "https://mplsvegan.com/restaurants/galactic-pizza",
+    "https://mplsvegan.com/restaurants/black-sheep-pizza",
+    "https://mplsvegan.com/restaurants/red-cow",
+    "https://mplsvegan.com/restaurants/masu-sushi",
+    "https://mplsvegan.com/restaurants/wok-in-the-park",
+    "https://mplsvegan.com/restaurants/salty-tart",
+    "https://mplsvegan.com/restaurants/tori-ramen",
+    "https://mplsvegan.com/restaurants/world-street-kitchen",
+    "https://mplsvegan.com/restaurants/gandhi-mahal",
+    "https://mplsvegan.com/restaurants/victors-1959",
+    "https://mplsvegan.com/restaurants/northeast",
+    "https://mplsvegan.com/restaurants/uptown",
+    "https://mplsvegan.com/restaurants/lyn-lake",
+    "https://mplsvegan.com/restaurants/powderhorn",
+    "https://mplsvegan.com/restaurants/seward",
+    "https://mplsvegan.com/restaurants/elliot-park"
   ],
   "failed": [],
   "batches": [
@@ -96,6 +116,37 @@
         "https://mplsvegan.com/restaurants/may-day-cafe",
         "https://mplsvegan.com/restaurants/peninsula-malaysian"
       ]
+    },
+    {
+      "date": "2026-02-09T12:31:01.704Z",
+      "success": 20,
+      "fail": 0,
+      "urls": [
+        "https://mplsvegan.com/restaurants/ngon-vietnamese",
+        "https://mplsvegan.com/restaurants/cafe-latte",
+        "https://mplsvegan.com/restaurants/brasa-premium-rotisserie",
+        "https://mplsvegan.com/restaurants/ipho-saigon",
+        "https://mplsvegan.com/restaurants/galactic-pizza",
+        "https://mplsvegan.com/restaurants/black-sheep-pizza",
+        "https://mplsvegan.com/restaurants/red-cow",
+        "https://mplsvegan.com/restaurants/masu-sushi",
+        "https://mplsvegan.com/restaurants/wok-in-the-park",
+        "https://mplsvegan.com/restaurants/salty-tart",
+        "https://mplsvegan.com/restaurants/tori-ramen",
+        "https://mplsvegan.com/restaurants/world-street-kitchen",
+        "https://mplsvegan.com/restaurants/gandhi-mahal",
+        "https://mplsvegan.com/restaurants/victors-1959",
+        "https://mplsvegan.com/restaurants/northeast",
+        "https://mplsvegan.com/restaurants/uptown",
+        "https://mplsvegan.com/restaurants/lyn-lake",
+        "https://mplsvegan.com/restaurants/powderhorn",
+        "https://mplsvegan.com/restaurants/seward",
+        "https://mplsvegan.com/restaurants/elliot-park"
+      ]
     }
-  ]
+  ],
+  "completed": true,
+  "completedAt": "2026-02-10T12:30:00.000Z",
+  "totalSubmitted": 60,
+  "totalFailed": 0
 }

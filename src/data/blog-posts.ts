@@ -23,6 +23,204 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "valentines-day-vegan-date-night-minneapolis-2026",
+    title: "Valentine's Day 2026: The Ultimate Vegan Date Night Guide for Minneapolis",
+    description: "Valentine's Day is Friday! Here are the most romantic vegan and vegan-friendly restaurants in Minneapolis for 2026, plus reservation tips and what to order.",
+    publishedAt: "2026-02-10",
+    updatedAt: "2026-02-10",
+    author: "MPLS Vegan Team",
+    category: "Date Ideas",
+    tags: ["valentines day", "date night", "romantic", "vegan", "minneapolis", "2026"],
+    readingTime: "6 min read",
+    tldr: "Valentine's Day is THIS FRIDAY (Feb 14)! Top picks: Fig + Farro ($65 four-course prix fixe—book NOW), Tongue in Cheek (upscale tasting menu + killer cocktails), Reverie Cafe (100% vegan, no-tipping, casual-romantic), and J. Selby's (comfort food champion). For a unique experience, grab takeout from Herbivorous Butcher + wine at home. Pro tip: Most places are already filling up—make reservations TODAY.",
+    faqs: [
+      {
+        question: "Which Minneapolis vegan restaurants are doing Valentine's Day specials in 2026?",
+        answer: "Fig + Farro is offering a $65 four-course prix fixe Valentine's menu. Tongue in Cheek typically does a special tasting menu. Many restaurants are running specials Feb 13-15, so call ahead to confirm."
+      },
+      {
+        question: "Do I need reservations for Valentine's Day dinner in Minneapolis?",
+        answer: "YES! Valentine's Day is one of the busiest restaurant nights of the year. Make reservations immediately—especially for popular spots like Tongue in Cheek, Fig + Farro, and Masu. Many places are already booking up."
+      },
+      {
+        question: "What's the most romantic vegan restaurant in Minneapolis for Valentine's Day?",
+        answer: "Tongue in Cheek is the top choice for upscale romance—intimate atmosphere, exceptional cocktails, and a vegan tasting menu option. For 100% vegan fine dining vibes, Fig + Farro's four-course prix fixe ($65) is specifically designed for the holiday."
+      },
+      {
+        question: "What if I can't get a reservation for Valentine's Day?",
+        answer: "Try booking for Thursday Feb 13 or Saturday Feb 15 instead. Or go the romantic-at-home route: grab meats and cheeses from Herbivorous Butcher, pick up a bottle of wine, and cook together. Sometimes the best dates are the ones without the restaurant pressure."
+      },
+      {
+        question: "Are there affordable vegan Valentine's Day options in Minneapolis?",
+        answer: "J. Selby's offers indulgent comfort food without the fine dining price tag. Reverie Cafe is 100% vegan with reasonable prices and a no-tipping model. Francis Burger Joint has incredible vegan burgers and milkshakes for a fun, casual date."
+      }
+    ],
+    relatedRestaurants: ["tongue-in-cheek", "reverie-cafe-bar", "fig-farro", "j-selbys", "herbivorous-butcher", "francis-burger-joint"],
+    relatedPosts: ["vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026", "northeast-minneapolis-vegan-guide"],
+    content: \`
+## Valentine's Day 2026: Where to Take Your Vegan Valentine in Minneapolis
+
+Real talk: Valentine's Day is **this Friday**. If you're reading this and haven't made a reservation yet, stop scrolling and do it NOW. I'll wait.
+
+...
+
+Okay, now that you've (hopefully) secured a spot somewhere, let's talk strategy. Minneapolis has some genuinely excellent options for vegan Valentine's Day dining, from upscale tasting menus to cozy comfort food spots where you can actually hear each other talk.
+
+---
+
+## 🌹 The "I Really Like You" Tier
+
+These are the spots that say "I put thought into this." Dress nice. Make eye contact. Maybe even put your phone away.
+
+### Fig + Farro — The Valentine's Prix Fixe
+
+**Uptown | $$$ | 100% Vegan**
+
+Fig + Farro is doing a **$65 four-course Valentine's menu** and honestly? It's the move. This is Minneapolis' premier plant-based fine dining experience, and they go all out for the holiday.
+
+*"Show the planet some love by dining at this community-oriented, chic restaurant with a sustainability mission."* — VegNews
+
+**What to expect:**
+- Four beautifully crafted courses
+- Two options per course (accommodate both of you)
+- Dishes like Buckwheat Tortellini, Tandori Carrot, and creative gluten-free desserts
+- Wine pairings available
+
+**The vibe:** Upscale but not pretentious. The kind of place where you feel fancy without feeling uncomfortable.
+
+**⚠️ Reservation status:** BOOK IMMEDIATELY. This place fills up.
+
+---
+
+### Tongue in Cheek — The Classic Move
+
+**East St. Paul | $$$ | ⭐ 4.8**
+
+If you read our [regular date night guide](/blog/vegan-date-night-minneapolis), you know [Tongue in Cheek](/restaurants/tongue-in-cheek) is already our top pick. For Valentine's? It's even better.
+
+*"First, any review that is less than 5 stars for this establishment is just plain wrong."* — John Madison
+
+**The Valentine's play:**
+1. **Start with the Cross-Eyed Mary cocktail** — Legendary. A veggie-infused martini that'll make you forget about boring wine.
+2. **Get the Vegasm** — Yes, that's what it's called. Yes, it's appropriate for the occasion.
+3. **Share the Jerk Cauliflower** — "Hit the ideal balance of spice and flavor"
+4. **Linger over dessert** — They want you to stay. Let yourself.
+
+**The vibe:** Upscale but with quirky art on the walls. Intimate without being stuffy.
+
+**Pricing:** ~$70-90/person with drinks. Worth every penny on Valentine's.
+
+---
+
+## 💚 The "Let's Just Have a Great Time" Tier
+
+Not every Valentine's needs white tablecloths. These spots are perfect for couples who'd rather laugh than whisper.
+
+### Reverie Cafe + Bar — The Crowd Pleaser
+
+**South Minneapolis | $$ | 100% Vegan | ⭐ 4.7**
+
+*"This is probably the only all vegan restaurant I could safely take an omnivore to and them not think it sucks."* — Andrew Lewandowski
+
+[Reverie](/restaurants/reverie-cafe-bar) is 100% vegan, has excellent food, and operates on a no-tipping model. Translation: no awkward "who's paying" math at the end.
+
+**Valentine's order:**
+- **Mock Duck Korean BBQ Tacos** to share
+- **Mac and Cheese with Shiitake Bacon** — comfort food, elevated
+- **Beignets for dessert** — don't skip these
+
+**The vibe:** Bright and artsy. More "fun date" than "fancy date."
+
+**Why it works:** You can actually hear each other. The prices are reasonable. Nobody's performing romance—you're just enjoying a meal together.
+
+---
+
+### J. Selby's — Comfort Food Love Language
+
+**St. Paul | $$ | 100% Vegan | ⭐ 4.7**
+
+Some people express love through fancy dinners. Some people express it through the perfect plate of comfort food. [J. Selby's](/restaurants/j-selbys) is for the second group.
+
+**The Valentine's order:**
+- **Cauliflower Wings** with ranch — start here
+- **Dirty Secret Burger** — their signature, messy in the best way
+- **Animal Fries** — caramelized onions, special sauce, cheese
+- **Carrot Cake** — share one slice. Classic romance.
+
+*"Constantly floored with how far vegan food has come."* — Abdiwak Yohannes
+
+**The vibe:** Casual, busy, delicious. This is the "we don't need to prove anything" date.
+
+---
+
+## 🏠 The "Skip the Crowds" Option
+
+Real talk: Valentine's Day at restaurants can be... a lot. Crowded, rushed, overpriced. Sometimes the most romantic move is opting out entirely.
+
+### The Herbivorous Butcher At-Home Experience
+
+**Northeast Minneapolis | $$**
+
+Here's the play:
+1. Hit up [Herbivorous Butcher](/restaurants/herbivorous-butcher) during the day
+2. Grab the **Korean BBQ Ribs**, some **aged cheddar**, **Italian deli meats**
+3. Pick up a nice bottle of wine (or two)
+4. Cook together at home
+
+*"We had the pleasure of having our evening meal catered by Herbivorous Butcher. It was hands-down the best meal we've had all week."* — Liz Fathman
+
+**Why it works:**
+- No reservation stress
+- No time limit
+- Way cheaper than restaurant + drinks
+- Cooking together = built-in activity
+- Leftovers = breakfast in bed
+
+**Pro tip:** Order the ribs. They're $18.99/12oz and will be the star of your dinner.
+
+---
+
+## ⚡ Last-Minute Tips
+
+### Already Booked Up Everywhere?
+
+Try these backup plans:
+- **Book for Thursday the 13th or Saturday the 15th** — Same romance, way easier reservations
+- **Go early** — 5:30pm reservations are often available when 7:30pm is packed
+- **Call, don't just check online** — Sometimes restaurants hold tables for phone reservations
+- **Try the bar** — Many upscale spots have walk-in bar seating
+
+### What to Wear
+
+| Restaurant | Dress Code |
+|------------|-----------|
+| Fig + Farro | Smart casual to dressy |
+| Tongue in Cheek | Nice but not formal |
+| Reverie | Casual is fine |
+| J. Selby's | Whatever you want |
+| At home | ...use your imagination |
+
+### Don't Forget
+
+- **Make the reservation TONIGHT** — Seriously
+- **Mention it's Valentine's Day** — Some places do special touches
+- **Check hours** — Some spots have special Valentine's-only seatings
+- **Tip well** — Restaurant workers are slammed this week
+
+---
+
+## The Bottom Line
+
+Valentine's Day in Minneapolis doesn't have to mean suffering through a mediocre prix fixe at a restaurant that treats "vegan option" as an afterthought. We've got legitimately excellent choices—from the $65 tasting menu at Fig + Farro to a cozy night in with Herbivorous Butcher ribs.
+
+The key? **Book now.** Like, right now. Before you finish reading this sentence.
+
+For more date night ideas beyond Valentine's, check our [complete vegan date night guide](/blog/vegan-date-night-minneapolis) or browse the [full Minneapolis vegan restaurant directory](/blog/best-vegan-restaurants-minneapolis-2026).
+
+Happy Valentine's Day, Minneapolis. 💚🌱
+    \`
+  },
+  {
     slug: "best-vegan-restaurants-minneapolis-2026",
     title: "Best Vegan Restaurants in Minneapolis 2026: The Ultimate Guide",
     description: "Your complete guide to the 46 best vegan and plant-based restaurants in Minneapolis for 2026. From 100% vegan spots to vegan-friendly gems, discover where to eat.",
