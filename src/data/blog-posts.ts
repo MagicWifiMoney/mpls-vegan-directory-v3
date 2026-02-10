@@ -57,7 +57,7 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedRestaurants: ["tongue-in-cheek", "reverie-cafe-bar", "fig-farro", "j-selbys", "herbivorous-butcher", "francis-burger-joint"],
     relatedPosts: ["vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026", "northeast-minneapolis-vegan-guide"],
-    content: \`
+    content: `
 ## Valentine's Day 2026: Where to Take Your Vegan Valentine in Minneapolis
 
 Real talk: Valentine's Day is **this Friday**. If you're reading this and haven't made a reservation yet, stop scrolling and do it NOW. I'll wait.
@@ -218,7 +218,7 @@ The key? **Book now.** Like, right now. Before you finish reading this sentence.
 For more date night ideas beyond Valentine's, check our [complete vegan date night guide](/blog/vegan-date-night-minneapolis) or browse the [full Minneapolis vegan restaurant directory](/blog/best-vegan-restaurants-minneapolis-2026).
 
 Happy Valentine's Day, Minneapolis. 💚🌱
-    \`
+    `
   },
   {
     slug: "best-vegan-restaurants-minneapolis-2026",
