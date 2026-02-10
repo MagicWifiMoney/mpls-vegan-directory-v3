@@ -32,19 +32,19 @@ export const blogPosts: BlogPost[] = [
     category: "Date Ideas",
     tags: ["valentines day", "date night", "romantic", "vegan", "minneapolis", "2026"],
     readingTime: "6 min read",
-    tldr: "Valentine's Day is THIS FRIDAY (Feb 14)! Top picks: Fig + Farro ($65 four-course prix fixe—book NOW), Tongue in Cheek (upscale tasting menu + killer cocktails), Reverie Cafe (100% vegan, no-tipping, casual-romantic), and J. Selby's (comfort food champion). For a unique experience, grab takeout from Herbivorous Butcher + wine at home. Pro tip: Most places are already filling up—make reservations TODAY.",
+    tldr: "Valentine's Day is THIS FRIDAY (Feb 14)! Top picks: Tongue in Cheek (upscale tasting menu + killer cocktails), Reverie Cafe (100% vegan, no-tipping, casual-romantic), J. Selby's (comfort food champion), and Francis Burger Joint (fun vegan bar + amazing burgers). For a unique experience, grab takeout from Herbivorous Butcher + wine at home. Pro tip: Most places are already filling up—make reservations TODAY.",
     faqs: [
       {
         question: "Which Minneapolis vegan restaurants are doing Valentine's Day specials in 2026?",
-        answer: "Fig + Farro is offering a $65 four-course prix fixe Valentine's menu. Tongue in Cheek typically does a special tasting menu. Many restaurants are running specials Feb 13-15, so call ahead to confirm."
+        answer: "Tongue in Cheek typically does a special tasting menu for Valentine's Day. Many restaurants run specials Feb 13-15, so call ahead to confirm availability and any prix fixe options."
       },
       {
         question: "Do I need reservations for Valentine's Day dinner in Minneapolis?",
-        answer: "YES! Valentine's Day is one of the busiest restaurant nights of the year. Make reservations immediately—especially for popular spots like Tongue in Cheek, Fig + Farro, and Masu. Many places are already booking up."
+        answer: "YES! Valentine's Day is one of the busiest restaurant nights of the year. Make reservations immediately—especially for popular spots like Tongue in Cheek, Reverie Cafe, and Masu. Many places are already booking up."
       },
       {
         question: "What's the most romantic vegan restaurant in Minneapolis for Valentine's Day?",
-        answer: "Tongue in Cheek is the top choice for upscale romance—intimate atmosphere, exceptional cocktails, and a vegan tasting menu option. For 100% vegan fine dining vibes, Fig + Farro's four-course prix fixe ($65) is specifically designed for the holiday."
+        answer: "Tongue in Cheek is the top choice for upscale romance—intimate atmosphere, exceptional cocktails, and a vegan tasting menu option. For 100% vegan vibes, Reverie Cafe offers excellent food in a casual-romantic setting with a no-tipping model."
       },
       {
         question: "What if I can't get a reservation for Valentine's Day?",
@@ -55,7 +55,7 @@ export const blogPosts: BlogPost[] = [
         answer: "J. Selby's offers indulgent comfort food without the fine dining price tag. Reverie Cafe is 100% vegan with reasonable prices and a no-tipping model. Francis Burger Joint has incredible vegan burgers and milkshakes for a fun, casual date."
       }
     ],
-    relatedRestaurants: ["tongue-in-cheek", "reverie-cafe-bar", "fig-farro", "j-selbys", "herbivorous-butcher", "francis-burger-joint"],
+    relatedRestaurants: ["tongue-in-cheek", "reverie-cafe-bar", "j-selbys", "herbivorous-butcher", "francis-burger-joint"],
     relatedPosts: ["vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026", "northeast-minneapolis-vegan-guide"],
     content: `
 ## Valentine's Day 2026: Where to Take Your Vegan Valentine in Minneapolis
@@ -71,26 +71,6 @@ Okay, now that you've (hopefully) secured a spot somewhere, let's talk strategy.
 ## 🌹 The "I Really Like You" Tier
 
 These are the spots that say "I put thought into this." Dress nice. Make eye contact. Maybe even put your phone away.
-
-### Fig + Farro — The Valentine's Prix Fixe
-
-**Uptown | $$$ | 100% Vegan**
-
-Fig + Farro is doing a **$65 four-course Valentine's menu** and honestly? It's the move. This is Minneapolis' premier plant-based fine dining experience, and they go all out for the holiday.
-
-*"Show the planet some love by dining at this community-oriented, chic restaurant with a sustainability mission."* — VegNews
-
-**What to expect:**
-- Four beautifully crafted courses
-- Two options per course (accommodate both of you)
-- Dishes like Buckwheat Tortellini, Tandori Carrot, and creative gluten-free desserts
-- Wine pairings available
-
-**The vibe:** Upscale but not pretentious. The kind of place where you feel fancy without feeling uncomfortable.
-
-**⚠️ Reservation status:** BOOK IMMEDIATELY. This place fills up.
-
----
 
 ### Tongue in Cheek — The Classic Move
 
@@ -194,10 +174,10 @@ Try these backup plans:
 
 | Restaurant | Dress Code |
 |------------|-----------|
-| Fig + Farro | Smart casual to dressy |
 | Tongue in Cheek | Nice but not formal |
 | Reverie | Casual is fine |
 | J. Selby's | Whatever you want |
+| Francis | Casual cool |
 | At home | ...use your imagination |
 
 ### Don't Forget
@@ -211,7 +191,7 @@ Try these backup plans:
 
 ## The Bottom Line
 
-Valentine's Day in Minneapolis doesn't have to mean suffering through a mediocre prix fixe at a restaurant that treats "vegan option" as an afterthought. We've got legitimately excellent choices—from the $65 tasting menu at Fig + Farro to a cozy night in with Herbivorous Butcher ribs.
+Valentine's Day in Minneapolis doesn't have to mean suffering through a mediocre prix fixe at a restaurant that treats "vegan option" as an afterthought. We've got legitimately excellent choices—from upscale tasting menus at Tongue in Cheek to a cozy night in with Herbivorous Butcher ribs.
 
 The key? **Book now.** Like, right now. Before you finish reading this sentence.
 
