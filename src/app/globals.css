@@ -275,10 +275,7 @@ a, button {
 
 /* Mobile-responsive tables for blog posts */
 .prose table {
-  display: block;
   width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
   margin: 1.5rem 0;
 }
@@ -291,7 +288,6 @@ a, button {
 .prose table td {
   padding: 0.75rem 1rem;
   text-align: left;
-  white-space: nowrap;
   border-bottom: 1px solid rgba(245, 240, 232, 0.1);
 }
 
@@ -299,8 +295,6 @@ a, button {
   font-weight: 600;
   color: var(--color-cream);
   background: var(--color-charcoal-light);
-  position: sticky;
-  top: 0;
 }
 
 .prose table td {
@@ -311,20 +305,48 @@ a, button {
   background: rgba(245, 240, 232, 0.03);
 }
 
-/* Allow text wrapping in last column for descriptions */
-.prose table td:last-child {
-  white-space: normal;
-  min-width: 200px;
-}
-
+/* Mobile: Convert table to stacked cards */
 @media (max-width: 640px) {
+  .prose table,
+  .prose table thead,
+  .prose table tbody,
   .prose table th,
+  .prose table td,
+  .prose table tr {
+    display: block;
+  }
+  
+  .prose table thead {
+    display: none;
+  }
+  
+  .prose table tr {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background: var(--color-charcoal-light);
+    border-radius: 0.75rem;
+    border: 1px solid rgba(245, 240, 232, 0.06);
+  }
+  
   .prose table td {
-    padding: 0.5rem 0.75rem;
+    padding: 0.5rem 0;
+    border-bottom: none;
+    position: relative;
+  }
+  
+  .prose table td:first-child {
+    font-weight: 600;
+    color: var(--color-cream);
+    font-size: 1rem;
+    padding-bottom: 0.25rem;
+  }
+  
+  .prose table td:not(:first-child) {
     font-size: 0.875rem;
+    color: rgba(245, 240, 232, 0.7);
   }
   
   .prose table td:last-child {
-    min-width: 150px;
+    padding-bottom: 0;
   }
 }
