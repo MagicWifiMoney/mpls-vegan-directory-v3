@@ -223,7 +223,7 @@ Happy Valentine's Day, Minneapolis. 💚🌱
   {
     slug: "best-vegan-restaurants-minneapolis-2026",
     title: "Best Vegan Restaurants in Minneapolis 2026: The Ultimate Guide",
-    description: "Your complete guide to the 46 best vegan and plant-based restaurants in Minneapolis for 2026. From 100% vegan spots to vegan-friendly gems, discover where to eat.",
+    description: "Your complete guide to the best vegan and plant-based restaurants in Minneapolis for 2026. From 100% vegan spots to vegan-friendly gems, discover where to eat.",
     publishedAt: "2026-02-06",
     updatedAt: "2026-02-06",
     author: "MPLS Vegan Team",
