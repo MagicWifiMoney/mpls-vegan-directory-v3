@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { blogPosts, getBlogPostBySlug, getRelatedPosts } from '@/data/blog-posts';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -267,7 +268,7 @@ export default async function BlogPostPage({ params }: Props) {
             prose-th:text-[#f5f0e8] prose-th:font-medium prose-th:text-left prose-th:pb-3 prose-th:border-b prose-th:border-[#f5f0e8]/20
             prose-td:py-3 prose-td:border-b prose-td:border-[#f5f0e8]/10
           ">
-            <ReactMarkdown>{post.content}</ReactMarkdown>
+            <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
           </div>
 
           {/* FAQ Section */}

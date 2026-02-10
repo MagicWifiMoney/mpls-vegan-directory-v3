@@ -272,3 +272,59 @@ a, button {
   background: var(--color-amber);
   color: var(--color-charcoal);
 }
+
+/* Mobile-responsive tables for blog posts */
+.prose table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.prose table thead {
+  background: var(--color-charcoal-light);
+}
+
+.prose table th,
+.prose table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  white-space: nowrap;
+  border-bottom: 1px solid rgba(245, 240, 232, 0.1);
+}
+
+.prose table th {
+  font-weight: 600;
+  color: var(--color-cream);
+  background: var(--color-charcoal-light);
+  position: sticky;
+  top: 0;
+}
+
+.prose table td {
+  color: rgba(245, 240, 232, 0.8);
+}
+
+.prose table tr:hover td {
+  background: rgba(245, 240, 232, 0.03);
+}
+
+/* Allow text wrapping in last column for descriptions */
+.prose table td:last-child {
+  white-space: normal;
+  min-width: 200px;
+}
+
+@media (max-width: 640px) {
+  .prose table th,
+  .prose table td {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+  }
+  
+  .prose table td:last-child {
+    min-width: 150px;
+  }
+}
