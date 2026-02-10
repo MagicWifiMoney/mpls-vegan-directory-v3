@@ -18,8 +18,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Best Vegan Restaurants Minneapolis 2026 | 46 Plant-Based Spots",
-  description: "The ultimate guide to vegan restaurants in Minneapolis for 2026. Discover 46 plant-based spots including 100% vegan restaurants, vegetarian cafes, and vegan-friendly eateries throughout the Twin Cities. Reviews, ratings, and insider tips.",
+  title: "Best Vegan Restaurants Minneapolis 2026 | Plant-Based Dining Guide",
+  description: "The ultimate guide to vegan restaurants in Minneapolis for 2026. Discover the best plant-based spots including 100% vegan restaurants, vegetarian cafes, and vegan-friendly eateries throughout the Twin Cities. Reviews, ratings, and insider tips.",
   keywords: [
     "vegan restaurants Minneapolis",
     "plant-based Minneapolis",
@@ -44,8 +44,8 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Best Vegan Restaurants Minneapolis 2026 | 46 Plant-Based Spots",
-    description: "Your complete guide to vegan and plant-based dining in Minneapolis. 46 restaurants with reviews, ratings, and real customer quotes.",
+    title: "Best Vegan Restaurants Minneapolis 2026 | Plant-Based Dining Guide",
+    description: "Your complete guide to vegan and plant-based dining in Minneapolis. The best restaurants with reviews, ratings, and real customer quotes.",
     url: 'https://mplsvegan.com',
     siteName: "Minneapolis Vegan Directory",
     locale: 'en_US',
@@ -55,14 +55,14 @@ export const metadata: Metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Minneapolis Vegan Directory - 46 Plant-Based Restaurants',
+        alt: 'Minneapolis Vegan Directory - Plant-Based Restaurants Guide',
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Best Vegan Restaurants Minneapolis 2026",
-    description: "The ultimate guide to 46 vegan & plant-based restaurants in Minneapolis",
+    description: "The ultimate guide to vegan & plant-based restaurants in Minneapolis",
     images: ['/og-image.png'],
   },
   robots: {
@@ -129,8 +129,8 @@ const localBusinessListSchema = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
   name: 'Best Vegan Restaurants in Minneapolis 2026',
-  description: '46 top-rated vegan and plant-based restaurants in Minneapolis',
-  numberOfItems: 46,
+  description: 'Top-rated vegan and plant-based restaurants in Minneapolis',
+  numberOfItems: 50,
   itemListElement: [
     {
       '@type': 'ListItem',
