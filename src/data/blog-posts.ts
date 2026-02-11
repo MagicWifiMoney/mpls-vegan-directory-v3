@@ -24,15 +24,15 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
   {
     slug: "valentines-day-vegan-date-night-minneapolis-2026",
-    title: "Valentine's Day 2026: The Ultimate Vegan Date Night Guide for Minneapolis",
-    description: "Valentine's Day is Friday! Here are the most romantic vegan and vegan-friendly restaurants in Minneapolis for 2026, plus reservation tips and what to order.",
-    publishedAt: "2026-02-10",
-    updatedAt: "2026-02-10",
+    title: "Vegan Valentine's Date Night in Minneapolis: 2026 Guide",
+    description: "Valentine's Day is Saturday! Here are the most romantic vegan and vegan-friendly restaurants in Minneapolis for 2026, plus reservation tips and what to order.",
+    publishedAt: "2026-02-11",
+    updatedAt: "2026-02-11",
     author: "MPLS Vegan Team",
     category: "Date Ideas",
     tags: ["valentines day", "date night", "romantic", "vegan", "minneapolis", "2026"],
-    readingTime: "6 min read",
-    tldr: "Valentine's Day is THIS FRIDAY (Feb 14)! Top picks: Tongue in Cheek (upscale tasting menu + killer cocktails), Reverie Cafe (100% vegan, no-tipping, casual-romantic), J. Selby's (comfort food champion), and Francis Burger Joint (fun vegan bar + amazing burgers). For a unique experience, grab takeout from Herbivorous Butcher + wine at home. Pro tip: Most places are already filling up—make reservations TODAY.",
+    readingTime: "7 min read",
+    tldr: "Valentine's Day is THIS SATURDAY (Feb 14)! Top picks: Tongue in Cheek (upscale tasting menu + killer cocktails), Reverie Cafe (100% vegan, no-tipping, casual-romantic), J. Selby's (comfort food champion), and Francis Burger Joint (fun vegan bar + amazing burgers). For a unique at-home date, grab meats and cheeses from Herbivorous Butcher + wine. Pro tip: Call restaurants TODAY—Saturday Valentine's books up fast!",
     faqs: [
       {
         question: "Which Minneapolis vegan restaurants are doing Valentine's Day specials in 2026?",
@@ -48,7 +48,7 @@ export const blogPosts: BlogPost[] = [
       },
       {
         question: "What if I can't get a reservation for Valentine's Day?",
-        answer: "Try booking for Thursday Feb 13 or Saturday Feb 15 instead. Or go the romantic-at-home route: grab meats and cheeses from Herbivorous Butcher, pick up a bottle of wine, and cook together. Sometimes the best dates are the ones without the restaurant pressure."
+        answer: "Try booking for Friday Feb 13 or Sunday Feb 15 instead. Or go the romantic-at-home route: grab meats and cheeses from Herbivorous Butcher, pick up a bottle of wine, and cook together. Sometimes the best dates are the ones without the restaurant pressure."
       },
       {
         question: "Are there affordable vegan Valentine's Day options in Minneapolis?",
@@ -60,7 +60,7 @@ export const blogPosts: BlogPost[] = [
     content: `
 ## Valentine's Day 2026: Where to Take Your Vegan Valentine in Minneapolis
 
-Real talk: Valentine's Day is **this Friday**. If you're reading this and haven't made a reservation yet, stop scrolling and do it NOW. I'll wait.
+Real talk: Valentine's Day is **this Saturday** (Feb 14). If you're reading this and haven't made a reservation yet, stop scrolling and do it NOW. I'll wait.
 
 ...
 
@@ -160,12 +160,187 @@ Here's the play:
 
 ---
 
+## 🥞 Valentine's Morning: Brunch Edition
+
+Start your Valentine's Day right with breakfast or brunch. Nothing says "I care" like planning the whole day, not just dinner.
+
+### Seward Cafe — Worker-Owned Vibes
+
+**Seward | $ | ⭐ 4.6**
+
+[Seward Cafe](/restaurants/seward-cafe) has been a Minneapolis institution since 1974. Worker-owned, community-focused, and their vegan biscuits and gravy are legendary.
+
+**Valentine's brunch order:**
+- **Vegan Biscuits and Gravy** — The stuff of legends
+- **Tofu Scramble with Smoky Tempeh** — "Hands-down my favorite part"
+- **Fluffy Pancakes with Maple Syrup**
+- **Monster Mash drink** — Hot apple cider and miso caramel with coconut whip
+
+*"This has always been a favorite place because they have vegan biscuits and gravy on the menu."* — Alane Klein
+
+**Why it works:** Garden patio seating (if weather permits), massive portions, and prices that won't wreck your Valentine's budget before dinner.
+
+---
+
+### Hard Times Cafe — Punk Rock Breakfast
+
+**Seward | $ | ⭐ 4.5**
+
+If your Valentine appreciates anarchist posters and the best vegan comfort food in the city, [Hard Times](/restaurants/hard-times-cafe) is your spot.
+
+**The order:**
+- **Vegan Biscuits and Gravy** — "Mushroom gravy is good enough to take home"
+- **Helter Skelter Scramble** — Loaded with veggies
+- **Any baked goods** — Outstanding
+- **Hash Browns** — Crispy perfection
+
+**Note:** Cash only! But there's an ATM inside.
+
+For more brunch ideas, check our complete [vegan brunch guide](/blog/vegan-brunch-minneapolis).
+
+---
+
+## 🍫 Sweet Treats: Vegan Dessert Spots
+
+Valentine's Day demands chocolate. Here's where to get it.
+
+### French Meadow Bakery — Chocolate Heaven
+
+**Uptown | $$ | ⭐ 4.5**
+
+[French Meadow](/restaurants/french-meadow) has been doing organic and vegan baking for decades. Their vegan desserts are the real deal.
+
+**Must-try sweets:**
+- **Vegan Chocolate Rose Cake** — "Such a treat!"
+- **Dark Chocolate Sea Salt Cookie** — "Rich and flavorful without being overly sweet"
+- **Vegan Cupcakes** — Seasonal flavors
+
+**Pro tip:** Order ahead for Valentine's Day. Their popular items sell out.
+
+---
+
+### Reverie Cafe — Beignets for Your Bae
+
+**South Minneapolis | $$ | ⭐ 4.7**
+
+The [Reverie](/restaurants/reverie-cafe-bar) beignets deserve their own category. Light, fluffy, dusted with powdered sugar perfection.
+
+**The move:** Get a full dinner, then share an order of beignets for dessert. Or just get the beignets. No judgment.
+
+---
+
+### The Herbivorous Butcher — Take-Home Cheesecake
+
+**Northeast Minneapolis | $$ | ⭐ 4.8**
+
+[Herbivorous Butcher](/restaurants/herbivorous-butcher) occasionally has vegan desserts and cheeses that make incredible Valentine's gifts or date-night dessert boards.
+
+**What to look for:**
+- Vegan aged cheddar for a cheese board
+- Any seasonal desserts they're carrying
+- Pair with chocolate and wine for a perfect ending
+
+---
+
+## 🎁 Vegan Valentine's Gift Ideas
+
+Beyond dinner, here are thoughtful vegan gifts that actually show you pay attention.
+
+### For the Home Chef
+
+**Herbivorous Butcher Cookbook** — Available at their shop, full of recipes for making your own vegan meats and cheeses at home
+
+**Subscription to Purple Carrot or Veestro** — Vegan meal kits delivered. Great for couples who like cooking together.
+
+**Thrive Market Membership** — Online vegan grocery store with discounts. Practical AND romantic (kind of).
+
+### For the Foodie
+
+**Gift card to Tongue in Cheek or Reverie** — Let them pick their own special meal
+
+**Herbivorous Butcher sampler pack** — Curate a selection of meats and cheeses
+
+**Vegan chocolate from Peace Coffee or French Meadow** — Local, delicious, thoughtful
+
+### For the Experience-Seeker
+
+**"Vegan Food Tour of Minneapolis"** — Make your own! Hit Herbivorous Butcher → Francis Burger Joint → Hard Times for dessert. Bring a scavenger hunt list or just explore together.
+
+**Cooking class together** — Some local spots offer vegan cooking workshops (check current listings)
+
+### For the "I'm Being Practical" Partner
+
+**Reusable produce bags + Wedge Co-op gift card** — For the sustainability-minded Valentine
+
+**High-quality blender** — For smoothies, soups, and "I care about your morning routine" vibes
+
+---
+
+## 📅 Plan Your Perfect Vegan Valentine's Day
+
+Here are three sample itineraries based on your budget and vibe:
+
+### The Romantic All-Day Experience ($$$)
+
+**Morning:**
+- 9am: Brunch at [Seward Cafe](/restaurants/seward-cafe) — Vegan biscuits and gravy, Monster Mash drinks
+- Walk around Lake of the Isles or Lake Harriet
+
+**Afternoon:**
+- 2pm: Stop by [Herbivorous Butcher](/restaurants/herbivorous-butcher) for a snack and to browse (avoid weekend crowds by going early)
+- 4pm: Coffee and dessert at [French Meadow](/restaurants/french-meadow)
+
+**Evening:**
+- 7pm: Dinner reservation at [Tongue in Cheek](/restaurants/tongue-in-cheek) — Six-course vegan tasting menu with cocktails
+- After: Walk along the river in East St. Paul
+
+**Cost:** ~$180-220 for two
+
+---
+
+### The Casual Fun Day ($$)
+
+**Morning:**
+- 10am: Sleep in, make coffee at home
+- 11am: Brunch at [Hard Times Cafe](/restaurants/hard-times-cafe) — Cash only, bring $40
+
+**Afternoon:**
+- 1pm: Explore Northeast Minneapolis — breweries, art galleries, vintage shops
+- 3pm: Stop by [Herbivorous Butcher](/restaurants/herbivorous-butcher) for Korean BBQ Ribs and cheese to take home
+
+**Evening:**
+- 6pm: Dinner at [Francis Burger Joint](/restaurants/francis-burger-joint) — Juicy Lucy, fries, milkshakes
+- 8pm: Cook the ribs from Herbivorous Butcher at home, open wine, watch a movie
+
+**Cost:** ~$100-120 for two
+
+---
+
+### The Stay-Home Valentine's ($)
+
+**Morning:**
+- Make pancakes together (use Seward Cafe's recipe if you have it)
+- Lazy morning vibes
+
+**Afternoon:**
+- Noon: Quick trip to [Herbivorous Butcher](/restaurants/herbivorous-butcher) — Grab Korean BBQ Ribs, pastrami, aged cheddar, Italian sausage
+- Stop at a wine shop or liquor store
+
+**Evening:**
+- 5pm: Start cooking together — Grill the ribs, make a cheese board, roast veggies
+- 7pm: Candlelit dinner at home
+- Dessert: Vegan chocolate + wine
+
+**Cost:** ~$50-70 for two (plus wine)
+
+---
+
 ## ⚡ Last-Minute Tips
 
 ### Already Booked Up Everywhere?
 
 Try these backup plans:
-- **Book for Thursday the 13th or Saturday the 15th** — Same romance, way easier reservations
+- **Book for Friday the 13th or Sunday the 15th** — Same romance, way easier reservations
 - **Go early** — 5:30pm reservations are often available when 7:30pm is packed
 - **Call, don't just check online** — Sometimes restaurants hold tables for phone reservations
 - **Try the bar** — Many upscale spots have walk-in bar seating
