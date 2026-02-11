@@ -1481,6 +1481,273 @@ For more Minneapolis vegan options, check out our [complete restaurant guide](/b
 
 Now go eat. 🌱
     `
+  },
+  {
+    slug: "vegan-meal-prep-services-minneapolis",
+    title: "Vegan Meal Prep Services in Minneapolis: Your Complete 2026 Guide",
+    description: "Skip the cooking without skipping good food. Here's every vegan meal prep service, meal kit, and ready-made option in the Twin Cities for 2026.",
+    publishedAt: "2026-02-11",
+    updatedAt: "2026-02-11",
+    author: "MPLS Vegan Team",
+    category: "Guide",
+    tags: ["meal prep", "vegan", "minneapolis", "convenience", "delivery", "twin cities"],
+    readingTime: "8 min read",
+    tldr: "Best vegan meal prep in Minneapolis: Homegrown Foods for organic meal kits with vegan options, Heal MPLS for 100% plant-based prepared meals with budget-friendly container swap program, The Minnesota Table for chef-prepared delivery, and Nourish and Go for customizable macros. For grab-and-go, hit Whole Foods prepared foods section, Herbivorous Butcher for proteins to cook yourself, or check co-ops like Mississippi Market and Wedge for ready-to-eat vegan options.",
+    faqs: [
+      {
+        question: "Are there any 100% vegan meal prep services in Minneapolis?",
+        answer: "Yes! Heal MPLS is a fully plant-based meal prep service with a focus on whole foods. They offer a discounted price if you bring your own containers. Most other services (like Homegrown Foods and The Minnesota Table) offer vegan options but aren't exclusively vegan."
+      },
+      {
+        question: "What's the most affordable vegan meal prep option in Minneapolis?",
+        answer: "Heal MPLS offers budget-friendly pricing, especially with their container return program. For grocery-based meal prep, buying bulk from co-ops like Wedge or Mississippi Market and cooking in batches is the most economical approach. Herbivorous Butcher proteins can be pricey but make multiple meals."
+      },
+      {
+        question: "Can I get vegan meal kits delivered in Minneapolis?",
+        answer: "Yes! Homegrown Foods delivers organic meal kits to the five-state area with vegan options. National services like Purple Carrot (100% vegan) also deliver to Minneapolis. Most require subscription commitments."
+      },
+      {
+        question: "Where can I buy ready-to-eat vegan meals in Minneapolis?",
+        answer: "Whole Foods hot bar and prepared foods section has daily vegan options. Mississippi Market and Wedge co-ops stock local vegan prepared meals. For grab-and-go, J. Selby's sells take-home family meals, and Herbivorous Butcher offers ready-to-heat proteins and deli items."
+      },
+      {
+        question: "Do Minneapolis co-ops offer vegan meal prep or prepared foods?",
+        answer: "Absolutely! Mississippi Market, Wedge Community Co-op, and Eastside Food Cooperative all have delis with vegan hot bar items, salads, and grab-and-go meals. They also stock local vegan products from makers like Herbivorous Butcher. Co-op membership gets you discounts."
+      }
+    ],
+    relatedRestaurants: ["herbivorous-butcher", "j-selbys", "reverie-cafe-bar"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: \`
+## Why Vegan Meal Prep in Minneapolis?
+
+Let's be honest: cooking every meal from scratch is exhausting. Between work, social obligations, and the general chaos of existence, sometimes you just need food to appear without having to think about it.
+
+The good news? Minneapolis has a growing ecosystem of vegan-friendly meal prep services, meal kits, and ready-to-eat options. The less good news? Finding them requires some digging.
+
+This guide covers every option I've found for getting vegan meals without doing all the work yourself.
+
+---
+
+## Full-Service Meal Prep Delivery
+
+These services cook the meals for you and deliver them ready to heat and eat.
+
+### Heal MPLS — 100% Plant-Based
+
+**The only fully vegan meal prep service I've found in the Twin Cities.**
+
+Heal MPLS focuses on whole foods, plant-based meals designed for busy people who still want to eat well. They're not doing fancy "Instagram food"—they're doing real, nourishing meals you'll actually look forward to eating.
+
+**What makes them different:**
+- **100% vegan, always** — No filtering through omnivore menus
+- **Budget-conscious option** — Bring your own containers for discounted pricing
+- **Whole foods focus** — No mystery ingredients or processed fillers
+- **Local and small-batch** — You're supporting a local business, not a startup
+
+**Pricing:** Varies by meal plan; container swap program reduces costs
+
+**Best for:** Anyone committed to plant-based eating who wants consistent, reliable meals without cooking.
+
+---
+
+### The Minnesota Table
+
+**Chef-prepared meals delivered to your doorstep.**
+
+[The Minnesota Table](https://themntable.com/) is a Minneapolis-based meal delivery service with vegan options among their rotating menu. The food is chef-quality—these aren't sad frozen dinners.
+
+**What to know:**
+- Weekly rotating menu with vegan selections
+- Meals arrive fresh, not frozen
+- Delivery throughout Minneapolis and surrounding areas
+- Perfect for people who want variety without planning
+
+**Pricing:** ~$12-15 per meal depending on selections
+
+**Best for:** Folks who want restaurant-quality meals at home without restaurant prices.
+
+---
+
+### Homegrown Foods — Organic Meal Kits
+
+**Minneapolis-based organic meal kit service with vegan options.**
+
+[Homegrown Foods](https://eatgoodathome.com/) is a local alternative to the big national meal kit services. They deliver organic meal kits with vegan recipes to the five-state area.
+
+**The difference from Blue Apron/HelloFresh:**
+- **Local and organic focus** — Ingredients sourced regionally when possible
+- **Vegan meal options** — Not an afterthought like with some services
+- **Delivers to rural areas** — If you're outside the metro, they still reach you
+- **Family-owned** — Your money stays in Minnesota
+
+**How it works:**
+1. Choose your meals for the week (vegan options available)
+2. Receive pre-portioned organic ingredients
+3. Cook using their recipes (typically 30-45 minutes)
+4. Eat like a person who has their life together
+
+**Pricing:** ~$10-12 per serving depending on plan size
+
+**Best for:** People who enjoy cooking but hate meal planning and grocery shopping.
+
+---
+
+### National Services That Deliver to Minneapolis
+
+If you want 100% vegan meal kits, these national services ship to the Twin Cities:
+
+**Purple Carrot** — Fully vegan meal kits
+- ~$12 per serving
+- Plant-based recipes designed by chefs
+- Meals in 30-45 minutes
+
+**Daily Harvest** — Frozen smoothies, bowls, and flatbreads
+- ~$7-9 per item
+- Build-your-own box subscription
+- No cooking required for most items
+
+**Mosaic Foods** — Frozen vegan meals
+- ~$8-10 per meal
+- Ready in minutes
+- Good for grab-and-go lunches
+
+---
+
+## Grab-and-Go Prepared Foods
+
+Sometimes you need food NOW, not delivered tomorrow. Here's where to find ready-to-eat vegan meals in Minneapolis.
+
+### Whole Foods Market
+
+**Multiple locations | Hot bar, salads, prepared meals**
+
+Love it or hate it, Whole Foods has the most consistent selection of prepared vegan foods in the city. Their hot bar and salad bar always have vegan options clearly labeled.
+
+**Vegan finds:**
+- Hot bar items (varies daily)
+- Pre-made salads and grain bowls
+- Grab-and-go sandwiches and wraps
+- Prepared soups and sides
+
+**Pro tip:** Hit the hot bar near closing time for discounted items. Quality varies by location—the downtown and Edina stores tend to have the best selections.
+
+---
+
+### Mississippi Market Co-op
+
+**St. Paul | Multiple locations**
+
+This St. Paul co-op has an excellent deli with vegan hot bar items, salads, and grab-and-go meals. They also stock tons of local vegan products you won't find at chain stores.
+
+**Why co-ops rule for vegans:**
+- Delis prioritize local and plant-based options
+- Staff actually know what's vegan (ask them!)
+- Member discounts add up
+- Supporting local food economy
+
+**Best for:** St. Paul folks who want real food from a values-aligned grocery store.
+
+---
+
+### Wedge Community Co-op
+
+**Uptown Minneapolis**
+
+Minneapolis' answer to Mississippi Market. The Wedge has been serving the community since 1974 and their prepared foods section reflects decades of knowing what locals want.
+
+**Find here:**
+- Deli hot bar with daily vegan options
+- Prepared salads and grain bowls
+- Vegan baked goods
+- Local vegan products throughout the store
+
+**Member benefits:** Join the co-op for discounts on everything, including prepared foods.
+
+---
+
+### The Herbivorous Butcher
+
+**Northeast Minneapolis | Vegan butcher shop**
+
+Okay, this isn't "meal prep" in the traditional sense—but [Herbivorous Butcher](/restaurants/herbivorous-butcher) is the secret weapon for easy vegan meals at home.
+
+**The hack:**
+1. Buy their ready-to-cook proteins (Korean BBQ Ribs, Italian Deli Meats, aged cheeses)
+2. Add rice, veggies, or bread
+3. Have a restaurant-quality meal in 15 minutes
+
+**Ready-to-eat options:**
+- Deli sandwiches
+- Cheese and meat platters
+- Take-home holiday meals (Thanksgiving, Christmas, etc.)
+
+**Best for:** People who want to cook a little but don't want to make everything from scratch.
+
+---
+
+### J. Selby's Take-Home Options
+
+**St. Paul | 100% vegan restaurant**
+
+[J. Selby's](/restaurants/j-selbys) isn't just for dining in. They sell family-sized portions and catering trays that work great for meal prep.
+
+**Meal prep moves:**
+- Family-sized mac and cheese
+- Bulk cauliflower wings
+- Party trays for the week
+
+**Best for:** When you want J. Selby's comfort food but don't want to eat out every day.
+
+---
+
+## DIY Meal Prep: Vegan Staples in Minneapolis
+
+If you want to prep your own meals, these are the best places to stock up:
+
+### For Bulk Grains, Beans, and Dry Goods
+- **Wedge Co-op** — Extensive bulk section
+- **Mississippi Market** — Great bulk selection
+- **United Noodles** — Asian market with bulk rice and specialty items
+
+### For Fresh Produce
+- **Mill City Farmers Market** — Seasonal, local produce (summer)
+- **Midtown Global Market** — Year-round international options
+- **Co-ops** — Best quality outside farmers markets
+
+### For Vegan Proteins
+- **Herbivorous Butcher** — Local vegan meats and cheeses
+- **United Noodles** — Tofu, tempeh, seitan, mock meats
+- **Whole Foods** — Widest selection of packaged vegan proteins
+
+### For Batch Cooking Ingredients
+- **Restaurant Depot** (with membership) — Bulk commercial-sized ingredients
+- **Costco** — Vegan items have expanded significantly
+- **Aldi** — Surprisingly good vegan staples at low prices
+
+---
+
+## Tips for Successful Vegan Meal Prep
+
+**Start small:** Don't try to prep every meal for the week on day one. Start with lunches or dinners only.
+
+**Batch your proteins:** Cook a big batch of tofu, tempeh, or Herbivorous Butcher products on Sunday. Use them throughout the week in different dishes.
+
+**Embrace the grain bowl:** Base of grain + protein + veggies + sauce = infinite variations with minimal effort.
+
+**Don't sleep on freezer meals:** Many meals freeze well. Make double batches and freeze half for lazy weeks.
+
+**Mix services:** Use meal delivery for dinners, grab-and-go for lunches, and batch-cook breakfasts. No rule says you have to do it all one way.
+
+---
+
+## FAQ Recap
+
+The best 100% vegan meal prep service in Minneapolis is **Heal MPLS**. For meal kits with vegan options, try **Homegrown Foods** (local) or **Purple Carrot** (national). For grab-and-go, **Whole Foods**, **Mississippi Market**, and **Wedge Co-op** have you covered.
+
+If you prefer cooking but hate planning, **Herbivorous Butcher** proteins plus simple sides is the move.
+
+Now stop reading and go prep some food. 🌱
+    \`
   }
 ];
 
