@@ -1517,7 +1517,7 @@ Now go eat. 🌱
     ],
     relatedRestaurants: ["herbivorous-butcher", "j-selbys", "reverie-cafe-bar"],
     relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide"],
-    content: \`
+    content: `
 ## Why Vegan Meal Prep in Minneapolis?
 
 Let's be honest: cooking every meal from scratch is exhausting. Between work, social obligations, and the general chaos of existence, sometimes you just need food to appear without having to think about it.
@@ -1747,7 +1747,7 @@ The best 100% vegan meal prep service in Minneapolis is **Heal MPLS**. For meal 
 If you prefer cooking but hate planning, **Herbivorous Butcher** proteins plus simple sides is the move.
 
 Now stop reading and go prep some food. 🌱
-    \`
+    `
   }
 ];
 
