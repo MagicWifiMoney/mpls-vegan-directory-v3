@@ -1748,6 +1748,618 @@ If you prefer cooking but hate planning, **Herbivorous Butcher** proteins plus s
 
 Now stop reading and go prep some food. 🌱
     `
+  },
+  {
+    slug: "vegan-comfort-food-minneapolis",
+    title: "Best Vegan Comfort Food in Minneapolis: Mac & Cheese, Burgers, Pizza & More",
+    description: "Craving indulgent vegan comfort food in Minneapolis? This guide covers the best spots for mac and cheese, burgers, fried food, pizza, and ice cream that'll satisfy any craving.",
+    publishedAt: "2026-02-12",
+    updatedAt: "2026-02-12",
+    author: "MPLS Vegan Team",
+    category: "Guide",
+    tags: ["comfort food", "vegan", "minneapolis", "burgers", "pizza", "mac and cheese", "indulgent"],
+    readingTime: "10 min read",
+    tldr: "Best vegan comfort food in Minneapolis: J. Selby's (mac & cheese champion), Francis Burger Joint (best vegan burgers + Juicy Lucy), Pizza Lucé (extensive vegan pizza menu), Reverie Cafe (shiitake bacon mac), Herbivorous Butcher (comfort food building blocks), and Sebastian Joe's (vegan ice cream). For fried food, hit Hard Times or Modern Times. These aren't health food spots—they're indulgent, satisfying, and proof that vegan food can be deliciously unhealthy.",
+    faqs: [
+      {
+        question: "Where can I get the best vegan mac and cheese in Minneapolis?",
+        answer: "J. Selby's is the mac and cheese champion with their rich, creamy version available as a side or entree. Reverie Cafe's Mac and Cheese with Shiitake Bacon is also exceptional, adding a smoky, savory element. Both are 100% vegan restaurants."
+      },
+      {
+        question: "What's the best vegan burger in Minneapolis?",
+        answer: "Francis Burger Joint takes the crown with their vegan Juicy Lucy (Minnesota's iconic cheese-stuffed burger, veganized). Their Hunny Dijon Chicken Sandwich is also incredible. J. Selby's Dirty Secret Burger and Reverie's Rev Burger are close runners-up."
+      },
+      {
+        question: "Where can I get vegan pizza in Minneapolis?",
+        answer: "Pizza Lucé offers the most extensive vegan pizza menu with house-made vegan cheese and creative toppings. Parkway Pizza (100% vegan pizzeria) and Red Wagon Pizza also have excellent options. Most local pizza chains now offer vegan cheese."
+      },
+      {
+        question: "Does Minneapolis have vegan ice cream shops?",
+        answer: "Sebastian Joe's offers excellent vegan ice cream flavors rotating seasonally. French Meadow has vegan desserts and ice cream options. Glam Doll Donuts occasionally features vegan ice cream sandwiches. Many shops now carry vegan options—always worth asking!"
+      },
+      {
+        question: "Where can I get vegan fried chicken in Minneapolis?",
+        answer: "J. Selby's has incredible fried vegan chicken sandwiches. Francis Burger Joint's Hunny Dijon Chicken Sandwich is 'the most chicken-like substitute' according to reviewers. Hard Times Cafe offers breaded and fried options on their comfort food menu."
+      }
+    ],
+    relatedRestaurants: ["j-selbys", "francis-burger-joint", "reverie-cafe-bar", "hard-times-cafe", "herbivorous-butcher", "pizza-luce", "french-meadow"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: `
+## Best Vegan Comfort Food in Minneapolis: A Guide to Indulgent Plant-Based Eating
+
+Let's get one thing straight: comfort food isn't about kale salads or quinoa bowls. Comfort food is greasy, cheesy, fried, saucy, and completely unapologetic. It's what you crave after a long day, a breakup, or when the Minnesota winter makes you question all your life choices.
+
+The good news? Minneapolis has absolutely nailed vegan comfort food. We're talking mac and cheese that'll make you forget dairy exists, burgers that carnivores order on purpose, and pizza loaded with actual melty cheese (yes, vegan).
+
+This is your guide to eating your feelings, Minneapolis vegan style.
+
+---
+
+## 🧀 Mac & Cheese: The Ultimate Comfort Food
+
+### J. Selby's — The Reigning Champion
+
+**St. Paul | $$ | ⭐ 4.7**
+
+*"The mac and cheese? Bangs."* — Andrew Lewandowski
+
+[J. Selby's](/restaurants/j-selbys) doesn't mess around with their mac and cheese. It's rich, creamy, perfectly seasoned, and available as a side or full entree. The cheese sauce is so good you'll wonder why anyone bothers with dairy.
+
+**Order it:**
+- As a side with your burger
+- As an entree when you need maximum comfort
+- With added toppings like buffalo cauliflower or bacon bits
+
+**Pro tip:** Get the Animal Fries too. Because if you're going for comfort food, commit to the bit.
+
+---
+
+### Reverie Cafe + Bar — The Elevated Version
+
+**South Minneapolis | $$ | ⭐ 4.7**
+
+*"Mac and cheese with shiitake bacon? Mature and smokey."* — Verified reviewer
+
+[Reverie's](/restaurants/reverie-cafe-bar) mac and cheese takes the classic and adds shiitake bacon for a smoky, umami-rich twist. It's comfort food that still feels a little fancy—perfect when you want to feel like an adult while eating pasta and cheese.
+
+**Why it works:** The shiitake bacon adds texture and depth without being gimmicky. This is thoughtful comfort food.
+
+Also featured in our [complete Minneapolis vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026).
+
+---
+
+## 🍔 Burgers: The Minneapolis Vegan Burger Revolution
+
+### Francis Burger Joint — The Juicy Lucy Champions
+
+**Northeast Minneapolis | $$ | ⭐ 4.7**
+
+*"These burgers are better than most meat burger joints I've been to."* — Jordan E-B
+
+If you're in Minnesota and haven't tried a Juicy Lucy, you're missing out on the state's most iconic burger—a cheese-stuffed patty that oozes when you bite into it. [Francis Burger Joint](/restaurants/francis-burger-joint) has perfected the vegan version.
+
+**The Order:**
+- **Juicy Lucy** — "Haven't stopped thinking about it since I had it a few days ago"
+- **Hunny Dijon Chicken Sandwich** — "By far the most chicken-like substitute I've ever had"
+- **Fries** — "MUCH better than other places"
+- **Chocolate Milkshake** — Because you deserve it
+
+*"Cool vibe and unique spot. This is a no-tipping establishment."* — Archibald Chuzzlewit
+
+**The vibe:** Northeast Minneapolis cool. Murals, good music, zero pretension. Fully vegan bar program too. Check out more NE spots in our [Northeast Minneapolis vegan guide](/blog/northeast-minneapolis-vegan-guide).
+
+---
+
+### J. Selby's — The Dirty Secret
+
+**St. Paul | $$ | ⭐ 4.7**
+
+The **Dirty Secret Burger** at [J. Selby's](/restaurants/j-selbys) is exactly what the name suggests—messy, indulgent, and absolutely worth the napkin situation.
+
+**What makes it work:** House-made patty, special sauce, all the toppings, zero guilt about eating something called "Dirty Secret."
+
+**Breakfast Burger** fans, this spot also has you covered. Mac and cheese on a burger? Yes. Do it.
+
+---
+
+### Reverie Cafe + Bar — The Rev Burger
+
+**South Minneapolis | $$ | ⭐ 4.7**
+
+The **Rev Burger** at [Reverie](/restaurants/reverie-cafe-bar) is a solid, reliable, well-executed burger that'll satisfy without overwhelming. Sometimes you just want a good burger, and this is it.
+
+**Best for:** When you want a burger but don't want to commit to full-on indulgence territory.
+
+---
+
+## 🍕 Pizza: Melty Cheese, Endless Toppings
+
+### Pizza Lucé — The OG Vegan Pizza Spot
+
+**Multiple Locations | $$ | ⭐ 4.6**
+
+Pizza Lucé was serving vegan cheese before most pizza places even knew it existed. Now they have an entire vegan menu section with house-made vegan cheese that actually melts and stretches.
+
+**The Vegan Menu:**
+- Mediterranean vegan pizza
+- Vegan sausage options
+- Build-your-own with Follow Your Heart mozzarella
+- Vegan garlic cheese bread (do not skip)
+
+**Pro tip:** The vegan cheese costs extra, but it's worth every penny. This is not sad, dry vegan pizza—this is the real deal.
+
+---
+
+### Parkway Pizza — 100% Vegan Pizzeria
+
+**South Minneapolis | $$ | ⭐ 4.8**
+
+A dedicated vegan pizza shop? Yes, Minneapolis has one. Parkway Pizza proves that vegan pizza doesn't have to be a "substitute"—it can be the main event.
+
+**What to order:**
+- Any specialty pizza (they're all vegan)
+- Cheesy breadsticks
+- Wings (yes, vegan wings at a pizza place)
+
+**The vibe:** Casual neighborhood spot where you don't have to ask if ingredients are vegan. Everything just is.
+
+---
+
+### Red Wagon Pizza — The Food Truck Favorite
+
+**Roaming + Brick & Mortar | $$ | ⭐ 4.7**
+
+Red Wagon started as a food truck and earned a cult following for their creative, high-quality vegan pizzas. Now they have a permanent location too.
+
+**Best for:** Creative flavor combinations, food truck vibes, supporting local.
+
+---
+
+## 🍟 Fried Food: Because Sometimes You Need Grease
+
+### J. Selby's — The Cauliflower Wing Masters
+
+**St. Paul | $$ | ⭐ 4.7**
+
+*"The cauliflower wings with sweet chili sauce were awesome."* — Mansi Suresh
+
+[J. Selby's](/restaurants/j-selbys) cauliflower wings are legendary. Crispy, saucy, and completely addictive.
+
+**Order:**
+- **Cauliflower Wings** with ranch or sweet chili sauce
+- **Animal Fries** — Cheese, special sauce, caramelized onions
+- **Crunchwrap** — Fried, wrapped, perfect
+
+**Best for:** When you want fried food that feels like a meal, not just a side.
+
+---
+
+### Hard Times Cafe — The Diner Classics
+
+**Seward | $ | ⭐ 4.5**
+
+*"Classic diner food and vibes but vegetarian and vegan-ified."* — Mariah Mckenzie
+
+[Hard Times](/restaurants/hard-times-cafe) does old-school diner fried food—crispy hash browns, breaded and fried sandwiches, and baked goods that'll make you forget what gluten-free means.
+
+**The Order:**
+- **Hash Browns** — Perfectly crispy
+- **Korean Bun** — Fried tofu, kimchi, all the fixings
+- **Any fried sandwich** — They don't mess around
+
+**Warning:** Cash only. ATM inside. Worth it.
+
+Also check out [our vegan brunch guide](/blog/vegan-brunch-minneapolis) for more Hard Times recommendations.
+
+---
+
+### Modern Times Cafe — The Greasy Spoon Favorite
+
+**Powderhorn | $ | ⭐ 4.7**
+
+*"Punk cafes 4 ever! Love all the vegan options while still fulfilling my greasy spoon cravings."* — Emily Mills
+
+[Modern Times](/restaurants/modern-times) delivers on the greasy spoon promise—fried, filling, and unapologetically indulgent.
+
+**Best for:** Hangover food, weekend comfort, progressive politics with your fried potatoes.
+
+---
+
+## 🍦 Ice Cream & Frozen Treats
+
+### Sebastian Joe's — The Ice Cream Institution
+
+**Multiple Locations | $$ | ⭐ 4.8**
+
+Sebastian Joe's has been a Minneapolis ice cream staple for decades, and their vegan flavors rotate seasonally. Creamy, rich, and made with real ingredients.
+
+**What to expect:**
+- Seasonal vegan flavors (always at least 2-3 available)
+- Rich, creamy base (usually coconut or oat milk)
+- Real, high-quality ingredients
+
+**Pro tip:** Call ahead to check current vegan flavors. They change often.
+
+---
+
+### French Meadow Bakery — The Dessert Destination
+
+**Uptown | $$ | ⭐ 4.5**
+
+[French Meadow](/restaurants/french-meadow) has vegan ice cream, cakes, cookies, and desserts that feel special.
+
+**The sweet stuff:**
+- Vegan ice cream (seasonal flavors)
+- Vegan Chocolate Rose Cake
+- Dark Chocolate Sea Salt Cookies
+- Seasonal vegan pies and pastries
+
+**Best for:** When you want dessert that looks as good as it tastes. Featured in our [vegan brunch guide](/blog/vegan-brunch-minneapolis).
+
+---
+
+### Glam Doll Donuts — The Ice Cream Sandwich Wildcard
+
+**Multiple Locations | $$ | ⭐ 4.8**
+
+[Glam Doll](/restaurants/glam-doll-donuts) occasionally features vegan ice cream sandwiches—donuts stuffed with vegan ice cream. It's as extra as it sounds, and it's glorious.
+
+**Check for:** Seasonal vegan ice cream sandwich specials. Instagram is your friend here.
+
+---
+
+## 🥓 Building Blocks: DIY Comfort Food at Home
+
+### The Herbivorous Butcher — Your Secret Weapon
+
+**Northeast Minneapolis | $$ | ⭐ 4.8**
+
+*"We had the pleasure of having our evening meal catered by Herbivorous Butcher. It was hands down the best meal we've had all week."* — Liz Fathman
+
+[Herbivorous Butcher](/restaurants/herbivorous-butcher) sells the building blocks for home-cooked comfort food:
+
+**The Comfort Food Toolkit:**
+- **Korean BBQ Ribs** — Smoke, char, fall-apart tender
+- **Italian Sausage** — For pasta, pizza, subs
+- **Bacon** — Real crunch, real smoke
+- **Aged Cheddar** — For grilled cheese, mac and cheese, nachos
+- **Pastrami** — Sandwiches, hash, Reubens
+
+**The hack:** Buy the proteins and cheeses, add simple sides, have restaurant-quality comfort food at home in 15 minutes.
+
+Featured prominently in our [best vegan restaurants guide](/blog/best-vegan-restaurants-minneapolis-2026).
+
+---
+
+## Quick Reference: What Comfort Food, Where?
+
+| Craving | Go Here | Order This |
+|---------|---------|-----------|
+| **Mac & Cheese** | [J. Selby's](/restaurants/j-selbys) | Classic mac or loaded mac |
+| **Burgers** | [Francis Burger Joint](/restaurants/francis-burger-joint) | Juicy Lucy |
+| **Pizza** | Pizza Lucé | Vegan Mediterranean or build-your-own |
+| **Fried Stuff** | [J. Selby's](/restaurants/j-selbys) | Cauliflower wings + Animal Fries |
+| **Ice Cream** | Sebastian Joe's | Seasonal vegan flavors |
+| **Donuts** | [Glam Doll](/restaurants/glam-doll-donuts) | Any vegan donut (all amazing) |
+| **Diner Food** | [Hard Times](/restaurants/hard-times-cafe) | Hash browns + Korean Bun |
+| **Take-Home** | [Herbivorous Butcher](/restaurants/herbivorous-butcher) | Korean BBQ Ribs + cheese |
+
+---
+
+## The Comfort Food Crawl: A One-Day Itinerary
+
+**Lunch:** Start at [Francis Burger Joint](/restaurants/francis-burger-joint) for a Juicy Lucy and fries
+
+**Afternoon Snack:** Hit [Glam Doll Donuts](/restaurants/glam-doll-donuts) for a vegan donut (or three)
+
+**Dinner:** Head to [J. Selby's](/restaurants/j-selbys) for mac and cheese, cauliflower wings, and carrot cake
+
+**Nightcap:** Stop by [Herbivorous Butcher](/restaurants/herbivorous-butcher) and stock up for tomorrow's comfort food cooking
+
+**Total damage:** ~$60-80 for a full day of indulgence
+**Regrets:** Zero
+
+---
+
+## Pro Tips for Maximum Comfort
+
+1. **Order extra Animal Fries at J. Selby's** — You'll thank me later
+2. **Don't skip dessert** — Comfort food without dessert is just regular food
+3. **Cash only at Hard Times** — Come prepared or use their ATM
+4. **Check Glam Doll's Instagram** — New vegan specials drop regularly
+5. **Call ahead for vegan ice cream** — Sebastian Joe's flavors rotate
+
+---
+
+## The Bottom Line
+
+Minneapolis vegan comfort food has come a long way from steamed vegetables and sad salads. We've got:
+
+- Mac and cheese that converts skeptics
+- Burgers that make carnivores jealous
+- Pizza with actual melty cheese
+- Fried food that satisfies every greasy craving
+- Ice cream that doesn't taste like compromise
+
+Whether you're a lifelong vegan, newly plant-based, or just trying to eat less meat, these spots prove that comfort food doesn't need animal products to be deeply, satisfyingly indulgent.
+
+Now stop reading and go eat your feelings. 🌱🍔🍕
+
+For more Minneapolis vegan dining, check out our [complete restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026), [Northeast Minneapolis tour](/blog/northeast-minneapolis-vegan-guide), or [vegan brunch recommendations](/blog/vegan-brunch-minneapolis).
+    `
+  },
+  {
+    slug: "vegan-bakeries-minneapolis",
+    title: "Best Vegan Bakeries in Minneapolis: Cakes, Donuts, Pastries & More",
+    description: "Your complete guide to vegan bakeries in Minneapolis. From custom cakes to gourmet donuts, these bakeries prove that vegan desserts are just as indulgent as traditional ones.",
+    publishedAt: "2026-02-12",
+    updatedAt: "2026-02-12",
+    author: "MPLS Vegan Team",
+    category: "Guide",
+    tags: ["vegan bakeries", "desserts", "minneapolis", "cakes", "donuts", "pastries"],
+    readingTime: "8 min read",
+    tldr: "Best vegan bakeries in Minneapolis: Vegan East Bakery (100% vegan, custom cakes), Glam Doll Donuts (extensive vegan donut lineup), Lutunji's Palate (nutritive desserts, legendary peach cobbler), Sift Gluten Free (vegan + gluten-free heaven), and French Meadow (organic pioneer). Whether you need a custom birthday cake, weekend donuts, or allergy-friendly treats, Minneapolis has you covered.",
+    faqs: [
+      {
+        question: "Where can I get a vegan birthday cake in Minneapolis?",
+        answer: "Vegan East Bakery specializes in custom vegan cakes with beautiful decorations. Lutunji's Palate also creates custom celebration cakes with nutritive ingredients. French Meadow Bakery offers vegan cakes and accepts special orders. All three create show-stopping cakes that prove vegan baking doesn't compromise on aesthetics or flavor."
+      },
+      {
+        question: "What bakery has the best vegan donuts in Minneapolis?",
+        answer: "Glam Doll Donuts is the most famous donut shop in Minneapolis with an extensive vegan donut lineup made with coconut milk and clearly marked. Their creative flavors like the Chart Topper (peanut butter sriracha) and Misfit Donut are legendary. Unlike most shops with one sad vegan option, Glam Doll takes vegan donuts seriously."
+      },
+      {
+        question: "Are there any 100% vegan bakeries in Minneapolis?",
+        answer: "Yes! Vegan East Bakery (Longfellow neighborhood) and Lutunji's Palate (Elliot Park) are both 100% vegan bakeries. Everything they make is plant-based, so you can order anything without asking questions. Many items are also gluten-free."
+      },
+      {
+        question: "Where can I find gluten-free AND vegan baked goods in Minneapolis?",
+        answer: "Sift Gluten Free offers extensive vegan options in a dedicated gluten-free facility (safe for celiacs). Vegan East Bakery also has many gluten-free items clearly labeled. French Meadow Bakery offers gluten-free and vegan options. These spots understand that gluten-free + vegan is a common combination."
+      },
+      {
+        question: "What's the best vegan bakery for special occasions in Minneapolis?",
+        answer: "Vegan East Bakery is the top choice for custom cakes and special orders—their decorations are Instagram-worthy and the flavors deliver. For unique, health-conscious options, try Lutunji's Palate with nutritive ingredients like turmeric and beets. French Meadow works well for more traditional celebrations."
+      }
+    ],
+    relatedRestaurants: ["vegan-east-bakery", "glam-doll-donuts", "lutunjis-palate", "sift-gluten-free", "french-meadow"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-brunch-minneapolis"],
+    content: `
+## Best Vegan Bakeries in Minneapolis: Your Complete Guide to Plant-Based Pastries
+
+There's something deeply comforting about walking into a bakery—the smell of fresh bread, the sight of perfectly frosted cakes, the promise of a cinnamon roll so good it might change your day. For vegans, though, that experience has historically been… complicated.
+
+"Is the bread vegan?" "Does this have eggs?" "Wait, is butter dairy?" The constant interrogation ruins the vibe.
+
+Not anymore. Minneapolis has a thriving vegan bakery scene where you can just walk in, point at something beautiful, and know it's safe to eat. These aren't "vegan alternatives"—they're legitimately excellent bakeries that happen to be vegan (or vegan-friendly).
+
+Here's your complete guide to vegan baked goods in Minneapolis.
+
+---
+
+## The 100% Vegan Bakeries
+
+### Vegan East Bakery — The Custom Cake Champions
+
+**Longfellow | $$ | ⭐ 4.7**
+
+Owner Shelia Nelson started [Vegan East Bakery](/restaurants/vegan-east-bakery) as a hobby and turned it into one of Minneapolis' most beloved vegan bakeries. Everything is made from scratch daily, and the custom cake designs are genuinely show-stopping.
+
+**Location:** 5501 34th Ave S, Minneapolis  
+**Hours:** Tuesday-Saturday, 10am-3pm (closed Sunday-Monday)  
+**Phone:** (651) 318-9740
+
+**What to Order:**
+- **Cinnamon Rolls** — The signature item. Fluffy, perfectly spiced, generously frosted.
+- **Custom Cakes** — Beautifully decorated for birthdays, weddings, any celebration
+- **Cupcakes** — Daily rotating flavors, always impressive
+- **Gluten-Free Treats** — Extensive selection for dietary needs
+
+*"Whether you are egg free, dairy free or vegan, we have you covered. Maybe you're just a fan of awesome cakes. We have that too."* — Vegan East
+
+**Best for:** Special occasion cakes, weekend treat runs, gluten-free vegans, party desserts, impressive gifts
+
+**Pro tip:** Limited hours mean popular items sell out. Call ahead for custom orders or arrive early on weekends.
+
+Also featured in our [best vegan restaurants guide](/blog/best-vegan-restaurants-minneapolis-2026).
+
+---
+
+### Lutunji's Palate — The Nutritive Dessert Pioneer
+
+**Elliot Park | $$ | ⭐ 4.6**
+
+It all started with peach cobbler. Baker Lutunji Abram created a vegan version with a coconut oil crust so good that her pastor convinced her to sell it. Now [Lutunji's Palate](/restaurants/lutunjis-palate) is a Minneapolis staple for plant-based desserts with a health-conscious twist.
+
+**Location:** 1400 Park Ave, Minneapolis  
+**Website:** lutunjispalate.com
+
+**What Makes It Different:**
+Lutunji incorporates nutritive ingredients—turmeric, mineral-rich algae, organic beets, oranges—not just for color, but for actual health benefits. These are desserts that spark conversation.
+
+**Must-Try Items:**
+- **Vegan Peach Cobbler** — The legendary coconut oil crust original
+- **Turmeric Cake** — Anti-inflammatory AND delicious
+- **Beet-Orange Treats** — Natural color, unexpected flavor pairings
+- **Custom Celebration Cakes** — Healthy enough to feel good about
+
+**Best for:** Health-conscious vegans, unique gifts, allergy-friendly desserts, special occasions where you want something different
+
+**The vibe:** Community-focused bakery where desserts have a purpose beyond taste. Warm, welcoming, thoughtful.
+
+---
+
+## The Vegan-Friendly Favorites
+
+### Glam Doll Donuts — The Instagram-Famous Donut Shop
+
+**Lyn-Lake + Northeast | $$ | ⭐ 4.8**
+
+The most famous donut shop in Minneapolis, [Glam Doll Donuts](/restaurants/glam-doll-donuts) is known for wild flavor combinations and—crucially for vegans—an extensive vegan donut lineup.
+
+**Locations:** 2605 Nicollet Ave (Lyn-Lake) + 2605 Nicollet Ave NE (also has a Northeast location)  
+**Website:** glamdolldonuts.com
+
+**Why It's Different:**
+Most donut shops have one token vegan option. Glam Doll has an entire vegan menu made with coconut milk, cornstarch, coconut oil, and fried in soy-cottonseed oil. All vegan donuts are clearly marked.
+
+**What to Order:**
+- **Misfit Donut** — Fan-favorite signature creation
+- **Chart Topper** — Peanut butter and sriracha (trust the process!)
+- **Seasonal Vegan Specials** — Always creative, always delicious
+- **Any Vegan Filled Donut** — Made with dairy-free chocolate and plant milks
+
+*"The widest variety of vegan donuts in the city. Just because you're going vegan doesn't mean you'll miss out on the crazy flavors."* — Meet Minneapolis
+
+**Best for:** Weekend treats, Instagram photos, donut obsessives, adventurous eaters, gifts
+
+**Pro tip:** Weekend mornings see lines out the door, but they move fast. Follow on Instagram for new vegan flavor drops.
+
+Also check out our [vegan comfort food guide](/blog/vegan-comfort-food-minneapolis) for more indulgent options.
+
+---
+
+### Sift Gluten Free — The Celiac-Safe Haven
+
+**Longfellow | $$ | ⭐ 4.6**
+
+Owner Molly Miller built a following at farmers markets before opening [Sift Gluten Free](/restaurants/sift-gluten-free), a dedicated gluten-free bakery with extensive vegan options.
+
+**Location:** 4557 Bloomington Ave, Minneapolis  
+**Phone:** (612) 455-7438  
+**Website:** siftglutenfree.com
+
+**What Makes It Special:**
+This is a dedicated gluten-free facility (safe for celiacs) with clearly labeled vegan options throughout. The impressive part? The variety. Sift tackles everything—cinnamon rolls, donuts, cookies, cakes, cupcakes, brownies.
+
+**Must-Order Items:**
+- **Cinnamon Rolls** — Massive, gooey, gluten-free perfection
+- **Double Chocolate Donuts** — Sell out early, arrive fast
+- **Vegan AND Gluten-Free Cupcakes** — The holy grail combination
+- **Seasonal Specials** — Always creative, always accommodating
+
+*"Most gluten-free bakeries specialize in one or two things, but not this place. Here they attempt to create all types of gluten-free baked goods, things that those with dietary restrictions have only dreamed of eating in the past."* — Meet Minneapolis
+
+**Best for:** Gluten-free vegans, celiacs, allergy-safe treats, weekend bakery runs
+
+**The vibe:** Dedicated gluten-free bakery with serious skills. Wide variety, clearly labeled, safe facility.
+
+---
+
+### French Meadow Bakery — The Organic Pioneer
+
+**Uptown | $$ | ⭐ 4.5**
+
+[French Meadow](/restaurants/french-meadow) has been doing organic and plant-based baking since before it was trendy—they're the first certified organic bread bakery in the USA.
+
+**Location:** 2610 Lyndale Ave S, Minneapolis  
+**Website:** frenchmeadowcafe.com
+
+**The Bakery Section:**
+While French Meadow is also a full restaurant, their bakery counter is packed with vegan options:
+
+- **Triple Chocolate Mousse Cake** — Rich, decadent, vegan
+- **Vegan Chocolate Rose Cake** — "Such a treat!"
+- **Dark Chocolate Sea Salt Cookies** — "Rich and flavorful without being overly sweet"
+- **Seasonal Vegan Pies and Pastries**
+- **Vegan Cupcakes**
+
+**Why it works:** French Meadow has decades of experience with plant-based baking. They know what they're doing, and it shows.
+
+**Best for:** Mixed groups (they have non-vegan options too), traditional celebrations, grab-and-go bakery items
+
+**Bonus:** Full restaurant, outdoor patio, free parking lot (rare in Minneapolis!)
+
+Featured in our [vegan brunch guide](/blog/vegan-brunch-minneapolis) and [best vegan restaurants](/blog/best-vegan-restaurants-minneapolis-2026).
+
+---
+
+### Nadia Cakes — The Cupcake War Winner
+
+**Maple Grove | $$ | ⭐ 4.5**
+
+Winner of Food Network's Cupcake Wars, Nadia Cakes is known for creative cupcake flavors—including a line of "Gluten Aware" cupcakes with vegan options.
+
+**Famous for:** Unicorn Poop cupcakes (sounds weird, tastes magical)
+
+**Vegan offerings:** Select cupcake flavors available vegan
+
+**Best for:** When you want nationally-recognized cupcake excellence with vegan options
+
+---
+
+## Bakery Shopping Guide: What to Get Where
+
+| Need | Go Here | Why |
+|------|---------|-----|
+| **Custom Birthday Cake** | [Vegan East](/restaurants/vegan-east-bakery) | Beautiful decoration + vegan expertise |
+| **Weekend Donuts** | [Glam Doll](/restaurants/glam-doll-donuts) | Extensive vegan lineup, creative flavors |
+| **Gluten-Free + Vegan** | [Sift](/restaurants/sift-gluten-free) | Dedicated facility, wide variety |
+| **Cinnamon Rolls** | [Vegan East](/restaurants/vegan-east-bakery) or [Sift](/restaurants/sift-gluten-free) | Both legendary |
+| **Health-Conscious Desserts** | [Lutunji's Palate](/restaurants/lutunjis-palate) | Nutritive ingredients, unique flavors |
+| **Traditional Bakery Items** | [French Meadow](/restaurants/french-meadow) | Decades of experience, reliable quality |
+| **Party Cupcakes** | [Nadia Cakes](/restaurants/nadia-cakes) or [Vegan East](/restaurants/vegan-east-bakery) | Crowd-pleasers with wow factor |
+
+---
+
+## Pro Tips for Vegan Bakery Success
+
+### Ordering Custom Cakes
+1. **Order 1-2 weeks in advance** for custom cakes
+2. **Be specific about dietary needs** (vegan + gluten-free, nut allergies, etc.)
+3. **Ask to see photos** of previous work
+4. **Confirm pickup times** — limited bakery hours mean planning matters
+
+### Weekend Bakery Runs
+1. **Arrive early** — Popular items sell out (especially cinnamon rolls)
+2. **Call ahead** to confirm what's available that day
+3. **Check Instagram** for new flavor announcements (especially Glam Doll)
+4. **Bring cash for smaller bakeries** (though most take cards now)
+
+### Dietary Restrictions Beyond Vegan
+- **Gluten-Free:** [Sift](/restaurants/sift-gluten-free) (dedicated facility) or [Vegan East](/restaurants/vegan-east-bakery) (many GF options)
+- **Nut Allergies:** Always ask—cross-contamination varies by bakery
+- **Soy-Free:** Harder to find, but [Lutunji's Palate](/restaurants/lutunjis-palate) often accommodates custom requests
+
+---
+
+## The Vegan Bakery Crawl: A Sweet Saturday
+
+**10:00am:** Start at [Vegan East Bakery](/restaurants/vegan-east-bakery) right when they open for fresh cinnamon rolls  
+**11:30am:** Hit [Glam Doll Donuts](/restaurants/glam-doll-donuts) for mid-morning donuts (yes, both)  
+**1:00pm:** Stop by [French Meadow](/restaurants/french-meadow) for lunch + browse the bakery case  
+**3:00pm:** End at [Sift Gluten Free](/restaurants/sift-gluten-free) before they close—grab treats for tomorrow
+
+**Total damage:** ~$40-50 for a full day of pastries  
+**Worth it?** Absolutely.
+
+---
+
+## FAQ Recap
+
+**Best vegan custom cakes?** [Vegan East Bakery](/restaurants/vegan-east-bakery) for beautiful decoration + 100% vegan
+
+**Best vegan donuts?** [Glam Doll Donuts](/restaurants/glam-doll-donuts) for variety and creativity
+
+**Gluten-free + vegan?** [Sift Gluten Free](/restaurants/sift-gluten-free) (dedicated facility) or [Vegan East](/restaurants/vegan-east-bakery) (many options)
+
+**100% vegan bakeries?** [Vegan East](/restaurants/vegan-east-bakery) and [Lutunji's Palate](/restaurants/lutunjis-palate)
+
+**Best cinnamon rolls?** [Vegan East](/restaurants/vegan-east-bakery) or [Sift](/restaurants/sift-gluten-free)—both legendary
+
+---
+
+## The Bottom Line
+
+Minneapolis vegan bakeries have come a long way. We're not talking about dry, crumbly "health food" desserts anymore. These are legitimate bakeries creating beautiful, delicious baked goods that happen to be vegan.
+
+Whether you need a custom birthday cake, weekend donuts, or allergy-friendly treats, Minneapolis has you covered.
+
+The best part? You can walk in, point at something beautiful, and know it's safe to eat. No interrogation required.
+
+Now stop reading and go get a cinnamon roll. 🥐🌱
+
+For more Minneapolis vegan dining, check out our [complete restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026), [comfort food spots](/blog/vegan-comfort-food-minneapolis), or [brunch recommendations](/blog/vegan-brunch-minneapolis).
+    `
   }
 ];
 
