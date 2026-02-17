@@ -21,25 +21,29 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const restaurant = getRestaurantBySlug(slug);
-  
+
   if (!restaurant) {
     return { title: 'Restaurant Not Found' };
   }
 
   return {
-    title: `${restaurant.name} | Minneapolis Vegan Directory`,
-    description: restaurant.description.slice(0, 160),
+    title: `${restaurant.name} - Vegan ${restaurant.cuisineType[0] || 'Restaurant'} in ${restaurant.neighborhood} | MPLS Vegan`,
+    description: `${restaurant.name} in ${restaurant.neighborhood}, ${restaurant.city}. ${restaurant.veganStatus} ${restaurant.cuisineType.join(', ')} restaurant. ${restaurant.description.slice(0, 120)}`,
+    alternates: {
+      canonical: `https://mplsvegan.com/restaurants/${restaurant.slug}`,
+    },
     openGraph: {
-      title: restaurant.name,
+      title: `${restaurant.name} | ${restaurant.veganStatus} in ${restaurant.neighborhood}`,
       description: restaurant.description.slice(0, 160),
       type: 'website',
+      url: `https://mplsvegan.com/restaurants/${restaurant.slug}`,
     },
   };
 }
 
 function generateRestaurantSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
   if (!restaurant) return null;
-  
+
   return {
     '@context': 'https://schema.org',
     '@type': 'Restaurant',
@@ -62,17 +66,19 @@ function generateRestaurantSchema(restaurant: ReturnType<typeof getRestaurantByS
       latitude: restaurant.coordinates.lat,
       longitude: restaurant.coordinates.lng,
     },
-    ...(restaurant.rating && { aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: restaurant.rating,
-      reviewCount: restaurant.reviewCount || 0,
-    }}),
+    ...(restaurant.rating && {
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: restaurant.rating,
+        reviewCount: restaurant.reviewCount || 0,
+      }
+    }),
   };
 }
 
 function generateBreadcrumbSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
   if (!restaurant) return null;
-  
+
   return {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -87,7 +93,7 @@ function generateBreadcrumbSchema(restaurant: ReturnType<typeof getRestaurantByS
         '@type': 'ListItem',
         position: 2,
         name: 'Restaurants',
-        item: 'https://mplsvegan.com/#restaurants',
+        item: 'https://mplsvegan.com/restaurants',
       },
       {
         '@type': 'ListItem',
@@ -96,6 +102,59 @@ function generateBreadcrumbSchema(restaurant: ReturnType<typeof getRestaurantByS
         item: `https://mplsvegan.com/restaurants/${restaurant.slug}`,
       },
     ],
+  };
+}
+
+function generateFAQSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
+  if (!restaurant) return null;
+
+  const faqs = [];
+
+  // Dynamic FAQ based on restaurant attributes
+  faqs.push({
+    '@type': 'Question',
+    name: `Is ${restaurant.name} vegan?`,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: restaurant.veganStatus === '100% Vegan'
+        ? `Yes, ${restaurant.name} is a 100% vegan restaurant in ${restaurant.neighborhood}, ${restaurant.city}. Their entire menu is plant-based.`
+        : `${restaurant.name} is ${restaurant.veganStatus.toLowerCase()} and offers vegan options. Located in ${restaurant.neighborhood}, ${restaurant.city}, they serve ${restaurant.cuisineType.join(' and ')} cuisine.`,
+    },
+  });
+
+  faqs.push({
+    '@type': 'Question',
+    name: `Where is ${restaurant.name} located?`,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: `${restaurant.name} is located at ${restaurant.address}, ${restaurant.city}, ${restaurant.state} ${restaurant.zip}, in the ${restaurant.neighborhood} neighborhood.`,
+    },
+  });
+
+  if (restaurant.whatToOrder && restaurant.whatToOrder.length > 0) {
+    faqs.push({
+      '@type': 'Question',
+      name: `What should I order at ${restaurant.name}?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `Popular dishes at ${restaurant.name} include: ${restaurant.whatToOrder.slice(0, 3).join(', ')}.`,
+      },
+    });
+  }
+
+  faqs.push({
+    '@type': 'Question',
+    name: `What type of food does ${restaurant.name} serve?`,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: `${restaurant.name} serves ${restaurant.cuisineType.join(', ')} cuisine. Price range: ${restaurant.priceRange}. ${restaurant.features.length > 0 ? `Features include: ${restaurant.features.join(', ')}.` : ''}`,
+    },
+  });
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs,
   };
 }
 
@@ -109,12 +168,13 @@ export default async function RestaurantPage({ params }: Props) {
 
   const restaurantSchema = generateRestaurantSchema(restaurant);
   const breadcrumbSchema = generateBreadcrumbSchema(restaurant);
+  const faqSchema = generateFAQSchema(restaurant);
 
   // Get related blog posts
   const relatedBlogs = restaurant.relatedBlogs
     ? restaurant.relatedBlogs
-        .map(blogSlug => getBlogPostBySlug(blogSlug))
-        .filter(Boolean)
+      .map(blogSlug => getBlogPostBySlug(blogSlug))
+      .filter(Boolean)
     : [];
 
   const statusConfig = {
@@ -139,13 +199,19 @@ export default async function RestaurantPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         />
       )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       {/* Hero Section */}
       <div className="relative min-h-[50vh] flex items-end overflow-hidden">
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-gradient-to-br from-[#2a2a2a] via-[#3d4a3d] to-[#2a2a2a]" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a] via-transparent to-transparent" />
-          <div 
+          <div
             className="absolute inset-0 opacity-5"
             style={{
               backgroundImage: `radial-gradient(circle at 2px 2px, rgba(245, 240, 232, 0.5) 1px, transparent 0)`,
@@ -167,7 +233,7 @@ export default async function RestaurantPage({ params }: Props) {
                 <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
                   <path d="M9 18l6-6-6-6" />
                 </svg>
-                <Link href="/#restaurants" className="hover:text-[#d4a574] transition-colors">
+                <Link href="/restaurants" className="hover:text-[#d4a574] transition-colors">
                   Restaurants
                 </Link>
               </li>
@@ -183,7 +249,7 @@ export default async function RestaurantPage({ params }: Props) {
           <div className="space-y-6">
             <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium ${status.class}`}>
               <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12 2L9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2z"/>
+                <path d="M12 2L9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2z" />
               </svg>
               {status.label}
             </span>
@@ -207,12 +273,12 @@ export default async function RestaurantPage({ params }: Props) {
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
         {/* Enhanced component includes About section, so remove duplicate */}
         <RestaurantDetailEnhanced restaurant={restaurant} />
-        
+
         {/* Instagram Preview - Only for Foxy Falafel */}
         {restaurant.slug === 'foxy-falafel' && (
           <div className="mt-8">
-            <InstagramGallery 
-              posts={sampleInstagramPosts} 
+            <InstagramGallery
+              posts={sampleInstagramPosts}
               restaurantName={restaurant.name}
             />
           </div>
@@ -226,8 +292,8 @@ export default async function RestaurantPage({ params }: Props) {
             </h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {relatedBlogs.map((blog) => blog && (
-                <Link 
-                  key={blog.slug} 
+                <Link
+                  key={blog.slug}
                   href={`/blog/${blog.slug}`}
                   className="group card-elevated rounded-xl p-5 hover:ring-2 hover:ring-[#d4a574]/30 transition-all duration-300"
                 >
