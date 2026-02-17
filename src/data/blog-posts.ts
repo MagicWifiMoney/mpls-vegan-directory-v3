@@ -2360,6 +2360,597 @@ Now stop reading and go get a cinnamon roll. 🥐🌱
 
 For more Minneapolis vegan dining, check out our [complete restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026), [comfort food spots](/blog/vegan-comfort-food-minneapolis), or [brunch recommendations](/blog/vegan-brunch-minneapolis).
     `
+  },
+  {
+    slug: "best-vegan-ice-cream-twin-cities",
+    title: "Best Vegan Ice Cream in the Twin Cities: 2026 Guide",
+    description: "The definitive guide to vegan ice cream in Minneapolis and Saint Paul. From housemade scoops to grocery store pints, we ranked every option worth trying.",
+    publishedAt: "2026-02-17",
+    updatedAt: "2026-02-17",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan ice cream", "dairy-free", "twin cities", "minneapolis", "desserts", "2026"],
+    readingTime: "9 min read",
+    tldr: "Best vegan ice cream in the Twin Cities: Crepe & Spoon (housemade, inventive flavors like blueberry cardamom and coconut ash), grab pints from Coconut Bliss and So Delicious at Mississippi Market or Wedge Co-op. For soft serve, check seasonal pop-ups. French Meadow has excellent vegan baked goods to pair. The vegan ice cream scene has exploded—there's no reason to settle for sorbet anymore.",
+    faqs: [
+      {
+        question: "Where can I get vegan ice cream in Minneapolis?",
+        answer: "The best vegan ice cream in Minneapolis is at Crepe & Spoon in Northeast, which makes all their ice cream in-house. You can also find excellent dairy-free pints at co-ops like the Wedge and Mississippi Market, including brands like Coconut Bliss, So Delicious, and Oatly."
+      },
+      {
+        question: "Does Crepe & Spoon have vegan ice cream?",
+        answer: "Yes! Crepe & Spoon is 100% vegan and makes all their ice cream in-house. Their rotating flavors include blueberry cardamom, coconut ash, salted caramel, cookie dough, and seasonal varieties. All are dairy-free and incredibly creamy."
+      },
+      {
+        question: "What are the best vegan ice cream brands available in Minneapolis stores?",
+        answer: "Top vegan ice cream brands available at Minneapolis co-ops and grocery stores: Coconut Bliss (coconut milk-based, rich), So Delicious (variety of bases), Oatly (oat-based, great texture), NadaMoo! (coconut milk, wide flavor range), and Eclipse (for the most 'real ice cream' taste)."
+      },
+      {
+        question: "Is there vegan soft serve in Minneapolis?",
+        answer: "Vegan soft-serve options pop up seasonally at various spots. Crepe & Spoon occasionally offers it. Check local events and farmers markets during summer for rotating vegan soft-serve vendors."
+      },
+      {
+        question: "Where can I get a vegan ice cream cake in the Twin Cities?",
+        answer: "Vegan East Bakery can create custom vegan ice cream cakes. Crepe & Spoon offers ice cream that can be paired with their vegan crepes for an ice cream cake-like experience. For store-bought, So Delicious and Coconut Bliss both make dairy-free ice cream cake options available at local co-ops."
+      }
+    ],
+    relatedRestaurants: ["crepe-and-spoon", "french-meadow", "vegan-east-bakery", "lutunjis-palate"],
+    relatedPosts: ["vegan-bakeries-minneapolis", "vegan-date-night-minneapolis", "vegan-comfort-food-minneapolis", "best-vegan-restaurants-minneapolis-2026"],
+    content: `
+## The Best Vegan Ice Cream in the Twin Cities (2026)
+
+Let me save you some time: the days of vegans staring sadly at a freezer case full of nothing but fruit sorbet are OVER. The Twin Cities' vegan ice cream scene has quietly gotten incredible, and most people—including a lot of vegans—don't even know it yet.
+
+I've eaten an embarrassing amount of dairy-free ice cream over the past year to compile this guide. My waistline suffered. My taste buds thrived. You're welcome.
+
+---
+
+## 🏆 The Best Scoop Shops
+
+### Crepe & Spoon — The Undisputed Champion
+
+**Northeast Minneapolis | 100% Vegan | ⭐ 4.8**
+
+This isn't even close. [Crepe & Spoon](/restaurants/crepe-and-spoon) makes all their ice cream **in-house, from scratch, every day.** And I mean *real* ice cream—rich, creamy, scoopable-from-the-freezer ice cream that happens to contain zero dairy.
+
+**Flavors worth the trip:**
+- **Blueberry Cardamom** — Sounds fancy, tastes like a warm hug from someone who really knows what they're doing
+- **Coconut Ash** — Jet black, slightly sweet, Instagram gold
+- **Salted Caramel** — The one that converts skeptics. "This is VEGAN?!" Yes. Yes it is.
+- **Cookie Dough** — Chunks of actual cookie dough. Not crumbles. Chunks.
+- **Seasonal rotations** — They change flavors regularly, which is both exciting and slightly maddening when your favorite disappears
+
+**The move:** Get a scoop in one of their fresh-made crepes. Sweet crepe + ice cream = the best $12 you'll spend this week.
+
+**Pro tip:** They're in [Northeast Minneapolis](/neighborhoods/northeast), so combine this with a visit to [Herbivorous Butcher](/restaurants/herbivorous-butcher) just blocks away. Savory lunch → sweet finish.
+
+---
+
+## 🛒 Best Grocery Store Pints
+
+Not every ice cream craving requires putting on pants and leaving the house. Here's what to stock in your freezer.
+
+### The Top Tier
+
+| Brand | Base | Best Flavor | Where to Buy | Price Range |
+|-------|------|-------------|-------------- |-------------|
+| **Coconut Bliss** | Coconut milk | Salted Caramel & Chocolate | Wedge, Mississippi Market, Lunds | $6-8 |
+| **Eclipse** | Oat/potato | Cookie Butter | Whole Foods, Lunds | $7-9 |
+| **Oatly** | Oat milk | Strawberry | Most grocery stores | $5-7 |
+| **NadaMoo!** | Coconut milk | Lotta Mint Chip | Whole Foods, co-ops | $6-8 |
+| **So Delicious** | Various | Cashew Milk Snickerdoodle | Everywhere | $5-6 |
+
+### The Honest Rankings
+
+**For "tastes most like real ice cream":** Eclipse. Their proprietary blend somehow nails that dairy fat mouthfeel. The cookie butter flavor is genuinely dangerous.
+
+**For richest/most indulgent:** Coconut Bliss. The coconut milk base makes everything incredibly creamy. Warning: you will eat the whole pint.
+
+**For best value:** So Delicious. Available literally everywhere, consistently good, and the most affordable option. The cashew milk line is the best.
+
+**For oat milk fans:** Oatly. Light, clean taste, great if you find coconut-based ice creams too heavy. The strawberry is simple and perfect.
+
+**For adventurous flavors:** NadaMoo! They get creative with flavors like Birthday Cake Cookie Dough and Java Crunch. Not every swing connects, but when it does, it's a home run.
+
+---
+
+## 🍪 Best Vegan Ice Cream Pairings
+
+Ice cream is good. Ice cream with friends is better. Here's where to build the ultimate vegan dessert experience.
+
+### The Sweet Crawl (Perfect Date Night Add-On)
+
+1. **Start at [Crepe & Spoon](/restaurants/crepe-and-spoon)** — Get a scoop in a crepe (the Nutella-style + banana is unreal)
+2. **Walk to [Herbivorous Butcher](/restaurants/herbivorous-butcher)** — Grab a vegan cheese board for later
+3. **End at [Vegan East Bakery](/restaurants/vegan-east-bakery)** — Pick up cinnamon rolls for tomorrow morning
+
+Total cost: ~$35-40 per person. Total satisfaction: immeasurable.
+
+### Pair with Vegan Baked Goods
+
+| Ice Cream | Best Pairing | Where |
+|-----------|-------------|-------|
+| Crepe & Spoon Salted Caramel | Warm crepe | [Crepe & Spoon](/restaurants/crepe-and-spoon) |
+| Any pint from the store | [Vegan East](/restaurants/vegan-east-bakery) cinnamon rolls | At home |
+| Coconut Bliss Chocolate | [French Meadow](/restaurants/french-meadow) dark chocolate cookie | At home |
+
+---
+
+## 🌞 Seasonal Scoop Guide
+
+### Summer (June-August)
+- **Best time for:** Crepe & Spoon's seasonal flavors, outdoor scoops
+- **Look for:** Pop-up vegan soft serve at farmers markets
+- **Pro tip:** Go on a weeknight—lines are brutal on summer weekends
+
+### Fall (September-November)
+- **Best time for:** Pumpkin and spice flavors from store brands
+- **Look for:** NadaMoo! and So Delicious seasonal releases
+- **Pro tip:** Coconut Bliss sometimes does a pumpkin pie flavor that sells out fast
+
+### Winter (December-February)
+- **Best time for:** Peppermint flavors, hot fudge sundaes at home
+- **Look for:** Eclipse holiday flavors
+- **Pro tip:** Ice cream in winter is an underrated power move. No lines.
+
+### Spring (March-May)
+- **Best time for:** Fresh fruit flavors returning to Crepe & Spoon
+- **Look for:** Oatly strawberry is peak spring vibes
+- **Pro tip:** Stock up on pints during Whole Foods sales
+
+---
+
+## Where to Buy Vegan Ice Cream in the Twin Cities
+
+Not all stores are created equal. Here's where the selection is best:
+
+| Store | Selection | Notes |
+|-------|-----------|-------|
+| **Wedge Co-op** | ⭐⭐⭐⭐⭐ | Best selection in the city, staff knows vegan products |
+| **Mississippi Market** | ⭐⭐⭐⭐⭐ | St. Paul's best, great co-op discounts |
+| **Whole Foods** | ⭐⭐⭐⭐ | Wide selection, tends to be pricier |
+| **Lunds & Byerlys** | ⭐⭐⭐ | Decent selection, improving |
+| **Target** | ⭐⭐ | So Delicious and Oatly usually in stock |
+| **Aldi** | ⭐⭐ | Surprisingly good house brand option |
+
+---
+
+## The Bottom Line
+
+The Twin Cities has legitimately world-class vegan ice cream—you just have to know where to look. [Crepe & Spoon](/restaurants/crepe-and-spoon) is the crown jewel for scoops, and the grocery store pint game has never been stronger.
+
+Stop settling for fruit sorbet. You deserve better. 🍦🌱
+
+For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minneapolis) or the [full Minneapolis vegan restaurant directory](/blog/best-vegan-restaurants-minneapolis-2026).
+    `
+  },
+  {
+    slug: "best-vegan-pizza-minneapolis",
+    title: "Best Vegan Pizza in Minneapolis: Every Slice Ranked",
+    description: "We ate vegan pizza at every spot in Minneapolis so you don't have to guess. Here's exactly where to go for the best vegan pizza in 2026—from coal-fired to delivery.",
+    publishedAt: "2026-02-17",
+    updatedAt: "2026-02-17",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan pizza", "minneapolis", "dairy-free", "pizza", "plant-based", "2026"],
+    readingTime: "8 min read",
+    tldr: "Best vegan pizza in Minneapolis: Pizza Lucé (best overall—house-made vegan cheese that actually stretches, late-night delivery), Black Sheep Pizza (best coal-fired crust), Galactic Pizza (best delivery + eco-friendly), and Herbivorous Butcher pepperoni on homemade pies. Don't sleep on the Baked Potato Pizza at Pizza Lucé—it's a local legend.",
+    faqs: [
+      {
+        question: "Which Minneapolis pizza places have vegan cheese?",
+        answer: "Pizza Lucé, Black Sheep Pizza, and Galactic Pizza all offer vegan cheese on their pizzas. Pizza Lucé has the best house-made vegan cheese that actually melts and stretches. Black Sheep uses Daiya, and Galactic Pizza also uses Daiya to good effect."
+      },
+      {
+        question: "What is the best vegan pizza in Minneapolis?",
+        answer: "Pizza Lucé is widely considered the best vegan pizza in Minneapolis. Their house-made vegan cheese actually melts and stretches, and their Baked Potato Pizza with vegan sour cream is a local legend. For coal-fired crust, Black Sheep Pizza is excellent."
+      },
+      {
+        question: "Can I get vegan pizza delivered in Minneapolis?",
+        answer: "Yes! Pizza Lucé offers late-night delivery with vegan options across multiple locations. Galactic Pizza is famous for eco-friendly delivery by electric car. Both have dedicated vegan menu items that travel well."
+      },
+      {
+        question: "Does Pizza Lucé have vegan options?",
+        answer: "Yes! Pizza Lucé has extensive vegan options including house-made vegan cheese (their best feature), multiple vegan pizzas, vegan hoagies, pasta, and appetizers. They offer two types of vegan cheese—mozzarella and ricotta—and will veganize many menu items on request."
+      },
+      {
+        question: "Where can I get gluten-free vegan pizza in Minneapolis?",
+        answer: "Galactic Pizza offers both vegan cheese and gluten-free crust options. Pizza Lucé also has a gluten-free crust that can be paired with their vegan cheese. Black Sheep can accommodate some dietary needs—ask your server."
+      }
+    ],
+    relatedRestaurants: ["pizza-luce", "galactic-pizza", "black-sheep-pizza", "herbivorous-butcher"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: `
+## Best Vegan Pizza in Minneapolis: Every Slice, Ranked
+
+Let's be honest: pizza is the thing vegans miss most. Not because it's hard to make vegan pizza—it isn't—but because *bad* vegan pizza is really, tragically bad. Plasticky cheese that doesn't melt. Sad vegetables on cardboard crust. We've all been there.
+
+Good news: Minneapolis actually has several places that get vegan pizza right. I've eaten my way through all of them and ranked every slice so you can skip the disappointment and go straight to the good stuff.
+
+---
+
+## 🏆 The Rankings
+
+### #1: Pizza Lucé — The Undisputed Champion
+
+**Multiple Locations | $$ | ⭐ 4.6**
+
+This isn't even a fair fight. [Pizza Lucé](/restaurants/pizza-luce) has been doing vegan pizza since before most restaurants knew what the word meant, and their house-made vegan cheese is in a completely different league from anything else in the city.
+
+**Why they're #1:**
+- **House-made vegan mozzarella** that actually *melts and stretches*. This is not Daiya. This is not Follow Your Heart. This is cheese they make in-house, and it's legitimately good.
+- **Vegan ricotta** — yes, they have TWO vegan cheeses
+- Multiple locations across the metro
+- **Late-night delivery** — real pizza, real late, actually vegan
+
+**The must-order pizzas:**
+
+🥇 **Baked Potato Pizza** — The legend. Vegan cheese, potatoes, vegan sour cream, scallions. Sounds weird. Tastes incredible. This is the pizza that converted me from a "vegan pizza is okay I guess" person to a fanatic.
+
+🥈 **Veggie Lucé** — Artichokes, sun-dried tomatoes, kalamata olives, roasted red peppers, pesto, vegan mozzarella. This is the "I'm ordering for the table and everyone needs to be impressed" pizza.
+
+🥉 **Build Your Own** — Their vegetable toppings are high-quality (not from a can), so building your own with vegan mozz is always a solid move. Go heavy on the roasted garlic.
+
+**Pro tips:**
+- Ask for the vegan ranch dipping sauce. Life-changing with crust.
+- The downtown location has the best late-night vibes
+- Order online to skip the wait on Friday/Saturday nights
+
+---
+
+### #2: Black Sheep Pizza — Best Crust in the City
+
+**North Loop + NE Minneapolis | $$ | ⭐ 4.5**
+
+If Pizza Lucé wins on cheese, [Black Sheep](/restaurants/black-sheep-pizza) wins on crust. Their coal-fired oven produces this incredible char that you can't get anywhere else in Minneapolis.
+
+**What makes them special:**
+- **Coal-fired crust** — Blistered, slightly charred, chewy in the middle. This is crust with actual character.
+- Vegan cheese available on any pizza
+- Quality vegetable toppings that char beautifully in the oven
+- Industrial-cool North Loop location with open kitchen
+
+**Best vegan orders:**
+- **Seasonal Vegetable Pizza** — Whatever's fresh, charred in the coal oven. Simple and perfect.
+- **Build your own with vegan cheese** — Mushrooms + roasted garlic + cherry tomatoes + arugula (added after baking)
+- **Margherita-style** with vegan mozz — Lets the crust be the star
+
+**The vibe:** North Loop industrial-chic. Great for groups where not everyone is vegan—the regular pizzas are excellent too, so nobody feels like they're at a "vegan place."
+
+---
+
+### #3: Galactic Pizza — Best Delivery Experience
+
+**Uptown / Lyn-Lake | $$ | ⭐ 4.4**
+
+What [Galactic Pizza](/restaurants/galactic-pizza) lacks in artisan cred, they make up for in personality and genuine commitment to doing the right thing.
+
+**What makes them unique:**
+- **Delivery by electric car** — yes, really
+- **Superhero-costumed drivers** — your pizza arrives with flair
+- Organic wheat crust that's consistently solid
+- Wind-powered restaurant with compostable packaging
+- Daiya cheese that they've dialed in well
+
+**Best vegan orders:**
+- **Earth Pizza** — All the vegetables, vegan cheese, organic crust. Named perfectly.
+- **Build your own** with their vegan cheese + any veggie combo
+- **Gluten-free crust option** — Great for GF + vegan folks (a tough combo to find)
+
+**Why they deserve respect:** They're not trying to be Pizza Lucé or Black Sheep. They're trying to be a solid, eco-friendly neighborhood pizzeria that takes vegan options seriously. And they succeed.
+
+---
+
+## 🏠 The DIY Option: Herbivorous Butcher Pepperoni
+
+Here's a move that most people don't think of: buy pepperoni from [The Herbivorous Butcher](/restaurants/herbivorous-butcher) and put it on your own pizza at home.
+
+**Why this works:**
+- Their pepperoni is *spicy, charred-edge, pizza perfection* (real quote from their menu)
+- Pair it with store-bought vegan mozzarella (Miyoko's is the best for melting)
+- Use a cast iron skillet or pizza stone
+- Total cost: ~$8-10 for a pizza that rivals anything in this guide
+
+**The recipe:**
+1. Store-bought pizza dough (Trader Joe's herb dough is great)
+2. San Marzano tomato sauce
+3. Miyoko's mozzarella, shredded
+4. Herbivorous Butcher pepperoni, sliced thin
+5. 500°F oven, cast iron or pizza stone, 10-12 minutes
+6. Fresh basil on top. Chef's kiss.
+
+---
+
+## 📊 The Comparison Chart
+
+| Factor | Pizza Lucé | Black Sheep | Galactic Pizza | DIY (HB Pepperoni) |
+|--------|-----------|-------------|----------------|-------------------|
+| **Cheese** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ (Miyoko's) |
+| **Crust** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| **Delivery** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | N/A |
+| **Price** | $$ | $$ | $$ | $ |
+| **Late Night** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **GF Option** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Vibe** | Loud, fun | Industrial cool | Quirky, eco | Your couch |
+
+---
+
+## 🍕 Pizza Night Playbook
+
+### Friday Night with Friends
+**Go to:** Pizza Lucé downtown → order 3-4 pizzas for the table → vegan ranch on the side → don't forget the Baked Potato Pizza
+
+### Date Night Pizza
+**Go to:** Black Sheep North Loop → sit at the bar → watch the coal oven → share a bottle of wine + seasonal vegetable pizza
+
+### Lazy Sunday Delivery
+**Order from:** Galactic Pizza → Earth Pizza + any build-your-own → feel good about the electric car delivery
+
+### Impress-Your-Non-Vegan-Friends Pizza
+**Make at home:** Herbivorous Butcher pepperoni + Miyoko's mozz on homemade dough → watch their minds explode
+
+---
+
+## The Bottom Line
+
+You don't have to sacrifice pizza to be vegan in Minneapolis. [Pizza Lucé](/restaurants/pizza-luce) is the best overall (that cheese!), [Black Sheep](/restaurants/black-sheep-pizza) has the best crust, and [Galactic Pizza](/restaurants/galactic-pizza) delivers with style (and an electric car).
+
+And when all else fails, [Herbivorous Butcher](/restaurants/herbivorous-butcher) pepperoni on a homemade pie might be the best vegan pizza of all.
+
+Now stop reading and order a pizza. 🍕🌱
+
+For more Minneapolis vegan dining, check out our [complete restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026), [comfort food roundup](/blog/vegan-comfort-food-minneapolis), or [date night recommendations](/blog/vegan-date-night-minneapolis).
+    `
+  },
+  {
+    slug: "best-vegan-mac-and-cheese-brands-ranked",
+    title: "Best Vegan Mac and Cheese Brands Ranked: We Tried Them All",
+    description: "We blind-tested every vegan mac and cheese brand we could find — boxed, frozen, and restaurant. Here are the definitive rankings for 2026.",
+    publishedAt: "2026-02-17",
+    updatedAt: "2026-02-17",
+    author: "Mia & Jay",
+    category: "Reviews",
+    tags: ["vegan mac and cheese", "product reviews", "plant-based", "rankings", "grocery", "2026"],
+    readingTime: "11 min read",
+    tldr: "We tested 15+ vegan mac and cheese brands. Top picks: Goodles Cheddy Mac (best boxed overall), Annie's Vegan Shells (best value), Banza Vegan Mac (best high-protein), Daiya Deluxe (best frozen/microwave), and for restaurant mac, Reverie Cafe in Minneapolis is untouchable. Avoid: generic store brands and anything with coconut-heavy cheese sauces that taste like a luau.",
+    faqs: [
+      {
+        question: "What is the best vegan mac and cheese brand?",
+        answer: "Goodles Cheddy Mac is our top pick for boxed vegan mac and cheese in 2026. It has the most 'real cheese' taste with a creamy sauce that coats the noodles perfectly. For frozen/microwave, Daiya Deluxe Cheddar Style is the most convenient and consistent option."
+      },
+      {
+        question: "Does Annie's make vegan mac and cheese?",
+        answer: "Yes! Annie's Organic Vegan Shells & Creamy Sauce is one of the best budget options. It uses organic pasta with a creamy, slightly tangy sauce. Available at most grocery stores including Target, Whole Foods, and co-ops for around $3-4 per box."
+      },
+      {
+        question: "What vegan mac and cheese tastes most like real mac and cheese?",
+        answer: "Goodles Cheddy Mac and Annie's Vegan Shells are the closest to traditional mac and cheese flavor. For a from-scratch option, making mac with Miyoko's butter and nutritional yeast-based sauce beats any boxed version."
+      },
+      {
+        question: "Is Kraft making vegan mac and cheese?",
+        answer: "As of 2026, Kraft does not have a dedicated vegan mac and cheese line in most US markets. However, several excellent alternatives exist that match or exceed the Kraft experience, including Goodles and Annie's vegan options."
+      },
+      {
+        question: "Where can I get the best vegan mac and cheese in Minneapolis?",
+        answer: "Reverie Cafe + Bar has the best vegan mac and cheese in Minneapolis — their Mac and Cheese with Shiitake Bacon is legendary. J. Selby's also serves excellent vegan mac. For buying boxed brands, the Wedge Co-op and Mississippi Market have the best selection."
+      }
+    ],
+    relatedRestaurants: ["reverie-cafe-bar", "j-selbys", "herbivorous-butcher"],
+    relatedPosts: ["vegan-comfort-food-minneapolis", "best-vegan-restaurants-minneapolis-2026", "best-vegan-ice-cream-twin-cities", "best-vegan-pizza-minneapolis"],
+    content: `
+## Best Vegan Mac and Cheese Brands: The Definitive 2026 Rankings
+
+Here's the thing about vegan mac and cheese: it ranges from "oh my god this is incredible" to "did someone melt a crayon into pasta?" There's almost no middle ground.
+
+We bought every vegan mac and cheese brand we could get our hands on, cooked them all according to package directions (we're scientists, not animals), and ranked them from best to "please stop making this." We also threw in our favorite restaurant mac and cheese for good measure, because Minneapolis has at least one vegan mac that puts every boxed version to shame.
+
+Let's do this.
+
+---
+
+## 🏆 The Final Rankings: Boxed Vegan Mac & Cheese
+
+### #1: Goodles Cheddy Mac
+
+**Overall Score: 9.2/10**
+
+| Category | Rating |
+|----------|--------|
+| Cheese Flavor | ⭐⭐⭐⭐⭐ |
+| Texture | ⭐⭐⭐⭐⭐ |
+| Creaminess | ⭐⭐⭐⭐ |
+| Value | ⭐⭐⭐ |
+| Availability | ⭐⭐⭐⭐ |
+
+**The verdict:** Goodles absolutely nailed it. The sauce is creamy, tangy, and actually tastes like cheese—not "cheese-flavored product." The noodles are made with hidden vegetables and protein, which is a nice bonus when you're eating your third box this week (no judgment).
+
+**What sets it apart:** The sauce has this slight sharpness that mimics aged cheddar. Most vegan mac sauces either taste like nothing or taste aggressively of nutritional yeast. Goodles found the sweet spot.
+
+**Where to buy:** Target, Whole Foods, Thrive Market, Amazon
+**Price:** ~$4-5/box
+
+---
+
+### #2: Annie's Organic Vegan Shells & Creamy Sauce
+
+**Overall Score: 8.8/10**
+
+| Category | Rating |
+|----------|--------|
+| Cheese Flavor | ⭐⭐⭐⭐ |
+| Texture | ⭐⭐⭐⭐⭐ |
+| Creaminess | ⭐⭐⭐⭐ |
+| Value | ⭐⭐⭐⭐⭐ |
+| Availability | ⭐⭐⭐⭐⭐ |
+
+**The verdict:** The best value in vegan mac and cheese. Annie's has been doing this longer than most brands, and it shows. Organic pasta, creamy sauce with a slightly tangy finish, and available literally everywhere.
+
+**What sets it apart:** Consistency and price. Every box tastes the same (in a good way), and at $3-4 it's the most affordable option that doesn't taste like cardboard.
+
+**Pro tip:** Add a tablespoon of Miyoko's butter and a splash of oat milk while cooking. Takes it from 8.8 to about 9.5.
+
+**Where to buy:** Target, Walmart, every grocery store, Amazon
+**Price:** ~$3-4/box
+
+---
+
+### #3: Banza Vegan Mac & Cheese
+
+**Overall Score: 8.5/10**
+
+| Category | Rating |
+|----------|--------|
+| Cheese Flavor | ⭐⭐⭐⭐ |
+| Texture | ⭐⭐⭐⭐ |
+| Creaminess | ⭐⭐⭐ |
+| Value | ⭐⭐⭐ |
+| Availability | ⭐⭐⭐⭐ |
+
+**The verdict:** If you want high-protein, chickpea-based noodles with vegan cheese, Banza is your move. The pasta has more texture and a slightly nuttier flavor than traditional noodles, and the cheese sauce is solid.
+
+**What sets it apart:** 25g of protein per box from the chickpea pasta. If you're a vegan who actually cares about macros, this is the one.
+
+**Caveat:** The chickpea pasta releases starch differently, so the sauce can be a bit thicker. Add extra liquid.
+
+**Where to buy:** Target, Whole Foods, most grocery stores
+**Price:** ~$4-5/box
+
+---
+
+### #4: Modern Table Mac & Cheese
+
+**Overall Score: 8.2/10**
+
+| Category | Rating |
+|----------|--------|
+| Cheese Flavor | ⭐⭐⭐⭐ |
+| Texture | ⭐⭐⭐ |
+| Creaminess | ⭐⭐⭐⭐ |
+| Value | ⭐⭐⭐ |
+| Availability | ⭐⭐⭐ |
+
+**The verdict:** Lentil-based noodles with a surprisingly good cheese sauce. Not quite as refined as Goodles or Annie's, but a strong option for anyone avoiding gluten.
+
+**What sets it apart:** The lentil pasta gives it extra protein and fiber without the chickpea flavor of Banza.
+
+**Where to buy:** Whole Foods, Target, co-ops
+**Price:** ~$4-5/box
+
+---
+
+### #5: Daiya Deluxe Cheddar Style
+
+**Overall Score: 7.9/10**
+
+| Category | Rating |
+|----------|--------|
+| Cheese Flavor | ⭐⭐⭐ |
+| Texture | ⭐⭐⭐⭐ |
+| Creaminess | ⭐⭐⭐⭐⭐ |
+| Value | ⭐⭐⭐⭐ |
+| Availability | ⭐⭐⭐⭐⭐ |
+
+**The verdict:** The best **frozen/microwaveable** option. Daiya Deluxe comes with a pre-made sauce (not powder), which makes it incredibly creamy with minimal effort. The cheese flavor is milder than the top picks but still satisfying.
+
+**What sets it apart:** Easiest prep of any option. Boil noodles, stir in sauce, done. No butter, no milk substitute required.
+
+**Where to buy:** Literally everywhere — Target, Walmart, every grocery store
+**Price:** ~$4-5/box
+
+---
+
+## 📊 The Full Comparison
+
+| Brand | Score | Protein | Best For | Price |
+|-------|-------|---------|----------|-------|
+| **Goodles** | 9.2 | 17g | Best overall taste | $4-5 |
+| **Annie's** | 8.8 | 8g | Best value | $3-4 |
+| **Banza** | 8.5 | 25g | Highest protein | $4-5 |
+| **Modern Table** | 8.2 | 14g | Gluten-conscious | $4-5 |
+| **Daiya Deluxe** | 7.9 | 7g | Easiest prep | $4-5 |
+
+---
+
+## 🍽️ Best Vegan Mac & Cheese at Minneapolis Restaurants
+
+Sometimes you don't want to cook. We get it. Here's where to get the best vegan mac and cheese served to you on a plate, by a human, with a drink in your other hand.
+
+### #1: Reverie Cafe + Bar — The GOAT
+
+**South Minneapolis | $$ | 100% Vegan**
+
+[Reverie's](/restaurants/reverie-cafe-bar) Mac and Cheese with Shiitake Bacon is the best vegan mac and cheese in Minneapolis. Period. Full stop. End of discussion.
+
+*"Mac and cheese? Bangs. Burger? Bangs."* — Andrew Lewandowski
+
+**What makes it special:** The shiitake bacon adds this smoky, umami depth that no boxed brand can touch. The cheese sauce is rich without being heavy. It's scratch-made with real ingredients, not reconstituted powder.
+
+**The move:** Get it as a side with their Mock Duck Korean BBQ Tacos. You're welcome.
+
+---
+
+### #2: J. Selby's — Comfort Food King
+
+**St. Paul | $$ | 100% Vegan**
+
+[J. Selby's](/restaurants/j-selbys) does mac and cheese the way it should be done: loaded, creamy, and absolutely zero pretension.
+
+**What makes it special:** It's classic comfort mac—no weird twists, no "elevated" anything. Just really good vegan mac and cheese that satisfies the craving perfectly.
+
+---
+
+## 🛠️ The DIY Move: Make Your Own
+
+If you're feeling ambitious, here's the secret formula that beats every boxed brand:
+
+### The 10-Minute Scratch Mac
+
+**Ingredients:**
+- 12oz pasta (your choice of shape)
+- 1 cup raw cashews (soaked 2 hours or boiled 15 min)
+- 1/4 cup nutritional yeast
+- 2 tbsp Miyoko's butter
+- 1 tbsp lemon juice
+- 1 tsp smoked paprika
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1/2 tsp turmeric (for color)
+- Salt + pepper to taste
+- 3/4 cup oat milk
+
+**Method:**
+1. Cook pasta al dente
+2. Blend everything else until silky smooth
+3. Toss with pasta over medium heat until coated
+4. Taste. Add more nooch until you're happy.
+
+**The result:** Creamy, cheesy, slightly smoky mac that costs about $3 total and takes 15 minutes. Beats every boxed brand on this list.
+
+**Level up:** Top with [Herbivorous Butcher](/restaurants/herbivorous-butcher) bacon bits and a drizzle of sriracha.
+
+---
+
+## Where to Buy Vegan Mac & Cheese in the Twin Cities
+
+| Store | Best Selection | Notes |
+|-------|---------------|-------|
+| **Wedge Co-op** | ⭐⭐⭐⭐⭐ | Carries all top brands + local options |
+| **Mississippi Market** | ⭐⭐⭐⭐⭐ | St. Paul's best selection |
+| **Whole Foods** | ⭐⭐⭐⭐ | Good selection, higher prices |
+| **Target** | ⭐⭐⭐⭐ | Annie's + Goodles always in stock |
+| **Lunds & Byerlys** | ⭐⭐⭐ | Improving selection |
+
+---
+
+## The Bottom Line
+
+Vegan mac and cheese in 2026 is genuinely good. Like, "your non-vegan roommate will steal this" good. **Goodles** wins overall, **Annie's** wins on value, and **Reverie Cafe** wins for restaurant mac in Minneapolis.
+
+And if you really want to impress someone? Make the cashew scratch mac. It takes 15 minutes and costs $3. You'll never go back to boxed.
+
+Now stop reading and go make some mac and cheese. 🧀🌱
+
+For more Minneapolis vegan dining, check our [comfort food guide](/blog/vegan-comfort-food-minneapolis), [restaurant directory](/blog/best-vegan-restaurants-minneapolis-2026), or [ice cream rankings](/blog/best-vegan-ice-cream-twin-cities).
+    `
   }
 ];
 
