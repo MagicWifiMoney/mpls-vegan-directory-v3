@@ -16,12 +16,11 @@ export default function Header() {
   }, []);
 
   return (
-    <header 
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-        isScrolled || isMenuOpen
-          ? 'bg-[#1a1a1a] border-b border-[#f5f0e8]/5' 
-          : 'bg-transparent'
-      }`}
+    <header
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${isScrolled || isMenuOpen
+        ? 'bg-[#1a1a1a] border-b border-[#f5f0e8]/5'
+        : 'bg-transparent'
+        }`}
     >
       <nav className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
@@ -44,7 +43,8 @@ export default function Header() {
           <div className="hidden md:flex items-center gap-1">
             {[
               { href: '/', label: 'Home' },
-              { href: '/#restaurants', label: 'Restaurants' },
+              { href: '/restaurants', label: 'Restaurants' },
+              { href: '/guide', label: 'Guide' },
               { href: '/blog', label: 'Blog' },
               { href: '/neighborhoods', label: 'Neighborhoods' },
               { href: '/about', label: 'About' },
@@ -68,20 +68,17 @@ export default function Header() {
             aria-label="Toggle menu"
           >
             <div className="flex flex-col gap-1.5 w-6">
-              <span 
-                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 origin-center ${
-                  isMenuOpen ? 'rotate-45 translate-y-2' : ''
-                }`} 
+              <span
+                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 origin-center ${isMenuOpen ? 'rotate-45 translate-y-2' : ''
+                  }`}
               />
-              <span 
-                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 ${
-                  isMenuOpen ? 'opacity-0 scale-0' : ''
-                }`} 
+              <span
+                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 ${isMenuOpen ? 'opacity-0 scale-0' : ''
+                  }`}
               />
-              <span 
-                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 origin-center ${
-                  isMenuOpen ? '-rotate-45 -translate-y-2' : ''
-                }`} 
+              <span
+                className={`w-full h-0.5 bg-[#f5f0e8] transition-all duration-300 origin-center ${isMenuOpen ? '-rotate-45 -translate-y-2' : ''
+                  }`}
               />
             </div>
           </button>
@@ -91,13 +88,14 @@ export default function Header() {
 
       {/* Mobile Navigation — full screen overlay */}
       {isMenuOpen && (
-        <div 
+        <div
           className="md:hidden fixed inset-0 top-20 z-50 bg-[#1a1a1a]"
         >
           <div className="flex flex-col px-6 pt-6">
             {[
               { href: '/', label: 'Home' },
-              { href: '/#restaurants', label: 'Restaurants' },
+              { href: '/restaurants', label: 'Restaurants' },
+              { href: '/guide', label: 'Guide' },
               { href: '/blog', label: 'Blog' },
               { href: '/neighborhoods', label: 'Neighborhoods' },
               { href: '/about', label: 'About' },

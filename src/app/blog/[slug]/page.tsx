@@ -55,6 +55,9 @@ function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
     '@type': 'BlogPosting',
     headline: post.title,
     description: post.description,
+    image: post.featuredImage
+      ? `https://mplsvegan.com${post.featuredImage}`
+      : 'https://mplsvegan.com/og-image.png',
     author: {
       '@type': 'Organization',
       name: post.author,
@@ -65,6 +68,12 @@ function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
       '@type': 'Organization',
       name: 'Minneapolis Vegan Directory',
       url: 'https://mplsvegan.com',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://mplsvegan.com/opengraph-image',
+        width: 1200,
+        height: 630,
+      },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
@@ -342,7 +351,7 @@ export default async function BlogPostPage({ params }: Props) {
               Find all 46 vegan restaurants in our complete Minneapolis directory
             </p>
             <Link
-              href="/#restaurants"
+              href="/restaurants"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#d4a574] text-[#1a1a1a] font-medium hover:bg-[#e5b685] transition-colors"
             >
               Browse All Restaurants
