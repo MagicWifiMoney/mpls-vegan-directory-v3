@@ -59,12 +59,38 @@ export default async function NeighborhoodPage({ params }: Props) {
     ],
   };
 
+  // ItemList schema for restaurants in this neighborhood
+  const itemListSchema = restaurantsInNeighborhood.length > 0 ? {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Vegan Restaurants in ${neighborhood.name}, ${neighborhood.city}`,
+    description: `${restaurantsInNeighborhood.length} vegan and plant-based restaurants in ${neighborhood.name}`,
+    numberOfItems: restaurantsInNeighborhood.length,
+    itemListElement: restaurantsInNeighborhood.map((r, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'Restaurant',
+        name: r.name,
+        servesCuisine: r.cuisineType,
+        priceRange: r.priceRange,
+        url: `https://mplsvegan.com/restaurants/${r.slug}`,
+      },
+    })),
+  } : null;
+
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {itemListSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+        />
+      )}
       <div className="relative min-h-screen">
         {/* Background elements */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -74,7 +100,7 @@ export default async function NeighborhoodPage({ params }: Props) {
 
         <div className="relative max-w-7xl mx-auto px-6 lg:px-8 py-24 pt-32">
           {/* Breadcrumb */}
-          <nav className="flex items-center gap-2 text-sm mb-12">
+          <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-sm mb-12">
             <Link href="/" className="text-[#f5f0e8]/50 hover:text-[#d4a574] transition-colors">
               Home
             </Link>

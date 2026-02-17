@@ -165,7 +165,7 @@ export default function FAQPage() {
 
           {/* Last Updated */}
           <p className="mt-12 text-center text-sm text-[#f5f0e8]/30">
-            Last updated: {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+            Last updated: February 17, 2026
           </p>
         </div>
       </div>

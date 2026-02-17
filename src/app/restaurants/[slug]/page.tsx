@@ -49,6 +49,7 @@ function generateRestaurantSchema(restaurant: ReturnType<typeof getRestaurantByS
     '@type': 'Restaurant',
     name: restaurant.name,
     description: restaurant.description,
+    image: 'https://mplsvegan.com/og-image.png',
     address: {
       '@type': 'PostalAddress',
       streetAddress: restaurant.address,
@@ -65,6 +66,10 @@ function generateRestaurantSchema(restaurant: ReturnType<typeof getRestaurantByS
       '@type': 'GeoCoordinates',
       latitude: restaurant.coordinates.lat,
       longitude: restaurant.coordinates.lng,
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `https://mplsvegan.com/restaurants/${restaurant.slug}`,
     },
     ...(restaurant.rating && {
       aggregateRating: {
