@@ -178,14 +178,18 @@ export default function RestaurantsPage() {
                 <div className="max-w-7xl mx-auto">
                     <h2 className="font-display text-lg text-[#f5f0e8]/70 mb-4">Browse by Cuisine</h2>
                     <div className="flex flex-wrap gap-2">
-                        {sortedCuisines.map((cuisine) => (
-                            <span
-                                key={cuisine}
-                                className="inline-flex px-3 py-1.5 rounded-full text-sm bg-[#2a2a2a] text-[#f5f0e8]/60 hover:text-[#d4a574] hover:bg-[#2a2a2a]/80 transition-colors cursor-default"
-                            >
-                                {cuisine}
-                            </span>
-                        ))}
+                        {sortedCuisines.map((cuisine) => {
+                            const cuisineSlug = cuisine.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+                            return (
+                                <Link
+                                    key={cuisine}
+                                    href={`/restaurants/cuisine/${cuisineSlug}`}
+                                    className="inline-flex px-3 py-1.5 rounded-full text-sm bg-[#2a2a2a] text-[#f5f0e8]/60 hover:text-[#d4a574] hover:bg-[#2a2a2a]/80 transition-colors"
+                                >
+                                    {cuisine}
+                                </Link>
+                            );
+                        })}
                     </div>
                 </div>
             </section>

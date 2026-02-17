@@ -88,5 +88,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
-  return [...staticPages, ...blogPages, ...restaurantPages, ...neighborhoodPages]
+  // Dynamic cuisine pages (pSEO)
+  const cuisineSlugs = new Set<string>();
+  restaurants.forEach((r) => {
+    r.cuisineType.forEach((c) => {
+      cuisineSlugs.add(c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, ''));
+    });
+  });
+  const cuisinePages: MetadataRoute.Sitemap = Array.from(cuisineSlugs).map((slug) => ({
+    url: `${baseUrl}/restaurants/cuisine/${slug}`,
+    lastModified: siteLastUpdated,
+    changeFrequency: 'weekly' as const,
+    priority: 0.65,
+  }));
+
+  return [...staticPages, ...blogPages, ...restaurantPages, ...neighborhoodPages, ...cuisinePages]
 }

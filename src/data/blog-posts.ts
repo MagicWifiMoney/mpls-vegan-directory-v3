@@ -28,7 +28,7 @@ export const blogPosts: BlogPost[] = [
     description: "Valentine's Day is Saturday! Here are the most romantic vegan and vegan-friendly restaurants in Minneapolis for 2026, plus reservation tips and what to order.",
     publishedAt: "2026-02-11",
     updatedAt: "2026-02-11",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Date Ideas",
     tags: ["valentines day", "date night", "romantic", "vegan", "minneapolis", "2026"],
     readingTime: "7 min read",
@@ -381,7 +381,7 @@ Happy Valentine's Day, Minneapolis. 💚🌱
     description: "Your complete guide to the best vegan and plant-based restaurants in Minneapolis for 2026. From 100% vegan spots to vegan-friendly gems, discover where to eat.",
     publishedAt: "2026-02-06",
     updatedAt: "2026-02-06",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Guide",
     tags: ["vegan restaurants", "minneapolis", "plant-based", "dining guide"],
     readingTime: "12 min read",
@@ -632,7 +632,7 @@ Now stop reading and go eat. 🌱
     description: "Every vegan brunch spot in Minneapolis worth visiting in 2026. From biscuits and gravy to tofu scrambles, here's where to get your weekend fix.",
     publishedAt: "2026-02-06",
     updatedAt: "2026-02-06",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Guide",
     tags: ["vegan brunch", "minneapolis", "breakfast", "weekend"],
     readingTime: "10 min read",
@@ -842,7 +842,7 @@ Now go forth and brunch. 🥞🌱
     description: "Planning a vegan date night in Minneapolis? These romantic restaurants have the ambiance, the food, and the vibes to impress. No sad salads here.",
     publishedAt: "2026-02-06",
     updatedAt: "2026-02-06",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Date Ideas",
     tags: ["date night", "romantic", "vegan", "minneapolis", "dinner"],
     readingTime: "8 min read",
@@ -1044,7 +1044,7 @@ Happy dating. 🌱💚
     description: "Explore Northeast Minneapolis' thriving vegan scene. From the Herbivorous Butcher to Francis Burger Joint, here's your guide to eating plant-based in NE.",
     publishedAt: "2026-02-06",
     updatedAt: "2026-02-06",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Neighborhood Guide",
     tags: ["northeast", "walking tour", "vegan", "minneapolis", "neighborhood"],
     readingTime: "9 min read",
@@ -1263,7 +1263,7 @@ Now go explore. 🌱
     description: "Minneapolis has incredible Ethiopian food, and it's naturally vegan-friendly. Here's everything you need to know about the best Ethiopian vegan restaurants in MPLS.",
     publishedAt: "2026-02-06",
     updatedAt: "2026-02-06",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Cuisine Guide",
     tags: ["ethiopian", "vegan", "minneapolis", "injera", "african cuisine"],
     readingTime: "8 min read",
@@ -1488,7 +1488,7 @@ Now go eat. 🌱
     description: "Skip the cooking without skipping good food. Here's every vegan meal prep service, meal kit, and ready-made option in the Twin Cities for 2026.",
     publishedAt: "2026-02-11",
     updatedAt: "2026-02-11",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Guide",
     tags: ["meal prep", "vegan", "minneapolis", "convenience", "delivery", "twin cities"],
     readingTime: "8 min read",
@@ -1755,7 +1755,7 @@ Now stop reading and go prep some food. 🌱
     description: "Craving indulgent vegan comfort food in Minneapolis? This guide covers the best spots for mac and cheese, burgers, fried food, pizza, and ice cream that'll satisfy any craving.",
     publishedAt: "2026-02-12",
     updatedAt: "2026-02-12",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Guide",
     tags: ["comfort food", "vegan", "minneapolis", "burgers", "pizza", "mac and cheese", "indulgent"],
     readingTime: "10 min read",
@@ -2094,7 +2094,7 @@ For more Minneapolis vegan dining, check out our [complete restaurant guide](/bl
     description: "Your complete guide to vegan bakeries in Minneapolis. From custom cakes to gourmet donuts, these bakeries prove that vegan desserts are just as indulgent as traditional ones.",
     publishedAt: "2026-02-12",
     updatedAt: "2026-02-12",
-    author: "MPLS Vegan Team",
+    author: "Mia & Jay",
     category: "Guide",
     tags: ["vegan bakeries", "desserts", "minneapolis", "cakes", "donuts", "pastries"],
     readingTime: "8 min read",
@@ -2374,7 +2374,7 @@ export function getAllBlogSlugs(): string[] {
 export function getRelatedPosts(currentSlug: string): BlogPost[] {
   const currentPost = getBlogPostBySlug(currentSlug);
   if (!currentPost) return [];
-  
+
   return currentPost.relatedPosts
     .map(slug => getBlogPostBySlug(slug))
     .filter((post): post is BlogPost => post !== undefined);
