@@ -5,22 +5,57 @@ import { blogPosts } from '@/data/blog-posts';
 export const metadata: Metadata = {
   title: 'Vegan Minneapolis Blog | Plant-Based Guides & Restaurant Reviews',
   description: 'The best vegan restaurant guides, neighborhood tours, and dining tips for Minneapolis. From brunch spots to date night ideas, we\'ve got you covered.',
+  alternates: {
+    canonical: '/blog',
+  },
   openGraph: {
     title: 'Vegan Minneapolis Blog',
     description: 'Plant-based dining guides for Minneapolis',
     type: 'website',
+    url: 'https://mplsvegan.com/blog',
   },
 };
 
+function generateCollectionSchema() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Vegan Minneapolis Blog',
+    description: 'Plant-based dining guides, neighborhood tours, and restaurant reviews for Minneapolis',
+    url: 'https://mplsvegan.com/blog',
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: blogPosts.length,
+      itemListElement: blogPosts.map((post, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        item: {
+          '@type': 'BlogPosting',
+          headline: post.title,
+          url: `https://mplsvegan.com/blog/${post.slug}`,
+          datePublished: post.publishedAt,
+        },
+      })),
+    },
+  };
+}
+
 export default function BlogPage() {
+  const collectionSchema = generateCollectionSchema();
+
   return (
     <>
+      {/* Schema.org JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
       {/* Hero Section */}
       <div className="relative min-h-[40vh] flex items-end overflow-hidden">
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-gradient-to-br from-[#2a2a2a] via-[#3d4a3d] to-[#2a2a2a]" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a] via-transparent to-transparent" />
-          <div 
+          <div
             className="absolute inset-0 opacity-5"
             style={{
               backgroundImage: `radial-gradient(circle at 2px 2px, rgba(245, 240, 232, 0.5) 1px, transparent 0)`,
@@ -32,13 +67,13 @@ export default function BlogPage() {
         <div className="relative z-10 w-full max-w-7xl mx-auto px-6 lg:px-8 py-16 pt-32">
           <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium badge-vegan mb-6">
             <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/>
+              <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z" />
             </svg>
             Blog
           </span>
 
           <h1 className="font-display text-5xl lg:text-6xl text-[#f5f0e8] tracking-tight mb-4">
-            Vegan Minneapolis
+            Vegan Minneapolis Blog
           </h1>
           <p className="text-xl text-[#f5f0e8]/60 max-w-2xl">
             Guides, reviews, and neighborhood tours for plant-based eating in the Twin Cities
@@ -51,14 +86,14 @@ export default function BlogPage() {
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {blogPosts.map((post) => (
-              <Link 
-                key={post.slug} 
+              <Link
+                key={post.slug}
                 href={`/blog/${post.slug}`}
                 className="group card-elevated rounded-2xl overflow-hidden hover:ring-2 hover:ring-[#d4a574]/30 transition-all duration-300"
               >
                 {/* Card Header */}
                 <div className="h-48 relative overflow-hidden bg-gradient-to-br from-[#3d4a3d] to-[#2a2a2a]">
-                  <div 
+                  <div
                     className="absolute inset-0 opacity-10"
                     style={{
                       backgroundImage: `radial-gradient(circle at 2px 2px, rgba(245, 240, 232, 0.5) 1px, transparent 0)`,
@@ -111,7 +146,7 @@ export default function BlogPage() {
               Explore all 46 vegan and vegan-friendly restaurants in our directory
             </p>
             <Link
-              href="/#restaurants"
+              href="/restaurants"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#d4a574] text-[#1a1a1a] font-medium hover:bg-[#e5b685] transition-colors"
             >
               Browse Restaurants

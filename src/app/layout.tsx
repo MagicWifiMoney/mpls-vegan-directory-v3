@@ -107,7 +107,12 @@ const organizationSchema = {
   name: 'Minneapolis Vegan Directory',
   alternateName: 'MPLS Vegan',
   url: 'https://mplsvegan.com',
-  logo: 'https://mplsvegan.com/opengraph-image',
+  logo: {
+    '@type': 'ImageObject',
+    url: 'https://mplsvegan.com/opengraph-image',
+    width: 1200,
+    height: 630,
+  },
   description: 'Comprehensive guide to vegan and plant-based restaurants in the Twin Cities',
   areaServed: {
     '@type': 'City',
@@ -125,9 +130,7 @@ const organizationSchema = {
     'Twin Cities Dining'
   ],
   sameAs: [
-    // Add social profiles when available:
-    // 'https://instagram.com/mplsvegan',
-    // 'https://twitter.com/mplsvegan',
+    'https://instagram.com/mpls_vegan',
   ]
 };
 

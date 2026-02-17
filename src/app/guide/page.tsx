@@ -5,9 +5,13 @@ import { restaurants } from '@/data/restaurants';
 export const metadata: Metadata = {
   title: 'Vegan Dining Guide | Minneapolis & Saint Paul',
   description: 'Your complete guide to vegan restaurants in Minneapolis and Saint Paul. From brunch spots to date night destinations, find the best plant-based dining in the Twin Cities.',
+  alternates: {
+    canonical: '/guide',
+  },
   openGraph: {
     title: 'Minneapolis Vegan Dining Guide',
     description: 'From brunch to date night - your curated guide to plant-based eating in the Twin Cities',
+    url: 'https://mplsvegan.com/guide',
   },
 };
 
@@ -78,10 +82,10 @@ const categories = [
 // Get restaurants for a category
 function getRestaurantsForCategory(category: typeof categories[0]) {
   return restaurants.filter(r => {
-    const matchesFeature = category.features.some(f => 
+    const matchesFeature = category.features.some(f =>
       r.features.some(rf => rf.toLowerCase().includes(f.toLowerCase()))
     );
-    const matchesCuisine = category.cuisines.some(c => 
+    const matchesCuisine = category.cuisines.some(c =>
       r.cuisineType.some(rc => rc.toLowerCase().includes(c.toLowerCase()))
     );
     return matchesFeature || matchesCuisine;
@@ -99,8 +103,8 @@ export default function GuidePage() {
 
       <div className="relative max-w-6xl mx-auto px-6 lg:px-8 py-24 pt-32">
         {/* Back link */}
-        <Link 
-          href="/" 
+        <Link
+          href="/"
           className="inline-flex items-center gap-2 text-sm text-[#f5f0e8]/50 hover:text-[#d4a574] transition-colors mb-12 group"
         >
           <svg className="w-4 h-4 group-hover:-translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
@@ -119,8 +123,8 @@ export default function GuidePage() {
             Your Guide to Vegan Dining in the Twin Cities
           </h1>
           <p className="text-[#f5f0e8]/50 text-lg">
-            From cozy brunch spots to upscale date nights, we&apos;ve curated the best plant-based 
-            restaurants in Minneapolis and Saint Paul. Whether you&apos;re a lifelong vegan or just 
+            From cozy brunch spots to upscale date nights, we&apos;ve curated the best plant-based
+            restaurants in Minneapolis and Saint Paul. Whether you&apos;re a lifelong vegan or just
             curious about eating more plants, there&apos;s something delicious waiting for you.
           </p>
         </div>
@@ -150,7 +154,7 @@ export default function GuidePage() {
           {categories.map((category) => {
             const categoryRestaurants = getRestaurantsForCategory(category);
             if (categoryRestaurants.length === 0) return null;
-            
+
             return (
               <section key={category.slug} id={category.slug}>
                 {/* Category Header */}
@@ -188,7 +192,7 @@ export default function GuidePage() {
                             </span>
                           )}
                         </div>
-                        
+
                         {/* Try This recommendation */}
                         {restaurant.whatToOrder && restaurant.whatToOrder.length > 0 && (
                           <div className="mt-3 flex items-start gap-2">
@@ -199,7 +203,7 @@ export default function GuidePage() {
                           </div>
                         )}
                       </div>
-                      
+
                       <svg className="w-5 h-5 text-[#f5f0e8]/20 group-hover:text-[#d4a574] group-hover:translate-x-1 transition-all flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
                         <path d="M7 17L17 7M17 7H7M17 7V17" />
                       </svg>
