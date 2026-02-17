@@ -18,14 +18,17 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const post = getBlogPostBySlug(slug);
-  
+
   if (!post) {
     return { title: 'Post Not Found' };
   }
 
   return {
-    title: `${post.title} | Minneapolis Vegan Directory`,
+    title: `${post.title} | MPLS Vegan`,
     description: post.description,
+    alternates: {
+      canonical: `https://mplsvegan.com/blog/${post.slug}`,
+    },
     openGraph: {
       title: post.title,
       description: post.description,
@@ -34,6 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       modifiedTime: post.updatedAt,
       authors: [post.author],
       tags: post.tags,
+      url: `https://mplsvegan.com/blog/${post.slug}`,
     },
     twitter: {
       card: 'summary_large_image',
@@ -45,7 +49,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post) return null;
-  
+
   return {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
@@ -71,7 +75,7 @@ function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
 
 function generateFAQSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post || !post.faqs || post.faqs.length === 0) return null;
-  
+
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -88,7 +92,7 @@ function generateFAQSchema(post: ReturnType<typeof getBlogPostBySlug>) {
 
 function generateBreadcrumbSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post) return null;
-  
+
   return {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -157,7 +161,7 @@ export default async function BlogPostPage({ params }: Props) {
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-gradient-to-br from-[#2a2a2a] via-[#3d4a3d] to-[#2a2a2a]" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a] via-transparent to-transparent" />
-          <div 
+          <div
             className="absolute inset-0 opacity-5"
             style={{
               backgroundImage: `radial-gradient(circle at 2px 2px, rgba(245, 240, 232, 0.5) 1px, transparent 0)`,
@@ -208,17 +212,17 @@ export default async function BlogPostPage({ params }: Props) {
               <span>By {post.author}</span>
               <span className="w-1 h-1 rounded-full bg-[#f5f0e8]/30" />
               <span>
-                {new Date(post.publishedAt).toLocaleDateString('en-US', { 
-                  month: 'long', 
+                {new Date(post.publishedAt).toLocaleDateString('en-US', {
+                  month: 'long',
                   day: 'numeric',
-                  year: 'numeric' 
+                  year: 'numeric'
                 })}
               </span>
             </div>
 
             <div className="flex flex-wrap gap-2 pt-2">
               {post.tags.map((tag) => (
-                <span 
+                <span
                   key={tag}
                   className="inline-flex px-3 py-1 rounded-full text-xs bg-[#2a2a2a] text-[#f5f0e8]/60"
                 >
@@ -279,7 +283,7 @@ export default async function BlogPostPage({ params }: Props) {
               </h2>
               <div className="space-y-6">
                 {post.faqs.map((faq, index) => (
-                  <div 
+                  <div
                     key={index}
                     className="card-elevated rounded-xl p-6"
                   >
@@ -306,8 +310,8 @@ export default async function BlogPostPage({ params }: Props) {
             </h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               {relatedPosts.map((relatedPost) => (
-                <Link 
-                  key={relatedPost.slug} 
+                <Link
+                  key={relatedPost.slug}
                   href={`/blog/${relatedPost.slug}`}
                   className="group card-elevated rounded-2xl p-6 hover:ring-2 hover:ring-[#d4a574]/30 transition-all duration-300"
                 >

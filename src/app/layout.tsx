@@ -4,14 +4,14 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
-const instrumentSerif = Instrument_Serif({ 
+const instrumentSerif = Instrument_Serif({
   weight: "400",
   subsets: ["latin"],
   variable: "--font-display",
   display: "swap",
 });
 
-const dmSans = DM_Sans({ 
+const dmSans = DM_Sans({
   subsets: ["latin"],
   variable: "--font-body",
   display: "swap",
@@ -105,8 +105,9 @@ const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'Minneapolis Vegan Directory',
+  alternateName: 'MPLS Vegan',
   url: 'https://mplsvegan.com',
-  logo: 'https://mplsvegan.com/logo.png',
+  logo: 'https://mplsvegan.com/opengraph-image',
   description: 'Comprehensive guide to vegan and plant-based restaurants in the Twin Cities',
   areaServed: {
     '@type': 'City',
@@ -122,60 +123,14 @@ const organizationSchema = {
     'Vegetarian Food',
     'Minneapolis Restaurants',
     'Twin Cities Dining'
+  ],
+  sameAs: [
+    // Add social profiles when available:
+    // 'https://instagram.com/mplsvegan',
+    // 'https://twitter.com/mplsvegan',
   ]
 };
 
-const localBusinessListSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'ItemList',
-  name: 'Best Vegan Restaurants in Minneapolis 2026',
-  description: 'Top-rated vegan and plant-based restaurants in Minneapolis',
-  numberOfItems: 50,
-  itemListElement: [
-    {
-      '@type': 'ListItem',
-      position: 1,
-      item: {
-        '@type': 'Restaurant',
-        name: 'The Herbivorous Butcher',
-        servesCuisine: 'Vegan',
-        address: {
-          '@type': 'PostalAddress',
-          addressLocality: 'Minneapolis',
-          addressRegion: 'MN'
-        }
-      }
-    },
-    {
-      '@type': 'ListItem',
-      position: 2,
-      item: {
-        '@type': 'Restaurant',
-        name: 'J. Selby\'s',
-        servesCuisine: 'Vegan American',
-        address: {
-          '@type': 'PostalAddress',
-          addressLocality: 'St. Paul',
-          addressRegion: 'MN'
-        }
-      }
-    },
-    {
-      '@type': 'ListItem',
-      position: 3,
-      item: {
-        '@type': 'Restaurant',
-        name: 'Lulu EthioVegan',
-        servesCuisine: 'Vegan Ethiopian',
-        address: {
-          '@type': 'PostalAddress',
-          addressLocality: 'Minneapolis',
-          addressRegion: 'MN'
-        }
-      }
-    }
-  ]
-};
 
 export default function RootLayout({
   children,
@@ -192,10 +147,6 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessListSchema) }}
         />
       </head>
       <body className="font-body bg-[#1a1a1a] text-[#f5f0e8] antialiased">
