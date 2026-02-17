@@ -106,9 +106,14 @@ export default function NeighborhoodsPage() {
                         <path d="M7 17L17 7M17 7H7M17 7V17" />
                       </svg>
                     </div>
-                    <p className="text-sm text-[#f5f0e8]/40">
+                    <p className="text-sm text-[#f5f0e8]/40 mb-2">
                       {count} restaurant{count !== 1 ? 's' : ''}
                     </p>
+                    {'description' in neighborhood && (
+                      <p className="text-xs text-[#f5f0e8]/30 leading-relaxed line-clamp-2">
+                        {(neighborhood as typeof neighborhood & { description: string }).description}
+                      </p>
+                    )}
                     {/* Hover indicator */}
                     <div className="mt-4 h-0.5 bg-gradient-to-r from-[#d4a574] to-[#c17f59] scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
                   </Link>
@@ -145,9 +150,14 @@ export default function NeighborhoodsPage() {
                         <path d="M7 17L17 7M17 7H7M17 7V17" />
                       </svg>
                     </div>
-                    <p className="text-sm text-[#f5f0e8]/40">
+                    <p className="text-sm text-[#f5f0e8]/40 mb-2">
                       {count} restaurant{count !== 1 ? 's' : ''}
                     </p>
+                    {'description' in neighborhood && (
+                      <p className="text-xs text-[#f5f0e8]/30 leading-relaxed line-clamp-2">
+                        {(neighborhood as typeof neighborhood & { description: string }).description}
+                      </p>
+                    )}
                     <div className="mt-4 h-0.5 bg-gradient-to-r from-[#d4a574] to-[#c17f59] scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
                   </Link>
                 );

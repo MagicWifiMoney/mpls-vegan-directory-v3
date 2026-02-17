@@ -1111,7 +1111,7 @@ export function getVeganOnlyRestaurants(): Restaurant[] {
 
 export function searchRestaurants(query: string): Restaurant[] {
   const lowerQuery = query.toLowerCase();
-  return restaurants.filter(r => 
+  return restaurants.filter(r =>
     r.name.toLowerCase().includes(lowerQuery) ||
     r.cuisineType.some(c => c.toLowerCase().includes(lowerQuery)) ||
     r.neighborhood.toLowerCase().includes(lowerQuery) ||
@@ -1120,29 +1120,29 @@ export function searchRestaurants(query: string): Restaurant[] {
 }
 
 export const neighborhoods = [
-  { name: 'Northeast Minneapolis', slug: 'northeast', city: 'Minneapolis' },
-  { name: 'Uptown', slug: 'uptown', city: 'Minneapolis' },
-  { name: 'Lyn-Lake', slug: 'lyn-lake', city: 'Minneapolis' },
-  { name: 'Powderhorn', slug: 'powderhorn', city: 'Minneapolis' },
-  { name: 'Seward', slug: 'seward', city: 'Minneapolis' },
-  { name: 'Elliot Park', slug: 'elliot-park', city: 'Minneapolis' },
-  { name: 'Cedar-Riverside', slug: 'cedar-riverside', city: 'Minneapolis' },
-  { name: 'Longfellow', slug: 'longfellow', city: 'Minneapolis' },
-  { name: 'Minnehaha', slug: 'minnehaha', city: 'Minneapolis' },
-  { name: 'Downtown', slug: 'downtown', city: 'Minneapolis' },
-  { name: 'North Loop', slug: 'north-loop', city: 'Minneapolis' },
-  { name: 'Whittier', slug: 'whittier', city: 'Minneapolis' },
-  { name: 'West Lake', slug: 'west-lake', city: 'Minneapolis' },
-  { name: 'Midtown', slug: 'midtown', city: 'Minneapolis' },
-  { name: 'Kingfield', slug: 'kingfield', city: 'Minneapolis' },
-  { name: 'Cathedral Hill', slug: 'cathedral-hill', city: 'Saint Paul' },
-  { name: 'Summit-University', slug: 'summit-university', city: 'Saint Paul' },
-  { name: 'Como', slug: 'como', city: 'Saint Paul' },
-  { name: 'St. Anthony Park', slug: 'st-anthony-park', city: 'Saint Paul' },
-  { name: 'Payne-Phalen', slug: 'payne-phalen', city: 'Saint Paul' },
-  { name: 'Hamline-Midway', slug: 'hamline-midway', city: 'Saint Paul' },
-  { name: 'Frogtown', slug: 'frogtown', city: 'Saint Paul' },
-  { name: 'Saint Louis Park', slug: 'slp', city: 'Saint Louis Park' },
+  { name: 'Northeast Minneapolis', slug: 'northeast', city: 'Minneapolis', description: 'Industrial-chic arts district home to The Herbivorous Butcher and a growing cluster of vegan-forward restaurants along NE brewery row. Murals, taprooms, and plant-based innovation define this neighborhood.' },
+  { name: 'Uptown', slug: 'uptown', city: 'Minneapolis', description: 'Walkable entertainment hub around Hennepin and Lake with eclectic dining options. Indian, Nepali, and Mediterranean restaurants serve excellent vegan fare alongside vintage shops and live music.' },
+  { name: 'Lyn-Lake', slug: 'lyn-lake', city: 'Minneapolis', description: 'Quirky, counterculture crossroads where Lyndale meets Lake Street. Home to beloved punk cafes, collectively-owned restaurants, and some of the city\'s most character-rich vegan spots.' },
+  { name: 'Powderhorn', slug: 'powderhorn', city: 'Minneapolis', description: 'Diverse, community-driven neighborhood anchored by Powderhorn Park. Features 100% vegan destinations like Reverie Cafe and a strong tradition of collectively-owned, socially conscious dining.' },
+  { name: 'Seward', slug: 'seward', city: 'Minneapolis', description: 'Co-op culture runs deep in this progressive neighborhood near the Mississippi. Organic cafes, community-owned restaurants, and a focus on local sourcing make Seward a vegan-friendly haven.' },
+  { name: 'Elliot Park', slug: 'elliot-park', city: 'Minneapolis', description: 'Downtown-adjacent neighborhood with hidden gem bakeries and health-conscious eateries. Home to Lutunji\'s Palate, where plant-based baking meets nutritional innovation.' },
+  { name: 'Cedar-Riverside', slug: 'cedar-riverside', city: 'Minneapolis', description: 'Minneapolis\'s most culturally diverse neighborhood, known as "Little Mogadishu." East African restaurants serve naturally vegan-friendly dishes — falafel, sambusa, and lentil stews are staples here.' },
+  { name: 'Longfellow', slug: 'longfellow', city: 'Minneapolis', description: 'Residential neighborhood along Minnehaha Creek with a growing food scene. Indian restaurants, burger joints with strong vegan options, and community cafes dot the Minnehaha Avenue corridor.' },
+  { name: 'Minnehaha', slug: 'minnehaha', city: 'Minneapolis', description: 'Named for the iconic waterfall, this area along Minnehaha Avenue features Black-owned juice bars, health-focused cafes, and community gathering spots with plant-forward menus.' },
+  { name: 'Downtown', slug: 'downtown', city: 'Minneapolis', description: 'The urban core with fast-casual options, upscale dining, and global cuisines. Salad bars, ramen shops, and Malaysian restaurants cater to the plant-based lunch crowd.' },
+  { name: 'North Loop', slug: 'north-loop', city: 'Minneapolis', description: 'Minneapolis\'s trendiest warehouse district, packed with upscale restaurants and craft cocktail bars. Japanese robata, ramen, and coal-fired pizza with vegan cheese options thrive here.' },
+  { name: 'Whittier', slug: 'whittier', city: 'Minneapolis', description: 'International food corridor along Nicollet Avenue — "Eat Street." Thai, Malaysian, Vietnamese, and donuts share blocks in one of the metro\'s most eclectic dining neighborhoods.' },
+  { name: 'West Lake', slug: 'west-lake', city: 'Minneapolis', description: 'Health-conscious enclave near the Chain of Lakes. Juice bars, smoothie bowls, and nutrient-dense cafes cater to the active outdoor crowd with fresh, plant-forward menus.' },
+  { name: 'Midtown', slug: 'midtown', city: 'Minneapolis', description: 'Home to the Midtown Global Market, a food hall celebrating cuisines from around the world. Ethiopian, Mexican, and artisan bakeries share space under one roof with abundant vegan options.' },
+  { name: 'Kingfield', slug: 'kingfield', city: 'Minneapolis', description: 'South Minneapolis residential neighborhood with neighborhood pizzerias, eco-conscious eateries, and a farmers market community that keeps local, seasonal ingredients front and center.' },
+  { name: 'Cathedral Hill', slug: 'cathedral-hill', city: 'Saint Paul', description: 'Grand Avenue\'s charming commercial strip in Saint Paul. Mediterranean restaurants, organic bakeries, and beloved neighborhood cafes make this one of the east metro\'s best dining stretches.' },
+  { name: 'Summit-University', slug: 'summit-university', city: 'Saint Paul', description: 'Historic Saint Paul neighborhood along Grand Avenue. Afghan, Middle Eastern, and American restaurants offer diverse vegan-friendly menus in a tree-lined, walkable setting.' },
+  { name: 'Como', slug: 'como', city: 'Saint Paul', description: 'Quiet Saint Paul neighborhood near Como Park and Zoo. Ethiopian restaurants serve exceptional vegan sampler platters with house-made injera in a family-friendly setting.' },
+  { name: 'St. Anthony Park', slug: 'st-anthony-park', city: 'Saint Paul', description: 'Charming village-like neighborhood near the University of Minnesota St. Paul campus. Local bakeries, co-ops, and globally-inspired restaurants serve a strong veggie-forward community.' },
+  { name: 'Payne-Phalen', slug: 'payne-phalen', city: 'Saint Paul', description: 'East side Saint Paul neighborhood with an emerging food scene. Home to Tongue in Cheek, one of the Twin Cities\' finest vegetarian dining experiences with a six-course tasting menu.' },
+  { name: 'Hamline-Midway', slug: 'hamline-midway', city: 'Saint Paul', description: 'University-adjacent neighborhood on Saint Paul\'s bustling University Avenue. Vietnamese, Indian, and global street food restaurants serve generous, affordable vegan options.' },
+  { name: 'Frogtown', slug: 'frogtown', city: 'Saint Paul', description: 'One of Saint Paul\'s most diverse neighborhoods with incredible Vietnamese and Southeast Asian food. Pho shops, banh mi stands, and noodle houses offer naturally vegan-friendly meals.' },
+  { name: 'Saint Louis Park', slug: 'slp', city: 'Saint Louis Park', description: 'First-ring suburb just west of Minneapolis with a growing restaurant scene. Chain and independent restaurants increasingly cater to plant-based diners with dedicated vegan menus.' },
 ];
 
 export function getNeighborhoodBySlug(slug: string) {

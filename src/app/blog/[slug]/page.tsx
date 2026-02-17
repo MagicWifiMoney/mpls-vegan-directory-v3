@@ -51,7 +51,6 @@ function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post) return null;
 
   return {
-    '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: post.title,
     description: post.description,
@@ -96,7 +95,6 @@ function generateFAQSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post || !post.faqs || post.faqs.length === 0) return null;
 
   return {
-    '@context': 'https://schema.org',
     '@type': 'FAQPage',
     mainEntity: post.faqs.map(faq => ({
       '@type': 'Question',
@@ -113,7 +111,6 @@ function generateBreadcrumbSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post) return null;
 
   return {
-    '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       {
@@ -153,27 +150,19 @@ export default async function BlogPostPage({ params }: Props) {
   // Get related posts using the new relatedPosts field
   const relatedPosts = getRelatedPosts(post.slug);
 
+  const graphItems = [blogPostingSchema, faqSchema, breadcrumbSchema].filter(Boolean);
+  const graphSchema = {
+    '@context': 'https://schema.org',
+    '@graph': graphItems,
+  };
+
   return (
     <>
       {/* Schema.org JSON-LD */}
-      {blogPostingSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
-        />
-      )}
-      {faqSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-        />
-      )}
-      {breadcrumbSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-        />
-      )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graphSchema) }}
+      />
 
       {/* Hero Section */}
       <div className="relative min-h-[50vh] flex items-end overflow-hidden">

@@ -26,7 +26,6 @@ function groupByStatus(items: typeof restaurants) {
 
 function generateItemListSchema() {
     return {
-        '@context': 'https://schema.org',
         '@type': 'ItemList',
         name: 'Vegan Restaurants in Minneapolis & St. Paul 2026',
         description: 'Complete directory of vegan and plant-based restaurants in the Twin Cities',
@@ -53,7 +52,6 @@ function generateItemListSchema() {
 
 function generateBreadcrumbSchema() {
     return {
-        '@context': 'https://schema.org',
         '@type': 'BreadcrumbList',
         itemListElement: [
             {
@@ -89,16 +87,17 @@ export default function RestaurantsPage() {
         .map(([slug, name]) => ({ slug, name }))
         .sort((a, b) => a.name.localeCompare(b.name));
 
+    const graphSchema = {
+        '@context': 'https://schema.org',
+        '@graph': [itemListSchema, breadcrumbSchema],
+    };
+
     return (
         <>
             {/* Schema.org JSON-LD */}
             <script
                 type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
-            />
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(graphSchema) }}
             />
 
             {/* Hero Section */}

@@ -35,7 +35,6 @@ const teamMembers = [
 export default function AboutPage() {
   // Person schema for E-E-A-T
   const personSchemas = teamMembers.map((member) => ({
-    '@context': 'https://schema.org',
     '@type': 'Person',
     name: member.name,
     jobTitle: member.role,
@@ -49,7 +48,6 @@ export default function AboutPage() {
   }));
 
   const aboutPageSchema = {
-    '@context': 'https://schema.org',
     '@type': 'AboutPage',
     name: 'About Minneapolis Vegan Directory',
     description: 'Meet Mia and Jay, the husband-and-wife team behind the definitive guide to vegan dining in Minneapolis & Saint Paul.',
@@ -66,18 +64,16 @@ export default function AboutPage() {
     },
   };
 
+  const graphSchema = {
+    '@context': 'https://schema.org',
+    '@graph': [...personSchemas, aboutPageSchema],
+  };
+
   return (
     <>
-      {personSchemas.map((schema, i) => (
-        <script
-          key={i}
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-        />
-      ))}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutPageSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graphSchema) }}
       />
 
       <div className="relative min-h-screen">
