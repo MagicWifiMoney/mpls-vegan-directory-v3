@@ -79,6 +79,8 @@ function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
       '@type': 'WebPage',
       '@id': `https://mplsvegan.com/blog/${post.slug}`,
     },
+    wordCount: post.content.split(/\s+/).length,
+    articleSection: post.category,
   };
 }
 
