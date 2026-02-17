@@ -23,9 +23,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   const restaurantCount = getRestaurantsByNeighborhood(neighborhood.slug).length;
+  const desc = 'description' in neighborhood ? (neighborhood as typeof neighborhood & { description: string }).description : '';
   return {
     title: `Vegan Restaurants in ${neighborhood.name}, ${neighborhood.city} 2026 | MPLS Vegan`,
-    description: `Find ${restaurantCount} vegan and plant-based restaurants in ${neighborhood.name}, ${neighborhood.city}. Browse menus, ratings, and reviews for the best vegan dining options.`,
+    description: desc ? `${desc} Find ${restaurantCount} vegan and plant-based restaurants in ${neighborhood.name}.` : `Find ${restaurantCount} vegan and plant-based restaurants in ${neighborhood.name}, ${neighborhood.city}. Browse menus, ratings, and reviews for the best vegan dining options.`,
     alternates: {
       canonical: `https://mplsvegan.com/neighborhoods/${neighborhood.slug}`,
     },
@@ -50,7 +51,6 @@ export default async function NeighborhoodPage({ params }: Props) {
   const veganOnly = restaurantsInNeighborhood.filter(r => r.veganStatus === '100% Vegan');
 
   const breadcrumbSchema = {
-    '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://mplsvegan.com' },
@@ -61,7 +61,6 @@ export default async function NeighborhoodPage({ params }: Props) {
 
   // ItemList schema for restaurants in this neighborhood
   const itemListSchema = restaurantsInNeighborhood.length > 0 ? {
-    '@context': 'https://schema.org',
     '@type': 'ItemList',
     name: `Vegan Restaurants in ${neighborhood.name}, ${neighborhood.city}`,
     description: `${restaurantsInNeighborhood.length} vegan and plant-based restaurants in ${neighborhood.name}`,
@@ -79,18 +78,17 @@ export default async function NeighborhoodPage({ params }: Props) {
     })),
   } : null;
 
+  const graphSchema = {
+    '@context': 'https://schema.org',
+    '@graph': [breadcrumbSchema, ...(itemListSchema ? [itemListSchema] : [])],
+  };
+
   return (
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graphSchema) }}
       />
-      {itemListSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
-        />
-      )}
       <div className="relative min-h-screen">
         {/* Background elements */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -118,6 +116,11 @@ export default async function NeighborhoodPage({ params }: Props) {
               <span className="w-12 h-px bg-gradient-to-r from-[#d4a574] to-transparent" />
               <span className="text-xs uppercase tracking-[0.25em] text-[#d4a574]">{neighborhood.city}</span>
             </div>
+            {'description' in neighborhood && (
+              <p className="text-[#f5f0e8]/50 text-lg max-w-2xl">
+                {(neighborhood as typeof neighborhood & { description: string }).description}
+              </p>
+            )}
             <h1 className="font-display text-5xl lg:text-6xl text-[#f5f0e8] tracking-tight mb-6">
               {neighborhood.name}
             </h1>

@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     "Ethiopian vegan Minneapolis",
     "best vegan food Minneapolis 2026"
   ],
-  authors: [{ name: "MPLS Vegan Team" }],
+  authors: [{ name: "Mia" }, { name: "Jay" }],
   creator: "Minneapolis Vegan Directory",
   publisher: "Minneapolis Vegan Directory",
   formatDetection: {
@@ -83,54 +83,63 @@ export const metadata: Metadata = {
   },
 };
 
-// JSON-LD structured data for the website
-const websiteSchema = {
+// JSON-LD structured data — single @graph block
+const siteGraph = {
   '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: 'Minneapolis Vegan Directory',
-  alternateName: 'MPLS Vegan',
-  url: 'https://mplsvegan.com',
-  description: 'The ultimate guide to vegan and plant-based restaurants in Minneapolis, Minnesota',
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: {
-      '@type': 'EntryPoint',
-      urlTemplate: 'https://mplsvegan.com/?search={search_term_string}'
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': 'https://mplsvegan.com/#website',
+      name: 'Minneapolis Vegan Directory',
+      alternateName: 'MPLS Vegan',
+      url: 'https://mplsvegan.com',
+      description: 'The ultimate guide to vegan and plant-based restaurants in Minneapolis, Minnesota',
+      publisher: { '@id': 'https://mplsvegan.com/#organization' },
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: {
+          '@type': 'EntryPoint',
+          urlTemplate: 'https://mplsvegan.com/?search={search_term_string}'
+        },
+        'query-input': 'required name=search_term_string'
+      }
     },
-    'query-input': 'required name=search_term_string'
-  }
-};
-
-const organizationSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'Organization',
-  name: 'Minneapolis Vegan Directory',
-  alternateName: 'MPLS Vegan',
-  url: 'https://mplsvegan.com',
-  logo: {
-    '@type': 'ImageObject',
-    url: 'https://mplsvegan.com/opengraph-image',
-    width: 1200,
-    height: 630,
-  },
-  description: 'Comprehensive guide to vegan and plant-based restaurants in the Twin Cities',
-  areaServed: {
-    '@type': 'City',
-    name: 'Minneapolis',
-    containedInPlace: {
-      '@type': 'State',
-      name: 'Minnesota'
+    {
+      '@type': 'Organization',
+      '@id': 'https://mplsvegan.com/#organization',
+      name: 'Minneapolis Vegan Directory',
+      alternateName: 'MPLS Vegan',
+      url: 'https://mplsvegan.com',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://mplsvegan.com/opengraph-image',
+        width: 1200,
+        height: 630,
+      },
+      description: 'Comprehensive guide to vegan and plant-based restaurants in the Twin Cities',
+      founder: [
+        { '@type': 'Person', name: 'Mia', url: 'https://mplsvegan.com/about' },
+        { '@type': 'Person', name: 'Jay', url: 'https://mplsvegan.com/about' },
+      ],
+      areaServed: {
+        '@type': 'City',
+        name: 'Minneapolis',
+        containedInPlace: {
+          '@type': 'State',
+          name: 'Minnesota'
+        }
+      },
+      knowsAbout: [
+        'Vegan Restaurants',
+        'Plant-Based Dining',
+        'Vegetarian Food',
+        'Minneapolis Restaurants',
+        'Twin Cities Dining'
+      ],
+      sameAs: [
+        'https://instagram.com/mpls_vegan',
+      ]
     }
-  },
-  knowsAbout: [
-    'Vegan Restaurants',
-    'Plant-Based Dining',
-    'Vegetarian Food',
-    'Minneapolis Restaurants',
-    'Twin Cities Dining'
-  ],
-  sameAs: [
-    'https://instagram.com/mpls_vegan',
   ]
 };
 
@@ -145,11 +154,7 @@ export default function RootLayout({
       <head>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(siteGraph) }}
         />
       </head>
       <body className="font-body bg-[#1a1a1a] text-[#f5f0e8] antialiased">

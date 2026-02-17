@@ -45,7 +45,6 @@ function generateRestaurantSchema(restaurant: ReturnType<typeof getRestaurantByS
   if (!restaurant) return null;
 
   return {
-    '@context': 'https://schema.org',
     '@type': 'Restaurant',
     name: restaurant.name,
     description: restaurant.description,
@@ -85,7 +84,6 @@ function generateBreadcrumbSchema(restaurant: ReturnType<typeof getRestaurantByS
   if (!restaurant) return null;
 
   return {
-    '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       {
@@ -157,7 +155,6 @@ function generateFAQSchema(restaurant: ReturnType<typeof getRestaurantBySlug>) {
   });
 
   return {
-    '@context': 'https://schema.org',
     '@type': 'FAQPage',
     mainEntity: faqs,
   };
@@ -190,26 +187,18 @@ export default async function RestaurantPage({ params }: Props) {
 
   const status = statusConfig[restaurant.veganStatus];
 
+  const graphItems = [restaurantSchema, breadcrumbSchema, faqSchema].filter(Boolean);
+  const graphSchema = {
+    '@context': 'https://schema.org',
+    '@graph': graphItems,
+  };
+
   return (
     <>
-      {restaurantSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(restaurantSchema) }}
-        />
-      )}
-      {breadcrumbSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-        />
-      )}
-      {faqSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-        />
-      )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graphSchema) }}
+      />
 
       {/* Hero Section */}
       <div className="relative min-h-[50vh] flex items-end overflow-hidden">

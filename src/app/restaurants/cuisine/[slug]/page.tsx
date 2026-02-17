@@ -92,7 +92,6 @@ export default async function CuisinePage({ params }: Props) {
     });
 
     const breadcrumbSchema = {
-        '@context': 'https://schema.org',
         '@type': 'BreadcrumbList',
         itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://mplsvegan.com' },
@@ -102,7 +101,6 @@ export default async function CuisinePage({ params }: Props) {
     };
 
     const itemListSchema = {
-        '@context': 'https://schema.org',
         '@type': 'ItemList',
         name: `Vegan ${name} Restaurants in Minneapolis & St. Paul`,
         description: `${data.restaurants.length} vegan and plant-based ${name.toLowerCase()} restaurants in the Twin Cities`,
@@ -126,15 +124,16 @@ export default async function CuisinePage({ params }: Props) {
         })),
     };
 
+    const graphSchema = {
+        '@context': 'https://schema.org',
+        '@graph': [breadcrumbSchema, itemListSchema],
+    };
+
     return (
         <>
             <script
                 type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-            />
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(graphSchema) }}
             />
 
             <div className="relative min-h-screen">
