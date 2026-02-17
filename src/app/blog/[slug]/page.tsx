@@ -58,10 +58,18 @@ function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
     image: post.featuredImage
       ? `https://mplsvegan.com${post.featuredImage}`
       : 'https://mplsvegan.com/og-image.png',
-    author: {
-      '@type': 'Organization',
-      name: post.author,
-    },
+    author: [
+      {
+        '@type': 'Person',
+        name: 'Mia',
+        url: 'https://mplsvegan.com/about',
+      },
+      {
+        '@type': 'Person',
+        name: 'Jay',
+        url: 'https://mplsvegan.com/about',
+      },
+    ],
     datePublished: post.publishedAt,
     dateModified: post.updatedAt,
     publisher: {
