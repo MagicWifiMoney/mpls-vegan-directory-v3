@@ -2951,6 +2951,341 @@ Now stop reading and go make some mac and cheese. 🧀🌱
 
 For more Minneapolis vegan dining, check our [comfort food guide](/blog/vegan-comfort-food-minneapolis), [restaurant directory](/blog/best-vegan-restaurants-minneapolis-2026), or [ice cream rankings](/blog/best-vegan-ice-cream-twin-cities).
     `
+  },
+  {
+    slug: "vegan-pizza-minneapolis",
+    title: "Best Vegan Pizza in Minneapolis: The Ultimate 2026 Guide",
+    description: "The definitive guide to vegan pizza in Minneapolis. Pizza Lucé, Parkway Pizza, Black Sheep, Red Rabbit, Wrecktangle — reviewed and ranked so you can order with confidence.",
+    publishedAt: "2026-02-19",
+    updatedAt: "2026-02-19",
+    author: "MPLS Vegan Team",
+    category: "Restaurant Guides",
+    tags: ["vegan pizza", "pizza", "minneapolis", "restaurant guide", "2026"],
+    readingTime: "9 min read",
+    tldr: "Top 5 vegan pizza spots in Minneapolis: Pizza Lucé (multiple locations, housemade rinotta cheese — best overall), Parkway Pizza (full dedicated vegan menu with Herbivorous Butcher meats), Black Sheep Coal Fired Pizza (North Loop, coal-fired crust), Red Rabbit (North Loop + St. Paul, upscale), and Wrecktangle Pizza (Malcolm Yards, Detroit-style). Violife and Follow Your Heart are the most common vegan cheese brands. Nearly every spot now has a dedicated vegan option beyond just veggie toppings.",
+    faqs: [
+      {
+        question: "Which Minneapolis pizza places have the best vegan options?",
+        answer: "Pizza Lucé is the gold standard — multiple locations, housemade rinotta cheese, and almost any pizza can be made vegan. Parkway Pizza has a fully dedicated vegan menu with Herbivorous Butcher meats. Black Sheep Coal Fired Pizza is excellent for coal-fired crust lovers. For Detroit-style, Wrecktangle at Malcolm Yards is the top pick."
+      },
+      {
+        question: "What vegan cheese do Minneapolis pizza places use?",
+        answer: "The most common brands are Violife (used at Pizza Lucé), Follow Your Heart (used at Parkway Pizza), and Daiya. Some spots like Pizza Lucé also make their own housemade nut-based cheese (rinotta) which is unique to them. Always ask which brand they use if you have a preference."
+      },
+      {
+        question: "Is Pizza Lucé good for vegans?",
+        answer: "Yes — Pizza Lucé is considered the best vegan pizza in Minneapolis by most locals. They have housemade rinotta cheese (a nut-based ricotta alternative that's uniquely theirs), Violife vegan mozzarella, and almost any vegetarian pizza can be made vegan. Plus late-night delivery until 2:30am on weekends."
+      },
+      {
+        question: "Does Parkway Pizza have vegan options?",
+        answer: "Parkway Pizza has one of the best dedicated vegan menus in Minneapolis. They partnered with The Herbivorous Butcher to offer vegan chicken, vegan capicola, and vegan pepperoni as toppings. They use Follow Your Heart cheese and have vegan options beyond pizza including cheese toast and artichoke dip."
+      },
+      {
+        question: "Where can I get Detroit-style vegan pizza in Minneapolis?",
+        answer: "Wrecktangle Pizza at Malcolm Yards Market is your best bet for Detroit-style vegan pizza in Minneapolis. They have dedicated vegan cheese options and the thick, crispy-edged rectangular slices that define Detroit-style."
+      }
+    ],
+    relatedRestaurants: ["pizza-luce", "parkway-pizza", "black-sheep-coal-fired-pizza"],
+    relatedPosts: ["vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026"],
+    content: `
+# Best Vegan Pizza in Minneapolis: The Ultimate 2026 Guide
+
+**Looking for the best vegan pizza in Minneapolis?** Whether you're a lifelong vegan, dairy-free by necessity, or just trying to eat more plant-based, Minneapolis has you covered. From Detroit-style squares to coal-fired Neapolitan pies, the Twin Cities vegan pizza scene is *thriving* — and honestly, some of these spots make pizza so good that your non-vegan friends won't even notice the difference.
+
+We've eaten our way across every neighborhood to bring you the definitive guide to vegan pizza in Minneapolis. Here's everything you need to know.
+
+---
+
+## 🏆 Quick Top 5: Best Vegan Pizza in Minneapolis
+
+In a rush? Here are our top picks at a glance:
+
+1. **Pizza Lucé** — Multiple Locations (Best overall vegan pizza selection)
+2. **Parkway Pizza** — Multiple Locations (Best vegan meat toppings, featuring The Herbivorous Butcher)
+3. **Black Sheep Coal Fired Pizza** — North Loop (Best coal-fired vegan pizza)
+4. **Red Rabbit** — North Loop & St. Paul (Best upscale vegan pizza)
+5. **Wrecktangle Pizza** — Malcolm Yards (Best Detroit-style vegan pizza)
+
+Now let's dig into the details.
+
+---
+
+## Full Restaurant Reviews
+
+### 1. Pizza Lucé ⭐ Editor's Pick
+
+**Locations:** Downtown Minneapolis, Uptown, Northeast, St. Paul, Hopkins, Duluth
+**Neighborhood:** Multiple across the Twin Cities
+**Price Range:** $
+**Website:** [pizzaluce.com](https://pizzaluce.com)
+
+Pizza Lucé isn't just a Minneapolis institution — it's the gold standard for vegan pizza in the Twin Cities, and it has been for years. What sets them apart is their **housemade rinotta cheese**, a nut-based ricotta alternative with a spicy kick that you genuinely can't find anywhere else. They also use **Violife vegan mozzarella** as their standard vegan cheese option.
+
+**What makes it special:**
+- Housemade rinotta (nut-based) cheese — uniquely theirs and absolutely addictive
+- Violife vegan mozzarella available on any pizza
+- Nearly any vegetarian pizza on the menu can be made vegan (except the Garlic Mashed Potato Pizza)
+- Seasonal specials always include vegan or vegan-upon-request options
+- Late-night delivery until 2:30 AM on weekends (yes, really)
+
+**Signature Vegan Pizzas:**
+- **Fire Breathing Dragon** — A fan favorite with serious heat, made vegan with rinotta
+- **Veggie Pizza with Asparagus** — Simple but perfect; if you haven't tried asparagus on pizza, start here
+- **Vegan Garlic Cheese Bread** — Not technically a pizza, but you'd be foolish not to order it
+
+**Ordering Tips:**
+- Available on DoorDash, Uber Eats, and their own delivery service (free delivery!)
+- Late-night delivery is a game-changer — they're open until 2:30 AM Fri/Sat at most locations
+- The Downtown location tends to be busiest; Uptown and NE are slightly more relaxed
+- Ask about seasonal specials — the Butternut Squash Pizza in fall is legendary
+
+**Pro tip:** Tell your server you want the rinotta cheese. It's the move.
+
+---
+
+### 2. Parkway Pizza 🌱 Best Vegan Menu
+
+**Locations:** Longfellow, Northeast, Columbia Heights, Bloomington (4 locations)
+**Neighborhood:** Multiple across Minneapolis
+**Price Range:** $
+**Website:** [parkwaypizzamn.com](http://www.parkwaypizzamn.com)
+
+If you want a pizza place that *truly* gets vegans, Parkway Pizza is it. They partnered with Minneapolis's own **The Herbivorous Butcher** to create a dedicated vegan menu that goes way beyond just swapping cheese. We're talking vegan chicken, vegan capicola ham, vegan pepperoni — the works. They use **Follow Your Heart cheese** across all locations.
+
+**What makes it special:**
+- Full dedicated vegan menu (not just modifications)
+- Partnership with The Herbivorous Butcher for vegan meats
+- Follow Your Heart vegan cheese
+- Vegan options beyond pizza: cheese toast, artichoke dip, hoagies, and pasta
+
+**Signature Vegan Pizzas:**
+- **The Vegavore** — The crowd favorite, loaded with veggies and vegan cheese
+- **The Artichicken** — Oil & garlic sauce, vegan chicken, tomato, artichokes, spinach, and vegan cheese
+- **Vegan Artichoke Dip Pizza** — Trust us on this one
+
+**Ordering Tips:**
+- All 4 locations have the full vegan menu
+- Great for families — the vegan and non-vegan menus are equally robust
+- Delivery available through their website and third-party apps
+- The vegan cheese toast appetizer is a must-order
+
+**Sizes & Pricing:**
+- 10" (feeds 1) starting around $17
+- 12" (feeds 2) starting around $21
+- 14" (feeds 3) starting around $26
+- 16" (feeds 4) starting around $29
+
+**Note:** Herbivorous Butcher meats contain gluten, so if you're gluten-free AND vegan, stick with veggie toppings.
+
+---
+
+### 3. Black Sheep Coal Fired Pizza 🔥
+
+**Location:** 600 Washington Ave N, Minneapolis
+**Neighborhood:** North Loop / Warehouse District
+**Price Range:** $–$$
+**Website:** [blacksheeppizza.com](https://www.blacksheeppizza.com)
+
+Black Sheep brings something different to the Minneapolis vegan pizza game: **coal-fired ovens**. The intense, even heat creates a crust with a perfect char and crisp that wood-fired ovens can't quite replicate. They offer **vegan mozzarella** as a topping option (add $3-4.75 depending on size) on their build-your-own pizzas.
+
+**What makes it special:**
+- Coal-fired oven produces exceptional crust with beautiful leopard-spotting
+- Build-your-own format means total customization
+- Upscale casual atmosphere in the trendy North Loop
+- Great beer and cocktail list
+
+**How to Order Vegan:**
+- Start with any base pizza and sub vegan mozzarella
+- Load up on their premium veggie toppings: oyster mushrooms, artichokes, roasted red peppers, arugula, Kalamata olives
+- The marinara base with veggies (no cheese) is also excellent
+
+**Ordering Tips:**
+- Walk-ins welcome but it gets busy on weekends — expect a wait Friday/Saturday after 6 PM
+- Outdoor patio seating available in warmer months
+- Located right near Target Field — great pre/post-game spot
+- Delivery available through third-party apps
+
+---
+
+### 4. Red Rabbit 🐇
+
+**Locations:** 201 N Washington Ave, Minneapolis (North Loop) & St. Paul
+**Neighborhood:** North Loop / Warehouse District
+**Price Range:** $–$$
+**Website:** [redrabbitmn.com](https://redrabbitmn.com)
+
+Red Rabbit brings an upscale Italian twist to vegan pizza. This isn't your late-night delivery spot — it's where you go when you want a proper sit-down dinner with a killer vegan pizza and a well-crafted mocktail. The wood-fired pizzas here have a refined, artisan quality.
+
+**What makes it special:**
+- Upscale Italian atmosphere — great for date night
+- Dedicated vegan pizza option on the menu
+- Wood-fired oven produces excellent crust
+- Strong cocktail and mocktail program
+
+**Ordering Tips:**
+- Reservations recommended, especially Friday/Saturday
+- The St. Paul location is equally great and often less crowded
+- Perfect for mixed groups (vegans and non-vegans alike)
+- Available on delivery apps
+
+---
+
+### 5. Wrecktangle Pizza 🟥 Best Detroit-Style
+
+**Location:** Malcolm Yards Market, 501 30th Ave SE, Minneapolis
+**Neighborhood:** Prospect Park / Southeast Minneapolis
+**Price Range:** $–$$
+**Website:** [wrecktanglepizza.com](https://wrecktanglepizza.com)
+
+If you've never had Detroit-style pizza, imagine a thick, rectangular pizza baked in a steel pan with crispy, caramelized cheese edges (called "frico") and sauce ladled on top in racing stripes. Now imagine it vegan. Wrecktangle is the only spot in Minneapolis doing Detroit-style vegan pizza, and they do it *really* well.
+
+**What makes it special:**
+- Only Detroit-style vegan pizza in Minneapolis
+- Thick, pillowy crust with crispy edges
+- Located in Malcolm Yards food hall — great for groups with varied tastes
+
+**Signature Vegan Pizzas:**
+- **Phony 'Roni** — Vegan pepperoni with pickled jalapeños, whipped Cry Baby Craig's honey, and red sauce. The name alone is worth ordering it.
+
+**Ordering Tips:**
+- The North Loop location is permanently closed — Malcolm Yards is the current spot
+- Malcolm Yards is a food hall, so no reservations needed
+- Great option for groups since everyone can order from different vendors
+
+---
+
+### 6. Pizzeria Lola 🍕
+
+**Location:** 5557 Xerxes Ave S, Minneapolis
+**Neighborhood:** Southwest Minneapolis (Linden Hills area)
+**Price Range:** $$
+**Website:** [pizzerialola.com](https://www.pizzerialola.com)
+
+From James Beard Award-winning chef Ann Kim (also behind Young Joni), Pizzeria Lola is one of the most acclaimed pizzerias in the entire Midwest. Featured on Netflix's *Chef's Table: Pizza* and Food Network's *Diners, Drive-Ins and Dives*, this is destination-worthy pizza. They offer vegan-friendly options and are happy to accommodate plant-based diets.
+
+**What makes it special:**
+- James Beard Award-winning pedigree
+- Wood-fired oven produces stunning, blistered crusts
+- Creative, globally-inspired flavor combinations
+
+**How to Order Vegan:**
+- Ask for modifications to veggie pizzas — they're accommodating
+- Build your own with their one-topping pizza base
+- Focus on the vegetable-forward options
+
+---
+
+### 7. Element Wood Fire Pizza 🪵
+
+**Location:** 96 Broadway St NE, Minneapolis
+**Neighborhood:** Northeast Minneapolis (Arts District)
+**Price Range:** $
+**Website:** [elementpizza.com](https://www.elementpizza.com)
+
+Tucked in the heart of NE Minneapolis's Arts District, Element brings Neapolitan-style wood-fired pizza to the neighborhood. The wood-fired oven hits 800+ degrees, producing those beautifully blistered, slightly charred crusts that Neapolitan pizza is known for.
+
+**How to Order Vegan:**
+- Request no cheese or ask about vegan cheese availability
+- Load up on their fresh vegetable toppings
+- The dough itself is vegan (just flour, water, salt, yeast)
+
+---
+
+### 8. Broadway Pizza 🎭
+
+**Locations:** Multiple across the Twin Cities and suburbs
+**Neighborhood:** Various
+**Price Range:** $–$
+**Website:** [broadwaypizza.com](https://www.broadwaypizza.com)
+
+Broadway Pizza is the affordable, no-frills option on this list. They offer **plant-based cheese and sausage** options across their locations, making it an accessible choice for a casual vegan pizza night without breaking the bank.
+
+**What makes it special:**
+- Most affordable vegan pizza option in the Twin Cities
+- Multiple locations for convenience
+- Plant-based cheese and Beyond Sausage available
+
+---
+
+## 🗺️ Vegan Pizza by Neighborhood
+
+### Uptown / South Minneapolis
+- **Pizza Lucé Uptown** — 3200 Lyndale Ave S
+- **Parkway Pizza Longfellow** — 4527 E Lake St
+- **Pizzeria Lola** — 5557 Xerxes Ave S (Linden Hills)
+
+### Northeast Minneapolis
+- **Pizza Lucé NE** — 210 E Hennepin Ave
+- **Element Wood Fire Pizza** — 96 Broadway St NE
+- **Parkway Pizza NE** — 1909 Central Ave NE
+
+### Downtown / North Loop / Warehouse District
+- **Black Sheep Coal Fired Pizza** — 600 Washington Ave N
+- **Red Rabbit** — 201 N Washington Ave
+- **Pizza Lucé Downtown** — 119 N 4th St
+
+### Southeast / Prospect Park
+- **Wrecktangle Pizza** — Malcolm Yards Market, 501 30th Ave SE
+
+### St. Paul
+- **Pizza Lucé St. Paul** — 1183 Selby Ave
+- **Red Rabbit St. Paul** — Grand Ave location
+
+---
+
+## 🧀 Vegan Cheese & Toppings Guide
+
+### What Vegan Cheese Do Minneapolis Restaurants Use?
+
+| Restaurant | Vegan Cheese Brand | Notes |
+|---|---|---|
+| Pizza Lucé | Violife + housemade rinotta | Rinotta is nut-based with a spicy kick |
+| Parkway Pizza | Follow Your Heart | Reliable melt, mild flavor |
+| Black Sheep | Vegan mozzarella (brand varies) | Available as add-on topping |
+| Broadway Pizza | Plant-based (brand varies) | Budget option |
+
+### Best Vegan Meat Toppings in Minneapolis
+
+Thanks to **The Herbivorous Butcher** — a nationally famous vegan butcher shop based right here in NE Minneapolis — the vegan meat topping game in this city is unmatched:
+
+- **Parkway Pizza** — The Herbivorous Butcher's vegan chicken, capicola ham, Italian sausage, and pepperoni
+- **Wrecktangle Pizza** — Vegan pepperoni (the "Phony 'Roni")
+- **Pizza Lucé** — Vegan mock chicken (Buffalo-style)
+- **Broadway Pizza** — Beyond Sausage
+
+---
+
+## 📋 Practical Info: Delivery & Late Night
+
+| Restaurant | Own Delivery | DoorDash | Uber Eats | Late Night |
+|---|---|---|---|---|
+| Pizza Lucé | ✅ Free delivery | ✅ | ✅ | Until 2:30 AM Fri/Sat |
+| Parkway Pizza | ✅ | ✅ | ✅ | Standard hours |
+| Black Sheep | ❌ | ✅ | ✅ | Standard hours |
+| Red Rabbit | ❌ | ✅ | ✅ | Standard hours |
+| Wrecktangle | ❌ | Varies | Varies | Standard hours |
+| Broadway Pizza | ✅ | ✅ | ✅ | Standard hours |
+
+---
+
+## 🎯 Our Final Verdict
+
+Minneapolis is one of the best cities in the Midwest for vegan pizza, full stop. The combination of Pizza Lucé's legendary late-night delivery, Parkway Pizza's Herbivorous Butcher partnership, and the variety of styles from coal-fired to Detroit-style means you'll never run out of delicious options.
+
+**If we had to pick just one:** Pizza Lucé for its unbeatable combination of quality, variety, accessibility, and late-night hours. That housemade rinotta cheese alone is worth the trip.
+
+**For adventurous eaters:** Wrecktangle's Phony 'Roni at Malcolm Yards is a must-try.
+
+**For the best vegan meat toppings:** Parkway Pizza with Herbivorous Butcher toppings is unmatched.
+
+Happy eating, Minneapolis! 🍕🌱
+
+---
+
+*Last updated: February 2026.*
+
+*Looking for more vegan dining in Minneapolis? Check out our guides to [vegan brunch](/blog/vegan-brunch-minneapolis), [vegan date night](/blog/vegan-date-night-minneapolis), and the [full MPLS Vegan restaurant directory](/).*
+`
   }
 ];
 
