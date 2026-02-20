@@ -5,13 +5,9 @@ import { restaurants } from '@/data/restaurants';
 export const metadata: Metadata = {
   title: 'FAQ | Minneapolis Vegan Restaurant Guide',
   description: 'Frequently asked questions about vegan dining in Minneapolis and Saint Paul. Find answers about the best vegan restaurants, neighborhoods, and plant-based options in the Twin Cities.',
-  alternates: {
-    canonical: '/faq',
-  },
   openGraph: {
     title: 'Vegan Dining FAQ - Minneapolis & Saint Paul',
     description: 'Everything you need to know about eating vegan in the Twin Cities',
-    url: 'https://mplsvegan.com/faq',
   },
 };
 
@@ -80,7 +76,7 @@ export default function FAQPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
-
+      
       <div className="relative min-h-screen">
         {/* Background */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -90,8 +86,8 @@ export default function FAQPage() {
 
         <div className="relative max-w-4xl mx-auto px-6 lg:px-8 py-24 pt-32">
           {/* Back link */}
-          <Link
-            href="/"
+          <Link 
+            href="/" 
             className="inline-flex items-center gap-2 text-sm text-[#f5f0e8]/50 hover:text-[#d4a574] transition-colors mb-12 group"
           >
             <svg className="w-4 h-4 group-hover:-translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
@@ -106,8 +102,8 @@ export default function FAQPage() {
               <span className="w-12 h-px bg-gradient-to-r from-[#d4a574] to-transparent" />
               <span className="text-xs uppercase tracking-[0.25em] text-[#d4a574]">FAQ</span>
             </div>
-            <h1 className="font-display text-5xl lg:text-6xl text-[#f5f0e8] tracking-tight mb-4">
-              Vegan Dining FAQ — Minneapolis & Saint Paul
+            <h1 className="font-display text-4xl lg:text-5xl text-[#f5f0e8] tracking-tight mb-4">
+              Frequently Asked Questions
             </h1>
             <p className="text-[#f5f0e8]/50 text-lg max-w-2xl">
               Everything you need to know about vegan dining in Minneapolis and Saint Paul.
@@ -117,7 +113,7 @@ export default function FAQPage() {
           {/* FAQ Accordion */}
           <div className="space-y-4">
             {faqs.map((faq, index) => (
-              <details
+              <details 
                 key={index}
                 className="group card-elevated rounded-2xl overflow-hidden"
               >
@@ -125,11 +121,11 @@ export default function FAQPage() {
                   <h2 className="font-display text-lg text-[#f5f0e8] pr-8 group-hover:text-[#d4a574] transition-colors">
                     {faq.question}
                   </h2>
-                  <svg
-                    className="w-5 h-5 text-[#d4a574] flex-shrink-0 transition-transform group-open:rotate-180"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
+                  <svg 
+                    className="w-5 h-5 text-[#d4a574] flex-shrink-0 transition-transform group-open:rotate-180" 
+                    viewBox="0 0 24 24" 
+                    fill="none" 
+                    stroke="currentColor" 
                     strokeWidth="2"
                   >
                     <path d="M19 9l-7 7-7-7" />
@@ -165,7 +161,7 @@ export default function FAQPage() {
 
           {/* Last Updated */}
           <p className="mt-12 text-center text-sm text-[#f5f0e8]/30">
-            Last updated: February 17, 2026
+            Last updated: {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
           </p>
         </div>
       </div>

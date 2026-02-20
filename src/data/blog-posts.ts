@@ -3287,6 +3287,76 @@ Happy eating, Minneapolis! 🍕🌱
 *Looking for more vegan dining in Minneapolis? Check out our guides to [vegan brunch](/blog/vegan-brunch-minneapolis), [vegan date night](/blog/vegan-date-night-minneapolis), and the [full MPLS Vegan restaurant directory](/).*
 `
   }
+  ,
+  {
+    slug: "j-selbys-review-saint-paul-vegan",
+    title: "J. Selby's Review: Still the Best Vegan Comfort Food in Saint Paul",
+    description: "A first-person review of J. Selby's in Saint Paul — nachos, crunch wrap supreme, buffalo chicken wrap, Caesar salad, and the legendary cookies and cream shake. 10 out of 10.",
+    publishedAt: "2026-02-20",
+    updatedAt: "2026-02-20",
+    author: "Tia",
+    category: "Restaurant Reviews",
+    tags: ["j selbys", "saint paul", "vegan comfort food", "restaurant review", "vegan shakes", "cathedral hill"],
+    featuredImage: "/images/reviews/j-selbys/shake-sign.jpg",
+    readingTime: "4 min read",
+    tldr: "J. Selby's in Saint Paul is still the vegan comfort food king. The nachos, crunch wrap supreme, buffalo chicken wrap, and Caesar salad were all phenomenal. The cookies and cream shake is a must. Staff is friendly, thoughtful, and great with recommendations. 10/10 — will be back to eat through the rest of the menu.",
+    faqs: [
+      {
+        question: "Is J. Selby's fully vegan?",
+        answer: "Yes! J. Selby's is a 100% plant-based restaurant in Saint Paul's Cathedral Hill neighborhood. Everything on the menu is vegan."
+      },
+      {
+        question: "What should I order at J. Selby's?",
+        answer: "The crunch wrap supreme and buffalo chicken wrap are both incredible. The nachos with pico de gallo are perfect for sharing, and you absolutely need to try one of their shakes — the cookies and cream is legendary."
+      },
+      {
+        question: "Where is J. Selby's located?",
+        answer: "J. Selby's is located at 169 Victoria St N, Saint Paul, MN 55104, in the Cathedral Hill neighborhood."
+      }
+    ],
+    relatedRestaurants: ["j-selbys"],
+    relatedPosts: ["valentines-day-vegan-date-night-minneapolis-2026"],
+    content: `It had been *years* since I last ate at J. Selby's — we moved out of state and life just got in the way. But when my husband and I finally made it back, it was like no time had passed at all. Just as good as the first time.
+
+![Nachos with pico de gallo at J. Selby's](/images/reviews/j-selbys/nachos-pico.jpg)
+
+We went a little overboard with the order (no regrets): nachos with pico de gallo, the crunch wrap supreme, the buffalo chicken wrap, and a Caesar side salad. Every single thing was phenomenal. If you're someone who thinks vegan food can't hit like that, J. Selby's will change your mind real quick.
+
+![Crunch wrap supreme with fries](/images/reviews/j-selbys/crunch-wrap-fries.jpg)
+
+The crunch wrap was crispy, loaded, and honestly better than the fast food version it's inspired by. The buffalo chicken wrap had the perfect amount of heat, and the Caesar salad was fresh with a creamy dressing and big crunchy croutons.
+
+![Caesar salad and buffalo chicken wrap](/images/reviews/j-selbys/salad-buffalo-wrap.jpg)
+
+The staff was friendly, helpful, and genuinely great at giving recommendations — which matters when the menu has this many solid options.
+
+The little moment that stuck with me? We ordered a cookies and cream shake to share, and they asked if we'd like it split into two separate cups. It's a tiny thing, but those small touches go a long way in my book.
+
+![Cookies and cream shake with J. Selby's sign](/images/reviews/j-selbys/shake-sign.jpg)
+
+**10 out of 10 experience.** I loved the food here and I will absolutely be back to work my way through the rest of the menu.
+
+## What We Ordered
+
+| Item | Verdict |
+|------|---------|
+| Nachos with Pico de Gallo | Huge portion, perfect for sharing. Loaded and flavorful. |
+| Crunch Wrap Supreme | Crispy, satisfying, better than the original. |
+| Buffalo Chicken Wrap | Great heat, packed with flavor. |
+| Caesar Side Salad | Fresh greens, creamy dressing, big croutons. Delicious. |
+| Cookies and Cream Shake | Thick, rich, and absolutely worth it. |
+
+## The Details
+
+- **Restaurant:** J. Selby's
+- **Location:** 169 Victoria St N, Saint Paul, MN 55104
+- **Vibe:** Casual, bright, welcoming
+- **Price Range:** $$ (affordable for the quality and portions)
+- **Vegan Status:** 100% plant-based
+- **Our Rating:** 10/10
+
+*Reviewed by Tia — a real visit, real opinions, real photos.*`
+  }
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {

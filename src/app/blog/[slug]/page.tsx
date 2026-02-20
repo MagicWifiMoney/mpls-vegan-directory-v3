@@ -18,17 +18,14 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const post = getBlogPostBySlug(slug);
-
+  
   if (!post) {
     return { title: 'Post Not Found' };
   }
 
   return {
-    title: `${post.title} | MPLS Vegan`,
+    title: `${post.title} | Minneapolis Vegan Directory`,
     description: post.description,
-    alternates: {
-      canonical: `https://mplsvegan.com/blog/${post.slug}`,
-    },
     openGraph: {
       title: post.title,
       description: post.description,
@@ -37,7 +34,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       modifiedTime: post.updatedAt,
       authors: [post.author],
       tags: post.tags,
-      url: `https://mplsvegan.com/blog/${post.slug}`,
     },
     twitter: {
       card: 'summary_large_image',
@@ -49,52 +45,35 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 function generateBlogPostingSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post) return null;
-
+  
   return {
+    '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: post.title,
     description: post.description,
-    image: post.featuredImage
-      ? `https://mplsvegan.com${post.featuredImage}`
-      : 'https://mplsvegan.com/og-image.png',
-    author: [
-      {
-        '@type': 'Person',
-        name: 'Mia',
-        url: 'https://mplsvegan.com/about',
-      },
-      {
-        '@type': 'Person',
-        name: 'Jay',
-        url: 'https://mplsvegan.com/about',
-      },
-    ],
+    author: {
+      '@type': 'Organization',
+      name: post.author,
+    },
     datePublished: post.publishedAt,
     dateModified: post.updatedAt,
     publisher: {
       '@type': 'Organization',
       name: 'Minneapolis Vegan Directory',
       url: 'https://mplsvegan.com',
-      logo: {
-        '@type': 'ImageObject',
-        url: 'https://mplsvegan.com/opengraph-image',
-        width: 1200,
-        height: 630,
-      },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': `https://mplsvegan.com/blog/${post.slug}`,
     },
-    wordCount: post.content.split(/\s+/).length,
-    articleSection: post.category,
   };
 }
 
 function generateFAQSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post || !post.faqs || post.faqs.length === 0) return null;
-
+  
   return {
+    '@context': 'https://schema.org',
     '@type': 'FAQPage',
     mainEntity: post.faqs.map(faq => ({
       '@type': 'Question',
@@ -109,8 +88,9 @@ function generateFAQSchema(post: ReturnType<typeof getBlogPostBySlug>) {
 
 function generateBreadcrumbSchema(post: ReturnType<typeof getBlogPostBySlug>) {
   if (!post) return null;
-
+  
   return {
+    '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       {
@@ -150,26 +130,34 @@ export default async function BlogPostPage({ params }: Props) {
   // Get related posts using the new relatedPosts field
   const relatedPosts = getRelatedPosts(post.slug);
 
-  const graphItems = [blogPostingSchema, faqSchema, breadcrumbSchema].filter(Boolean);
-  const graphSchema = {
-    '@context': 'https://schema.org',
-    '@graph': graphItems,
-  };
-
   return (
     <>
       {/* Schema.org JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(graphSchema) }}
-      />
+      {blogPostingSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
+        />
+      )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+      {breadcrumbSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        />
+      )}
 
       {/* Hero Section */}
       <div className="relative min-h-[50vh] flex items-end overflow-hidden">
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-gradient-to-br from-[#2a2a2a] via-[#3d4a3d] to-[#2a2a2a]" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a] via-transparent to-transparent" />
-          <div
+          <div 
             className="absolute inset-0 opacity-5"
             style={{
               backgroundImage: `radial-gradient(circle at 2px 2px, rgba(245, 240, 232, 0.5) 1px, transparent 0)`,
@@ -220,17 +208,17 @@ export default async function BlogPostPage({ params }: Props) {
               <span>By {post.author}</span>
               <span className="w-1 h-1 rounded-full bg-[#f5f0e8]/30" />
               <span>
-                {new Date(post.publishedAt).toLocaleDateString('en-US', {
-                  month: 'long',
+                {new Date(post.publishedAt).toLocaleDateString('en-US', { 
+                  month: 'long', 
                   day: 'numeric',
-                  year: 'numeric'
+                  year: 'numeric' 
                 })}
               </span>
             </div>
 
             <div className="flex flex-wrap gap-2 pt-2">
               {post.tags.map((tag) => (
-                <span
+                <span 
                   key={tag}
                   className="inline-flex px-3 py-1 rounded-full text-xs bg-[#2a2a2a] text-[#f5f0e8]/60"
                 >
@@ -291,7 +279,7 @@ export default async function BlogPostPage({ params }: Props) {
               </h2>
               <div className="space-y-6">
                 {post.faqs.map((faq, index) => (
-                  <div
+                  <div 
                     key={index}
                     className="card-elevated rounded-xl p-6"
                   >
@@ -318,8 +306,8 @@ export default async function BlogPostPage({ params }: Props) {
             </h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               {relatedPosts.map((relatedPost) => (
-                <Link
-                  key={relatedPost.slug}
+                <Link 
+                  key={relatedPost.slug} 
                   href={`/blog/${relatedPost.slug}`}
                   className="group card-elevated rounded-2xl p-6 hover:ring-2 hover:ring-[#d4a574]/30 transition-all duration-300"
                 >
@@ -350,7 +338,7 @@ export default async function BlogPostPage({ params }: Props) {
               Find all 46 vegan restaurants in our complete Minneapolis directory
             </p>
             <Link
-              href="/restaurants"
+              href="/#restaurants"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#d4a574] text-[#1a1a1a] font-medium hover:bg-[#e5b685] transition-colors"
             >
               Browse All Restaurants
