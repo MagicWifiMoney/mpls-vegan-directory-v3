@@ -4,22 +4,22 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
-const instrumentSerif = Instrument_Serif({
+const instrumentSerif = Instrument_Serif({ 
   weight: "400",
   subsets: ["latin"],
   variable: "--font-display",
   display: "swap",
 });
 
-const dmSans = DM_Sans({
+const dmSans = DM_Sans({ 
   subsets: ["latin"],
   variable: "--font-body",
   display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Best Vegan Restaurants Minneapolis 2026 | Plant-Based Dining Guide",
-  description: "The ultimate guide to vegan restaurants in Minneapolis for 2026. Discover the best plant-based spots including 100% vegan restaurants, vegetarian cafes, and vegan-friendly eateries throughout the Twin Cities. Reviews, ratings, and insider tips.",
+  title: "50+ Best Vegan Restaurants in Minneapolis (2026) | MPLS Vegan",
+  description: "Discover the best vegan restaurants, cafes & food trucks in Minneapolis–Saint Paul. Updated 2026 guide with 50+ spots, reviews, hours & must-try dishes. Minneapolis' #1 vegan dining directory.",
   keywords: [
     "vegan restaurants Minneapolis",
     "plant-based Minneapolis",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     "Ethiopian vegan Minneapolis",
     "best vegan food Minneapolis 2026"
   ],
-  authors: [{ name: "Mia" }, { name: "Jay" }],
+  authors: [{ name: "MPLS Vegan Team" }],
   creator: "Minneapolis Vegan Directory",
   publisher: "Minneapolis Vegan Directory",
   formatDetection: {
@@ -83,66 +83,99 @@ export const metadata: Metadata = {
   },
 };
 
-// JSON-LD structured data — single @graph block
-const siteGraph = {
+// JSON-LD structured data for the website
+const websiteSchema = {
   '@context': 'https://schema.org',
-  '@graph': [
-    {
-      '@type': 'WebSite',
-      '@id': 'https://mplsvegan.com/#website',
-      name: 'Minneapolis Vegan Directory',
-      alternateName: 'MPLS Vegan',
-      url: 'https://mplsvegan.com',
-      description: 'The ultimate guide to vegan and plant-based restaurants in Minneapolis, Minnesota',
-      publisher: { '@id': 'https://mplsvegan.com/#organization' },
-      potentialAction: {
-        '@type': 'SearchAction',
-        target: {
-          '@type': 'EntryPoint',
-          urlTemplate: 'https://mplsvegan.com/?search={search_term_string}'
-        },
-        'query-input': 'required name=search_term_string'
-      }
+  '@type': 'WebSite',
+  name: 'Minneapolis Vegan Directory',
+  alternateName: 'MPLS Vegan',
+  url: 'https://mplsvegan.com',
+  description: 'The ultimate guide to vegan and plant-based restaurants in Minneapolis, Minnesota',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: 'https://mplsvegan.com/?search={search_term_string}'
     },
-    {
-      '@type': 'Organization',
-      '@id': 'https://mplsvegan.com/#organization',
-      name: 'Minneapolis Vegan Directory',
-      alternateName: 'MPLS Vegan',
-      url: 'https://mplsvegan.com',
-      logo: {
-        '@type': 'ImageObject',
-        url: 'https://mplsvegan.com/opengraph-image',
-        width: 1200,
-        height: 630,
-      },
-      description: 'Comprehensive guide to vegan and plant-based restaurants in the Twin Cities',
-      founder: [
-        { '@type': 'Person', name: 'Mia', url: 'https://mplsvegan.com/about' },
-        { '@type': 'Person', name: 'Jay', url: 'https://mplsvegan.com/about' },
-      ],
-      areaServed: {
-        '@type': 'City',
-        name: 'Minneapolis',
-        containedInPlace: {
-          '@type': 'State',
-          name: 'Minnesota'
-        }
-      },
-      knowsAbout: [
-        'Vegan Restaurants',
-        'Plant-Based Dining',
-        'Vegetarian Food',
-        'Minneapolis Restaurants',
-        'Twin Cities Dining'
-      ],
-      sameAs: [
-        'https://instagram.com/mpls_vegan',
-      ]
+    'query-input': 'required name=search_term_string'
+  }
+};
+
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Minneapolis Vegan Directory',
+  url: 'https://mplsvegan.com',
+  logo: 'https://mplsvegan.com/logo.png',
+  description: 'Comprehensive guide to vegan and plant-based restaurants in the Twin Cities',
+  areaServed: {
+    '@type': 'City',
+    name: 'Minneapolis',
+    containedInPlace: {
+      '@type': 'State',
+      name: 'Minnesota'
     }
+  },
+  knowsAbout: [
+    'Vegan Restaurants',
+    'Plant-Based Dining',
+    'Vegetarian Food',
+    'Minneapolis Restaurants',
+    'Twin Cities Dining'
   ]
 };
 
+const localBusinessListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Best Vegan Restaurants in Minneapolis 2026',
+  description: 'Top-rated vegan and plant-based restaurants in Minneapolis',
+  numberOfItems: 50,
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      item: {
+        '@type': 'Restaurant',
+        name: 'The Herbivorous Butcher',
+        servesCuisine: 'Vegan',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: 'Minneapolis',
+          addressRegion: 'MN'
+        }
+      }
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      item: {
+        '@type': 'Restaurant',
+        name: 'J. Selby\'s',
+        servesCuisine: 'Vegan American',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: 'St. Paul',
+          addressRegion: 'MN'
+        }
+      }
+    },
+    {
+      '@type': 'ListItem',
+      position: 3,
+      item: {
+        '@type': 'Restaurant',
+        name: 'Lulu EthioVegan',
+        servesCuisine: 'Vegan Ethiopian',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: 'Minneapolis',
+          addressRegion: 'MN'
+        }
+      }
+    }
+  ]
+};
 
 export default function RootLayout({
   children,
@@ -154,7 +187,15 @@ export default function RootLayout({
       <head>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(siteGraph) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessListSchema) }}
         />
       </head>
       <body className="font-body bg-[#1a1a1a] text-[#f5f0e8] antialiased">

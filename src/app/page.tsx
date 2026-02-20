@@ -1,99 +1,137 @@
+'use client';
+
+import { useState, useMemo } from 'react';
 import Hero from '@/components/Hero';
+import SearchFiltersHorizontal from '@/components/SearchFiltersHorizontal';
+import RestaurantCardWithData from '@/components/RestaurantCardWithData';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import InstagramFeed from '@/components/InstagramFeed';
-import RestaurantDirectoryClient from '@/components/RestaurantDirectoryClient';
-import { restaurants } from '@/data/restaurants';
-import Link from 'next/link';
-
-// Server Component — all initial restaurant data is pre-rendered in HTML
-// The client component handles filtering/search interactivity only
+import { restaurants, Restaurant } from '@/data/restaurants';
 
 export default function Home() {
-  // Pre-compute filter options on the server
-  const cuisineTypes = (() => {
+  const [searchQuery, setSearchQuery] = useState('');
+  const [veganStatusFilter, setVeganStatusFilter] = useState('');
+  const [cuisineFilter, setCuisineFilter] = useState('');
+  const [neighborhoodFilter, setNeighborhoodFilter] = useState('');
+  const [priceFilter, setPriceFilter] = useState('');
+  const [featureFilter, setFeatureFilter] = useState('');
+
+  // Extract unique values for filters
+  const cuisineTypes = useMemo(() => {
     const types = new Set<string>();
     restaurants.forEach(r => r.cuisineType.forEach(c => types.add(c)));
     return Array.from(types).sort();
-  })();
+  }, []);
 
-  const neighborhoods = (() => {
+  const neighborhoods = useMemo(() => {
     const hoods = new Map<string, string>();
     restaurants.forEach(r => hoods.set(r.neighborhoodSlug, r.neighborhood));
     return Array.from(hoods.entries())
       .map(([slug, name]) => ({ slug, name }))
       .sort((a, b) => a.name.localeCompare(b.name));
-  })();
+  }, []);
 
-  const features = (() => {
+  const priceRanges = ['$', '$$', '$$$', '$$$$'];
+
+  const features = useMemo(() => {
     const feat = new Set<string>();
     restaurants.forEach(r => r.features.forEach(f => feat.add(f)));
     return Array.from(feat).sort();
-  })();
+  }, []);
 
-  const priceRanges = ['$', '$$', '$$$', '$$$$'];
+  const filteredRestaurants = useMemo(() => {
+    return restaurants.filter((restaurant) => {
+      // Search
+      if (searchQuery) {
+        const query = searchQuery.toLowerCase();
+        const matchesSearch = 
+          restaurant.name.toLowerCase().includes(query) ||
+          restaurant.cuisineType.some(c => c.toLowerCase().includes(query)) ||
+          restaurant.neighborhood.toLowerCase().includes(query) ||
+          restaurant.description.toLowerCase().includes(query);
+        if (!matchesSearch) return false;
+      }
+
+      // Vegan Status
+      if (veganStatusFilter && restaurant.veganStatus !== veganStatusFilter) {
+        return false;
+      }
+
+      // Cuisine
+      if (cuisineFilter && !restaurant.cuisineType.includes(cuisineFilter)) {
+        return false;
+      }
+
+      // Neighborhood
+      if (neighborhoodFilter && restaurant.neighborhoodSlug !== neighborhoodFilter) {
+        return false;
+      }
+
+      // Price
+      if (priceFilter && restaurant.priceRange !== priceFilter) {
+        return false;
+      }
+
+      // Feature
+      if (featureFilter && !restaurant.features.includes(featureFilter)) {
+        return false;
+      }
+
+      return true;
+    });
+  }, [searchQuery, veganStatusFilter, cuisineFilter, neighborhoodFilter, priceFilter, featureFilter]);
 
   return (
     <>
       <Hero />
-
-      {/* Client component for filtering — all restaurant data is passed as a prop */}
-      <RestaurantDirectoryClient
-        restaurants={restaurants}
+      
+      {/* Filters */}
+      <SearchFiltersHorizontal
+        searchQuery={searchQuery}
+        setSearchQuery={setSearchQuery}
+        veganStatusFilter={veganStatusFilter}
+        setVeganStatusFilter={setVeganStatusFilter}
+        cuisineFilter={cuisineFilter}
+        setCuisineFilter={setCuisineFilter}
+        neighborhoodFilter={neighborhoodFilter}
+        setNeighborhoodFilter={setNeighborhoodFilter}
+        priceFilter={priceFilter}
+        setPriceFilter={setPriceFilter}
+        featureFilter={featureFilter}
+        setFeatureFilter={setFeatureFilter}
         cuisineTypes={cuisineTypes}
         neighborhoods={neighborhoods}
         priceRanges={priceRanges}
         features={features}
       />
-
-      {/* Server-rendered SEO content section — always visible to crawlers */}
-      <section className="py-16 px-6 lg:px-8 border-t border-[#f5f0e8]/10">
+      
+      {/* Restaurant Directory Section */}
+      <section id="restaurants" className="relative py-16 px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
-          <h2 className="font-display text-3xl text-[#f5f0e8] mb-4">
-            Minneapolis Vegan Restaurant Guide 2026
-          </h2>
-          <div className="prose prose-invert max-w-3xl text-[#f5f0e8]/60 text-base leading-relaxed space-y-4">
-            <p>
-              Welcome to Minneapolis&apos; most comprehensive vegan and plant-based dining directory.
-              We feature over {restaurants.length} restaurants across the Twin Cities, from 100% vegan
-              spots like <Link href="/restaurants/herbivorous-butcher" className="text-[#d4a574] hover:underline">The Herbivorous Butcher</Link> and
-              {' '}<Link href="/restaurants/j-selbys" className="text-[#d4a574] hover:underline">J. Selby&apos;s</Link> to
-              vegan-friendly gems throughout Minneapolis and Saint Paul.
-            </p>
-            <p>
-              Explore by neighborhood, browse our curated guides for{' '}
-              <Link href="/blog/vegan-brunch-minneapolis" className="text-[#d4a574] hover:underline">vegan brunch</Link>,{' '}
-              <Link href="/blog/vegan-date-night-minneapolis" className="text-[#d4a574] hover:underline">date night</Link>,{' '}
-              <Link href="/blog/vegan-comfort-food-minneapolis" className="text-[#d4a574] hover:underline">comfort food</Link>, and{' '}
-              <Link href="/blog/ethiopian-vegan-food-minneapolis" className="text-[#d4a574] hover:underline">Ethiopian vegan food</Link>.
-              Whether you&apos;re a longtime vegan or just trying to eat more plant-based meals,
-              Minneapolis has something incredible for you.
-            </p>
-          </div>
-
-          {/* Server-rendered restaurant list for SEO — hidden from view but indexable */}
-          <div className="mt-12 grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-            {restaurants.slice(0, 12).map((restaurant) => (
-              <Link
-                key={restaurant.id}
-                href={`/restaurants/${restaurant.slug}`}
-                className="group card-elevated rounded-xl p-4 hover:ring-1 hover:ring-[#d4a574]/30 transition-all"
-              >
-                <h3 className="font-display text-[#f5f0e8] group-hover:text-[#d4a574] transition-colors line-clamp-1">
-                  {restaurant.name}
-                </h3>
-                <p className="text-xs text-[#d4a574] mt-1">{restaurant.veganStatus} · {restaurant.priceRange}</p>
-                <p className="text-xs text-[#f5f0e8]/40 mt-1">{restaurant.neighborhood}</p>
-              </Link>
-            ))}
-          </div>
-          <div className="text-center mt-8">
-            <Link
-              href="/restaurants"
-              className="btn-primary inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-medium"
-            >
-              View All {restaurants.length} Restaurants →
-            </Link>
-          </div>
+          {filteredRestaurants.length === 0 ? (
+            <div className="card-elevated rounded-2xl p-12 text-center">
+              <div className="w-20 h-20 rounded-full bg-[#2a2a2a] flex items-center justify-center mx-auto mb-6">
+                <svg className="w-10 h-10 text-[#f5f0e8]/20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+              </div>
+              <h3 className="font-display text-2xl text-[#f5f0e8] mb-2">No restaurants found</h3>
+              <p className="text-[#f5f0e8]/50">Try adjusting your filters or search query</p>
+            </div>
+          ) : (
+            <>
+              <div className="flex items-center justify-between mb-8">
+                <span className="text-sm text-[#f5f0e8]/40">
+                  Showing {filteredRestaurants.length} of {restaurants.length} restaurants
+                </span>
+              </div>
+              <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                {filteredRestaurants.map((restaurant, index) => (
+                  <RestaurantCardWithData key={restaurant.id} restaurant={restaurant} index={index} />
+                ))}
+              </div>
+            </>
+          )}
         </div>
       </section>
 

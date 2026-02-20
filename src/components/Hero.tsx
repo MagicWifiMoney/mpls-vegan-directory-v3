@@ -1,5 +1,3 @@
-'use client';
-
 import Link from 'next/link';
 
 export default function Hero() {
@@ -9,13 +7,13 @@ export default function Hero() {
       <div className="absolute inset-0">
         {/* Base gradient */}
         <div className="absolute inset-0 bg-gradient-to-br from-[#1a1a1a] via-[#2a2a2a] to-[#1a1a1a]" />
-
+        
         {/* Ambient glow */}
         <div className="absolute top-1/4 -left-1/4 w-[800px] h-[800px] rounded-full bg-[#3d4a3d]/20 blur-[120px]" />
         <div className="absolute bottom-0 right-0 w-[600px] h-[600px] rounded-full bg-[#d4a574]/10 blur-[100px]" />
-
+        
         {/* Subtle grid pattern */}
-        <div
+        <div 
           className="absolute inset-0 opacity-[0.02]"
           style={{
             backgroundImage: `linear-gradient(rgba(245, 240, 232, 0.5) 1px, transparent 1px),
@@ -54,7 +52,7 @@ export default function Hero() {
 
             {/* CTAs */}
             <div className="flex flex-wrap gap-4 pt-4 animate-fade-in-up stagger-4">
-              <Link
+              <Link 
                 href="#restaurants"
                 className="btn-primary px-8 py-4 rounded-full text-base font-medium inline-flex items-center gap-2"
               >
@@ -63,7 +61,7 @@ export default function Hero() {
                   <path d="M7 17L17 7M17 7H7M17 7V17" />
                 </svg>
               </Link>
-              <Link
+              <Link 
                 href="/neighborhoods"
                 className="btn-secondary px-8 py-4 rounded-full text-base font-medium"
               >
@@ -79,7 +77,7 @@ export default function Hero() {
               {/* Background cards */}
               <div className="absolute top-8 left-8 right-0 bottom-0 rounded-3xl bg-[#3d4a3d]/30 transform rotate-3" />
               <div className="absolute top-4 left-4 right-4 bottom-4 rounded-3xl bg-[#2a2a2a] transform -rotate-2" />
-
+              
               {/* Main card */}
               <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-[#2a2a2a] to-[#1a1a1a] border border-[#f5f0e8]/10 overflow-hidden">
                 {/* Card content */}
@@ -90,7 +88,7 @@ export default function Hero() {
                       <span className="w-2 h-2 rounded-full bg-[#d4a574] animate-pulse" />
                       Now Exploring
                     </div>
-
+                    
                     {/* Featured stat */}
                     <div>
                       <span className="font-display text-7xl lg:text-8xl text-gradient">70+</span>
@@ -128,7 +126,7 @@ export default function Hero() {
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3 text-[#f5f0e8]/30">
         <span className="text-xs uppercase tracking-widest">Scroll</span>
         <div className="w-px h-12 bg-gradient-to-b from-[#f5f0e8]/30 to-transparent relative overflow-hidden">
-          <div className="absolute top-0 left-0 right-0 h-4 bg-[#d4a574] animate-[scroll_1.5s_ease-in-out_infinite]"
+          <div className="absolute top-0 left-0 right-0 h-4 bg-[#d4a574] animate-[scroll_1.5s_ease-in-out_infinite]" 
             style={{
               animation: 'scroll 1.5s ease-in-out infinite',
             }}
