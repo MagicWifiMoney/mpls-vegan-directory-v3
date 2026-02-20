@@ -18,8 +18,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "50+ Best Vegan Restaurants in Minneapolis (2026) | MPLS Vegan",
-  description: "Discover the best vegan restaurants, cafes & food trucks in Minneapolis–Saint Paul. Updated 2026 guide with 50+ spots, reviews, hours & must-try dishes. Minneapolis' #1 vegan dining directory.",
+  title: "Minneapolis Vegan Restaurant Local Guide 2026 | 50+ Plant-Based Spots — MPLS Vegan",
+  description: "Minneapolis' most complete vegan restaurant local guide — 50+ plant-based spots with real reviews, hours & must-try dishes. Brunch, date night, pizza & more. Updated 2026.",
   keywords: [
     "vegan restaurants Minneapolis",
     "plant-based Minneapolis",
@@ -44,8 +44,8 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Best Vegan Restaurants Minneapolis 2026 | Plant-Based Dining Guide",
-    description: "Your complete guide to vegan and plant-based dining in Minneapolis. The best restaurants with reviews, ratings, and real customer quotes.",
+    title: "Minneapolis Vegan Restaurant Local Guide 2026 | 50+ Plant-Based Spots",
+    description: "Minneapolis' most complete vegan restaurant local guide — 50+ plant-based spots with real reviews, hours & must-try dishes. Updated 2026.",
     url: 'https://mplsvegan.com',
     siteName: "Minneapolis Vegan Directory",
     locale: 'en_US',
