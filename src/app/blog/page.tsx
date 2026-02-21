@@ -5,6 +5,9 @@ import { blogPosts } from '@/data/blog-posts';
 export const metadata: Metadata = {
   title: 'Vegan Minneapolis Blog 2026 | Dining Guides & Reviews',
   description: 'The best vegan restaurant guides, neighborhood tours, and dining tips for Minneapolis. From brunch spots to date night ideas, we\'ve got you covered.',
+  alternates: {
+    canonical: '/blog',
+  },
   openGraph: {
     title: 'Vegan Minneapolis Blog',
     description: 'Plant-based dining guides for Minneapolis',

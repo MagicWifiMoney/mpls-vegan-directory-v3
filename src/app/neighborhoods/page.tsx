@@ -5,6 +5,9 @@ import { neighborhoods, restaurants } from '@/data/restaurants';
 export const metadata: Metadata = {
   title: 'Vegan Restaurants by Neighborhood Minneapolis 2026',
   description: 'Explore vegan and plant-based restaurants by neighborhood in Minneapolis and Saint Paul.',
+  alternates: {
+    canonical: '/neighborhoods',
+  },
 };
 
 export default function NeighborhoodsPage() {

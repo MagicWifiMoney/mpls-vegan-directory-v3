@@ -5,6 +5,9 @@ import { restaurants } from '@/data/restaurants';
 export const metadata: Metadata = {
   title: 'Vegan Dining Guide | Minneapolis & Saint Paul',
   description: 'Your complete guide to vegan restaurants in Minneapolis and Saint Paul. From brunch spots to date night destinations, find the best plant-based dining in the Twin Cities.',
+  alternates: {
+    canonical: '/guide',
+  },
   openGraph: {
     title: 'Minneapolis Vegan Dining Guide',
     description: 'From brunch to date night - your curated guide to plant-based eating in the Twin Cities',

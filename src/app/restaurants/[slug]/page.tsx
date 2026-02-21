@@ -29,6 +29,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${restaurant.name} | Vegan Restaurant Minneapolis 2026`,
     description: restaurant.description.slice(0, 160),
+    alternates: {
+      canonical: `/restaurants/${slug}`,
+    },
     openGraph: {
       title: restaurant.name,
       description: restaurant.description.slice(0, 160),

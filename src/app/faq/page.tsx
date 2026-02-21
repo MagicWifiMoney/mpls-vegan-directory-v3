@@ -5,6 +5,9 @@ import { restaurants } from '@/data/restaurants';
 export const metadata: Metadata = {
   title: 'Vegan Dining FAQ Minneapolis 2026 | Twin Cities Guide',
   description: 'Frequently asked questions about vegan dining in Minneapolis and Saint Paul. Find answers about the best vegan restaurants, neighborhoods, and plant-based options in the Twin Cities.',
+  alternates: {
+    canonical: '/faq',
+  },
   openGraph: {
     title: 'Vegan Dining FAQ - Minneapolis & Saint Paul',
     description: 'Everything you need to know about eating vegan in the Twin Cities',
