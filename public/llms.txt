@@ -1,0 +1,25 @@
+# MPLS Vegan
+
+> Minneapolis vegan restaurant directory and food guide. Comprehensive listings of vegan and vegan-friendly restaurants, cafes, bakeries, and food trucks across the Twin Cities metro area.
+
+## About
+MPLS Vegan is the most complete guide to plant-based dining in Minneapolis and Saint Paul, Minnesota. We cover full restaurant listings with menus, hours, and reviews.
+
+## Top Pages
+
+- [Homepage](https://mplsvegan.com/)
+- [All Restaurants](https://mplsvegan.com/restaurants)
+- [Best Vegan Date Night Restaurants](https://mplsvegan.com/blog/best-vegan-date-night-restaurants-minneapolis)
+- [Best Vegan Ice Cream in Minneapolis](https://mplsvegan.com/blog/best-vegan-ice-cream-minneapolis)
+- [Best Vegan Pizza in Minneapolis](https://mplsvegan.com/blog/best-vegan-pizza-minneapolis)
+- [Best Vegan Mac and Cheese Brands](https://mplsvegan.com/blog/best-vegan-mac-and-cheese-brands-ranked)
+
+## Categories
+- Restaurants with full vegan menus
+- Vegan-friendly restaurants with plant-based options
+- Vegan bakeries and dessert shops
+- Food trucks and pop-ups
+- Grocery stores with vegan selections
+
+## Location
+Minneapolis-Saint Paul, Minnesota, USA
