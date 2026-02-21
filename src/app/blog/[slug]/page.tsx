@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${post.title} | Minneapolis Vegan Directory`,
+    title: post.title,
     description: post.description,
     openGraph: {
       title: post.title,

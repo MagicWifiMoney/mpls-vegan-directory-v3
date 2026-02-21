@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${restaurant.name} | Minneapolis Vegan Directory`,
+    title: `${restaurant.name} | Vegan Restaurant Minneapolis 2026`,
     description: restaurant.description.slice(0, 160),
     openGraph: {
       title: restaurant.name,

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'About | Minneapolis Vegan Directory',
+  title: 'About | MPLS Vegan Restaurant Guide 2026',
   description: 'Learn about the Minneapolis Vegan Directory, your guide to plant-based dining in the Twin Cities.',
 };
 
