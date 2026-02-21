@@ -146,7 +146,7 @@ export default async function NeighborhoodPage({ params }: Props) {
               All neighborhoods
             </Link>
             <Link
-              href="/"
+              href="/restaurants"
               className="inline-flex items-center gap-2 text-[#d4a574] hover:text-[#e6c49a] transition-colors group"
             >
               All restaurants
@@ -156,6 +156,51 @@ export default async function NeighborhoodPage({ params }: Props) {
             </Link>
           </div>
         </section>
+
+        {/* Explore More Neighborhoods — Cross-Neighborhood Internal Linking */}
+        {(() => {
+          const otherNeighborhoods = neighborhoods
+            .filter(n => n.slug !== slug && getRestaurantsByNeighborhood(n.slug).length > 0)
+            .slice(0, 4);
+          if (otherNeighborhoods.length === 0) return null;
+          return (
+            <section className="mt-12">
+              <h2 className="font-display text-2xl text-[#f5f0e8] mb-6">
+                Explore Other Minneapolis Neighborhoods
+              </h2>
+              <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                {otherNeighborhoods.map((n) => {
+                  const count = getRestaurantsByNeighborhood(n.slug).length;
+                  return (
+                    <Link
+                      key={n.slug}
+                      href={`/neighborhoods/${n.slug}`}
+                      className="group card-elevated rounded-xl p-5 hover:ring-2 hover:ring-[#d4a574]/30 transition-all duration-300"
+                    >
+                      <h3 className="font-display text-lg text-[#f5f0e8] group-hover:text-[#d4a574] transition-colors mb-1">
+                        {n.name}
+                      </h3>
+                      <p className="text-[#f5f0e8]/50 text-sm">
+                        {count} vegan spot{count !== 1 ? 's' : ''}
+                      </p>
+                    </Link>
+                  );
+                })}
+              </div>
+              <div className="mt-6 text-center">
+                <Link
+                  href="/neighborhoods"
+                  className="inline-flex items-center gap-2 text-[#d4a574] hover:text-[#e6c49a] transition-colors group text-sm"
+                >
+                  View all Minneapolis neighborhoods
+                  <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                    <path d="M5 12h14M12 5l7 7-7 7" />
+                  </svg>
+                </Link>
+              </div>
+            </section>
+          );
+        })()}
       </div>
     </div>
   );

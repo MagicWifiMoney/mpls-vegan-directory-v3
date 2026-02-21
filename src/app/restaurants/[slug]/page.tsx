@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { restaurants, getRestaurantBySlug } from '@/data/restaurants';
+import { restaurants, getRestaurantBySlug, getRestaurantsByNeighborhood } from '@/data/restaurants';
 import { getBlogPostBySlug } from '@/data/blog-posts';
 import RestaurantDetail from '@/components/RestaurantDetail';
 import RestaurantDetailEnhanced from '@/components/RestaurantDetailEnhanced';
@@ -128,6 +128,11 @@ export default async function RestaurantPage({ params }: Props) {
         .filter(Boolean)
     : [];
 
+  // Get other restaurants in same neighborhood (for internal linking)
+  const neighborhoodRestaurants = getRestaurantsByNeighborhood(restaurant.neighborhoodSlug)
+    .filter(r => r.slug !== restaurant.slug)
+    .slice(0, 3);
+
   const statusConfig = {
     '100% Vegan': { class: 'badge-vegan', label: '100% Vegan' },
     'Vegetarian': { class: 'badge-vegetarian', label: 'Vegetarian' },
@@ -178,8 +183,16 @@ export default async function RestaurantPage({ params }: Props) {
                 <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
                   <path d="M9 18l6-6-6-6" />
                 </svg>
-                <Link href="/#restaurants" className="hover:text-[#d4a574] transition-colors">
+                <Link href="/restaurants" className="hover:text-[#d4a574] transition-colors">
                   Restaurants
+                </Link>
+              </li>
+              <li className="flex items-center gap-2">
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <path d="M9 18l6-6-6-6" />
+                </svg>
+                <Link href={`/neighborhoods/${restaurant.neighborhoodSlug}`} className="hover:text-[#d4a574] transition-colors">
+                  {restaurant.neighborhood}
                 </Link>
               </li>
               <li className="flex items-center gap-2">
@@ -208,7 +221,12 @@ export default async function RestaurantPage({ params }: Props) {
               <span className="w-1 h-1 rounded-full bg-[#f5f0e8]/30" />
               <span>{restaurant.priceRange}</span>
               <span className="w-1 h-1 rounded-full bg-[#f5f0e8]/30" />
-              <span>{restaurant.neighborhood}</span>
+              <Link
+                href={`/neighborhoods/${restaurant.neighborhoodSlug}`}
+                className="hover:text-[#d4a574] transition-colors underline-offset-2 hover:underline"
+              >
+                {restaurant.neighborhood}
+              </Link>
             </div>
           </div>
         </div>
@@ -227,6 +245,48 @@ export default async function RestaurantPage({ params }: Props) {
               restaurantName={restaurant.name}
             />
           </div>
+        )}
+
+        {/* More in This Neighborhood — Internal Linking */}
+        {neighborhoodRestaurants.length > 0 && (
+          <section className="mt-16 pt-12 border-t border-[#f5f0e8]/10">
+            <div className="flex items-center justify-between mb-6">
+              <h2 className="font-display text-2xl text-[#f5f0e8]">
+                More Vegan Spots in{' '}
+                <Link
+                  href={`/neighborhoods/${restaurant.neighborhoodSlug}`}
+                  className="text-[#d4a574] hover:underline"
+                >
+                  {restaurant.neighborhood}
+                </Link>
+              </h2>
+              <Link
+                href={`/neighborhoods/${restaurant.neighborhoodSlug}`}
+                className="text-sm text-[#d4a574] hover:underline"
+              >
+                See all →
+              </Link>
+            </div>
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {neighborhoodRestaurants.map((r) => (
+                <Link
+                  key={r.slug}
+                  href={`/restaurants/${r.slug}`}
+                  className="group card-elevated rounded-xl p-5 hover:ring-2 hover:ring-[#d4a574]/30 transition-all duration-300"
+                >
+                  <span className="inline-flex px-2 py-1 rounded-full text-xs font-medium bg-[#2a2a2a] text-[#f5f0e8]/60 mb-3">
+                    {r.veganStatus}
+                  </span>
+                  <h3 className="font-display text-lg text-[#f5f0e8] group-hover:text-[#d4a574] transition-colors mb-1">
+                    {r.name}
+                  </h3>
+                  <p className="text-[#f5f0e8]/50 text-sm">
+                    {r.cuisineType.join(' · ')} · {r.priceRange}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </section>
         )}
 
         {/* Featured In Our Guides Section */}
