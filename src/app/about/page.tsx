@@ -4,6 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'About | MPLS Vegan Restaurant Guide 2026',
   description: 'Learn about the Minneapolis Vegan Directory, your guide to plant-based dining in the Twin Cities.',
+  alternates: {
+    canonical: '/about',
+  },
 };
 
 export default function AboutPage() {
