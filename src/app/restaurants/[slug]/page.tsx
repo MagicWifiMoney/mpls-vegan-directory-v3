@@ -26,16 +26,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'Restaurant Not Found' };
   }
 
+  // Word-safe truncation: use theVibe (concise), otherwise trim to last word boundary
+  const rawDesc = restaurant.theVibe || restaurant.description;
+  const truncated = rawDesc.length <= 160
+    ? rawDesc
+    : rawDesc.slice(0, 158).replace(/\s+\S*$/, '') + '…';
+  const metaDesc = `${restaurant.name} — ${truncated}`.slice(0, 160);
+
   return {
     title: `${restaurant.name} | Vegan Restaurant Minneapolis 2026`,
-    description: restaurant.description.slice(0, 160),
+    description: metaDesc,
     alternates: {
       canonical: `/restaurants/${slug}`,
     },
     openGraph: {
-      title: restaurant.name,
-      description: restaurant.description.slice(0, 160),
+      title: `${restaurant.name} | ${restaurant.neighborhood}`,
+      description: metaDesc,
       type: 'website',
+      url: `https://mplsvegan.com/restaurants/${slug}`,
     },
   };
 }

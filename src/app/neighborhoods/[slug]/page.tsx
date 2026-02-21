@@ -23,8 +23,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `Vegan Restaurants in ${neighborhood.name} Minneapolis 2026`,
-    description: `Discover vegan and plant-based restaurants in ${neighborhood.name}, ${neighborhood.city}. Find the best vegan dining options in this neighborhood.`,
+    title: `Vegan Restaurants in ${neighborhood.name} Minneapolis | ${neighborhood.name} Plant-Based Guide 2026`,
+    description: `Find the best vegan and plant-based restaurants in ${neighborhood.name}, Minneapolis. Browse 100% vegan menus and vegan-friendly spots in this neighborhood. Updated 2026.`,
+    alternates: {
+      canonical: `/neighborhoods/${slug}`,
+    },
+    openGraph: {
+      title: `Vegan Restaurants in ${neighborhood.name} Minneapolis 2026`,
+      description: `Find the best vegan and plant-based restaurants in ${neighborhood.name}, Minneapolis.`,
+      url: `https://mplsvegan.com/neighborhoods/${slug}`,
+      siteName: 'Minneapolis Vegan Directory',
+      locale: 'en_US',
+      type: 'website',
+    },
   };
 }
 
