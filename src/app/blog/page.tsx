@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { blogPosts } from '@/data/blog-posts';
 
 export const metadata: Metadata = {
-  title: 'Vegan Minneapolis Blog | Plant-Based Guides & Restaurant Reviews',
+  title: 'Vegan Minneapolis Blog 2026 | Dining Guides & Reviews',
   description: 'The best vegan restaurant guides, neighborhood tours, and dining tips for Minneapolis. From brunch spots to date night ideas, we\'ve got you covered.',
   openGraph: {
     title: 'Vegan Minneapolis Blog',

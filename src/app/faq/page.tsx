@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { restaurants } from '@/data/restaurants';
 
 export const metadata: Metadata = {
-  title: 'FAQ | Minneapolis Vegan Restaurant Guide',
+  title: 'Vegan Dining FAQ Minneapolis 2026 | Twin Cities Guide',
   description: 'Frequently asked questions about vegan dining in Minneapolis and Saint Paul. Find answers about the best vegan restaurants, neighborhoods, and plant-based options in the Twin Cities.',
   openGraph: {
     title: 'Vegan Dining FAQ - Minneapolis & Saint Paul',

@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { neighborhoods, restaurants } from '@/data/restaurants';
 
 export const metadata: Metadata = {
-  title: 'Neighborhoods | Minneapolis Vegan Directory',
+  title: 'Vegan Restaurants by Neighborhood Minneapolis 2026',
   description: 'Explore vegan and plant-based restaurants by neighborhood in Minneapolis and Saint Paul.',
 };
 

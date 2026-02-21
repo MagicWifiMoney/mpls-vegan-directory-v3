@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${neighborhood.name} Vegan Restaurants | Minneapolis Vegan Directory`,
+    title: `Vegan Restaurants in ${neighborhood.name} Minneapolis 2026`,
     description: `Discover vegan and plant-based restaurants in ${neighborhood.name}, ${neighborhood.city}. Find the best vegan dining options in this neighborhood.`,
   };
 }
