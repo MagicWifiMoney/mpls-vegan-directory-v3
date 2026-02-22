@@ -3,9 +3,9 @@ import Link from 'next/link';
 import { restaurants } from '@/data/restaurants';
 
 export const metadata: Metadata = {
-  title: 'Vegan Restaurants Minneapolis 2026 | 75+ Spots',
+  title: 'Vegan Restaurants Minneapolis MN 2026 | 75+ Plant-Based Spots',
   description:
-    'Browse 75+ vegan, vegetarian, and vegan-friendly restaurants in Minneapolis and Saint Paul. Find your next plant-based meal in the Twin Cities.',
+    'Browse 75+ vegan restaurants in Minneapolis MN — 100% vegan menus, vegetarian, and vegan-friendly spots. Filter by neighborhood, cuisine & price. Updated 2026.',
   alternates: {
     canonical: '/restaurants',
   },

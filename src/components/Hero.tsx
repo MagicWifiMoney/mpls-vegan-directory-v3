@@ -41,13 +41,13 @@ export default function Hero() {
               </span>
               <span className="block font-display text-5xl sm:text-6xl lg:text-7xl leading-[1.1] tracking-tight mt-2">
                 <span className="text-gradient">Vegan</span>
-                <span className="text-[#f5f0e8]"> Directory</span>
+                <span className="text-[#f5f0e8]"> Restaurants</span>
               </span>
             </h1>
 
             {/* Description */}
             <p className="text-lg sm:text-xl text-[#f5f0e8]/60 max-w-xl leading-relaxed animate-fade-in-up stagger-3">
-              Discover exceptional plant-based dining across the Twin Cities. From America&apos;s first vegan butcher to soulful Ethiopian cuisine—find your next favorite spot.
+              Discover the best vegan restaurants in Minneapolis MN — from America&apos;s first vegan butcher to soulful Ethiopian cuisine. Your complete Twin Cities plant-based guide.
             </p>
 
             {/* CTAs */}
