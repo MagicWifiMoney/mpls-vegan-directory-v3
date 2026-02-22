@@ -1093,6 +1093,44 @@ export const restaurants: Restaurant[] = [
     bestFor: ['Gluten-free vegans', 'Celiacs', 'Allergy-safe treats', 'Weekend bakery runs'],
     theVibe: "Dedicated gluten-free bakery with serious baking skills. Wide variety, clearly labeled, safe for celiacs, with solid vegan options.",
     relatedBlogs: ['vegan-bakeries-minneapolis', 'best-vegan-restaurants-minneapolis-2026']
+  },
+  {
+    id: '52',
+    slug: 'pizza-karma',
+    name: 'Pizza Karma',
+    address: '409 14th Ave SE',
+    city: 'Minneapolis',
+    state: 'MN',
+    zip: '55414',
+    phone: '(763) 515-8895',
+    website: 'https://www.pizzakarma.com',
+    googlePlaceId: 'ChIJPizzaKarmaDinkytown55414',
+    cuisineType: ['Pizza', 'Indian'],
+    veganStatus: 'Vegan-Friendly',
+    neighborhood: 'Dinkytown',
+    neighborhoodSlug: 'dinkytown',
+    description: "Pizza Karma brings fire-roasted pizza with bold South Asian-inspired flavors to Dinkytown, making it a late-night staple for University of Minnesota students and neighborhood regulars alike. The dairy-free cheese melts better than most—genuinely stretchy and satisfying—and the fire-roasted crust has an authentic char that elevates every pie. Vegan toppings are called out clearly on the menu, and the kitchen takes cross-contamination seriously.\n\nThe flavor profiles lean into South Asian spice heritage: think tikka-inspired sauces, aromatic herbs, and boldly seasoned toppings that make the usual tomato-mozzarella paradigm feel boring by comparison. The Dinkytown Karma Bowl and customizable pies let you build something genuinely interesting rather than just picking \"the vegan option.\" Prices are student-budget friendly—you're getting fire-roasted artisan pizza at fast-food prices.\n\nWhat sets this location apart: the hours. Thursday through Saturday they run until 3am, making Pizza Karma the rare vegan-friendly late-night option in Minneapolis. When every other plant-based restaurant has closed and you're coming back from a show, Pizza Karma is still delivering. The space itself is casual and buzzy, perfect for groups.",
+    priceRange: '$',
+    features: ['Delivery', 'Takeout', 'Dine-In', 'Late Night', 'Vegan Options', 'Dairy-Free Cheese'],
+    coordinates: { lat: 44.9807, lng: -93.2344 },
+    hours: [
+      'Sunday: 11:00 AM – 11:00 PM',
+      'Monday: 11:00 AM – 11:00 PM',
+      'Tuesday: 11:00 AM – 11:00 PM',
+      'Wednesday: 11:00 AM – 11:00 PM',
+      'Thursday: 11:00 AM – 3:00 AM',
+      'Friday: 11:00 AM – 3:00 AM',
+      'Saturday: 11:00 AM – 3:00 AM',
+    ],
+    whatToOrder: [
+      'Any pie with dairy-free cheese — melts and stretches better than most',
+      'Build-your-own with South Asian-inspired toppings',
+      'Late-night delivery special (Thu–Sat after midnight)',
+      'Bowl options — customizable, filling, vegan-friendly'
+    ],
+    bestFor: ['Late-night vegan', 'University students', 'Budget-friendly pizza', 'Groups', 'Delivery'],
+    theVibe: "Buzzy Dinkytown fire-roasted pizza spot with South Asian flair — open until 3am on weekends, real dairy-free cheese, student prices.",
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegetarian-restaurants-minneapolis']
   }
 ];
 
@@ -1143,6 +1181,7 @@ export const neighborhoods = [
   { name: 'Hamline-Midway', slug: 'hamline-midway', city: 'Saint Paul' },
   { name: 'Frogtown', slug: 'frogtown', city: 'Saint Paul' },
   { name: 'Saint Louis Park', slug: 'slp', city: 'Saint Louis Park' },
+  { name: 'Dinkytown', slug: 'dinkytown', city: 'Minneapolis' },
 ];
 
 export function getNeighborhoodBySlug(slug: string) {
