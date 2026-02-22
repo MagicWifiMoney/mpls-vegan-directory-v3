@@ -3625,6 +3625,168 @@ Whether you're a committed vegetarian, flexitarian, or just curious, Minneapolis
 
 Browse the [full restaurant directory](/restaurants) to filter by neighborhood, cuisine, and dietary preference — or check our [complete vegan guide](/blog/best-vegan-restaurants-minneapolis-2026) for the ranked list of every spot worth visiting in 2026.
 `
+  },
+  {
+    slug: "vegan-restaurants-st-paul",
+    title: "Vegan Restaurants in St. Paul MN: The Complete 2026 Guide",
+    description: "The best vegan and plant-based restaurants in St. Paul, Minnesota. From J. Selby's comfort food to Grand Avenue's global flavors — your complete guide to eating vegan in Saint Paul. Updated 2026.",
+    publishedAt: "2026-02-22",
+    updatedAt: "2026-02-22",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan restaurants", "st paul", "saint paul", "plant-based", "guide", "2026"],
+    readingTime: "10 min read",
+    tldr: "Best vegan restaurants in St. Paul: J. Selby's (Cathedral Hill, 100% vegan comfort food — the essential stop), Eureka Compass (Hamline-Midway, 100% vegan), Foxy Falafel (St. Anthony Park, vegetarian), Everest on Grand (Grand Ave, incredible Nepali/Indian vegan options), Ngon Vietnamese Bistro (Frogtown, stellar vegan pho). St. Paul is smaller than Minneapolis but punches hard for plant-based dining, especially along Grand Avenue and in the East Side neighborhoods.",
+    faqs: [
+      {
+        question: "What are the best vegan restaurants in St. Paul, MN?",
+        answer: "The top vegan restaurants in St. Paul include J. Selby's (100% vegan comfort food on Victoria St), Eureka Compass (100% vegan in Hamline-Midway), Foxy Falafel (vegetarian falafel wraps in St. Anthony Park), Everest on Grand (extensive vegan Nepali/Indian menu on Grand Ave), and Ngon Vietnamese Bistro (vegan-friendly pho and Vietnamese dishes in Frogtown). St. Paul has a smaller but growing vegan restaurant scene compared to Minneapolis."
+      },
+      {
+        question: "Is J. Selby's in St. Paul still open?",
+        answer: "Yes, J. Selby's is open at 169 Victoria St N, Saint Paul MN 55104 (Cathedral Hill neighborhood). It remains one of the few 100% vegan restaurants in the Twin Cities and is widely considered the best vegan comfort food spot in St. Paul. Menu highlights include vegan mac and cheese, the Selby Stack burger, and rotating daily specials."
+      },
+      {
+        question: "Are there vegan restaurants on Grand Avenue in St. Paul?",
+        answer: "Yes — Grand Avenue in St. Paul has several restaurants with excellent vegan options. Everest on Grand (Nepali/Indian) has an extensive vegetarian and vegan menu. Cafe Latte offers vegan-friendly soups, salads, and baked goods. Shish Mediterranean has falafel, hummus, and plant-based Mediterranean dishes. None are 100% vegan, but all three take plant-based dining seriously."
+      },
+      {
+        question: "How does St. Paul's vegan dining scene compare to Minneapolis?",
+        answer: "Minneapolis has a larger and denser vegan dining scene overall, but St. Paul holds its own with some excellent options. St. Paul's strengths are its ethnic diversity — particularly strong Vietnamese (Frogtown), Ethiopian (Como), Nepali/Indian (Grand Ave), and Mediterranean (Grand Ave) restaurants with extensive vegan menus. For 100% vegan comfort food, J. Selby's is the clear Twin Cities champion."
+      },
+      {
+        question: "What neighborhoods in St. Paul are best for vegan dining?",
+        answer: "Grand Avenue / Summit-University is the most walkable neighborhood for vegan dining in St. Paul — Everest on Grand, Shish Mediterranean, Khyber Pass Cafe, and Cafe Latte are all within a few blocks of each other. Frogtown has strong Vietnamese options (Ngon, iPho by Saigon). Cathedral Hill is worth the trip for J. Selby's. St. Anthony Park has Foxy Falafel."
+      },
+      {
+        question: "Is there Ethiopian vegan food in St. Paul?",
+        answer: "Yes — Bole Ethiopian Cuisine in the Como neighborhood is the top option for Ethiopian vegan food in St. Paul. Ethiopian cuisine is naturally vegan-friendly with many dishes (injera, lentil stews, vegetable combinations) that are inherently plant-based. Ask for the vegetarian combination for the best vegan selection."
+      }
+    ],
+    relatedRestaurants: ["j-selbys", "eureka-compass", "foxy-falafel", "everest-on-grand", "ngon-vietnamese", "bole-ethiopian", "cafe-latte", "khyber-pass-cafe"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegetarian-restaurants-minneapolis", "j-selbys-review-saint-paul-vegan", "vegan-date-night-minneapolis"],
+    content: `
+## Vegan Restaurants in St. Paul, MN — 2026 Guide
+
+St. Paul doesn't get as much attention as Minneapolis for plant-based dining, but it should. The city has a genuinely excellent spread of vegan and vegan-friendly restaurants — from one of the Twin Cities' best 100% vegan comfort food spots to a Grand Avenue corridor packed with plant-forward global cuisine. If you know where to look, you'll eat very well.
+
+This guide covers every vegan and plant-based restaurant worth knowing in Saint Paul, organized by neighborhood.
+
+---
+
+## The 100% Vegan Spots
+
+### J. Selby's — Cathedral Hill
+**169 Victoria St N, Saint Paul MN 55104**
+
+J. Selby's is the anchor of vegan dining in St. Paul — a fully vegan, all-comfort-food restaurant that would hold its own against anything in Minneapolis. The menu is unapologetically indulgent: the Selby Stack is a proper smash burger with special sauce that makes you forget you're eating plants, the mac and cheese is rich and cheesy in a way that defies explanation, and the weekend brunch menu is one of the better vegan brunch options in the Twin Cities.
+
+Cathedral Hill is a beautiful neighborhood for a meal — walkable, historic, and close to the Grand Ave restaurant corridor. Go for dinner on a weekday when it's a little calmer, or embrace the weekend brunch crowd.
+
+→ [View J. Selby's on the directory](/restaurants/j-selbys)
+
+### Eureka Compass — Hamline-Midway
+Eureka Compass is 100% vegan and occupies a less-obvious corner of St. Paul's dining map, but it's worth finding. The menu rotates with creative plant-based dishes that lean toward global flavors — less burger-and-fries, more intentional cooking. It's the right spot if you're craving something a little lighter and more inventive than J. Selby's comfort food.
+
+→ [View Eureka Compass on the directory](/restaurants/eureka-compass)
+
+---
+
+## Grand Avenue: The Best Vegan-Friendly Corridor in St. Paul
+
+Grand Avenue is St. Paul's most famous dining street, and for plant-based eaters, it delivers — especially for global cuisine. None of these are 100% vegan, but all have substantial vegan menus and staff who understand dietary restrictions.
+
+### Everest on Grand — Summit-University
+**No vegan dining guide to St. Paul is complete without Everest.** The Nepali and Indian menu has dozens of naturally vegan dishes — dal bhat, vegetable curries, aloo gobi, saag — prepared with the kind of care that comes from a culinary tradition that's been cooking plant-based food for centuries. The lunch thali (combination platter) is exceptional value. This is one of the best restaurants in St. Paul regardless of dietary preference.
+
+→ [View Everest on Grand](/restaurants/everest-on-grand)
+
+### Shish Mediterranean — Summit-University
+Shish is a Grand Avenue standby with a menu built around Mediterranean staples that happen to be naturally vegan-friendly: falafel, hummus, tabbouleh, stuffed grape leaves. The falafel is freshly made and properly crispy. Ask for the vegan mezze platter if you can't decide — it's one of the best deals on the street.
+
+→ [View Shish Mediterranean](/restaurants/shish-mediterranean)
+
+### Khyber Pass Cafe — Summit-University
+Afghan cuisine gets overlooked, and that's a shame — it's one of the most naturally vegan-friendly food traditions you'll encounter. Khyber Pass has been on Grand Ave for years with a menu of herb-forward salads, lentil dishes, and vegetable-centered mains that are miles away from generic "vegan options." The aushak (leek dumplings) can be made vegan on request.
+
+→ [View Khyber Pass Cafe](/restaurants/khyber-pass-cafe)
+
+### Cafe Latte — Summit-University
+A St. Paul institution since 1985. Cafe Latte is cafeteria-style, bustle-filled, and reliably good for plant-based eating — soups, grain bowls, vegetable dishes, and a bakery case that always has vegan options tucked in next to the legendary layer cakes. Not a vegan restaurant, but a beloved neighborhood anchor that accommodates well.
+
+→ [View Cafe Latte](/restaurants/cafe-latte)
+
+---
+
+## Frogtown & East St. Paul: Vietnamese Vegan Central
+
+Frogtown is one of the most culinarily underrated neighborhoods in the Twin Cities. The Vietnamese restaurant density here rivals anything in the metro, and several spots have excellent vegan options.
+
+### Ngon Vietnamese Bistro — Frogtown
+Ngon means "delicious" in Vietnamese, and it delivers. The pho broth can be made with vegetable stock, and the menu has dedicated vegetarian options clearly marked. The spring rolls (gỏi cuốn) are a perfect starter. It's a step up from a typical pho shop — slightly more considered plating, better drink menu — without losing the warmth of a neighborhood Vietnamese restaurant.
+
+→ [View Ngon Vietnamese Bistro](/restaurants/ngon-vietnamese)
+
+### iPho by Saigon — Frogtown
+For classic pho in a more traditional setting, iPho by Saigon hits the mark. The vegetable pho is a proper bowl — aromatic broth, rice noodles, fresh herb plate, bean sprouts, lime. Simple, satisfying, and affordable. The Frogtown location means you're eating in the heart of St. Paul's Vietnamese community, which is always the right move for Vietnamese food.
+
+→ [View iPho by Saigon](/restaurants/ipho-saigon)
+
+---
+
+## Neighborhood Gems
+
+### Foxy Falafel — St. Anthony Park
+The name tells you everything. Foxy Falafel is a vegetarian falafel shop near the intersection of St. Paul and St. Anthony Park (the neighborhood straddling the Minneapolis-St. Paul border near the U of M). The falafel is freshly fried, the wraps are loaded, and the menu is simple in the right way. Excellent lunch spot.
+
+→ [View Foxy Falafel](/restaurants/foxy-falafel)
+
+### Bole Ethiopian Cuisine — Como
+Ethiopian food is one of the most vegan-friendly cuisines in the world — the traditional fasting diet (tsom) is entirely plant-based, and injera with vegetable stews is a core part of Ethiopian cooking. Bole brings that tradition to Como with a warm, family-run atmosphere. Order the vegetarian combination and let the injera do the rest.
+
+→ [View Bole Ethiopian Cuisine](/restaurants/bole-ethiopian)
+
+### Tongue in Cheek — Payne-Phalen
+Tongue in Cheek is the most upscale entry on this list — a cocktail bar with a creative small-plates menu in the Payne-Phalen neighborhood. Vegan options rotate with the seasonal menu. It's the right choice for a date night when you want something more elevated, with some of the best cocktails in St. Paul alongside vegan-friendly food.
+
+→ [View Tongue in Cheek](/restaurants/tongue-in-cheek)
+
+---
+
+## Navigating St. Paul Neighborhoods
+
+St. Paul's geography is more sprawling than Minneapolis, but here's how to think about it for vegan dining:
+
+**Grand Avenue / Summit-University:** The main restaurant corridor. Walk-friendly, with Everest, Shish, Khyber Pass, and Cafe Latte all within a few blocks of each other. J. Selby's is a 10-minute walk east.
+
+**Cathedral Hill:** J. Selby's anchors this neighborhood. Quiet and residential — great for a focused dinner destination.
+
+**Frogtown:** Best for Vietnamese food. Ngon and iPho by Saigon are both here. The neighborhood has a strong Southeast Asian food culture that rewards exploration.
+
+**Hamline-Midway:** Eureka Compass is here. Less obvious but worth the trip for 100% vegan dining.
+
+**St. Anthony Park:** Foxy Falafel. A tucked-away neighborhood between Minneapolis and St. Paul, near the U of M Saint Paul campus.
+
+**Como:** Bole Ethiopian. Near Como Park and the conservatory — pair with a walk.
+
+---
+
+## Tips for Vegan Dining in St. Paul
+
+**1. Grand Avenue is your anchor.** For a vegan-friendly dining day in St. Paul, start on Grand Ave. You can walk between Everest, Shish, Khyber Pass, and Cafe Latte in 15 minutes.
+
+**2. J. Selby's is non-negotiable if you haven't been.** It's one of the best vegan restaurants in the Twin Cities, full stop. The Cathedral Hill location is worth the drive from anywhere in the metro.
+
+**3. Vietnamese restaurants are your best vegan-friendly bet.** Frogtown's Vietnamese spots have naturally vegan-friendly menus — just specify vegetable broth for pho.
+
+**4. Ethnic cuisine is where St. Paul shines.** Ethiopian (Bole), Nepali/Indian (Everest), Afghan (Khyber Pass), and Vietnamese (Ngon, iPho) are all categories where St. Paul competes with or beats Minneapolis.
+
+**5. Cross the river for Minneapolis options.** St. Paul and Minneapolis are 15 minutes apart. If you're eating in St. Paul, Minneapolis' larger vegan scene is always accessible — see our [Minneapolis vegan guide](/blog/best-vegan-restaurants-minneapolis-2026) for the full picture.
+
+---
+
+Browse the [full restaurant directory](/restaurants) to filter by neighborhood, cuisine, and dietary status — or check out our [vegetarian guide to Minneapolis](/blog/vegetarian-restaurants-minneapolis) if you're heading to the west side of the river.
+`
   }
 ];
 
