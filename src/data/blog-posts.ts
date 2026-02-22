@@ -3356,6 +3356,275 @@ The little moment that stuck with me? We ordered a cookies and cream shake to sh
 - **Our Rating:** 10/10
 
 *Reviewed by Tia — a real visit, real opinions, real photos.*`
+  },
+  {
+    slug: "vegetarian-restaurants-minneapolis",
+    title: "Vegetarian Restaurants Minneapolis: 20+ Best Spots in 2026",
+    description: "The best vegetarian restaurants in Minneapolis MN — from fully vegetarian cafes to vegan-friendly hotspots. Updated for 2026 with neighborhood guides and must-order dishes.",
+    publishedAt: "2026-02-22",
+    updatedAt: "2026-02-22",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegetarian restaurants", "minneapolis", "plant-based", "guide", "2026"],
+    readingTime: "12 min read",
+    tldr: "Best vegetarian restaurants in Minneapolis: Hard Times Cafe (punk-rock diner, cash only, all-day breakfast), Seward Cafe (worker-owned co-op with legendary biscuits & gravy), Modern Times Cafe (Powderhorn's greasy-spoon vibes), Foxy Falafel (crispy falafel wraps in St. Anthony Park), The Herbivorous Butcher (America's first vegan butcher shop), and Reverie Cafe + Bar (best for omnivore skeptics). Minneapolis is one of the best cities in the Midwest for vegetarian dining.",
+    faqs: [
+      {
+        question: "What are the best vegetarian restaurants in Minneapolis?",
+        answer: "The top vegetarian restaurants in Minneapolis include Hard Times Cafe (Seward), Seward Cafe (Seward), Modern Times Cafe (Powderhorn), Foxy Falafel (St. Anthony Park), The Herbivorous Butcher (Northeast), and Reverie Cafe + Bar (Powderhorn). Many more vegan restaurants serve 100% plant-based menus, making them perfect for vegetarians."
+      },
+      {
+        question: "Are there any fully vegetarian restaurants in Minneapolis?",
+        answer: "Yes! Minneapolis has several fully vegetarian or vegan restaurants, including Hard Times Cafe, Seward Cafe, Modern Times Cafe, Foxy Falafel, The Herbivorous Butcher, Lulu EthioVegan, J. Selby's, and Reverie Cafe + Bar. Many more restaurants offer extensive vegetarian menus."
+      },
+      {
+        question: "Where can I find vegetarian food in Minneapolis near me?",
+        answer: "Vegetarian restaurants are spread across Minneapolis neighborhoods. In Seward/Cedar-Riverside: Hard Times Cafe and Seward Cafe. In Powderhorn: Modern Times Cafe and Reverie. In Northeast: The Herbivorous Butcher. In Uptown/Lyn-Lake: French Meadow Bakery. In North Loop: Black Sheep Pizza. Use our neighborhood filter to find spots near you."
+      },
+      {
+        question: "Is Minneapolis a good city for vegetarians?",
+        answer: "Yes — Minneapolis consistently ranks among the best cities in the Midwest for vegetarian dining. The city has a thriving plant-based food scene with fully vegetarian restaurants in nearly every neighborhood, strong community support for plant-based eating, and an increasing number of restaurants adding dedicated vegetarian menus."
+      },
+      {
+        question: "What vegetarian-friendly restaurants are open late in Minneapolis?",
+        answer: "Hard Times Cafe has late hours and is cash-only. Reverie Cafe + Bar serves a full plant-based menu alongside craft beer and cocktails, making it a great late-night option. Seward Cafe also has extended weekend hours. Many restaurants in the Uptown and Northeast neighborhoods stay open late."
+      },
+      {
+        question: "Can vegetarians eat at vegan restaurants in Minneapolis?",
+        answer: "Absolutely — vegan restaurants are vegetarian-friendly by definition. 100% vegan spots like J. Selby's, The Herbivorous Butcher, Lulu EthioVegan, and Reverie Cafe + Bar are perfect for vegetarians who may also enjoy eggs and dairy, since vegan menus contain no animal products at all."
+      }
+    ],
+    relatedRestaurants: ["hard-times-cafe", "seward-cafe", "modern-times", "foxy-falafel", "herbivorous-butcher", "reverie-cafe-bar", "j-selbys", "french-meadow"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-bakeries-minneapolis"],
+    content: `
+## The Best Vegetarian Restaurants in Minneapolis, MN (2026)
+
+Minneapolis is one of the Midwest's best cities for vegetarian dining — and it's not even close.
+
+With a dense cluster of fully vegetarian and vegan restaurants spread across every neighborhood, plus dozens of vegan-friendly spots that take plant-based eating seriously, Minneapolis punches way above its weight. Whether you're a lifelong vegetarian, trying to eat less meat, or just dragged here by a vegan friend, you're going to eat well.
+
+Here's the definitive guide to the best vegetarian restaurants in Minneapolis for 2026 — covering everything from punk-rock diners to upscale vegan comfort food.
+
+---
+
+## Fully Vegetarian Restaurants in Minneapolis
+
+These spots serve no meat whatsoever — safe havens for vegetarians who don't want to parse ingredient lists.
+
+### Hard Times Cafe — Punk Rock Diner Vibes
+
+**Cedar-Riverside | $ | Cash Only | ⭐ 4.5**
+
+Since 1992, [Hard Times Cafe](/restaurants/hard-times-cafe) has been the beating heart of Minneapolis' alternative dining scene. The hand-painted bright green facade, anarchist posters, and cash-only policy are part of the charm. The food? Genuinely great.
+
+Everything on the menu is vegetarian, with most dishes easily made vegan.
+
+**Must-order:**
+- **Vegan Biscuits & Gravy** — The mushroom gravy is rich, thick, and "good enough to take home"
+- **Helter Skelter** — Hash browns and tofu scramble, a classic
+- **Big Fat Pancake** — Served all day, because every hour is breakfast hour
+- **Tempeh Reuben** — "Fantastic" and filling
+- **Baked goods** — Outstanding, rotating daily
+
+*"Classic diner food and vibes but vegetarian and vegan-ified."* — Mariah Mckenzie
+
+**The deal:** Bring cash. There's an ATM inside but skip the fee. Everything is made from scratch, so there may be a wait — it's worth it.
+
+---
+
+### Seward Cafe — Worker-Owned Community Staple
+
+**Seward | $ | ⭐ 4.6 (600+ reviews)**
+
+A worker-owned cooperative since 1974, [Seward Cafe](/restaurants/seward-cafe) is Minneapolis' most beloved neighborhood institution. The menu is almost entirely vegetarian, with extensive vegan options marked clearly.
+
+**Must-order:**
+- **Vegan Biscuits & Gravy** — The reason Seward Cafe has a cult following
+- **Tofu Scramble** — With smoky tempeh that is "hands-down the favorite part"
+- **Fluffy Pancakes** — With blueberries, chocolate chips, tahini, or jam
+- **Monster Mash** (drink) — Hot apple cider, miso caramel, coconut whip
+- **Vegan Breakfast Burrito** — "INCREDIBLE" (their caps, not ours)
+
+*"This has always been a favorite place because they have vegan biscuits and gravy on the menu."* — Alane Klein
+
+They have a lovely garden patio for summer dining and emphasize local, organic ingredients throughout. Worker-owned means the people making your food have a stake in doing it right.
+
+---
+
+### Modern Times Cafe — Greasy Spoon with Progressive Politics
+
+**Powderhorn | $ | ⭐ 4.7 (400+ reviews)**
+
+Punk cafes forever. [Modern Times Cafe](/restaurants/modern-times) has the greasy-spoon aesthetic locked down — but the food is vegetarian, the politics are on the walls, and the tempeh bacon actually slaps.
+
+Perfect for the hungover weekend brunch, the weekday lunch, or any time you need a veggie burger and a strong coffee.
+
+**Must-order:**
+- **Tempeh Bacon BLT** — The real reason people come back
+- **Veggie Burger** — "Better than I expected and I expected a lot"
+- **Morning scramble** — Comfort food done right
+- **Any soup** — Rotating daily, always good
+
+*"Punk cafes 4 ever! Love all the vegan options while still fulfilling my greasy spoon cravings."* — Emily Mills
+
+---
+
+### Foxy Falafel — Crispy, Fresh, Fast
+
+**St. Anthony Park | $ | ⭐ 4.6**
+
+[Foxy Falafel](/restaurants/foxy-falafel) is everything a falafel joint should be: crispy on the outside, fluffy inside, wrapped in fresh pita with sauces that make you want to order a second. The menu is fully vegetarian, with vegan options clearly labeled.
+
+**Must-order:**
+- **Classic Falafel Wrap** — The standard-setter. Crispy falafel, tahini, pickled veg, herbs
+- **Falafel Bowl** — For when you want the same thing but in a bowl
+- **Sweet Potato Falafel** — The twist that works
+- **Hummus Plate** — Fresh, house-made, with warm pita
+
+The St. Anthony Park location has a neighborhood-coffee-shop feel: local art, community events, and regulars who know the staff by name.
+
+---
+
+## 100% Vegan Restaurants (Perfect for Vegetarians Too)
+
+These spots serve zero animal products — which means zero cross-contamination concerns and menus that are 100% vegetarian-safe by default.
+
+### The Herbivorous Butcher — America's First Vegan Butcher Shop
+
+**Northeast Minneapolis | $$ | ⭐ 4.6**
+
+[The Herbivorous Butcher](/restaurants/herbivorous-butcher) is a Minneapolis landmark. Opened in 2016 by siblings Aubry and Kale Walch, it was the first vegan butcher shop in the United States. It's also just... really good.
+
+The deli counter has house-made plant meats and cheeses that rival (and sometimes beat) their animal-based counterparts.
+
+**Must-order:**
+- **Korean BBQ Ribs** — Smoky, tender, and genuinely convincing
+- **Italian Sausage** — Snaps when you bite it like a real sausage
+- **Aged Cheddar** — Sharp, crumbly, the real deal
+- **Italian Sub** — House-made salami and provolone, Northeast's favorite lunch
+- **Grab-and-go sandwiches** — Perfect weekday lunch
+
+Weekend mornings see lines out the door. Worth it.
+
+---
+
+### Reverie Cafe + Bar — The One That Converts Omnivores
+
+**Powderhorn | $$ | ⭐ 4.7**
+
+If you're taking a skeptical meat-eater to a vegetarian restaurant, take them to [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar). They will leave a changed person.
+
+The scratch kitchen serves creative, plant-based food with real flavor: lemongrass tofu tacos, Korean BBQ mock-duck tacos, Cuban sandwiches with pulled jackfruit, and the legendary Rev Burger (tempeh, tomato jam, smoked onions, kimchi aioli). 20 craft beers on tap, mural-lined walls, and a vibe that feels like a real bar — because it is.
+
+**Must-order:**
+- **Rev Burger** — Tempeh patty, tomato jam, smoked onions, kimchi aioli. Unbeatable.
+- **Lemongrass Tofu Tacos** — Fresh, punchy, addictive
+- **Dark Chocolate Beignets** — "Vegan desserts can be transcendent"
+- **Any beer** — 20 rotating taps of craft selections
+
+For more top picks, see our [best vegan restaurants Minneapolis guide](/blog/best-vegan-restaurants-minneapolis-2026).
+
+---
+
+### J. Selby's — Comfort Food Champion
+
+**St. Paul | $$ | ⭐ 4.7 (2,900+ reviews)**
+
+Technically in St. Paul but absolutely worth the 10-minute drive. [J. Selby's](/restaurants/j-selbys) is 100% vegan and serves the kind of food that makes people forget they're eating plants.
+
+**Must-order:**
+- **Crunchwrap** — Taco Bell could never
+- **Cauliflower Wings** — The ranch dipping sauce alone is worth coming for
+- **Rev Burger** — Smoky, stacked, perfect
+- **Breakfast Burrito** — Available at brunch
+
+They use [Herbivorous Butcher](/restaurants/herbivorous-butcher) products, meaning the "meat" comes from the best vegan butcher in the country. Our [full J. Selby's review](/blog/j-selbys-review-saint-paul-vegan) has everything you need to know.
+
+---
+
+### Lulu EthioVegan — Highest-Rated in Minneapolis
+
+**Phillips | $ | ⭐ 4.9 (400+ reviews)**
+
+[Lulu EthioVegan](/restaurants/lulu-ethiovegan) is the highest-rated vegan restaurant in Minneapolis — and once you taste the injera, you'll understand why. Traditional Ethiopian food is naturally vegetarian-friendly, and Lulu's takes it to another level with complex spice blends and abundant fermented flavors.
+
+**Must-order:**
+- **Beyainatu** — Mixed vegetable plate, the sampler
+- **Tikel Gomen** — Sautéed cabbage with carrots and potatoes
+- **Red Lentil Stew** — Spiced, rich, warming
+- **Injera** — The spongy sourdough flatbread that makes everything better
+
+---
+
+## Vegetarian-Friendly Restaurants with Exceptional Options
+
+These aren't exclusively vegetarian, but they take plant-based eating seriously enough to earn a spot on this list.
+
+### French Meadow Bakery & Café — Organic Pioneer Since 1985
+
+**Uptown + Grand Avenue St. Paul | $$ | ⭐ 4.5**
+
+[French Meadow Bakery](/restaurants/french-meadow) has been doing organic, locally-sourced food since before it was trendy. The vegetarian and vegan options are extensive and consistently excellent.
+
+**The best vegetarian picks:**
+- **Tempeh Reuben** — A classic
+- **Tofu Scramble** — For breakfast or brunch
+- **Blackened Tempeh Tacos** — A lunch favorite
+- **Vegan baked goods** — Muffins, pastries, and their famous organic breads
+
+**Bonus:** Two locations (Uptown and Grand Avenue in St. Paul) and outdoor seating with a free parking lot. Rare in Minneapolis.
+
+---
+
+## Vegetarian by Neighborhood
+
+**Seward/Cedar-Riverside:**
+- [Hard Times Cafe](/restaurants/hard-times-cafe) — Cash only, all-day breakfast
+- [Seward Cafe](/restaurants/seward-cafe) — Worker-owned, garden patio
+
+**Powderhorn:**
+- [Modern Times Cafe](/restaurants/modern-times) — Greasy spoon vibes
+- [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) — Best for date night
+
+**Northeast Minneapolis:**
+- [The Herbivorous Butcher](/restaurants/herbivorous-butcher) — Vegan butcher + deli
+
+**Uptown/Lyn-Lake:**
+- [French Meadow Bakery](/restaurants/french-meadow) — Organic pioneer
+
+**St. Anthony Park:**
+- [Foxy Falafel](/restaurants/foxy-falafel) — Fresh falafel wraps
+
+**Phillips:**
+- [Lulu EthioVegan](/restaurants/lulu-ethiovegan) — Highest-rated in the city
+
+**St. Paul (worth the drive):**
+- [J. Selby's](/restaurants/j-selbys) — Comfort food champion
+
+---
+
+## Tips for Vegetarians in Minneapolis
+
+**1. Most "vegan" restaurants are vegetarian-safe.** If a restaurant is 100% vegan, it's by definition 100% vegetarian. Cross-contamination isn't a concern, and you can order anything on the menu.
+
+**2. "Vegan-friendly" means look before you order.** These restaurants have vegetarian options but may also serve meat. Check the menu or ask your server about preparation.
+
+**3. The best neighborhoods for vegetarian dining are Seward and Powderhorn.** Both have high concentrations of fully vegetarian and vegan spots within walking distance of each other.
+
+**4. Minneapolis' vegan bakery scene is underrated.** If you haven't been to [French Meadow](/restaurants/french-meadow), fix that. Our [vegan bakeries guide](/blog/vegan-bakeries-minneapolis) covers the full scene.
+
+**5. Brunch is especially strong.** Hard Times, Seward, and Modern Times form an all-day breakfast triangle that rivals cities twice Minneapolis' size. See our full [vegan brunch guide](/blog/vegan-brunch-minneapolis) for more.
+
+---
+
+## The Bottom Line
+
+Minneapolis doesn't get enough credit for its vegetarian dining scene. The city has multiple fully vegetarian and vegan restaurants in nearly every neighborhood, with food that doesn't apologize for what it is — it just tastes great.
+
+Whether you're a committed vegetarian, flexitarian, or just curious, Minneapolis has you covered. Start with Hard Times for the biscuits and gravy. End with Reverie for a beer and the Rev Burger. Everything in between is negotiable.
+
+Browse the [full restaurant directory](/restaurants) to filter by neighborhood, cuisine, and dietary preference — or check our [complete vegan guide](/blog/best-vegan-restaurants-minneapolis-2026) for the ranked list of every spot worth visiting in 2026.
+`
   }
 ];
 
