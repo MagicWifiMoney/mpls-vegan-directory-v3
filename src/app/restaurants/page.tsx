@@ -10,11 +10,17 @@ export const metadata: Metadata = {
     canonical: '/restaurants',
   },
   openGraph: {
-    title: 'Vegan Restaurants in Minneapolis | Minneapolis Vegan Directory',
+    title: 'Best Vegan Restaurants Minneapolis MN 2026 | 75+ Plant-Based Spots',
     description:
-      'Browse 75+ vegan, vegetarian, and vegan-friendly restaurants in Minneapolis and Saint Paul.',
+      'Browse 75+ vegan, vegetarian, and vegan-friendly restaurants in Minneapolis and Saint Paul. Filter by neighborhood, cuisine & price. Updated 2026.',
     type: 'website',
     url: 'https://mplsvegan.com/restaurants',
+    siteName: 'Minneapolis Vegan Directory',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Best Vegan Restaurants Minneapolis MN 2026 | 75+ Spots — MPLS Vegan',
+    description: 'Browse 75+ vegan & plant-based restaurants in Minneapolis MN. Filter by neighborhood, cuisine & price. Updated 2026.',
   },
 };
 

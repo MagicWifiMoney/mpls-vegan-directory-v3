@@ -9,8 +9,16 @@ export const metadata: Metadata = {
     canonical: '/faq',
   },
   openGraph: {
-    title: 'Vegan Dining FAQ - Minneapolis & Saint Paul',
-    description: 'Everything you need to know about eating vegan in the Twin Cities',
+    title: 'Vegan Dining FAQ Minneapolis 2026 | Twin Cities Plant-Based Guide',
+    description: 'Everything you need to know about eating vegan in Minneapolis & Saint Paul. Best restaurants, neighborhoods, tips & hidden gems. Updated 2026.',
+    type: 'website',
+    url: 'https://mplsvegan.com/faq',
+    siteName: 'Minneapolis Vegan Directory',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Vegan Dining FAQ Minneapolis 2026 | MPLS Vegan',
+    description: 'Everything you need to know about eating vegan in Minneapolis & Saint Paul. Best restaurants, neighborhoods & tips.',
   },
 };
 

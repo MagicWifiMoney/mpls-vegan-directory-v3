@@ -3,10 +3,22 @@ import Link from 'next/link';
 import { neighborhoods, restaurants } from '@/data/restaurants';
 
 export const metadata: Metadata = {
-  title: 'Vegan Restaurants by Neighborhood Minneapolis 2026',
-  description: 'Explore vegan and plant-based restaurants by neighborhood in Minneapolis and Saint Paul.',
+  title: 'Best Vegan Restaurants by Neighborhood Minneapolis 2026 | Area Guides — MPLS Vegan',
+  description: 'Find vegan & plant-based restaurants by neighborhood across Minneapolis and Saint Paul. Uptown, Northeast, Downtown, St. Paul & more — discover your neighborhood\'s best plant-based spots. Updated 2026.',
   alternates: {
     canonical: '/neighborhoods',
+  },
+  openGraph: {
+    title: 'Best Vegan Restaurants by Neighborhood Minneapolis 2026',
+    description: 'Find vegan restaurants by neighborhood across Minneapolis & Saint Paul. Uptown, Northeast, Downtown, St. Paul & more. Updated 2026.',
+    type: 'website',
+    url: 'https://mplsvegan.com/neighborhoods',
+    siteName: 'Minneapolis Vegan Directory',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Best Vegan Restaurants by Neighborhood Minneapolis 2026 | MPLS Vegan',
+    description: 'Find vegan restaurants in Uptown, Northeast, Downtown, St. Paul & every Minneapolis neighborhood. Updated 2026.',
   },
 };
 

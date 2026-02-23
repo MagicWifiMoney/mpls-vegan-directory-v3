@@ -3,15 +3,20 @@ import Link from 'next/link';
 import { blogPosts } from '@/data/blog-posts';
 
 export const metadata: Metadata = {
-  title: 'Vegan Minneapolis Blog 2026 | Dining Guides & Reviews',
-  description: 'The best vegan restaurant guides, neighborhood tours, and dining tips for Minneapolis. From brunch spots to date night ideas, we\'ve got you covered.',
+  title: 'Minneapolis Vegan Restaurant Reviews 2026 | Local Picks & Hidden Gems — MPLS Vegan',
+  description: 'Expert reviews, neighborhood guides & insider picks for vegan dining in Minneapolis. From hidden gems to must-try hotspots — your local plant-based authority. Updated 2026.',
   alternates: {
     canonical: '/blog',
   },
   openGraph: {
-    title: 'Vegan Minneapolis Blog',
-    description: 'Plant-based dining guides for Minneapolis',
+    title: 'Minneapolis Vegan Restaurant Reviews 2026 | Local Picks & Hidden Gems',
+    description: 'Expert reviews & insider picks for plant-based dining in Minneapolis. Neighborhood guides, hidden gems & must-try spots. Updated 2026.',
     type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Minneapolis Vegan Restaurant Reviews 2026 | MPLS Vegan',
+    description: 'Expert reviews & insider picks for plant-based dining in Minneapolis. Hidden gems, neighborhood guides & must-try spots.',
   },
 };
 

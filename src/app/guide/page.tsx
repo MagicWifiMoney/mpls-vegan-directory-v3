@@ -3,14 +3,22 @@ import Link from 'next/link';
 import { restaurants } from '@/data/restaurants';
 
 export const metadata: Metadata = {
-  title: 'Vegan Dining Guide | Minneapolis & Saint Paul',
-  description: 'Your complete guide to vegan restaurants in Minneapolis and Saint Paul. From brunch spots to date night destinations, find the best plant-based dining in the Twin Cities.',
+  title: 'Minneapolis Vegan Dining Guide 2026 | Brunch, Date Night & More — MPLS Vegan',
+  description: 'Your curated guide to vegan dining in Minneapolis 2026 — the best brunch spots, date night restaurants, comfort food & global cuisines. 75+ plant-based options across the Twin Cities.',
   alternates: {
     canonical: '/guide',
   },
   openGraph: {
-    title: 'Minneapolis Vegan Dining Guide',
-    description: 'From brunch to date night - your curated guide to plant-based eating in the Twin Cities',
+    title: 'Minneapolis Vegan Dining Guide 2026 | Brunch, Date Night & More',
+    description: 'Curated plant-based dining picks for Minneapolis 2026 — brunch, date night, comfort food & global flavors. 75+ spots across the Twin Cities.',
+    type: 'website',
+    url: 'https://mplsvegan.com/guide',
+    siteName: 'Minneapolis Vegan Directory',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Minneapolis Vegan Dining Guide 2026 | MPLS Vegan',
+    description: 'Curated vegan dining picks for Minneapolis — brunch, date night, comfort food & more. 75+ plant-based spots. Updated 2026.',
   },
 };
 
