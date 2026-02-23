@@ -31,6 +31,9 @@ export interface Restaurant {
   theVibe?: string;
   // Related blog posts (slugs)
   relatedBlogs?: string[];
+  // SEO overrides (optional)
+  seoTitle?: string;
+  seoDescription?: string;
 }
 
 export const restaurants: Restaurant[] = [
@@ -695,7 +698,9 @@ export const restaurants: Restaurant[] = [
     description: "A modern Vietnamese bistro on University Avenue's vibrant Asian corridor. Ngon offers extensive vegetarian options including tofu pho with rich vegetable broth, lemongrass tofu clay pot, and crispy spring rolls. The banh mi with marinated tofu is excellent—crusty baguette, pickled vegetables, jalapeño, and cilantro. Vegetable curry with coconut rice satisfies on cold Minnesota evenings. The sleek, contemporary space feels upscale but prices remain reasonable. Perfect for a nice dinner without breaking the bank.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery', 'Full Bar'],
-    coordinates: { lat: 44.9554, lng: -93.1268 }
+    coordinates: { lat: 44.9554, lng: -93.1268 },
+    seoTitle: 'Ngon Vietnamese Bistro St. Paul: Vegan Pho, Banh Mi & Menu Guide | MPLSVegan',
+    seoDescription: 'Ngon Vietnamese Bistro on University Ave St. Paul has excellent vegan options — tofu pho, marinated tofu banh mi, lemongrass clay pot & crispy spring rolls. Menu, hours & vegan guide.',
   },
   {
     id: '35',
@@ -836,7 +841,9 @@ export const restaurants: Restaurant[] = [
     description: "This unassuming strip-mall Chinese restaurant consistently delivers some of the best vegetarian Chinese food in the metro. The Buddhist's Delight (mixed vegetables with tofu) is a classic, but the menu goes far beyond basics. Crispy orange tofu rivals any General Tso's chicken. Hot and sour soup can be made vegetarian. Mapo tofu brings authentic Sichuan heat. Portions are generous and prices reasonable. The space is simple but clean. Perfect for takeout or a casual family dinner.",
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Delivery', 'Family-Style'],
-    coordinates: { lat: 44.9490, lng: -93.3480 }
+    coordinates: { lat: 44.9490, lng: -93.3480 },
+    seoTitle: 'Wok in the Park Minneapolis: Best Vegan Chinese Food, Menu & Hours',
+    seoDescription: 'Wok in the Park in Saint Louis Park serves some of the best vegan Chinese food in the Twin Cities. Crispy orange tofu, Buddhist\'s Delight, vegan mapo tofu & more. Hours, menu & ordering info.',
   },
   {
     id: '43',
@@ -896,7 +903,9 @@ export const restaurants: Restaurant[] = [
     description: "Global street food reimagined with local ingredients and creative flair. WSK's menu draws from cuisines around the world, with substantial vegan options throughout. The Yum Yum bowl with crispy tofu brings Thai flavors; falafel plates offer Mediterranean comfort. Rotating specials keep things interesting. The Lyndale location is the flagship, with additional spots around the metro. Fast-casual format means quick service without sacrificing quality. A reliable option for flavorful, globally-inspired vegan eating.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery', 'Fast Casual'],
-    coordinates: { lat: 44.9489, lng: -93.2879 }
+    coordinates: { lat: 44.9489, lng: -93.2879 },
+    seoTitle: 'World Street Kitchen Minneapolis: Vegan Options, Yum Yum Bowl & Hours | MPLSVegan',
+    seoDescription: 'World Street Kitchen (WSK) in Minneapolis has excellent vegan options — crispy tofu Yum Yum bowl, falafel plates, and rotating global specials. Hours, address & full vegan menu guide.',
   },
   {
     id: '46',
@@ -916,7 +925,9 @@ export const restaurants: Restaurant[] = [
     description: "After losing their original location in 2020, the beloved Gandhi Mahal family has returned with a quick-service concept. The extensive vegetarian menu features rich curries, biryanis, and thalis. Chana masala, palak paneer (or tofu), and vegetable korma are all excellent. The samosa chaat makes a perfect starter. Family-owned with genuine hospitality. The Longfellow community rallied around them, and the new format delivers the same beloved flavors in a faster package. A heartwarming comeback story.",
     priceRange: '$',
     features: ['Takeout', 'Delivery', 'Quick Service'],
-    coordinates: { lat: 44.9376, lng: -93.2317 }
+    coordinates: { lat: 44.9376, lng: -93.2317 },
+    seoTitle: 'Curry in a Hurry by Gandhi Mahal Minneapolis: Vegan Indian Menu, Hours & Review',
+    seoDescription: 'Gandhi Mahal\'s quick-service concept in Longfellow offers vegan-friendly Indian food — chana masala, tofu palak, vegetable korma & samosa chaat. Hours, address & full menu guide.',
   },
   {
     id: '47',
