@@ -23,6 +23,157 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "vegan-st-patricks-day-minneapolis-2026",
+    title: "Best Vegan St. Patrick's Day Restaurants & Events in Minneapolis 2026",
+    description: "Celebrate St. Patrick's Day in Minneapolis with the best vegan-friendly Irish-inspired spots, green food deals, and plant-based ways to go green this March 17.",
+    publishedAt: "2026-02-23",
+    updatedAt: "2026-02-23",
+    author: "Mia & Jay",
+    category: "seasonal",
+    tags: ["st patricks day", "vegan minneapolis", "minneapolis events", "green food", "2026"],
+    readingTime: "6 min read",
+    tldr: "St. Patrick's Day in Minneapolis is a big deal — and vegans don't have to compromise. Top picks: Herbivorous Butcher (vegan corned beef!), Hard Times Cafe (cheap, punk rock, worker-owned), Reverie Cafe (zero-waste brunch before the parade), Pizza Luce (best vegan pizza + drink specials). The Minneapolis St. Patrick's Day Parade is March 15 on Nicollet Mall at noon. Most green beer is vegan — check Barnivore.com to be sure. For staying in: make colcannon (naturally vegan), jackfruit corned beef, Irish soda bread, and Guinness (vegan since 2018).",
+    faqs: [
+      {
+        question: "Is green beer vegan?",
+        answer: "Most green beer is technically vegan — it's just lager with green food coloring. But some beers use animal-derived fining agents like isinglass. Check Barnivore.com for specific brands. Guinness has been vegan since 2018."
+      },
+      {
+        question: "Where can I get vegan corned beef in Minneapolis?",
+        answer: "The Herbivorous Butcher in the North Loop makes plant-based corned beef and other deli meats. It's the closest thing to a traditional Irish-American St. Patrick's Day plate you'll find — fully vegan."
+      },
+      {
+        question: "When is the Minneapolis St. Patrick's Day Parade 2026?",
+        answer: "The Minneapolis St. Patrick's Day Parade runs Sunday, March 15, 2026 on Nicollet Mall from 5th Street to 12th Street, starting at noon. It's the weekend before St. Patrick's Day (March 17)."
+      },
+      {
+        question: "What vegan Irish food can I make at home?",
+        answer: "Classic vegan Irish spread: colcannon (mashed potatoes with kale/cabbage — naturally vegan with plant butter), Irish soda bread (sub plant milk + apple cider vinegar for buttermilk), jackfruit slow-cooked with pickling spices as corned beef, and Guinness (vegan since 2018)."
+      }
+    ],
+    relatedRestaurants: ["herbivorous-butcher", "hard-times-cafe", "reverie-cafe-bar", "pizza-luce"],
+    relatedPosts: ["valentines-day-vegan-date-night-minneapolis-2026"],
+    content: `# Best Vegan St. Patrick's Day in Minneapolis 2026
+
+St. Patrick's Day in Minneapolis is a big deal — the Twin Cities has a strong Irish heritage, a packed parade, and bars that go green wall-to-wall by noon. The good news for vegans: you don't have to compromise. Minneapolis's thriving plant-based scene means there are plenty of ways to celebrate March 17 without touching a thing that had a heartbeat.
+
+Here's your guide to vegan-friendly St. Patrick's Day dining, events, and green food in Minneapolis for 2026.
+
+---
+
+## 🍀 The Minneapolis St. Patrick's Day Parade
+
+**When:** Sunday, March 15, 2026 (parade runs the weekend before St. Patrick's Day)
+**Route:** Nicollet Mall from 5th Street to 12th Street, starting at noon
+**Vegan-friendly:** Yes — street food vendors line the route; look for Herbivorous Butcher pop-ups and local vegan vendors
+
+The Minneapolis St. Patrick's Day Parade is one of the largest in the Upper Midwest, drawing 50,000+ spectators. If you're going, eat before you go or scout the vendor lineup — options improve every year as plant-based street food expands.
+
+---
+
+## 🥗 Best Vegan-Friendly Spots for St. Patrick's Day Eats
+
+### 1. The Herbivorous Butcher — North Loop
+**Address:** 507 1st Ave NE, Minneapolis
+**Why it's perfect:** Fully vegan deli/butcher serving housemade plant-based meats and cheeses. Their corned "beef" and cabbage situation is the closest thing to a traditional Irish-American St. Patrick's Day plate you'll find in Minneapolis — without any animals.
+**Expect:** Long lines on parade day. Order online for pickup if possible.
+**Price range:** $$ | Fully vegan
+
+### 2. Hard Times Cafe — Stadium Village / Dinkytown
+**Address:** 1821 Riverside Ave, Minneapolis
+**Why it's perfect:** Worker-owned cooperative with a huge vegan-friendly menu and punk rock energy that fits the holiday. Affordable, filling, and the kind of place that doesn't make veganism a performance.
+**Order:** The vegan breakfast burrito, veggie hash
+**Price range:** $ | Many vegan options
+
+### 3. Reverie Cafe + Bar — North Loop
+**Address:** 904 N 3rd St, Minneapolis
+**Why it's perfect:** Zero-waste cafe with extensive plant-based options. Their seasonal specials often include green-themed drinks in March. Perfect for brunch before the parade.
+**Order:** Seasonal lattes, vegan pastries
+**Price range:** $$ | Many vegan options
+
+### 4. W.A. Frost — Cathedral Hill, St. Paul
+*(Worth the 10-minute drive)*
+**Address:** 374 Selby Ave, St. Paul
+**Why it's perfect:** Upscale restaurant with a beautiful Victorian bar setting — perfect for a St. Patrick's Day dinner that feels special. Strong plant-based menu options; call ahead to ask about seasonal vegan specials.
+**Price range:** $$$ | Vegan-accommodating
+
+### 5. Pizza Luce — Multiple Minneapolis Locations
+**Why it's perfect:** Minneapolis institution with the best vegan pizza in town. On St. Patrick's Day they go all out with drink specials — and their vegan cheese and meat options are genuinely excellent.
+**Locations:** Seward, Downtown, Stadium Village, Uptown
+**Order:** Vegan Athena pizza, vegan Ranch and Roll
+**Price range:** $$ | Extensive vegan options
+
+---
+
+## 🍺 Green Drinks Done Vegan
+
+Most green beer is technically vegan (lager + food coloring). But if you want to be thorough:
+
+- **Surly Brewing** (Brooklyn Park): Many of their beers are vegan-friendly. Check Barnivore.com for specifics.
+- **Indeed Brewing** (NE Minneapolis): Great taproom vibe for St. Patrick's Day. Most IPAs and lagers are vegan.
+- **Modist Brewing** (North Loop): Small-batch, most beers vegan. Check with staff.
+
+**Non-alcoholic green options:**
+- Matcha lattes (naturally green, celebratory)
+- Mint-infused sparkling water with lime
+- Spirulina smoothies at local juice bars
+
+---
+
+## 🎯 St. Patrick's Day Vegan Meal Ideas at Home
+
+Can't make it out? Here's how to do a vegan St. Patrick's Day spread at home:
+
+### Traditional Irish-Inspired Vegan Plate
+- **Vegan corned beef substitute:** Herbivorous Butcher sells it — or use jackfruit slow-cooked with pickling spices
+- **Colcannon:** Classic Irish mashed potatoes with kale or cabbage (naturally vegan with plant butter)
+- **Irish soda bread:** Most recipes are vegan with simple substitutions (plant milk + apple cider vinegar for buttermilk)
+- **Guinness:** Technically vegan since 2018 (they switched from isinglass filtration)
+
+### Green Food for a Party Table
+- Guacamole and chips
+- Edamame
+- Cucumber and hummus bites
+- Spinach dip (vegan version with cashew cream)
+- Pistachio pudding parfaits (use coconut milk)
+
+---
+
+## 📍 Minneapolis St. Patrick's Day Events 2026
+
+**The IOAA (Irish Organization of America) Parade**
+- Date: March 15, 2026 | Nicollet Mall | Starts noon
+- Free to watch, family-friendly
+
+**Bar Crawls**
+Many Minneapolis bars organize St. Patrick's Day bar crawls starting the weekend before. Check:
+- The Exchange Bar & Grill — Nicollet Mall
+- Kieran's Irish Pub — Downtown Minneapolis (classic Irish pub)
+- Molly Quinn's — Long Lake (worth the drive for the vibe)
+
+*Note: Most bar crawl tickets are sold on Eventbrite in early March.*
+
+---
+
+## 🌱 Why Minneapolis Is Great for Vegan St. Patrick's Day
+
+Minneapolis consistently ranks as one of the most vegan-friendly cities in America — and March is a great time to be here. The winter is winding down, the parade energy is high, and the city's restaurant scene is creative enough to make plant-based Irish food genuinely fun.
+
+The Herbivorous Butcher alone makes Minneapolis a destination for vegan St. Patrick's Day — no other city in the country has a fully vegan butcher shop doing Irish-American comfort food like that.
+
+---
+
+## Quick Links
+- **Herbivorous Butcher:** [herbivorebutcher.com](https://herbivorebutcher.com)
+- **Minneapolis St. Patrick's Day Parade:** search "Minneapolis St Patrick's Day Parade 2026" for updated route
+- **Barnivore (is my beer vegan?):** [barnivore.com](https://barnivore.com)
+- **More Minneapolis vegan restaurants:** [mplsvegan.com](https://mplsvegan.com)
+
+---
+
+*Published February 23, 2026 | Updated annually*`
+  },
+  {
     slug: "valentines-day-vegan-date-night-minneapolis-2026",
     title: "Vegan Valentine's Date Night in Minneapolis: 2026 Guide",
     description: "Valentine's Day is Saturday! Here are the most romantic vegan and vegan-friendly restaurants in Minneapolis for 2026, plus reservation tips and what to order.",
