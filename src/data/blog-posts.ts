@@ -23,6 +23,171 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "vegan-mothers-day-brunch-minneapolis-2026",
+    title: "Best Vegan Mother's Day Brunch in Minneapolis 2026 | Plant-Based May Dining",
+    description: "Celebrate Mom plant-based style! Find the best vegan Mother's Day brunch spots in Minneapolis 2026 — from J. Selby's indulgent brunch to Reverie's gorgeous ambiance. Mother's Day is May 11.",
+    publishedAt: "2026-02-23",
+    updatedAt: "2026-02-23",
+    author: "Mia & Jay",
+    category: "seasonal",
+    tags: ["mother's day", "mother's day brunch", "vegan minneapolis", "brunch", "2026", "spring", "may"],
+    readingTime: "6 min read",
+    tldr: "Best vegan Mother's Day brunch in Minneapolis 2026: J. Selby's (fully vegan, indulgent brunch — reserve 3-4 weeks ahead), Reverie Cafe (beautiful ambiance, 100% vegan), Crepe & Spoon (elegant vegan crepes, perfect for a special occasion), French Meadow (plant-based options, great for mixed vegan/non-vegan families). Mother's Day is May 11, 2026. Popular spots fill up fast — reserve by mid-April.",
+    faqs: [
+      {
+        question: "What Minneapolis restaurants are fully vegan for Mother's Day brunch?",
+        answer: "J. Selby's (St. Paul) is fully vegan and serves an outstanding indulgent brunch — perfect for a special Mother's Day celebration. Reverie Cafe (South Minneapolis) is 100% vegan with beautiful ambiance, ideal for making Mom feel special. Crepe & Spoon (Uptown) is 100% vegan with elegant savory and sweet crepes. The Herbivorous Butcher is great for a Mother's Day gift or at-home celebration."
+      },
+      {
+        question: "When is Mother's Day 2026?",
+        answer: "Mother's Day 2026 falls on Sunday, May 11. Popular brunch spots — especially fully vegan restaurants — fill up 3-4 weeks in advance. Make reservations by mid-April to secure your preferred time slot. Reverie and J. Selby's are particularly popular for special occasions."
+      },
+      {
+        question: "What are the best vegan-friendly restaurants for Mother's Day in Minneapolis?",
+        answer: "For mixed vegan/non-vegan families, French Meadow Bakery & Cafe has strong plant-based options in an elegant setting and accommodates all dietary preferences. Common Roots Cafe is great for a neighborhood brunch with seasonal, locally sourced ingredients. Wedge Table offers farm-to-table dining with plenty of vegan options for a more upscale Mother's Day dinner."
+      },
+      {
+        question: "Where can I get a vegan Mother's Day gift in Minneapolis?",
+        answer: "The Herbivorous Butcher (North Loop) creates beautiful Mother's Day gift sets — vegan charcuterie, specialty meats, and artisan items. Wedge Co-op and Seward Co-op carry vegan chocolates, specialty foods, and locally made gift items. Glam Doll Donuts (Whittier) sells beautiful vegan donuts that make a fun and delicious Mother's Day treat."
+      },
+      {
+        question: "Do Minneapolis vegan restaurants take reservations for Mother's Day?",
+        answer: "Yes — and you should make them as early as possible for Mother's Day. J. Selby's, Reverie, French Meadow, and Crepe & Spoon all take reservations. Hard Times Cafe is walk-in only. Popular vegan spots fill up significantly on Mother's Day weekend, so aim to book 3-4 weeks ahead (by mid-April for May 11)."
+      }
+    ],
+    relatedRestaurants: ["j-selbys", "reverie-cafe-bar", "crepe-and-spoon", "french-meadow", "herbivorous-butcher", "glam-doll-donuts"],
+    relatedPosts: ["vegan-brunch-minneapolis", "vegan-easter-brunch-minneapolis-2026", "best-vegan-restaurants-minneapolis-2026", "vegan-food-minneapolis"],
+    content: `# Best Vegan Mother's Day Brunch in Minneapolis 2026
+
+Mother's Day 2026 is Sunday, May 11 — and Minneapolis has a genuinely outstanding vegan restaurant scene to celebrate the occasion in style. Whether Mom is fully plant-based, vegan-curious, or you're navigating a mixed dietary group, this guide covers the best options for a memorable vegan Mother's Day brunch in the Twin Cities.
+
+Planning ahead? Read our [best vegan brunch guide](/blog/vegan-brunch-minneapolis) or [top vegan restaurants in Minneapolis](/blog/best-vegan-restaurants-minneapolis-2026) for the full picture.
+
+---
+
+## 🌸 Reserve Early — Mother's Day Is Busy
+
+Mother's Day is one of the busiest restaurant days of the year. Fully vegan restaurants with a reputation for special occasions fill up particularly fast. **Reserve by mid-April** to guarantee your first-choice spot for May 11.
+
+---
+
+## Best Fully Vegan Brunch Spots for Mother's Day
+
+### 1. [J. Selby's](/restaurants/j-selbys) — St. Paul (Cathedral Hill)
+**Address:** 169 Western Ave N, St. Paul
+**The pick for:** The vegan mom who deserves an indulgent, special-occasion brunch
+
+J. Selby's is the Twin Cities' most beloved fully vegan brunch restaurant — and Mother's Day is exactly the kind of occasion it was made for. Expect comfort-food brunch at its finest: vegan chicken and waffles, loaded tofu scramble with seasonal vegetables, housemade pastries, incredible vegan French toast, and a rotating menu that always impresses.
+
+The atmosphere is warm and welcoming, the service is excellent, and everything on the menu is 100% plant-based — so Mom never has to navigate "can you make this vegan?" conversations.
+
+**Reservations:** Essential for Mother's Day — book 3-4 weeks ahead
+**Price range:** $$ | 100% vegan
+**Hours:** Brunch/lunch service — check Instagram for Mother's Day hours
+
+---
+
+### 2. [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) — South Minneapolis (Powderhorn)
+**Address:** 1517 E 35th St, Minneapolis
+**The pick for:** Beautiful ambiance + 100% vegan menu
+
+Reverie is one of Minneapolis's most atmospheric restaurants — exposed brick, natural light, and a beautifully curated space that makes any occasion feel special. The fact that it's 100% vegan is almost a bonus.
+
+The menu leans creative and seasonal: expect inventive savory dishes, house-baked pastries, excellent coffee drinks, and a cocktail/mocktail menu that's perfect for a Mother's Day celebration. Reverie is one of those rare spots where the food *and* the vibe both deliver on a special day.
+
+**Reservations:** Highly recommended for Mother's Day weekend
+**Price range:** $$ | 100% vegan
+**Neighborhood:** Powderhorn / South Minneapolis
+
+---
+
+### 3. [Crepe & Spoon](/restaurants/crepe-and-spoon) — Uptown
+**Address:** 3244 Hennepin Ave S, Minneapolis
+**The pick for:** Elegant brunch, fully vegan, special-occasion feel
+
+Crepe & Spoon is Minneapolis's fully vegan crêperie — and its elegant, café-bistro atmosphere makes it a natural choice for Mother's Day. Both savory and sweet crêpes are on the menu: think roasted vegetable savory options and fruit-forward sweet crêpes for a quintessential brunch spread.
+
+The intimate, European-café vibe works beautifully for a Mother's Day celebration — especially if Mom enjoys a leisurely, unhurried brunch experience.
+
+**Price range:** $$ | 100% vegan
+**Location:** Uptown, near Bde Maka Ska
+
+---
+
+## Great Vegan-Friendly Options (Mixed Groups Welcome)
+
+### 4. [French Meadow Bakery & Cafe](/restaurants/french-meadow) — Whittier/Lyndale
+**Address:** 2610 Lyndale Ave S, Minneapolis
+**The pick for:** Mixed vegan/non-vegan families, elegant setting
+
+French Meadow has been a Minneapolis institution since 1985 — organic, locally sourced, and genuinely committed to plant-based cooking. The vegan and gluten-free options are plentiful and excellent, making it ideal when the Mother's Day group includes non-vegans.
+
+The space is spacious and comfortable, service is polished, and the brunch menu covers everything from hearty scrambles to lighter options and baked goods. A reliable, crowd-pleasing choice.
+
+**Price range:** $$ | Vegan-Friendly
+**Hours:** Brunch daily — popular on weekends, reservations recommended
+
+---
+
+### 5. [Wedge Table](/restaurants/wedge-table) — Lyndale
+**The pick for:** Farm-to-table Mother's Day dinner
+
+If you're celebrating Mother's Day with a dinner rather than brunch, Wedge Table is the Twin Cities' premier farm-to-table dining experience with genuine commitment to plant-based options. The seasonal menu highlights local farmers and producers, and vegan dishes are thoughtfully prepared rather than an afterthought.
+
+**Price range:** $$$ | Vegan-Friendly
+**Note:** More dinner-appropriate; check seasonal brunch availability
+
+---
+
+### 6. [Common Roots Cafe](/restaurants/common-roots-cafe) — Uptown
+**The pick for:** Neighborhood brunch, sustainable and local
+
+A neighborhood gem that's been doing sustainable, locally sourced brunch for years. Common Roots has solid vegan options and a relaxed, welcoming atmosphere that's perfect for a casual Mother's Day brunch without the reservation pressure of bigger spots.
+
+**Price range:** $ | Vegan-Friendly
+
+---
+
+## 🎁 Mother's Day Vegan Gift Ideas in Minneapolis
+
+**[The Herbivorous Butcher](/restaurants/herbivorous-butcher)** — America's first vegan butcher shop creates beautiful Mother's Day gift sets: housemade seitan, vegan charcuterie boards, and specialty items. Order online or visit the North Loop shop. Perfect for the vegan mom who loves to cook.
+
+**Glam Doll Donuts** (2605 Nicollet Ave) — Beautiful, creative vegan donuts that make a delightful and Instagram-worthy Mother's Day treat. The rotating seasonal flavors often include spring-inspired options.
+
+**Wedge Co-op / Seward Co-op** — Both carry vegan chocolates, locally made gift items, specialty foods, and everything you need to build a beautiful vegan brunch at home.
+
+---
+
+## Making Mother's Day Brunch at Home
+
+If you'd rather celebrate at home (or supplement restaurant reservations with a home element), here's a simple vegan Mother's Day brunch spread:
+
+**The Menu:**
+- **Savory:** Tofu scramble with spring asparagus and mushrooms
+- **Sweet:** Vegan French toast with strawberry-rhubarb compote (rhubarb peaks in May)
+- **Bread:** Herbivorous Butcher seitan sausages or vegan bacon
+- **Drinks:** Mimosas (most sparkling wines are vegan — check Barnivore.com), fresh-squeezed OJ, oat milk lattes
+- **Dessert:** Glam Doll Donuts picked up the morning of
+
+**Spring ingredient to highlight:** Rhubarb and asparagus both peak in May — both are naturally vegan and make beautiful seasonal additions to a Mother's Day brunch spread.
+
+---
+
+## When to Make Reservations
+
+| Restaurant | Reservation Type | Book By |
+|-----------|-----------------|---------|
+| J. Selby's | OpenTable / direct | Mid-April |
+| Reverie Cafe | Direct / Resy | Mid-April |
+| Crepe & Spoon | Direct | Late April |
+| French Meadow | OpenTable | Late April |
+| Hard Times Cafe | Walk-in only | — |
+
+---
+
+*Happy Mother's Day from Minneapolis's plant-based community! Looking for more seasonal vegan guides? Check our [vegan Easter brunch guide](/blog/vegan-easter-brunch-minneapolis-2026) and [best Minneapolis vegan restaurants](/blog/best-vegan-restaurants-minneapolis-2026).*`,
+  },
+  {
     slug: "vegan-easter-brunch-minneapolis-2026",
     title: "Best Vegan Easter Brunch in Minneapolis 2026 | Plant-Based Easter Dining",
     description: "Find the best vegan Easter brunch spots in Minneapolis for 2026. From J. Selby's indulgent brunch to Herbivorous Butcher Easter specials — celebrate plant-based on April 20.",
@@ -56,7 +221,7 @@ export const blogPosts: BlogPost[] = [
       }
     ],
     relatedRestaurants: ["j-selbys", "herbivorous-butcher", "reverie-cafe-bar", "french-meadow", "hard-times-cafe"],
-    relatedPosts: ["vegan-brunch-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-st-patricks-day-minneapolis-2026", "vegan-food-minneapolis"],
+    relatedPosts: ["vegan-brunch-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-mothers-day-brunch-minneapolis-2026", "vegan-st-patricks-day-minneapolis-2026", "vegan-food-minneapolis"],
     content: `# Best Vegan Easter Brunch in Minneapolis 2026
 
 Easter Sunday 2026 falls on April 20 — and Minneapolis has one of the best vegan restaurant scenes in the Midwest to celebrate with. Whether you want a fully vegan spot, a restaurant with strong plant-based options, or ideas for hosting a plant-based Easter brunch at home, this guide covers it all.
@@ -975,7 +1140,7 @@ Now stop reading and go eat. 🌱
       }
     ],
     relatedRestaurants: ["j-selbys", "hard-times-cafe", "seward-cafe", "modern-times", "french-meadow"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-easter-brunch-minneapolis-2026", "vegan-st-patricks-day-minneapolis-2026", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-mothers-day-brunch-minneapolis-2026", "vegan-easter-brunch-minneapolis-2026", "vegan-st-patricks-day-minneapolis-2026", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
     content: `
 ## Your Complete Guide to Vegan Brunch in Minneapolis
 
