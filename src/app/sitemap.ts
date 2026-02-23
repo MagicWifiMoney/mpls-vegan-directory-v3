@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next'
 import { restaurants, neighborhoods } from '@/data/restaurants'
+import { blogPosts } from '@/data/blog-posts'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://mplsvegan.com'
@@ -78,5 +79,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
-  return [...staticPages, ...restaurantPages, ...neighborhoodPages]
+  // Dynamic blog post pages
+  const blogPages: MetadataRoute.Sitemap = blogPosts.map((post) => ({
+    url: `${baseUrl}/blog/${post.slug}`,
+    lastModified: new Date(post.updatedAt),
+    changeFrequency: 'weekly' as const,
+    priority: 0.6,
+  }))
+
+  return [...staticPages, ...restaurantPages, ...neighborhoodPages, ...blogPages]
 }

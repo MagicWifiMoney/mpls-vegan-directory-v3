@@ -23,6 +23,160 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "vegan-easter-brunch-minneapolis-2026",
+    title: "Best Vegan Easter Brunch in Minneapolis 2026 | Plant-Based Easter Dining",
+    description: "Find the best vegan Easter brunch spots in Minneapolis for 2026. From J. Selby's indulgent brunch to Herbivorous Butcher Easter specials — celebrate plant-based on April 20.",
+    publishedAt: "2026-02-23",
+    updatedAt: "2026-02-23",
+    author: "Mia & Jay",
+    category: "seasonal",
+    tags: ["easter", "easter brunch", "vegan minneapolis", "brunch", "2026", "spring"],
+    readingTime: "6 min read",
+    tldr: "Best vegan Easter brunch in Minneapolis 2026: J. Selby's (fully vegan, indulgent brunch — reserve 2-3 weeks ahead), Herbivorous Butcher (Easter deli items + gift baskets, order online), Reverie Cafe (seasonal spring lattes and pastries), French Meadow (elegant plant-based options for family gatherings). Easter is April 20, 2026. Hard Times Cafe is the affordable walk-in option if everywhere else is booked.",
+    faqs: [
+      {
+        question: "What Minneapolis restaurants are fully vegan for Easter brunch?",
+        answer: "J. Selby's in St. Paul is fully vegan and serves an outstanding indulgent Easter brunch. The Herbivorous Butcher (North Loop) is 100% vegan with Easter-themed deli items and holiday gift sets. Crepe & Spoon (Uptown) is 100% vegan. For vegan-friendly Easter brunch with plant-based options, Reverie Cafe and French Meadow are excellent choices."
+      },
+      {
+        question: "Do Minneapolis vegan restaurants do Easter specials in 2026?",
+        answer: "The Herbivorous Butcher typically offers Easter-themed products, seitan roasts, and gift baskets. J. Selby's often runs seasonal brunch specials. Reverie Cafe does seasonal spring drinks and pastries. Most spots announce Easter specials on Instagram 1-2 weeks before April 20 — follow them for updates."
+      },
+      {
+        question: "When is Easter 2026?",
+        answer: "Easter Sunday 2026 falls on April 20. Popular brunch spots fill up 2-3 weeks in advance, so make reservations by early April. Hard Times Cafe doesn't take reservations — walk-in only."
+      },
+      {
+        question: "Where can I buy vegan Easter candy or a gift basket in Minneapolis?",
+        answer: "The Herbivorous Butcher puts together holiday gift sets for Easter — seitan, vegan charcuterie, and specialty items. Wedge Co-op and Seward Co-op carry vegan chocolate Easter candy (Enjoy Life, Hu Chocolate, Justin's dark chocolate). For online orders, Lagusta's Luscious vegan chocolates ship nationally."
+      },
+      {
+        question: "What's a good vegan Easter brunch menu to make at home?",
+        answer: "A great vegan Easter brunch: tofu scramble with spring asparagus and leeks, Herbivorous Butcher seitan 'ham' with maple glaze, roasted spring vegetables (asparagus is peak season in April), vegan French toast with strawberry compote, and OJ mimosas. Most Champagne and Prosecco is vegan — check Barnivore.com to confirm."
+      }
+    ],
+    relatedRestaurants: ["j-selbys", "herbivorous-butcher", "reverie-cafe-bar", "french-meadow", "hard-times-cafe"],
+    relatedPosts: ["vegan-brunch-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-st-patricks-day-minneapolis-2026", "vegan-food-minneapolis"],
+    content: `# Best Vegan Easter Brunch in Minneapolis 2026
+
+Easter Sunday 2026 falls on April 20 — and Minneapolis has one of the best vegan restaurant scenes in the Midwest to celebrate with. Whether you want a fully vegan spot, a restaurant with strong plant-based options, or ideas for hosting a plant-based Easter brunch at home, this guide covers it all.
+
+New to Minneapolis vegan dining? Explore our [complete vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026) or [best vegan brunch spots](/blog/vegan-brunch-minneapolis) for the full picture.
+
+---
+
+## 🐰 Best Fully Vegan Easter Brunch in Minneapolis
+
+### 1. [J. Selby's](/restaurants/j-selbys) — St. Paul (Cathedral Hill)
+**Address:** 169 Western Ave N, St. Paul
+**Why it's perfect for Easter:** Minneapolis/St. Paul's most beloved fully vegan brunch restaurant. Easter at J. Selby's means indulgent, comfort-food brunch: vegan chicken and waffles, loaded tofu scramble, housemade pastries, incredible vegan French toast. It's the kind of brunch that makes the holiday feel like a genuine celebration.
+**Reservations:** Essential for Easter weekend — book 2-3 weeks in advance
+**Hours:** Check Instagram for Easter Sunday hours
+**Price range:** $$ | 100% vegan
+
+### 2. [The Herbivorous Butcher](/restaurants/herbivorous-butcher) — North Loop
+**Address:** 507 1st Ave NE, Minneapolis
+**Why it's perfect for Easter:** America's first 100% vegan butcher shop does Easter right. Expect Easter-themed deli items, gift baskets, seitan roasts, and housemade plant-based charcuterie perfect for a spring spread. Their maple-glazed seitan roast is the centerpiece for a vegan Easter dinner at home.
+**Pro tip:** Order Easter items online 1-2 weeks ahead — holiday products sell out fast
+**Price range:** $$ | 100% vegan
+
+### 3. Crepe & Spoon — Uptown
+**Why it's perfect for Easter dessert:** 100% vegan, specializing in decadent housemade ice cream and sweet crepes. Not a full brunch spot, but an outstanding Easter dessert destination. Rotating seasonal flavors for spring — blueberry cardamom and coconut ash are fan favorites.
+**Price range:** $$ | 100% vegan
+
+---
+
+## 🌸 Best Vegan-Friendly Easter Brunch (Strong Plant-Based Options)
+
+### 4. [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) — North Loop
+**Address:** 904 N 3rd St, Minneapolis
+**Why it's perfect for Easter:** Zero-waste cafe with gorgeous seasonal specials — expect spring-themed lattes, floral drinks, vegan pastries, and a relaxed atmosphere perfect for Easter morning. Smaller and more intimate than a full brunch restaurant.
+**Order:** Seasonal oat milk latte, vegan croissants, avocado toast
+**Price range:** $$ | Extensive vegan options
+
+For more brunch ideas, see our complete [vegan brunch guide for Minneapolis](/blog/vegan-brunch-minneapolis).
+
+### 5. [French Meadow Bakery & Cafe](/restaurants/french-meadow) — Lyndale
+**Address:** 2610 Lyndale Ave S, Minneapolis
+**Why it's perfect for Easter:** One of Minneapolis's original organic restaurants, French Meadow has been serving vegan-friendly brunch since before it was cool. Elegant enough for a family Easter gathering, with a strong plant-based menu. Great for groups where not everyone is vegan.
+**Order:** Vegan French toast, avocado toast, housemade granola bowls, organic coffee
+**Reservations:** Recommended for Easter weekend
+**Price range:** $$ | Many vegan options
+
+### 6. [Hard Times Cafe](/restaurants/hard-times-cafe) — Stadium Village
+**Address:** 1821 Riverside Ave, Minneapolis
+**Why it's perfect for Easter backup:** No reservations, open all day, completely affordable. Worker-owned cooperative with a big vegan menu. If all the popular spots are booked, Hard Times is always there. Expect zero Easter fanfare and excellent vegan food.
+**Price range:** $ | Many vegan options
+
+---
+
+## 🌷 Vegan Easter Brunch at Home: Minneapolis Guide
+
+Hosting Easter brunch at home? Minneapolis has outstanding resources for a fully plant-based spring spread.
+
+### Where to Shop in Minneapolis for Vegan Easter
+- **The Herbivorous Butcher** (North Loop) — Holiday seitan roasts, vegan charcuterie, gift sets. Order online to guarantee availability.
+- **Wedge Co-op** (Lyndale) — Best selection of vegan specialty items, local organic spring produce, vegan chocolate Easter candy
+- **Seward Co-op** (Franklin Ave + St. Paul) — Bulk section, local produce, vegan Easter candy
+- **Mississippi Market** (St. Paul) — Great for produce, specialty items, vegan deli
+
+### Spring Easter Vegan Menu
+**Main course:**
+- Herbivorous Butcher seitan roast with maple glaze (serves 6)
+- Roasted spring vegetables: asparagus, radishes, snap peas (peak season in April)
+
+**Brunch staples:**
+- Tofu scramble with spring asparagus, leeks, and herbs
+- Vegan French toast with strawberry-rhubarb compote
+
+**Sides:**
+- Fruit salad with fresh strawberries (in season by Easter)
+- Mimosas — most Champagne and Prosecco is vegan, check Barnivore.com to confirm
+
+**Dessert:**
+- Crepe & Spoon pints (delivery or pickup) — blueberry cardamom or salted caramel
+- Vegan chocolate Easter candy from local co-ops
+
+### Vegan Easter Candy in Minneapolis
+- **Wedge Co-op / Seward Co-op**: Carry Enjoy Life, Hu Chocolate, and Justin's dark chocolate eggs
+- **Target**: Growing vegan Easter candy selection each year
+- **Online**: Lagusta's Luscious vegan chocolates are exceptional and ship nationally
+
+---
+
+## 📍 Easter Activities in Minneapolis 2026
+
+**Easter Sunday 2026:** April 20
+
+Minneapolis Easter activities:
+- **Minnehaha Park** — Classic Easter morning walk; the falls are especially beautiful in spring
+- **Minneapolis Sculpture Garden** — Free, outdoor, perfect for a post-brunch stroll
+- **Midtown Global Market** — Check for Easter market events in April
+- **Local brewery Easter pop-ups** — Many Minneapolis breweries do Easter Sunday brunch events; check event listings in early April
+
+---
+
+## 🥂 Vegan Easter Brunch Planning Tips
+
+**Book early.** J. Selby's and French Meadow are popular on Easter Sunday — reservations open 2-3 weeks before April 20. Hard Times Cafe is always walk-in.
+
+**Check Instagram for specials.** The Herbivorous Butcher, Reverie Cafe, and J. Selby's typically announce Easter specials and seasonal items 1-2 weeks ahead. Worth following all three.
+
+**Consider a two-stop Easter.** Brunch at J. Selby's or French Meadow → dessert at Crepe & Spoon. That's a perfect Minneapolis vegan Easter day.
+
+**Order Herbivorous Butcher early.** Holiday products sell out — Easter gift sets and seitan roasts typically go up in late March. Online orders are easiest.
+
+---
+
+## More Minneapolis Vegan Guides
+
+- 🍳 [Best Vegan Brunch in Minneapolis](/blog/vegan-brunch-minneapolis) — Full brunch guide with 10+ spots
+- 🥗 [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) — The complete directory
+- 🍀 [Vegan St. Patrick's Day Minneapolis 2026](/blog/vegan-st-patricks-day-minneapolis-2026) — March vegan guide + parade tips
+- 🌿 [Vegan Food Minneapolis: The Complete Guide](/blog/vegan-food-minneapolis) — By category: comfort food, Ethiopian, pizza & more
+`,
+  },
+  {
     slug: "vegan-st-patricks-day-minneapolis-2026",
     title: "Best Vegan St. Patrick's Day Restaurants & Events in Minneapolis 2026",
     description: "Celebrate St. Patrick's Day in Minneapolis with the best vegan-friendly Irish-inspired spots, green food deals, and plant-based ways to go green this March 17.",
@@ -52,12 +206,12 @@ export const blogPosts: BlogPost[] = [
       }
     ],
     relatedRestaurants: ["herbivorous-butcher", "hard-times-cafe", "reverie-cafe-bar", "pizza-luce"],
-    relatedPosts: ["valentines-day-vegan-date-night-minneapolis-2026"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "vegan-easter-brunch-minneapolis-2026", "vegan-food-minneapolis", "vegan-comfort-food-minneapolis"],
     content: `# Best Vegan St. Patrick's Day in Minneapolis 2026
 
 St. Patrick's Day in Minneapolis is a big deal — the Twin Cities has a strong Irish heritage, a packed parade, and bars that go green wall-to-wall by noon. The good news for vegans: you don't have to compromise. Minneapolis's thriving plant-based scene means there are plenty of ways to celebrate March 17 without touching a thing that had a heartbeat.
 
-Here's your guide to vegan-friendly St. Patrick's Day dining, events, and green food in Minneapolis for 2026.
+Here's your guide to vegan-friendly St. Patrick's Day dining, events, and green food in Minneapolis for 2026. New to the Minneapolis vegan scene? Check our [complete vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026) for the full picture.
 
 ---
 
@@ -73,21 +227,21 @@ The Minneapolis St. Patrick's Day Parade is one of the largest in the Upper Midw
 
 ## 🥗 Best Vegan-Friendly Spots for St. Patrick's Day Eats
 
-### 1. The Herbivorous Butcher — North Loop
+### 1. [The Herbivorous Butcher](/restaurants/herbivorous-butcher) — North Loop
 **Address:** 507 1st Ave NE, Minneapolis
 **Why it's perfect:** Fully vegan deli/butcher serving housemade plant-based meats and cheeses. Their corned "beef" and cabbage situation is the closest thing to a traditional Irish-American St. Patrick's Day plate you'll find in Minneapolis — without any animals.
 **Expect:** Long lines on parade day. Order online for pickup if possible.
 **Price range:** $$ | Fully vegan
 
-### 2. Hard Times Cafe — Stadium Village / Dinkytown
+### 2. [Hard Times Cafe](/restaurants/hard-times-cafe) — Stadium Village / Dinkytown
 **Address:** 1821 Riverside Ave, Minneapolis
 **Why it's perfect:** Worker-owned cooperative with a huge vegan-friendly menu and punk rock energy that fits the holiday. Affordable, filling, and the kind of place that doesn't make veganism a performance.
 **Order:** The vegan breakfast burrito, veggie hash
 **Price range:** $ | Many vegan options
 
-### 3. Reverie Cafe + Bar — North Loop
+### 3. [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) — North Loop
 **Address:** 904 N 3rd St, Minneapolis
-**Why it's perfect:** Zero-waste cafe with extensive plant-based options. Their seasonal specials often include green-themed drinks in March. Perfect for brunch before the parade.
+**Why it's perfect:** Zero-waste cafe with extensive plant-based options. Their seasonal specials often include green-themed drinks in March. Perfect for brunch before the parade. See our full [vegan brunch guide](/blog/vegan-brunch-minneapolis) for more pre-parade breakfast options.
 **Order:** Seasonal lattes, vegan pastries
 **Price range:** $$ | Many vegan options
 
@@ -97,8 +251,8 @@ The Minneapolis St. Patrick's Day Parade is one of the largest in the Upper Midw
 **Why it's perfect:** Upscale restaurant with a beautiful Victorian bar setting — perfect for a St. Patrick's Day dinner that feels special. Strong plant-based menu options; call ahead to ask about seasonal vegan specials.
 **Price range:** $$$ | Vegan-accommodating
 
-### 5. Pizza Luce — Multiple Minneapolis Locations
-**Why it's perfect:** Minneapolis institution with the best vegan pizza in town. On St. Patrick's Day they go all out with drink specials — and their vegan cheese and meat options are genuinely excellent.
+### 5. [Pizza Luce](/restaurants/pizza-luce) — Multiple Minneapolis Locations
+**Why it's perfect:** Minneapolis institution with the best vegan pizza in town. On St. Patrick's Day they go all out with drink specials — and their vegan cheese and meat options are genuinely excellent. Read more in our [best vegan pizza Minneapolis guide](/blog/best-vegan-pizza-minneapolis).
 **Locations:** Seward, Downtown, Stadium Village, Uptown
 **Order:** Vegan Athena pizza, vegan Ranch and Roll
 **Price range:** $$ | Extensive vegan options
@@ -167,6 +321,16 @@ The Herbivorous Butcher alone makes Minneapolis a destination for vegan St. Patr
 - **Herbivorous Butcher:** [herbivorebutcher.com](https://herbivorebutcher.com)
 - **Minneapolis St. Patrick's Day Parade:** search "Minneapolis St Patrick's Day Parade 2026" for updated route
 - **Barnivore (is my beer vegan?):** [barnivore.com](https://barnivore.com)
+
+---
+
+## More Minneapolis Vegan Guides
+
+- 🥗 [Best Vegan Restaurants in Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) — Full city guide with 50+ spots
+- 🍳 [Best Vegan Brunch in Minneapolis](/blog/vegan-brunch-minneapolis) — Top spots for weekend brunch
+- 🍕 [Best Vegan Pizza in Minneapolis](/blog/best-vegan-pizza-minneapolis) — Pizza Luce, Black Sheep & more
+- 🌿 [Vegan Food Minneapolis: The Complete Guide](/blog/vegan-food-minneapolis) — By category: comfort food, Ethiopian, international & more
+- 💚 [Vegan Comfort Food Minneapolis](/blog/vegan-comfort-food-minneapolis) — Hearty, satisfying plant-based eats
 - **More Minneapolis vegan restaurants:** [mplsvegan.com](https://mplsvegan.com)
 
 ---
@@ -811,7 +975,7 @@ Now stop reading and go eat. 🌱
       }
     ],
     relatedRestaurants: ["j-selbys", "hard-times-cafe", "seward-cafe", "modern-times", "french-meadow"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-easter-brunch-minneapolis-2026", "vegan-st-patricks-day-minneapolis-2026", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
     content: `
 ## Your Complete Guide to Vegan Brunch in Minneapolis
 
@@ -4025,6 +4189,7 @@ Browse the [full restaurant directory](/restaurants) to filter by neighborhood, 
       "vegetarian-restaurants-minneapolis",
       "vegan-restaurants-st-paul",
       "vegan-st-patricks-day-minneapolis-2026",
+      "vegan-easter-brunch-minneapolis-2026",
       "vegan-meal-prep-services-minneapolis"
     ],
     content: `

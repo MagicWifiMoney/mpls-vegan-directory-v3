@@ -3,6 +3,9 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   // Enable static export for easy Vercel deployment
   output: 'standalone',
+
+  // No trailing slashes
+  trailingSlash: false,
   
   // Image optimization
   images: {
@@ -34,6 +37,11 @@ const nextConfig: NextConfig = {
             value: 'SAMEORIGIN'
           },
         ],
+      },
+      {
+        source: '/:path*',
+        has: [{ type: 'query', key: '_rsc' }],
+        headers: [{ key: 'X-Robots-Tag', value: 'noindex' }],
       },
     ];
   },

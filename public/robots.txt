@@ -1,6 +1,8 @@
 # mplsvegan.com robots.txt
 User-agent: *
 Allow: /
+Disallow: /*?_rsc=
+Disallow: /_next/
 
 # AI Crawlers — explicitly allowed
 User-agent: GPTBot
