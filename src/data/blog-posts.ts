@@ -207,7 +207,7 @@ The Herbivorous Butcher alone makes Minneapolis a destination for vegan St. Patr
       }
     ],
     relatedRestaurants: ["tongue-in-cheek", "reverie-cafe-bar", "j-selbys", "herbivorous-butcher", "francis-burger-joint"],
-    relatedPosts: ["vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026", "northeast-minneapolis-vegan-guide"],
+    relatedPosts: ["vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026", "northeast-minneapolis-vegan-guide", "vegan-restaurants-st-paul"],
     content: `
 ## Valentine's Day 2026: Where to Take Your Vegan Valentine in Minneapolis
 
@@ -560,7 +560,7 @@ Happy Valentine's Day, Minneapolis. 💚🌱
       }
     ],
     relatedRestaurants: ["herbivorous-butcher", "j-selbys", "lulu-ethiovegan", "reverie-cafe-bar", "hard-times-cafe", "tongue-in-cheek", "francis-burger-joint", "pizza-karma"],
-    relatedPosts: ["vegan-food-minneapolis", "vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
+    relatedPosts: ["vegan-food-minneapolis", "vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis", "vegan-restaurants-st-paul", "vegan-st-patricks-day-minneapolis-2026", "vegetarian-restaurants-minneapolis"],
     content: `
 ## The Ultimate Minneapolis Vegan Restaurant Guide for 2026
 
@@ -1667,7 +1667,7 @@ Now go eat. 🌱
       }
     ],
     relatedRestaurants: ["herbivorous-butcher", "j-selbys", "reverie-cafe-bar"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-food-minneapolis", "vegan-comfort-food-minneapolis"],
     content: `
 ## Why Vegan Meal Prep in Minneapolis?
 
@@ -1934,7 +1934,7 @@ Now stop reading and go prep some food. 🌱
       }
     ],
     relatedRestaurants: ["j-selbys", "francis-burger-joint", "reverie-cafe-bar", "hard-times-cafe", "herbivorous-butcher", "pizza-luce", "french-meadow"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-pizza-minneapolis", "best-vegan-pizza-minneapolis", "best-vegan-mac-and-cheese-brands-ranked", "best-vegan-ice-cream-twin-cities"],
     content: `
 ## Best Vegan Comfort Food in Minneapolis: A Guide to Indulgent Plant-Based Eating
 
@@ -2709,7 +2709,7 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
       }
     ],
     relatedRestaurants: ["pizza-luce", "galactic-pizza", "black-sheep-pizza", "herbivorous-butcher", "pizza-karma"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-pizza-minneapolis"],
     content: `
 ## Best Vegan Pizza in Minneapolis: Every Slice, Ranked
 
@@ -3160,7 +3160,7 @@ For more Minneapolis vegan dining, check our [comfort food guide](/blog/vegan-co
       }
     ],
     relatedRestaurants: ["pizza-luce", "parkway-pizza", "black-sheep-coal-fired-pizza", "pizza-karma"],
-    relatedPosts: ["vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026"],
+    relatedPosts: ["vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026", "best-vegan-pizza-minneapolis", "vegan-comfort-food-minneapolis"],
     content: `
 # Best Vegan Pizza in Minneapolis: The Ultimate 2026 Guide
 
@@ -3573,7 +3573,7 @@ The little moment that stuck with me? We ordered a cookies and cream shake to sh
       }
     ],
     relatedRestaurants: ["hard-times-cafe", "seward-cafe", "modern-times", "foxy-falafel", "herbivorous-butcher", "reverie-cafe-bar", "j-selbys", "french-meadow", "pizza-karma"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-bakeries-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-bakeries-minneapolis", "vegan-restaurants-st-paul"],
     content: `
 ## The Best Vegetarian Restaurants in Minneapolis, MN (2026)
 
@@ -3842,7 +3842,7 @@ Browse the [full restaurant directory](/restaurants) to filter by neighborhood, 
       }
     ],
     relatedRestaurants: ["j-selbys", "eureka-compass", "foxy-falafel", "everest-on-grand", "ngon-vietnamese", "bole-ethiopian", "cafe-latte", "khyber-pass-cafe"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegetarian-restaurants-minneapolis", "j-selbys-review-saint-paul-vegan", "vegan-date-night-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegetarian-restaurants-minneapolis", "j-selbys-review-saint-paul-vegan", "vegan-date-night-minneapolis", "vegan-food-minneapolis", "vegan-st-patricks-day-minneapolis-2026"],
     content: `
 ## Vegan Restaurants in St. Paul, MN — 2026 Guide
 
@@ -4021,9 +4021,12 @@ Browse the [full restaurant directory](/restaurants) to filter by neighborhood, 
       "vegan-comfort-food-minneapolis",
       "vegan-bakeries-minneapolis",
       "northeast-minneapolis-vegan-guide",
-      "vegetarian-restaurants-minneapolis"
+      "vegetarian-restaurants-minneapolis",
+      "vegan-restaurants-st-paul",
+      "vegan-st-patricks-day-minneapolis-2026",
+      "vegan-meal-prep-services-minneapolis"
     ],
-    content: \`
+    content: `
 ## Your Complete Guide to Vegan Food in Minneapolis
 
 Minneapolis doesn't get enough credit for this, so I'll say it plainly: **this city has one of the best vegan food scenes in the Midwest**. Full stop.
@@ -4212,7 +4215,7 @@ Browse the [full restaurant directory](/restaurants) to filter by neighborhood, 
 - [Ethiopian Vegan Food Minneapolis](/blog/ethiopian-vegan-food-minneapolis)
 - [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide)
 - [Vegan Restaurants St. Paul](/blog/vegan-restaurants-st-paul)
-\`
+`
 
   }
 ];
