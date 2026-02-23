@@ -2697,7 +2697,7 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
       },
       {
         question: "Can I get vegan pizza delivered in Minneapolis?",
-        answer: "Yes! Pizza Lucé offers late-night delivery with vegan options across multiple locations. Galactic Pizza is famous for eco-friendly delivery by electric car. Both have dedicated vegan menu items that travel well."
+        answer: "Yes! Pizza Lucé offers late-night delivery with vegan options across multiple locations. They have dedicated vegan menu items that travel well, including their house-made vegan cheese pizzas. Pizza Karma in Dinkytown is also open until 3am on weekends."
       },
       {
         question: "Does Pizza Lucé have vegan options?",
@@ -2705,10 +2705,10 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
       },
       {
         question: "Where can I get gluten-free vegan pizza in Minneapolis?",
-        answer: "Galactic Pizza offers both vegan cheese and gluten-free crust options. Pizza Lucé also has a gluten-free crust that can be paired with their vegan cheese. Black Sheep can accommodate some dietary needs—ask your server."
+        answer: "Pizza Lucé has a gluten-free crust that pairs with their house-made vegan cheese and is the most reliable option in the city. Black Sheep can accommodate some gluten-free needs as well. Ask your server about current options."
       }
     ],
-    relatedRestaurants: ["pizza-luce", "galactic-pizza", "black-sheep-pizza", "herbivorous-butcher", "pizza-karma"],
+    relatedRestaurants: ["pizza-luce", "black-sheep-pizza", "herbivorous-butcher", "pizza-karma"],
     relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-pizza-minneapolis"],
     content: `
 ## Best Vegan Pizza in Minneapolis: Every Slice, Ranked
@@ -2769,25 +2769,26 @@ If Pizza Lucé wins on cheese, [Black Sheep](/restaurants/black-sheep-pizza) win
 
 ---
 
-### #3: Galactic Pizza — Best Delivery Experience
+### #3: Pizza Karma — Best Budget and Late-Night Pick
 
-**Uptown / Lyn-Lake | $$ | ⭐ 4.4**
+**Dinkytown | $ | ⭐ 4.3**
 
-What [Galactic Pizza](/restaurants/galactic-pizza) lacks in artisan cred, they make up for in personality and genuine commitment to doing the right thing.
+[Pizza Karma](/restaurants/pizza-karma) earns the third spot for doing something no other place on this list does: fire-roasted pizza with South Asian flavor influences, open until 3am on weekends, at student-friendly prices.
 
 **What makes them unique:**
-- **Delivery by electric car** — yes, really
-- **Superhero-costumed drivers** — your pizza arrives with flair
-- Organic wheat crust that's consistently solid
-- Wind-powered restaurant with compostable packaging
-- Daiya cheese that they've dialed in well
+- **Dairy-free cheese** clearly labeled on the menu
+- Fire-roasted crust with notes of chili, cumin, and garam masala
+- Open until 3am Thursday through Saturday
+- Most pies under $15
+- Vegan toppings called out across the board
 
 **Best vegan orders:**
-- **Earth Pizza** — All the vegetables, vegan cheese, organic crust. Named perfectly.
-- **Build your own** with their vegan cheese + any veggie combo
-- **Gluten-free crust option** — Great for GF + vegan folks (a tough combo to find)
+- Any pizza with dairy-free cheese (the fire-roast brings out great flavor on plant-based versions)
+- Veggie-heavy pies where the South Asian spice profiles shine
 
-**Why they deserve respect:** They're not trying to be Pizza Lucé or Black Sheep. They're trying to be a solid, eco-friendly neighborhood pizzeria that takes vegan options seriously. And they succeed.
+**Who should go here:** Anyone near the University of Minnesota, night owls, and fans of adventurous pizza flavor profiles that you won't find anywhere else in the city.
+
+*Note: Galactic Pizza, a longtime Lyn-Lake institution beloved for eco-friendly delivery by electric car, permanently closed in March 2024 after 20 years in business.*
 
 ---
 
@@ -2836,15 +2837,15 @@ Here's a move that most people don't think of: buy pepperoni from [The Herbivoro
 
 ## 📊 The Comparison Chart
 
-| Factor | Pizza Lucé | Black Sheep | Galactic Pizza | DIY (HB Pepperoni) |
-|--------|-----------|-------------|----------------|-------------------|
+| Factor | Pizza Lucé | Black Sheep | Pizza Karma | DIY (HB Pepperoni) |
+|--------|-----------|-------------|-------------|-------------------|
 | **Cheese** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ (Miyoko's) |
 | **Crust** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **Delivery** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | N/A |
-| **Price** | $$ | $$ | $$ | $ |
-| **Late Night** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **GF Option** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
-| **Vibe** | Loud, fun | Industrial cool | Quirky, eco | Your couch |
+| **Delivery** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | N/A |
+| **Price** | $$ | $$ | $ | $ |
+| **Late Night** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **GF Option** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| **Vibe** | Loud, fun | Industrial cool | Late-night casual | Your couch |
 
 ---
 
@@ -2857,7 +2858,7 @@ Here's a move that most people don't think of: buy pepperoni from [The Herbivoro
 **Go to:** Black Sheep North Loop → sit at the bar → watch the coal oven → share a bottle of wine + seasonal vegetable pizza
 
 ### Lazy Sunday Delivery
-**Order from:** Galactic Pizza → Earth Pizza + any build-your-own → feel good about the electric car delivery
+**Order from:** Pizza Lucé → Baked Potato Pizza + any build-your-own with house-made vegan cheese → fastest vegan pizza delivery in the city
 
 ### Impress-Your-Non-Vegan-Friends Pizza
 **Make at home:** Herbivorous Butcher pepperoni + Miyoko's mozz on homemade dough → watch their minds explode
@@ -2866,7 +2867,7 @@ Here's a move that most people don't think of: buy pepperoni from [The Herbivoro
 
 ## The Bottom Line
 
-You don't have to sacrifice pizza to be vegan in Minneapolis. [Pizza Lucé](/restaurants/pizza-luce) is the best overall (that cheese!), [Black Sheep](/restaurants/black-sheep-pizza) has the best crust, and [Galactic Pizza](/restaurants/galactic-pizza) delivers with style (and an electric car).
+You don't have to sacrifice pizza to be vegan in Minneapolis. [Pizza Lucé](/restaurants/pizza-luce) is the best overall (that cheese!), [Black Sheep](/restaurants/black-sheep-pizza) has the best crust, and [Pizza Karma](/restaurants/pizza-karma) is the move when you're out late in Dinkytown and need something good and cheap.
 
 And when all else fails, [Herbivorous Butcher](/restaurants/herbivorous-butcher) pepperoni on a homemade pie might be the best vegan pizza of all.
 
@@ -4012,7 +4013,7 @@ Browse the [full restaurant directory](/restaurants) to filter by neighborhood, 
       "seward-cafe",
       "hard-times-cafe",
       "foxy-falafel",
-      "vegan-east",
+      "vegan-east-bakery",
       "glam-doll-donuts"
     ],
     relatedPosts: [
