@@ -408,7 +408,7 @@ Happy Valentine's Day, Minneapolis. 💚🌱
         answer: "Yes! Minneapolis is one of the best cities for vegans in the Midwest. It has diverse options from fine dining to casual cafes, strong community support through co-ops like the Wedge, and innovative spots like The Herbivorous Butcher that have gained national recognition."
       }
     ],
-    relatedRestaurants: ["herbivorous-butcher", "j-selbys", "lulu-ethiovegan", "reverie-cafe-bar", "hard-times-cafe", "tongue-in-cheek", "francis-burger-joint"],
+    relatedRestaurants: ["herbivorous-butcher", "j-selbys", "lulu-ethiovegan", "reverie-cafe-bar", "hard-times-cafe", "tongue-in-cheek", "francis-burger-joint", "pizza-karma"],
     relatedPosts: ["vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
     content: `
 ## The Ultimate Minneapolis Vegan Restaurant Guide for 2026
@@ -2557,7 +2557,7 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
         answer: "Galactic Pizza offers both vegan cheese and gluten-free crust options. Pizza Lucé also has a gluten-free crust that can be paired with their vegan cheese. Black Sheep can accommodate some dietary needs—ask your server."
       }
     ],
-    relatedRestaurants: ["pizza-luce", "galactic-pizza", "black-sheep-pizza", "herbivorous-butcher"],
+    relatedRestaurants: ["pizza-luce", "galactic-pizza", "black-sheep-pizza", "herbivorous-butcher", "pizza-karma"],
     relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide"],
     content: `
 ## Best Vegan Pizza in Minneapolis: Every Slice, Ranked
@@ -2637,6 +2637,29 @@ What [Galactic Pizza](/restaurants/galactic-pizza) lacks in artisan cred, they m
 - **Gluten-free crust option** — Great for GF + vegan folks (a tough combo to find)
 
 **Why they deserve respect:** They're not trying to be Pizza Lucé or Black Sheep. They're trying to be a solid, eco-friendly neighborhood pizzeria that takes vegan options seriously. And they succeed.
+
+---
+
+### Bonus: Pizza Karma — Best Late-Night Option (Dinkytown)
+
+**409 14th Ave SE, Dinkytown | $ | ⭐ 4.3**
+
+[Pizza Karma](/restaurants/pizza-karma) is a Dinkytown institution that doesn't fit neatly into any category — it's fire-roasted pizza with South Asian influences, and it's one of the most vegan-friendly pizza places in the city.
+
+**Why they're worth knowing:**
+- **Dairy-free cheese** clearly labeled on the menu — no guessing required
+- **Vegan toppings** called out across the board
+- Fire-roasted crust with Indian-inspired flavor profiles (chili, cumin, garam masala notes)
+- **Open until 3am Thursday–Saturday** — the only late-night vegan pizza in the University area
+- Student prices: most pizzas under $15
+
+**Best vegan orders:**
+- Any pizza with dairy-free cheese substitution (they nail the fire-roast on plant-based versions)
+- Veggie-heavy pies where the South Asian spices shine most
+
+**Who should go here:** University of Minnesota students, anyone in Dinkytown past midnight, fans of adventurous flavor profiles. This is not a place for a quiet date night — it's for a group of friends at 1am who want something cheap, delicious, and genuinely fun.
+
+Not in the top 3 for daytime artisan pizza, but it holds a unique position in the Minneapolis vegan pizza scene that no other place fills.
 
 ---
 
@@ -2985,7 +3008,7 @@ For more Minneapolis vegan dining, check our [comfort food guide](/blog/vegan-co
         answer: "Wrecktangle Pizza at Malcolm Yards Market is your best bet for Detroit-style vegan pizza in Minneapolis. They have dedicated vegan cheese options and the thick, crispy-edged rectangular slices that define Detroit-style."
       }
     ],
-    relatedRestaurants: ["pizza-luce", "parkway-pizza", "black-sheep-coal-fired-pizza"],
+    relatedRestaurants: ["pizza-luce", "parkway-pizza", "black-sheep-coal-fired-pizza", "pizza-karma"],
     relatedPosts: ["vegan-brunch-minneapolis", "vegan-date-night-minneapolis", "best-vegan-restaurants-minneapolis-2026"],
     content: `
 # Best Vegan Pizza in Minneapolis: The Ultimate 2026 Guide
@@ -3227,6 +3250,9 @@ Broadway Pizza is the affordable, no-frills option on this list. They offer **pl
 ### Southeast / Prospect Park
 - **Wrecktangle Pizza** — Malcolm Yards Market, 501 30th Ave SE
 
+### Dinkytown / University of Minnesota
+- **Pizza Karma** — 409 14th Ave SE · Fire-roasted, Indian-inspired, dairy-free cheese · Open until 3am Thu–Sat · Student budget-friendly
+
 ### St. Paul
 - **Pizza Lucé St. Paul** — 1183 Selby Ave
 - **Red Rabbit St. Paul** — Grand Ave location
@@ -3260,6 +3286,7 @@ Thanks to **The Herbivorous Butcher** — a nationally famous vegan butcher shop
 | Restaurant | Own Delivery | DoorDash | Uber Eats | Late Night |
 |---|---|---|---|---|
 | Pizza Lucé | ✅ Free delivery | ✅ | ✅ | Until 2:30 AM Fri/Sat |
+| Pizza Karma | ❌ | ✅ | ✅ | **Until 3 AM Thu–Sat** |
 | Parkway Pizza | ✅ | ✅ | ✅ | Standard hours |
 | Black Sheep | ❌ | ✅ | ✅ | Standard hours |
 | Red Rabbit | ❌ | ✅ | ✅ | Standard hours |
@@ -3394,7 +3421,7 @@ The little moment that stuck with me? We ordered a cookies and cream shake to sh
         answer: "Absolutely — vegan restaurants are vegetarian-friendly by definition. 100% vegan spots like J. Selby's, The Herbivorous Butcher, Lulu EthioVegan, and Reverie Cafe + Bar are perfect for vegetarians who may also enjoy eggs and dairy, since vegan menus contain no animal products at all."
       }
     ],
-    relatedRestaurants: ["hard-times-cafe", "seward-cafe", "modern-times", "foxy-falafel", "herbivorous-butcher", "reverie-cafe-bar", "j-selbys", "french-meadow"],
+    relatedRestaurants: ["hard-times-cafe", "seward-cafe", "modern-times", "foxy-falafel", "herbivorous-butcher", "reverie-cafe-bar", "j-selbys", "french-meadow", "pizza-karma"],
     relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-bakeries-minneapolis"],
     content: `
 ## The Best Vegetarian Restaurants in Minneapolis, MN (2026)
