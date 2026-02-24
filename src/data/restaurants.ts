@@ -396,7 +396,8 @@ export const restaurants: Restaurant[] = [
     description: "Consistently rated among the best Thai restaurants in the Twin Cities, Amazing Thailand offers extensive vegan options with authentic flavors. The papaya salad made vegan with crisp green papaya, carrots, tomatoes, spicy chili, and perfectly fried tofu is exceptional. Curries are rich and aromatic, and the mock duck preparations rival any meat version. Pad Thai, basil stir-fries, and coconut soups are all available with tofu or vegetables. Friendly service and consistent quality keep locals returning for decades.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery'],
-    coordinates: { lat: 44.9519, lng: -93.2990 }
+    coordinates: { lat: 44.9519, lng: -93.2990 },
+    relatedBlogs: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026'],
   },
   {
     id: '20',
@@ -684,7 +685,8 @@ export const restaurants: Restaurant[] = [
     description: "Malaysian cuisine is naturally rich with vegetarian options, and Peninsula executes them beautifully. The vegetable curry laksa—coconut curry soup with rice noodles, tofu puffs, and vegetables—is warming perfection. Roti canai (flaky flatbread) with curry dipping sauce makes an addictive starter. The mock duck rendang and vegetable sambal offer bold, complex flavors. Malaysian tea (teh tarik) is frothy and sweet. The Nicollet Avenue location has a casual, family-friendly atmosphere and patient staff happy to guide newcomers.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery'],
-    coordinates: { lat: 44.9508, lng: -93.2781 }
+    coordinates: { lat: 44.9508, lng: -93.2781 },
+    relatedBlogs: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026'],
   },
   {
     id: '34',
@@ -707,6 +709,7 @@ export const restaurants: Restaurant[] = [
     coordinates: { lat: 44.9554, lng: -93.1268 },
     seoTitle: 'Ngon Vietnamese Bistro St. Paul: Vegan Pho, Banh Mi & Menu Guide | MPLSVegan',
     seoDescription: 'Ngon Vietnamese Bistro on University Ave St. Paul has excellent vegan options — tofu pho, marinated tofu banh mi, lemongrass clay pot & crispy spring rolls. Menu, hours & vegan guide.',
+    relatedBlogs: ['vegan-asian-restaurants-minneapolis', 'vegan-restaurants-st-paul', 'best-vegan-restaurants-minneapolis-2026'],
   },
   {
     id: '35',
@@ -827,7 +830,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$$',
     features: ['Dine-In', 'Takeout', 'Full Bar', 'Sake Menu', 'Date Night'],
     coordinates: { lat: 44.9894, lng: -93.2610 },
-    relatedBlogs: ['vegan-date-night-minneapolis', 'northeast-minneapolis-vegan-guide']
+    relatedBlogs: ['vegan-date-night-minneapolis', 'northeast-minneapolis-vegan-guide', 'vegan-asian-restaurants-minneapolis']
   },
   {
     id: '42',
@@ -890,7 +893,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Ramen', 'Late Night'],
     coordinates: { lat: 44.9857, lng: -93.2717 },
-    relatedBlogs: ['late-night-vegan-food-minneapolis', 'best-vegan-restaurants-minneapolis-2026']
+    relatedBlogs: ['late-night-vegan-food-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-asian-restaurants-minneapolis']
   },
   {
     id: '45',
@@ -913,6 +916,7 @@ export const restaurants: Restaurant[] = [
     coordinates: { lat: 44.9489, lng: -93.2879 },
     seoTitle: 'World Street Kitchen Minneapolis: Vegan Options, Yum Yum Bowl & Hours | MPLSVegan',
     seoDescription: 'World Street Kitchen (WSK) in Minneapolis has excellent vegan options — crispy tofu Yum Yum bowl, falafel plates, and rotating global specials. Hours, address & full vegan menu guide.',
+    relatedBlogs: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-food-minneapolis'],
   },
   {
     id: '46',

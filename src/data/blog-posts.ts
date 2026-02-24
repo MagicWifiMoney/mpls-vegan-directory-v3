@@ -23,6 +23,183 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "vegan-asian-restaurants-minneapolis",
+    title: "Best Vegan Asian Restaurants in Minneapolis (Thai, Ramen, Sushi & More)",
+    description: "The best vegan Asian food in Minneapolis — Thai curries at Amazing Thailand, Tori Ramen's mushroom broth, Masu's sushi & robata, Peninsula's curry laksa, and more.",
+    publishedAt: "2026-02-24",
+    updatedAt: "2026-02-24",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan asian food", "vegan thai", "vegan ramen", "vegan sushi", "minneapolis"],
+    readingTime: "9 min read",
+    tldr: "Best vegan Asian food in Minneapolis: Amazing Thailand (Uptown) for Thai curries and mock duck, Tori Ramen (North Loop) for the best vegan mushroom broth ramen, Masu Sushi (NE) for upscale Japanese and robata-grilled vegetables, Peninsula Malaysian (Lyn-Lake) for curry laksa that will ruin all other soups, and World Street Kitchen (Lyn-Lake) for the crispy tofu Yum Yum bowl. Heading to St. Paul? Ngon Vietnamese Bistro is a must.",
+    faqs: [
+      {
+        question: "Where can I get vegan Thai food in Minneapolis?",
+        answer: "Amazing Thailand on Hennepin Ave in Uptown is the go-to for vegan Thai in Minneapolis. They have extensive vegan options including papaya salad, tofu pad thai, coconut curries, and mock duck. Most Thai dishes can be made vegan on request — just ask."
+      },
+      {
+        question: "Where can I get vegan ramen in Minneapolis?",
+        answer: "Tori Ramen & Yakitori in the North Loop has an excellent Veggie Ramen with rich mushroom broth, chewy noodles, roasted vegetables, and tofu. It's one of the best bowls in the city, vegan or not."
+      },
+      {
+        question: "Is there vegan sushi in Minneapolis?",
+        answer: "Yes — Masu Sushi & Robata in Northeast Minneapolis has a solid vegan menu including avocado caterpillar rolls, vegetable rainbow rolls, and amazing robata-grilled vegetables like shishito peppers and asparagus. It's upscale but worth it for a special occasion."
+      },
+      {
+        question: "What is the best vegan Asian restaurant in Minneapolis?",
+        answer: "It depends what you're craving. For Thai, Amazing Thailand. For ramen, Tori Ramen. For Japanese/sushi, Masu Sushi. For Malaysian (and the best soup in the city), Peninsula Malaysian Cuisine. For fast-casual global bowls, World Street Kitchen."
+      },
+      {
+        question: "Is Amazing Thailand vegan-friendly?",
+        answer: "Yes — Amazing Thailand has extensive vegan options. Most curries, stir-fries, and soups can be made with tofu or vegetables. The papaya salad, mock duck dishes, and coconut curries are especially popular with vegans. Just ask your server to confirm no fish sauce."
+      },
+      {
+        question: "Where can I get vegan Malaysian food in Minneapolis?",
+        answer: "Peninsula Malaysian Cuisine on Nicollet Ave in Lyn-Lake is the spot. Their vegetable curry laksa (coconut curry soup with rice noodles, tofu puffs, and vegetables) is outstanding. The mock duck rendang and roti canai are also excellent vegan options."
+      }
+    ],
+    relatedRestaurants: ["amazing-thailand", "tori-ramen", "masu-sushi", "peninsula-malaysian", "world-street-kitchen", "ngon-vietnamese"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "late-night-vegan-food-minneapolis", "vegan-restaurants-st-paul", "vegan-food-minneapolis"],
+    content: `
+## The Best Vegan Asian Food in Minneapolis
+
+Minneapolis has a surprisingly deep bench of vegan-friendly Asian restaurants — and I don't mean "they have edamame and steamed rice." I mean restaurants where you're making real decisions about what to order because everything sounds incredible.
+
+Thai? One of the best in the state is in Uptown and it happens to have mock duck that will make you forget you're vegan. Ramen? There's a North Loop spot whose mushroom broth could go up against any tonkotsu. Sushi? An NE Minneapolis restaurant does robata-grilled vegetables over a wood fire that are honestly better than most meat dishes.
+
+Here's where to go for every kind of vegan Asian craving in Minneapolis.
+
+---
+
+## 🇹🇭 Thai: Amazing Thailand
+
+**Uptown | 3024 Hennepin Ave | $$**
+
+Amazing Thailand has been a Twin Cities institution for decades, and for good reason — it's consistently excellent, and the vegan options are genuinely impressive. Not an afterthought. Not a single sad tofu dish tucked at the bottom of the menu. We're talking full Thai menu, made vegan.
+
+**The Order:**
+- **Papaya Salad (vegan)** — Crisp green papaya, carrots, tomatoes, spicy chili, and fried tofu. Ask for no fish sauce and no shrimp paste. When it's right, it's perfect.
+- **Mock Duck Curry** — This is the signature move. The mock duck preparations at Amazing Thailand rival any meat version in texture and absorb the curry sauce beautifully.
+- **Coconut Soup (Tom Kha with tofu)** — Rich, aromatic, warming.
+- **Pad Thai with tofu** — Classic. Get the extra lime.
+- **Basil Stir-Fry** — Bold garlic-basil sauce, works great with tofu or vegetables.
+
+**The tip:** When ordering, explicitly ask for no fish sauce and no shrimp paste. Most dishes come with these by default in Thai cooking, but Amazing Thailand's kitchen is used to the request and handles it without drama.
+
+---
+
+## 🍜 Ramen: Tori Ramen & Yakitori
+
+**North Loop | 161 N 1st St | $$**
+
+The North Loop's best kept vegan secret. Tori Ramen is primarily known as a chicken ramen spot, but their Veggie Ramen is legitimately great — not great "for a vegan option," just great. Period.
+
+**The Order:**
+- **Veggie Ramen** — The anchor. Rich mushroom broth that's been developed with the same care as their chicken versions. Chewy, perfectly cooked noodles. Roasted vegetables. Tofu. The broth alone is worth the trip.
+- **Charred Shiitake Yakitori Skewers** — Get these. Wood-fired shiitakes are one of the simplest and most satisfying things you can eat, and Tori does them correctly.
+- **Edamame** — Simple starter, well-seasoned.
+- **Pickled Vegetables** — A great palate cleanser between bites.
+
+**When to go:** The cozy space gets packed on cold Minneapolis evenings (which is most evenings, let's be real). Solo diners can snag bar seats without a wait. Great option from the [late night vegan food Minneapolis](/blog/late-night-vegan-food-minneapolis) post too — they stay open late.
+
+---
+
+## 🍣 Sushi & Robata: Masu Sushi & Robata
+
+**Northeast Minneapolis | 330 E Hennepin Ave | $$$**
+
+Masu is what happens when you take Japanese cuisine seriously and also understand that vegetables deserve the same treatment as proteins. The robata (open-fire) grill transforms vegetables in a way that regular cooking simply can't replicate.
+
+**The Order:**
+- **Avocado Caterpillar Roll** — The visual showpiece. Cucumber, avocado, sesame, with avocado fanned across the top. It's as good as it looks.
+- **Vegetable Rainbow Roll** — Six colors, six flavors. Order it.
+- **Robata Shishito Peppers** — Blistered over live fire, finishing salt, citrus. Simple perfection.
+- **Robata Asparagus & Mushrooms** — The wood smoke makes these taste like they were made for the grill.
+- **Seaweed Salad** — Great starter, properly seasoned with sesame.
+- **Edamame** — Charred version when available.
+
+**Vibe:** Upscale, great for date night (it's in our [vegan date night Minneapolis](/blog/vegan-date-night-minneapolis) guide), and the sake menu is extensive. Worth the splurge for a special occasion. Also in our [Northeast Minneapolis vegan guide](/blog/northeast-minneapolis-vegan-guide).
+
+---
+
+## 🇲🇾 Malaysian: Peninsula Malaysian Cuisine
+
+**Lyn-Lake | 2608 Nicollet Ave | $$**
+
+Malaysian cuisine is one of the most vegan-friendly in the world, and almost no one in Minneapolis knows it. Peninsula is here to fix that.
+
+Malaysian food draws from Malay, Chinese, and Indian traditions — which means you get coconut curries, rice noodles, wok-fired dishes, and flatbreads all on the same menu. Most can be made vegan. Many already are.
+
+**The Order:**
+- **Vegetable Curry Laksa** — This is the one. Coconut curry soup with rice noodles, tofu puffs, and vegetables. The broth is rich, warming, and complex in a way that takes hours to build. It will ruin all other soups. Consider yourself warned.
+- **Roti Canai** — Flaky, slightly crispy flatbread served with curry dipping sauce. Order it as a starter and fight your dining companions for the last piece.
+- **Mock Duck Rendang** — Bold, layered, and deeply savory. Rendang is one of Malaysia's national dishes and this version is exceptional.
+- **Vegetable Sambal** — Spicy, tangy, complex. Malaysian sambal is a different beast than Thai or Chinese chili sauces.
+- **Teh Tarik (Malaysian Pulled Tea)** — Frothy, sweet, slightly spiced. The perfect finish.
+
+---
+
+## 🌍 Global/Asian: World Street Kitchen
+
+**Lyn-Lake | 2743 Lyndale Ave S | $$**
+
+WSK isn't strictly Asian — it's global street food — but the Yum Yum Bowl with crispy tofu is basically a Thai rice bowl and it's one of the best fast-casual vegan meals in the city.
+
+**The Order:**
+- **Yum Yum Bowl with Crispy Tofu** — Thai-inspired flavors, jasmine rice or greens base, crispy tofu that actually stays crispy, bold sauce. This is the move.
+- **Falafel Plates** — Mediterranean-inspired, substantial, and great value.
+- **Rotating Specials** — WSK changes things up often. Check the menu on arrival because something seasonal is usually excellent.
+
+**When to go:** Fast-casual format means quick service, great for lunch or an easy weeknight dinner. Multiple metro locations. Their Lyndale Ave flagship is the original.
+
+---
+
+## 🇻🇳 Vietnamese: Ngon Vietnamese Bistro (St. Paul)
+
+**St. Paul | 799 University Ave W | $$**
+
+Technically St. Paul, but close enough to mention — Ngon is one of the best Vietnamese restaurants in the Twin Cities, and it has serious vegan options that go well beyond spring rolls.
+
+**The Order:**
+- **Tofu Pho** — Rich vegetable broth that puts most phở shops to shame. Thick rice noodles, tofu, fresh herbs, bean sprouts. The works.
+- **Lemongrass Tofu Clay Pot** — This is the hidden gem on the menu. Warming, deeply savory, and not something you see everywhere.
+- **Marinated Tofu Bánh Mì** — Crusty baguette, pickled daikon and carrots, jalapeño, cilantro, and savory marinated tofu. A great lunch.
+- **Crispy Spring Rolls** — Excellent starter, rice paper, lots of herbs.
+
+Check out our [St. Paul vegan restaurant guide](/blog/vegan-restaurants-st-paul) for more across the river.
+
+---
+
+## 🗺️ Quick Reference
+
+| Restaurant | Cuisine | Neighborhood | Best Dish | Price |
+|-----------|---------|-------------|-----------|-------|
+| Amazing Thailand | Thai | Uptown | Mock Duck Curry | $$ |
+| Tori Ramen | Japanese/Ramen | North Loop | Veggie Ramen | $$ |
+| Masu Sushi & Robata | Japanese/Sushi | NE Minneapolis | Robata Vegetables | $$$ |
+| Peninsula Malaysian | Malaysian | Lyn-Lake | Curry Laksa | $$ |
+| World Street Kitchen | Global/Asian | Lyn-Lake | Yum Yum Bowl | $$ |
+| Ngon Vietnamese | Vietnamese | St. Paul | Tofu Pho | $$ |
+
+---
+
+## Tips for Ordering Vegan at Asian Restaurants in Minneapolis
+
+**Thai restaurants:** Fish sauce and shrimp paste are common hidden ingredients. Always ask for "no fish sauce, no shrimp paste" when ordering. Most Thai restaurants in Minneapolis are very used to this request.
+
+**Japanese:** Miso soup sometimes contains fish stock (dashi). Edamame, tofu dishes, vegetable sushi, and many robata options are typically safe. Ask about the soup base.
+
+**Vietnamese:** Pho broth is traditionally beef or chicken-based — order specifically "vegetable pho" or "tofu pho" and confirm the broth is vegetable-based. Spring rolls are usually vegan. Fish sauce comes up in sauces.
+
+**Malaysian/Southeast Asian:** Fish sauce and shrimp paste appear here too. Ask about the curry and soup bases. Many Malaysian restaurants have dedicated vegetarian menus with vegan-friendly options clearly marked.
+
+**Chinese:** Oyster sauce is a common hidden ingredient in stir-fries. Ask for dishes "without oyster sauce" or check if the restaurant has a vegetarian menu.
+
+When in doubt, ask. Most of these restaurants serve a lot of vegetarian and vegan diners and the staff knows the menu cold.
+`,
+  },
+  {
     slug: "vegan-bakeries-minneapolis",
     title: "Best Vegan Bakeries & Desserts in Minneapolis (2026 Guide) 🍩",
     description: "From 100% vegan custom cakes to punk-rock donuts, housemade ice cream, and dark chocolate beignets — Minneapolis has a surprisingly great vegan dessert scene. Here's where to find the best vegan bakeries and sweet treats in the Twin Cities.",
