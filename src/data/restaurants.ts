@@ -1055,6 +1055,37 @@ export const restaurants: Restaurant[] = [
     bestFor: ['Late-night vegan', 'University students', 'Budget-friendly pizza', 'Groups', 'Delivery'],
     theVibe: "Buzzy Dinkytown fire-roasted pizza spot with South Asian flair — open until 3am on weekends, real dairy-free cheese, student prices.",
     relatedBlogs: ['late-night-vegan-food-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegetarian-restaurants-minneapolis', 'best-vegan-pizza-minneapolis']
+  },
+  {
+    id: '53',
+    slug: 'dreamstate-cafe',
+    name: 'Dreamstate Cafe',
+    address: '2558 Lyndale Ave S',
+    city: 'Minneapolis',
+    state: 'MN',
+    zip: '55405',
+    phone: '(612) 466-2227',
+    website: 'https://www.dreamstatecafe.com/',
+    googlePlaceId: '',
+    cuisineType: ['Cafe', 'American', 'Cocktail Bar'],
+    veganStatus: '100% Vegan',
+    neighborhood: 'Lyn-Lake',
+    neighborhoodSlug: 'lyn-lake',
+    description: "Dreamstate Cafe opened in December 2025 at the corner of 26th Street and Lyndale Avenue, bringing an all-day plant-based cafe and bar to one of Minneapolis's most vibrant dining corridors. The space formerly housed Common Roots Cafe and most recently Hi Flora, and it's now run by Kristin Wiegmann and Jeff Therkelsen, the same duo behind Reverie Cafe in Powderhorn.\n\nThe menu shifts with the time of day. Weekday lunches lean into inventive savory plates, while weekend brunch brings its own dedicated spread. Come evening, the kitchen goes full-on comfort: lion's mane steak, mushroom dashi ramen, and a roasted delicata sandwich are among the standouts. A late-night menu runs until 10 or 11 pm, making Dreamstate one of the rare vegan spots in Minneapolis where you can eat well at midnight.\n\nThe bar program is serious — cocktails and mocktails are both given real attention, and a happy hour runs daily from 3 to 5 pm. The neighborhood fit feels right: Dreamstate sits next to Boneshaker Books and a cluster of independent shops, giving the block a distinct scene energy. If you love Reverie, this is its more urban, late-night sibling.",
+    priceRange: '$$',
+    features: ['Dine-In', 'Takeout', 'Full Bar', 'Cocktails', 'Mocktails', 'Happy Hour', 'Late Night', 'Brunch'],
+    coordinates: { lat: 44.9649, lng: -93.2901 },
+    whatToOrder: [
+      "Lion's Mane Steak - The dinner showstopper, rich and meaty",
+      'Mushroom Dashi Ramen - Deep umami broth, one of the best bowls in the city',
+      'Roasted Delicata Sandwich - Sweet squash, hearty filling, ideal for lunch',
+      'Yucca Hash - A weekend brunch staple, crispy and satisfying',
+      'Avocado Tomatillo Toast - Fresh, bright, and far more interesting than standard avocado toast',
+      'House Cocktails - The bar program is worth exploring on its own'
+    ],
+    bestFor: ['Date night', 'Late-night eats', 'Happy hour', 'Weekend brunch', 'Bar hopping with good food'],
+    theVibe: "Moody, neighborhood-cool plant-based cafe and bar — the kind of place you stay at for three hours without noticing.",
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'vegan-brunch-minneapolis']
   }
 ];
 
