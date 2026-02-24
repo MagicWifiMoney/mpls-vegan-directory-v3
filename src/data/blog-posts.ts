@@ -994,7 +994,7 @@ Looking for more Minneapolis vegan dining ideas? Check our [complete vegan resta
       }
     ],
     relatedRestaurants: ["pizza-karma", "pizza-luce", "francis-burger-joint", "tori-ramen"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-pizza-minneapolis", "best-vegan-pizza-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-pizza-minneapolis", "best-vegan-pizza-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-bars-minneapolis"],
     content: `# Late Night Vegan Food Minneapolis: Where to Eat After 10pm 🌙
 
 Minneapolis has a genuinely great vegan restaurant scene — but most of it closes by 9 or 10pm. If you're coming back from a concert at First Avenue, wrapping up a long shift, or just hungry at midnight, your options shrink fast. This is the reality of late night vegan dining here: real, but limited.
@@ -2449,7 +2449,7 @@ Now go forth and brunch. 🥞🌱
       }
     ],
     relatedRestaurants: ["tongue-in-cheek", "reverie-cafe-bar", "francis-burger-joint", "masu-sushi", "herbivorous-butcher"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-restaurants-uptown-minneapolis", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-restaurants-uptown-minneapolis", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis", "vegan-bars-minneapolis"],
     content: `
 ## The Ultimate Guide to Vegan Date Night in Minneapolis
 
@@ -5883,6 +5883,192 @@ French Meadow has been Minneapolis's organic food standard since 1985. The baker
 - 🍳 [Best Vegan Brunch Minneapolis](/blog/vegan-brunch-minneapolis) — Brunch spots with full plant-based menus
 - 🌿 [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) — The complete directory
 - 🏙️ [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide) — NE-specific neighborhood guide
+`
+  },
+  {
+    slug: "vegan-bars-minneapolis",
+    title: "Best Vegan Bars & Happy Hour Spots in Minneapolis (2026 Guide) 🍺",
+    description: "The best vegan-friendly bars and happy hour spots in Minneapolis — from 100% vegan cocktail bars to craft breweries with plant-based snacks. Where to drink in Minneapolis without compromising.",
+    publishedAt: "2026-02-24",
+    updatedAt: "2026-02-24",
+    author: "Mia & Jay",
+    category: "guides",
+    tags: ["vegan bars minneapolis", "vegan happy hour minneapolis", "vegan drinks minneapolis", "vegan friendly bars", "reverie cafe bar", "francis burger joint", "craft beer minneapolis"],
+    readingTime: "6 min read",
+    tldr: "Best vegan bars in Minneapolis: Reverie Cafe + Bar (Powderhorn, 100% vegan bar — dark chocolate beignets, craft beer, cocktails — the #1 pick), Francis Burger Joint (North Loop, 100% vegan sports bar with smash burgers and cold beers), Seward Cafe (cooperative institution with vegan food + beer), Common Roots Cafe (Whittier, natural wines + plant-forward bar bites). Minneapolis craft breweries (Indeed, Dangerous Man, Surly) all rotate vegan-friendly food trucks.",
+    faqs: [
+      {
+        question: "Are there vegan bars in Minneapolis?",
+        answer: "Yes — Minneapolis has two fully vegan bars: Reverie Cafe + Bar in Powderhorn (100% vegan menu, craft cocktails, 20+ beers, dark chocolate beignets and cashew cheesecake) and Francis Burger Joint in the North Loop (100% vegan, smash burgers, wings, full bar, sports on TV). Both serve beer, wine, and cocktails alongside entirely plant-based food menus."
+      },
+      {
+        question: "What is the best vegan bar in Minneapolis?",
+        answer: "Reverie Cafe + Bar at 2506 Minnehaha Ave in Powderhorn is Minneapolis's best vegan bar. It's 100% vegan, with a rotating cocktail menu, 20+ craft beers on tap, and a food menu that includes dark chocolate beignets, cashew cheesecake, and small plates. The atmosphere is intimate and welcoming — part neighborhood bar, part plant-based restaurant."
+      },
+      {
+        question: "Is beer vegan?",
+        answer: "Most beer is vegan, but not all. Traditional lagers, ales, IPAs, stouts, and sours are typically vegan — they're made from water, grain, hops, and yeast. Some beers use animal-derived fining agents like isinglass (fish bladder), gelatin, or casein during the brewing process. Craft beers from Minnesota breweries like Indeed, Surly, and Dangerous Man are generally vegan-friendly. When in doubt, check Barnivore.com for vegan beer verification."
+      },
+      {
+        question: "Where can I get vegan happy hour in Minneapolis?",
+        answer: "Reverie Cafe + Bar (Powderhorn) offers happy hour specials on drinks and food — call ahead to confirm current times. Francis Burger Joint (North Loop) runs happy hour drink deals with their full 100% vegan food menu available all day. Seward Cafe has rotating specials. Minneapolis craft breweries like Indeed Brewing and Dangerous Man Brewing also run happy hour deals, with food trucks (often vegan-friendly) on site."
+      },
+      {
+        question: "Can I drink at a regular bar as a vegan?",
+        answer: "Absolutely. Most spirits (vodka, gin, rum, tequila, whiskey) are vegan. Most beers are vegan, though some use isinglass for clarification — craft beers are generally safer. Wine is trickier — some wines use egg whites or gelatin for fining, but vegan wines are increasingly available. Watch for honey-based cocktails or drinks with cream, eggs, or milk. Ask your bartender, or check Barnivore.com before your night out."
+      },
+      {
+        question: "Do Minneapolis craft breweries have vegan food?",
+        answer: "Most major Minneapolis craft breweries rotate food trucks, and many of those trucks have strong vegan options. Indeed Brewing (NE Minneapolis) and Dangerous Man Brewing (NE Minneapolis) regularly host vegan-friendly trucks. Surly Brewing has a full kitchen with clearly marked vegan options. Call ahead or check the brewery's social media for the day's food truck lineup."
+      }
+    ],
+    relatedRestaurants: ["reverie-cafe-bar", "francis-burger-joint", "seward-cafe", "common-roots-cafe"],
+    relatedPosts: ["late-night-vegan-food-minneapolis", "vegan-date-night-minneapolis", "vegan-restaurants-uptown-minneapolis", "northeast-minneapolis-vegan-guide", "best-vegan-restaurants-minneapolis-2026"],
+    content: `# Best Vegan Bars & Happy Hour Spots in Minneapolis (2026 Guide) 🍺
+
+Minneapolis has a genuinely thriving vegan restaurant scene — but what about after dinner? Whether you're looking for a full vegan bar where you don't have to decode the menu, a craft brewery with plant-based snacks, or just want to know which cocktails are actually vegan, this guide covers it all.
+
+Good news: Minneapolis is one of the most vegan-friendly bar cities in the Midwest. Two fully vegan bars, a cooperative cafe with rotating taps, and a craft brewery scene that pairs well with vegan food trucks.
+
+---
+
+## 🏆 The 100% Vegan Bars: No Compromises
+
+### 1. Reverie Cafe + Bar — Powderhorn
+**2506 Minnehaha Ave, Minneapolis · 100% Vegan · Powderhorn Park Neighborhood**
+
+Reverie is the crown jewel of Minneapolis's vegan bar scene. Everything on the menu — every drink, every dish — is entirely plant-based. You never have to ask "is this vegan?" because the answer is always yes.
+
+**What to order:**
+- **Dark chocolate beignets** — warm, pillowy, dusted with powdered sugar. The reason people come back.
+- **Cashew cheesecake** — creamy, tangy, genuinely dessert-worthy
+- **Rotating cocktail menu** — creative seasonal drinks (no honey, no cream, no egg white — or a vegan substitute if the recipe calls for it)
+- **20+ craft beers** — always rotating, heavy on Minnesota craft
+
+**The vibe:** Intimate neighborhood bar. Low lighting, wood tables, community feel. Popular with the Powderhorn art community and long-time Minneapolis vegans. Not pretentious — just genuinely good.
+
+**Hours:** Check current hours — typically afternoon through late evening, closed Tuesdays. Happy hour specials available (call ahead to confirm times).
+
+**Why it's #1:** There's no other bar in Minneapolis where every single thing on the menu is vegan. For anyone tired of asking, substituting, or wondering — Reverie is the destination.
+
+---
+
+### 2. Francis Burger Joint — North Loop
+**102 N 1st St, Minneapolis · 100% Vegan · North Loop**
+
+Francis is what happens when a sports bar decides to go fully vegan — and pulls it off completely. TVs on the walls, cold beer flowing, smash burgers on the table, and zero animal products anywhere.
+
+**What to order:**
+- **Smash burger** — plant-based beef, smashed crispy, with all the classic toppings
+- **Vegan wings** — crispy, sauced, genuinely satisfying
+- **Beer and cocktails** — full bar with an all-vegan drinks menu
+- **Loaded fries** — for the table
+
+**The vibe:** Lively, casual, North Loop crowd. Great for groups, sports nights, after-work drinks. More energetic than Reverie — less date-night, more fun night out.
+
+**Why it works:** Francis proves that "vegan bar" doesn't have to mean quiet and precious. This is a full bar that happens to have no animal products. The food is the draw, the drinks seal the deal.
+
+---
+
+## 🌿 Vegan-Forward Bars & Cafes
+
+### 3. Seward Cafe — Seward
+**2129 E Franklin Ave, Minneapolis · Worker-Owned Cooperative · Seward Neighborhood**
+
+Seward Cafe is a Minneapolis institution — cooperatively owned since 1974, with a menu that's heavily vegan and prominently labeled. It's more cafe than bar, but they serve beer, wine, and kombucha alongside some of the best plant-based breakfasts and lunches in the city.
+
+**What makes it special:** This is the OG vegan-friendly spot in Minneapolis. The co-op ownership model means the staff genuinely cares about the food and the community. Regulars have been coming here for decades.
+
+**Best for:** Morning or afternoon drinks with a meal. Not a late-night bar, but an essential part of the Minneapolis vegan scene.
+
+---
+
+### 4. Common Roots Cafe — Whittier
+**2558 Lyndale Ave S, Minneapolis · Organic + Plant-Forward · Whittier**
+
+Common Roots focuses on local, organic food and natural wines. Their bar program centers on craft cocktails made with clean ingredients, natural wines (many vegan-certified), and local craft beers.
+
+**What to order:** Natural wines by the glass, seasonal cocktails, small plates with strong vegan options.
+
+**The vibe:** Bright, airy, Lyndale Ave energy. More upscale than Seward Cafe, less intense than Reverie. Good for a glass of wine and a light bite.
+
+---
+
+## 🍺 Minneapolis Craft Breweries: Vegan-Friendly Taps + Food Trucks
+
+Minnesota has one of the best craft brewery scenes in the country — and most of the taprooms are vegan-friendly (or can be with the right food truck rotation).
+
+### Indeed Brewing Company — Northeast Minneapolis
+**711 15th Ave NE** · Rotating food trucks, many vegan-friendly · Lively taproom
+
+One of Minneapolis's most popular taprooms. Indeed regularly hosts food trucks, and the rotating lineup often includes vegan-friendly options. Their beer lineup — Midnight Ryder Black Ale, Day Tripper Pale Ale, Fluxus series — is all vegan-friendly. Check their Instagram for that day's food truck before you go.
+
+### Dangerous Man Brewing — Northeast Minneapolis
+**1300 2nd St NE** · Cash-preferred · Small, intimate NE gem
+
+Dangerous Man is NE Minneapolis's beloved neighborhood taproom. Small, low-key, excellent beer. No kitchen of their own, but food trucks rotate regularly. All Dangerous Man beers are vegan (verified on Barnivore). Great for an unpretentious evening in NE.
+
+### Surly Brewing — Prospect Park (Near U of M)
+**520 Malcolm Ave SE** · Full restaurant kitchen · Verified vegan options
+
+Surly has a full restaurant kitchen with a menu that includes clearly marked vegan options — salads, plant-based proteins, loaded fries. The brewpub setting means great beer + actual food, not just trucks. Bigger and louder than the others, but reliable for a group that has mixed dietary needs.
+
+---
+
+## 🍸 How to Order Vegan at Any Minneapolis Bar
+
+You don't have to limit yourself to the fully vegan spots. Here's how to navigate any bar's drink menu as a vegan:
+
+### Spirits: Almost Always Vegan
+- **Vodka, gin, rum, tequila/mezcal, whiskey, bourbon:** Virtually all are vegan. The distillation process uses no animal products.
+- **Watch for:** Honey-based liqueurs (mead, certain whiskeys marketed as "honey"), cream-based liqueurs (Baileys), or egg-based spirits.
+
+### Beer: Usually Vegan, Check Craft Beers
+- Traditional lagers, ales, IPAs, stouts, porters, and sours: typically vegan.
+- Some British ales and certain craft beers use **isinglass** (fish bladder) as a fining agent — this is less common in American craft brewing.
+- **Minnesota craft beers are generally safe.** When in doubt, check [Barnivore.com](https://www.barnivore.com) — the definitive vegan beer database.
+
+### Wine: Check for Vegan Certification
+- Many wines use **egg whites, gelatin, or casein** for fining (clarifying) the wine.
+- Natural wines and wines marked "unfined/unfiltered" are usually vegan.
+- Barnivore.com also covers wines.
+- At bars: ask if they have vegan wine options — more bartenders know than you'd think.
+
+### Cocktails: Watch for These
+- ❌ **Honey syrup** — common in whiskey cocktails and bees-knees riffs
+- ❌ **Egg white** — used in sours (Whiskey Sour, Clover Club, Pisco Sour) for froth
+- ❌ **Cream** — White Russians, Irish Coffees, Grasshoppers
+- ❌ **Worcestershire** — many Bloody Marys contain anchovy-based Worcestershire
+- ✅ **Aquafaba** — chickpea water used as vegan egg white substitute (ask if available)
+- ✅ **Agave nectar** — common vegan alternative to honey
+
+---
+
+## Quick Comparison
+
+| Bar/Spot | Fully Vegan? | Neighborhood | Best For |
+|----------|-------------|--------------|----------|
+| **Reverie Cafe + Bar** | ✅ 100% | Powderhorn | Date night, intimate bar |
+| **Francis Burger Joint** | ✅ 100% | North Loop | Sports nights, groups |
+| **Seward Cafe** | Mostly vegan | Seward | Daytime + early evening |
+| **Common Roots Cafe** | Plant-forward | Whittier | Natural wine + light bites |
+| **Indeed Brewing** | Beer only + food trucks | NE Minneapolis | Taproom vibes, groups |
+| **Dangerous Man Brewing** | Beer only + food trucks | NE Minneapolis | Low-key NE evenings |
+| **Surly Brewing** | Verified vegan options | Prospect Park | Full meal + great beer |
+
+---
+
+## The Short Answer
+
+**For a fully vegan bar experience:** Reverie Cafe + Bar or Francis Burger Joint. Zero compromises, zero questions asked.
+
+**For craft brewery vibes:** Indeed or Dangerous Man in Northeast, with a check of that day's food truck.
+
+**For wine and small plates:** Common Roots Cafe on Lyndale.
+
+**For a Minneapolis institution:** Seward Cafe — the original.
+
+Minneapolis is one of the best cities in the Midwest for vegan nightlife. You're not limited to sparkling water and a side salad anymore.
 `
   }
 ];
