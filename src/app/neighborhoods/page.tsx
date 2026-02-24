@@ -22,6 +22,52 @@ export const metadata: Metadata = {
   },
 };
 
+// Schema: ItemList of neighborhoods (carousel-eligible) + BreadcrumbList
+const neighborhoodListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Minneapolis & Saint Paul Vegan Restaurant Neighborhoods',
+  description: 'Browse vegan and plant-based restaurants by neighborhood across the Twin Cities metro area.',
+  url: 'https://mplsvegan.com/neighborhoods',
+  numberOfItems: neighborhoods.length,
+  itemListElement: neighborhoods.map((n, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: `Vegan Restaurants in ${n.name}`,
+    url: `https://mplsvegan.com/neighborhoods/${n.slug}`,
+    item: {
+      '@type': 'Place',
+      name: n.name,
+      url: `https://mplsvegan.com/neighborhoods/${n.slug}`,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: n.city,
+        addressRegion: 'MN',
+        addressCountry: 'US',
+      },
+    },
+  })),
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Home',
+      item: 'https://mplsvegan.com',
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Neighborhoods',
+      item: 'https://mplsvegan.com/neighborhoods',
+    },
+  ],
+};
+
 export default function NeighborhoodsPage() {
   const minneapolisNeighborhoods = neighborhoods.filter(n => n.city === 'Minneapolis');
   const saintPaulNeighborhoods = neighborhoods.filter(n => n.city === 'Saint Paul');
@@ -32,6 +78,15 @@ export default function NeighborhoodsPage() {
 
   return (
     <div className="relative min-h-screen">
+      {/* Schema markup */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(neighborhoodListSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       {/* Background elements */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-1/4 -right-1/4 w-[600px] h-[600px] rounded-full bg-[#3d4a3d]/10 blur-[120px]" />

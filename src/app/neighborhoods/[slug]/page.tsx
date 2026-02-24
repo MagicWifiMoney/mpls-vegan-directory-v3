@@ -50,8 +50,89 @@ export default async function NeighborhoodPage({ params }: Props) {
   const restaurantsInNeighborhood = getRestaurantsByNeighborhood(slug);
   const veganOnly = restaurantsInNeighborhood.filter(r => r.veganStatus === '100% Vegan');
 
+  // Schema: ItemList of LocalBusiness entries (carousel-eligible) + BreadcrumbList
+  const restaurantListSchema = restaurantsInNeighborhood.length > 0 ? {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Vegan Restaurants in ${neighborhood.name}`,
+    description: `The best vegan and plant-based restaurants in ${neighborhood.name}, ${neighborhood.city}, Minnesota.`,
+    url: `https://mplsvegan.com/neighborhoods/${slug}`,
+    numberOfItems: restaurantsInNeighborhood.length,
+    itemListElement: restaurantsInNeighborhood.map((r, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'Restaurant',
+        '@id': `https://mplsvegan.com/restaurants/${r.slug}`,
+        name: r.name,
+        description: r.theVibe || r.description?.slice(0, 200),
+        url: `https://mplsvegan.com/restaurants/${r.slug}`,
+        telephone: r.phone || undefined,
+        address: {
+          '@type': 'PostalAddress',
+          streetAddress: r.address,
+          addressLocality: r.city,
+          addressRegion: r.state,
+          postalCode: r.zip,
+          addressCountry: 'US',
+        },
+        geo: {
+          '@type': 'GeoCoordinates',
+          latitude: r.coordinates.lat,
+          longitude: r.coordinates.lng,
+        },
+        servesCuisine: r.cuisineType,
+        priceRange: r.priceRange,
+        ...(r.website ? { sameAs: r.website } : {}),
+        ...(r.rating ? {
+          aggregateRating: {
+            '@type': 'AggregateRating',
+            ratingValue: r.rating,
+            reviewCount: r.reviewCount || 0,
+          }
+        } : {}),
+      },
+    })),
+  } : null;
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://mplsvegan.com',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Neighborhoods',
+        item: 'https://mplsvegan.com/neighborhoods',
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: neighborhood.name,
+        item: `https://mplsvegan.com/neighborhoods/${slug}`,
+      },
+    ],
+  };
+
   return (
     <div className="relative min-h-screen">
+      {/* Schema markup */}
+      {restaurantListSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(restaurantListSchema) }}
+        />
+      )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       {/* Background elements */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-1/4 -right-1/4 w-[600px] h-[600px] rounded-full bg-[#3d4a3d]/10 blur-[120px]" />
