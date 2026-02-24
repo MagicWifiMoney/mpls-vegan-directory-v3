@@ -23,6 +23,171 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "late-night-vegan-food-minneapolis",
+    title: "Late Night Vegan Food Minneapolis: Where to Eat After 10pm 🌙",
+    description: "Hungry after midnight in Minneapolis? Find the best late night vegan-friendly restaurants — from Pizza Karma's 3am fire-roasted pies to Francis Burger Joint's fully vegan bar. Real options, real hours.",
+    publishedAt: "2026-02-23",
+    updatedAt: "2026-02-23",
+    author: "Mia & Jay",
+    category: "guides",
+    tags: ["late night", "late night dining minneapolis", "late night eats minneapolis", "vegan minneapolis", "after midnight", "pizza", "burgers", "ramen"],
+    readingTime: "5 min read",
+    tldr: "Best late night vegan dining in Minneapolis: Pizza Karma (Dinkytown, open until 3am Thu–Sat, dairy-free cheese, student prices — the #1 pick), Pizza Lucé (Downtown, late-night delivery, legendary vegan cheese), Francis Burger Joint (NE Minneapolis, 100% vegan bar + burgers, late night). Most fully vegan restaurants close by 10pm, so your options are real but limited — this guide covers all of them.",
+    faqs: [
+      {
+        question: "Where can I get vegan food late at night in Minneapolis?",
+        answer: "Pizza Karma in Dinkytown is the best vegan-friendly late night option in Minneapolis — open until 3am on Thursday, Friday, and Saturday. They have dairy-free cheese, fire-roasted pizza, and student-friendly prices. Pizza Lucé (Downtown) offers late-night delivery with vegan options. Francis Burger Joint in Northeast Minneapolis is 100% vegan with a full vegan bar and late-night hours."
+      },
+      {
+        question: "Is Pizza Karma vegan-friendly?",
+        answer: "Yes. Pizza Karma in Dinkytown offers dairy-free cheese that actually melts and stretches, vegan toppings clearly marked on the menu, and South Asian-inspired flavor profiles that go beyond the standard vegan pizza. They're open until 3am Thursday through Saturday, making them Minneapolis's best late-night vegan-friendly pizza option."
+      },
+      {
+        question: "Does Pizza Lucé have vegan options?",
+        answer: "Yes — Pizza Lucé has been a vegan-friendly institution in the Twin Cities for decades. Their house-made vegan cheese melts well, and popular options include the Veggie Lucé (artichokes, tomatoes, olives) and the Baked Potato Pizza with vegan sour cream. They offer late-night delivery, making them a go-to after concerts and nights out."
+      },
+      {
+        question: "What is the latest a vegan restaurant in Minneapolis is open?",
+        answer: "Pizza Karma in Dinkytown is open until 3:00 AM on Thursday, Friday, and Saturday — making it the latest vegan-friendly dining option in Minneapolis. Most fully vegan restaurants (J. Selby's, Reverie, Seward Cafe) close between 8–10pm. Francis Burger Joint and Pizza Lucé have later hours than average for plant-based dining."
+      },
+      {
+        question: "Is there late night vegan delivery in Minneapolis?",
+        answer: "Yes. Pizza Karma (Dinkytown) offers late-night delivery via DoorDash and Uber Eats on Thursday through Saturday until 3am. Pizza Lucé delivers late to Downtown, Uptown, and surrounding neighborhoods. Both are reliably vegan-friendly with dairy-free cheese options."
+      },
+      {
+        question: "Can I get vegan ramen in Minneapolis late at night?",
+        answer: "Tori Ramen & Yakitori in the North Loop serves a Veggie Ramen with rich mushroom broth, chewy noodles, roasted vegetables, and tofu — and they stay open later than most ramen spots. Call ahead to confirm current hours, as late-night availability can vary by season."
+      }
+    ],
+    relatedRestaurants: ["pizza-karma", "pizza-luce", "francis-burger-joint", "tori-ramen"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-pizza-minneapolis", "best-vegan-pizza-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: `# Late Night Vegan Food Minneapolis: Where to Eat After 10pm 🌙
+
+Minneapolis has a genuinely great vegan restaurant scene — but most of it closes by 9 or 10pm. If you're coming back from a concert at First Avenue, wrapping up a long shift, or just hungry at midnight, your options shrink fast. This is the reality of late night vegan dining here: real, but limited.
+
+Here's where to go.
+
+---
+
+## 🍕 Pizza Karma — Dinkytown (Open Until 3am Thu–Sat)
+
+**Address:** 409 14th Ave SE, Minneapolis
+**Hours:** Mon–Wed 11am–11pm | **Thu–Sat 11am–3:00 AM** | Sun 11am–11pm
+**Price:** $ | Vegan-Friendly | Dairy-Free Cheese
+
+If you're hungry after midnight in Minneapolis, **Pizza Karma is the answer**. It's the only vegan-friendly spot in the city that's open until 3am — and it's legitimately good.
+
+The fire-roasted crust has real char. The dairy-free cheese actually melts and stretches (rarer than it sounds). The flavor profiles pull from South Asian heritage — tikka-inspired sauces, aromatic spice blends, and bold toppings that make standard pizza feel boring by comparison. Prices are student-budget friendly: fire-roasted artisan pizza at fast-food prices.
+
+**What to order:**
+- Any pie with dairy-free cheese — the melt is the real thing
+- Build-your-own with South Asian-inspired toppings
+- The Dinkytown Karma Bowl — customizable, filling, vegan-friendly
+- Late-night delivery special (Thu–Sat after midnight)
+
+The Dinkytown location is a U of M institution — buzzy, casual, perfect for groups rolling in from a night out. Late-night delivery via DoorDash/Uber Eats makes it even more accessible.
+
+**→ [View Pizza Karma on MPLSVegan](/restaurants/pizza-karma)**
+
+---
+
+## 🍕 Pizza Lucé — Downtown (Late Night Delivery)
+
+**Address:** 119 N 4th St, Minneapolis (+ multiple locations)
+**Price:** $$ | Vegan-Friendly | Full Bar
+
+Pizza Lucé has been a Twin Cities institution for decades — and they've been doing vegan pizza right since before it was a trend. The house-made vegan cheese **melts and stretches**. The late-night delivery coverage is extensive.
+
+**What to order:**
+- **Veggie Lucé** — artichokes, tomatoes, olives, vegan cheese
+- **Baked Potato Pizza** — vegan sour cream, a local legend
+- Vegan hoagies and pasta (dinner menu)
+
+Multiple locations mean better late-night delivery coverage across the city. Downtown, Uptown, Seward — check the website for the location nearest to you. The full bar means your pizza arrives with a drink menu if you're eating in.
+
+**→ [View Pizza Lucé on MPLSVegan](/restaurants/pizza-luce)**
+
+---
+
+## 🍔 Francis Burger Joint — Northeast Minneapolis (Late Night + Full Vegan Bar)
+
+**Address:** 2422 Central Ave NE, Minneapolis
+**Price:** $$ | **100% Vegan** | Full Vegan Bar | Late Night
+
+Francis is the late-night option for when you want something more substantial than pizza — and you want everything to be fully, authentically vegan. **The entire bar program is vegan**: no crushed beetle dyes in cocktails, no fish bladder-filtered wines, no animal-derived additives in any drink.
+
+The burgers are the draw: a taco-seasoned Impossible burger, a garlicky black bean burger, and a Juicy Lucy stuffed with vegan cheese. The Northeast space is industrial-chic, laid-back, and exactly the right energy for a late-night hangout.
+
+There's also a Longfellow location if NE isn't convenient.
+
+**→ [View Francis Burger Joint on MPLSVegan](/restaurants/francis-burger-joint)**
+
+---
+
+## 🍜 Tori Ramen & Yakitori — North Loop (Late Night Ramen)
+
+**Address:** 161 N 1st St, Minneapolis
+**Price:** $$ | Vegan-Friendly | Late Night
+
+Tori Ramen serves one of the better vegan ramen bowls in Minneapolis — a rich mushroom broth, perfectly chewy noodles, roasted vegetables, and tofu. The charred shiitake mushroom yakitori skewers are excellent. It's the late-night option for a warming bowl after a North Loop night out.
+
+Call ahead to confirm current late-night hours, as availability can shift seasonally.
+
+**→ [View Tori Ramen on MPLSVegan](/restaurants/tori-ramen)**
+
+---
+
+## The Reality: Minneapolis Vegan Dining at Night
+
+Let's be honest about the landscape. The fully vegan restaurants in Minneapolis — [J. Selby's](/restaurants/j-selbys), [Reverie](/restaurants/reverie-cafe-bar), [Seward Cafe](/restaurants/seward-cafe), [Hard Times Cafe](/restaurants/hard-times-cafe) — are phenomenal, but they're not late-night spots. Most close between 8 and 10pm.
+
+What you're working with after 10pm:
+
+| Restaurant | Neighborhood | Latest Hours | Vegan Status |
+|-----------|--------------|-------------|--------------|
+| [Pizza Karma](/restaurants/pizza-karma) | Dinkytown | **3am (Thu–Sat)** | Vegan-Friendly |
+| [Pizza Lucé](/restaurants/pizza-luce) | Downtown | Late night delivery | Vegan-Friendly |
+| [Francis Burger Joint](/restaurants/francis-burger-joint) | Northeast | Late night | 100% Vegan |
+| [Tori Ramen](/restaurants/tori-ramen) | North Loop | Late night | Vegan-Friendly |
+
+---
+
+## Tips for Late Night Vegan Eating in Minneapolis
+
+**1. Pizza Karma is your default.** Nothing else in the city hits 3am with legitimate vegan options. Bookmark it.
+
+**2. Check delivery apps.** Pizza Karma and Pizza Lucé both appear on DoorDash and Uber Eats after midnight on weekends.
+
+**3. Francis for the full experience.** If you want a full meal — burger, craft cocktail, the whole thing — Francis is worth the trip to Northeast. Everything is vegan, no asterisks.
+
+**4. Call ahead for ramen.** Tori Ramen's late-night availability varies. Don't assume; call first.
+
+**5. Plan for brunch instead.** If late-night vegan options feel limiting, Minneapolis absolutely delivers on [weekend vegan brunch](/blog/vegan-brunch-minneapolis) — the scene is excellent and fully plant-based spots hold nothing back.
+
+---
+
+## Late Night Vegan Pizza in Minneapolis: A Note
+
+Both Pizza Karma and Pizza Lucé have made late-night vegan pizza a real, reliable option in Minneapolis. The difference:
+
+- **Pizza Karma** → fire-roasted, South Asian-inspired flavors, open until 3am, Dinkytown
+- **Pizza Lucé** → Twin Cities institution, multiple locations, extensive delivery coverage, full bar
+
+Neither requires you to awkwardly ask "can you make this vegan?" — both have genuine dairy-free cheese and vegan menus built in.
+
+→ [Full vegan pizza guide: Best Vegan Pizza Minneapolis](/blog/best-vegan-pizza-minneapolis)
+
+---
+
+## Related Guides
+
+- [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026)
+- [Vegan Date Night Minneapolis](/blog/vegan-date-night-minneapolis)
+- [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide)
+- [Best Vegan Pizza Minneapolis](/blog/best-vegan-pizza-minneapolis)
+`,
+  },
+  {
     slug: "vegan-mothers-day-brunch-minneapolis-2026",
     title: "Best Vegan Mother's Day Brunch in Minneapolis 2026 | Plant-Based May Dining",
     description: "Celebrate Mom plant-based style! Find the best vegan Mother's Day brunch spots in Minneapolis 2026 — from J. Selby's indulgent brunch to Reverie's gorgeous ambiance. Mother's Day is May 11.",

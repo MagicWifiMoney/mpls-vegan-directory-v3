@@ -213,7 +213,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Full Bar', 'Late Night'],
     coordinates: { lat: 45.0123, lng: -93.2473 },
-    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'northeast-minneapolis-vegan-guide']
+    relatedBlogs: ['late-night-vegan-food-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'northeast-minneapolis-vegan-guide']
   },
   {
     id: '11',
@@ -497,7 +497,8 @@ export const restaurants: Restaurant[] = [
     description: "A Twin Cities institution with multiple locations, Pizza Lucé has been perfecting vegan pizza since before it was trendy. Their house-made vegan cheese actually melts and stretches, topping creative pies like the Veggie Lucé loaded with artichokes, tomatoes, and olives. The Baked Potato Pizza with vegan sour cream is a local legend. Beyond pizza, find vegan hoagies, pasta, and appetizers. Late-night delivery makes them a lifesaver after concerts or nights out. Every location has its own neighborhood character.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery', 'Late Night', 'Full Bar'],
-    coordinates: { lat: 44.9827, lng: -93.2698 }
+    coordinates: { lat: 44.9827, lng: -93.2698 },
+    relatedBlogs: ['late-night-vegan-food-minneapolis', 'best-vegan-pizza-minneapolis', 'vegan-pizza-minneapolis', 'best-vegan-restaurants-minneapolis-2026']
   },
   {
     id: '25',
@@ -883,7 +884,8 @@ export const restaurants: Restaurant[] = [
     description: "North Loop ramen shop with an excellent vegetable-based ramen option. The Veggie Ramen features a rich mushroom broth, perfectly chewy noodles, roasted vegetables, and tofu. Yakitori skewers include vegetable options—the charred shiitake mushrooms are exceptional. Small plates like edamame and pickled vegetables round out the meal. The cozy space gets packed, but solo diners can snag bar seats. Perfect for a warming bowl on a cold Minneapolis evening.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Ramen', 'Late Night'],
-    coordinates: { lat: 44.9857, lng: -93.2717 }
+    coordinates: { lat: 44.9857, lng: -93.2717 },
+    relatedBlogs: ['late-night-vegan-food-minneapolis', 'best-vegan-restaurants-minneapolis-2026']
   },
   {
     id: '45',
@@ -1043,7 +1045,7 @@ export const restaurants: Restaurant[] = [
     ],
     bestFor: ['Late-night vegan', 'University students', 'Budget-friendly pizza', 'Groups', 'Delivery'],
     theVibe: "Buzzy Dinkytown fire-roasted pizza spot with South Asian flair — open until 3am on weekends, real dairy-free cheese, student prices.",
-    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegetarian-restaurants-minneapolis']
+    relatedBlogs: ['late-night-vegan-food-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegetarian-restaurants-minneapolis', 'best-vegan-pizza-minneapolis']
   }
 ];
 
