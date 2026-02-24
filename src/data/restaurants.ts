@@ -129,7 +129,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Full Bar', 'Brunch', 'Live Music'],
     coordinates: { lat: 44.9341, lng: -93.2447 },
-    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'vegan-coffee-shops-minneapolis']
+    relatedBlogs: ['vegan-restaurants-uptown-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'vegan-coffee-shops-minneapolis']
   },
   {
     id: '6',
@@ -150,7 +150,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Bakery', 'Brunch', 'Patio'],
     coordinates: { lat: 44.9508, lng: -93.2879 },
-    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis', 'vegan-coffee-shops-minneapolis']
+    relatedBlogs: ['vegan-restaurants-uptown-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis', 'vegan-coffee-shops-minneapolis']
   },
   {
     id: '7',
@@ -397,7 +397,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery'],
     coordinates: { lat: 44.9519, lng: -93.2990 },
-    relatedBlogs: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026'],
+    relatedBlogs: ['vegan-restaurants-uptown-minneapolis', 'vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026'],
   },
   {
     id: '20',
@@ -418,7 +418,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$',
     features: ['Takeout', 'Coffee', 'Vegan Options Daily'],
     coordinates: { lat: 44.9509, lng: -93.2781 },
-    relatedBlogs: ['vegan-bakeries-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-coffee-shops-minneapolis']
+    relatedBlogs: ['vegan-restaurants-uptown-minneapolis', 'vegan-bakeries-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-coffee-shops-minneapolis']
   },
   // NEW RESTAURANTS START HERE
   {
@@ -686,7 +686,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery'],
     coordinates: { lat: 44.9508, lng: -93.2781 },
-    relatedBlogs: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026'],
+    relatedBlogs: ['vegan-restaurants-uptown-minneapolis', 'vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026'],
   },
   {
     id: '34',
@@ -916,7 +916,7 @@ export const restaurants: Restaurant[] = [
     coordinates: { lat: 44.9489, lng: -93.2879 },
     seoTitle: 'World Street Kitchen Minneapolis: Vegan Options, Yum Yum Bowl & Hours | MPLSVegan',
     seoDescription: 'World Street Kitchen (WSK) in Minneapolis has excellent vegan options — crispy tofu Yum Yum bowl, falafel plates, and rotating global specials. Hours, address & full vegan menu guide.',
-    relatedBlogs: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-food-minneapolis'],
+    relatedBlogs: ['vegan-restaurants-uptown-minneapolis', 'vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-food-minneapolis'],
   },
   {
     id: '46',

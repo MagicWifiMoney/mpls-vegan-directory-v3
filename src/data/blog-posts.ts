@@ -23,6 +23,213 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "vegan-restaurants-uptown-minneapolis",
+    title: "Best Vegan Restaurants in Uptown & Lyn-Lake Minneapolis (2026 Guide)",
+    description: "The best vegan and plant-based food in Minneapolis's most plant-forward neighborhoods — Uptown, Lyn-Lake, and Whittier. From Amazing Thailand's mock duck curry to Peninsula Malaysian's laksa, World Street Kitchen's Yum Yum bowl, and a 100% vegan bar in Powderhorn.",
+    publishedAt: "2026-02-24",
+    updatedAt: "2026-02-24",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan restaurants uptown minneapolis", "uptown minneapolis vegan", "vegan food uptown minneapolis", "lyn-lake vegan restaurants", "vegan restaurants lyn-lake", "best vegan uptown minneapolis"],
+    readingTime: "9 min read",
+    tldr: "Best vegan food in Uptown & Lyn-Lake Minneapolis: Amazing Thailand (Uptown, mock duck curry + papaya salad, the go-to vegan Thai), Peninsula Malaysian (Lyn-Lake, curry laksa that ruins all other soups), World Street Kitchen (Lyn-Lake, crispy tofu Yum Yum bowl), French Meadow Bakery (Lyn-Lake, vegan pastries + breakfast), Glam Doll Donuts (Lyn-Lake, rotating punk-rock vegan flavors), Bryant Lake Bowl (Lyn-Lake, plant-based theater dining), and Reverie Cafe + Bar (Powderhorn, fully vegan bar with craft beer and dark chocolate beignets).",
+    faqs: [
+      {
+        question: "What are the best vegan restaurants in Uptown Minneapolis?",
+        answer: "The top vegan spots in Uptown Minneapolis are: Amazing Thailand (3024 Hennepin Ave) for mock duck curry and pad thai, French Meadow Bakery (2610 Lyndale Ave S) for vegan pastries and breakfast, and World Street Kitchen (2743 Lyndale Ave S) for the Yum Yum bowl with crispy tofu. Lyn-Lake (adjacent to Uptown) adds Peninsula Malaysian Cuisine for curry laksa and Glam Doll Donuts for rotating vegan flavors."
+      },
+      {
+        question: "Is Uptown Minneapolis good for vegans?",
+        answer: "Yes — Uptown and the adjacent Lyn-Lake neighborhood are arguably the best areas in Minneapolis for vegan food. The corridor along Hennepin Ave and Nicollet Ave / Lyndale Ave S has the highest concentration of vegan-friendly and fully plant-based dining in the city, with multiple 100% vegan options and dozens of restaurants with strong vegan menus."
+      },
+      {
+        question: "What is the best vegan Thai restaurant in Minneapolis?",
+        answer: "Amazing Thailand on Hennepin Ave in Uptown (3024 Hennepin Ave S) is widely considered the best vegan Thai in Minneapolis. They have extensive vegan options including pad thai with tofu, coconut curries, papaya salad (specify no fish sauce), and an outstanding mock duck red curry. Most dishes can be made vegan on request."
+      },
+      {
+        question: "Are there any 100% vegan restaurants in Uptown Minneapolis?",
+        answer: "Reverie Cafe + Bar (2506 Minnehaha Ave, Powderhorn — just south of Lyn-Lake) is fully vegan with a complete restaurant and bar menu: 20+ craft beers on tap, cocktails, and a food menu with dark chocolate beignets, cashew cheesecake, and savory dishes. In Lyn-Lake proper, World Street Kitchen and Glam Doll Donuts have full vegan menus, though they're not exclusively vegan."
+      },
+      {
+        question: "Where is the best vegan brunch in Uptown Minneapolis?",
+        answer: "French Meadow Bakery & Café (2610 Lyndale Ave S, Lyn-Lake) is the neighborhood's top brunch pick for vegans — vegan-labeled pastries, organic grain bowls, smoothies, and coffee. Bryant Lake Bowl (810 W Lake St, Lyn-Lake) also serves a popular vegan-friendly brunch in their theater space. Both are walkable from the Uptown core."
+      },
+      {
+        question: "What neighborhoods are near Uptown Minneapolis with vegan food?",
+        answer: "Lyn-Lake (directly east of Uptown along Lake Street and Nicollet Ave) has Peninsula Malaysian, Glam Doll Donuts, French Meadow, and World Street Kitchen. Powderhorn (just south) has Reverie Cafe + Bar, the fully vegan bar and restaurant. Whittier (between Uptown and downtown) has additional plant-forward spots. All are walkable or a short bike ride from Uptown proper."
+      }
+    ],
+    relatedRestaurants: ["amazing-thailand", "peninsula-malaysian-cuisine", "world-street-kitchen", "glam-doll-donuts", "french-meadow", "reverie-cafe-bar", "bryant-lake-bowl"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-restaurants-downtown-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-bakeries-minneapolis", "vegan-brunch-minneapolis", "vegan-asian-restaurants-minneapolis"],
+    content: `
+## Uptown & Lyn-Lake: Minneapolis's Vegan Heartland
+
+If you want to understand why Minneapolis has one of the best plant-based dining scenes in the Midwest, start in Uptown. The strip along Hennepin Avenue between Lake Street and 28th Street — and the parallel Nicollet and Lyndale corridors heading into Lyn-Lake — has the highest density of vegan-friendly restaurants in the city. Not just options. Not just "we can make that vegan." Actual destination-worthy cooking that happens to be plant-based.
+
+This guide covers the best of it: from the mock duck that has been drawing vegans to Uptown for twenty years to a fully vegan bar in Powderhorn where the cashew cheesecake is genuinely better than most non-vegan alternatives.
+
+---
+
+## 🍛 1. Amazing Thailand — The Go-To Vegan Thai
+
+**Uptown | 3024 Hennepin Ave S | $$**
+
+There are plenty of Thai restaurants in Minneapolis. There's only one Amazing Thailand, and it has been the landmark for vegan Thai in this city for decades. The space is warm and slightly dim, the service is fast and friendly, and the mock duck curry is — without hyperbole — one of the best dishes you can order in the Twin Cities.
+
+**What to order:**
+- **Mock Duck Red Curry** — coconut milk, bamboo shoots, bell peppers, holy basil. The mock duck has a texture and flavor that holds up against actual duck in a way that most meat substitutes only dream of
+- **Papaya Salad** — specify "no fish sauce, no dried shrimp" and you get a fiery, tangy, crunchy salad that's as good as any in the city
+- **Pad See Ew with tofu** — wider rice noodles with Chinese broccoli and eggy-tasting sauce (they'll leave the egg out on request)
+- **Massaman Curry with tofu** — milder, warming, potato-and-peanut-forward. A cold Minneapolis night's best friend
+
+**What you should know:** Almost everything on the menu can be made vegan — tofu and mock duck are available across most protein dishes. Tell your server you're vegan up front and they'll flag everything cleanly.
+
+**Also featured in:** [Best Vegan Asian Restaurants in Minneapolis](/blog/vegan-asian-restaurants-minneapolis)
+
+---
+
+## 🍜 2. Peninsula Malaysian Cuisine — Curry Laksa That Will Ruin All Other Soups
+
+**Lyn-Lake | 2608 Nicollet Ave | $$**
+
+Malaysian food is one of the most underrated vegan goldmines in any city. It pulls from Malay, Chinese, and Indian traditions — so one menu gives you coconut curries, rice noodles, wok-fired dishes, and flatbreads. At Peninsula, much of it is already vegetarian or easily vegan, and the kitchen handles the request without drama.
+
+The dish you're ordering is the **Vegetable Curry Laksa** — a coconut curry broth loaded with rice noodles, tofu puffs, bean sprouts, and vegetables. It's rich, warming, and complex in a way that requires more than one bowl to fully understand. The mock duck rendang and the roti canai (flatbread) with lentil dipping sauce round out the best vegan order in the city at this price point.
+
+**Pro tip:** Ask the server to confirm which curries are coconut-milk based and can omit shrimp paste. Several can.
+
+**Also featured in:** [Best Vegan Asian Restaurants in Minneapolis](/blog/vegan-asian-restaurants-minneapolis)
+
+---
+
+## 🌍 3. World Street Kitchen — The Yum Yum Bowl
+
+**Lyn-Lake | 2743 Lyndale Ave S | $$**
+
+World Street Kitchen doesn't have a vegan menu. It has a menu where about half the dishes are vegan by default, a staff that knows exactly what can be made without dairy or egg, and a "Yum Yum Bowl" that has developed a legitimate cult following among the Minneapolis plant-based crowd.
+
+**The Yum Yum Bowl:** Crispy fried tofu on rice or salad, pickled vegetables, cucumber, naan bread, two dipping sauces. The tofu is properly crispy — not the sad, soggy kind. The pickles cut the richness. The sauces (get the spicy one) tie it together. It's $12-14, it's filling, and it's one of the most satisfying lunches you can eat in this neighborhood.
+
+**Also good:** Braised Greens, Roasted Cauliflower dishes, rice-based bowls with veggie protein. Seasonal menu items rotate — ask what's plant-based that week.
+
+**Vibe:** Casual counter-service, popular for lunch and early dinner, fills up fast on weekends.
+
+**Also featured in:** [Best Vegan Asian Restaurants in Minneapolis](/blog/vegan-asian-restaurants-minneapolis)
+
+---
+
+## 🥐 4. French Meadow Bakery & Café — Organic, Vegan-Labeled, and Actually Good
+
+**Lyn-Lake | 2610 Lyndale Ave S | $$**
+
+French Meadow is the neighborhood's all-day café — the place you go for breakfast before a long weekend, for a working lunch, or for a slow afternoon with a latte and a pastry. The bakery case is clearly labeled by dietary restriction, and the vegan options are extensive: muffins, scones, granola bars, and seasonal pastries that rotate with the month.
+
+**Best vegan options:**
+- Granola and coconut yogurt bowls (breakfast)
+- Grain bowls with roasted vegetables and tahini dressing (lunch)
+- Hummus plates with housemade bread
+- Vegan pastries from the case (rotating — usually 4-6 options daily)
+- Smoothies and organic drip coffee with oat milk
+
+French Meadow is a better everyday café than a special-occasion restaurant — but the "organic vegan-labeled" promise means you can order without interrogating the menu. For Uptown/Lyn-Lake residents, this is often the default morning stop.
+
+**Also featured in:** [Best Vegan Bakeries in Minneapolis](/blog/vegan-bakeries-minneapolis)
+
+---
+
+## 🍩 5. Glam Doll Donuts — Punk Rock Flavors
+
+**Lyn-Lake | 2605 Nicollet Ave | $**
+
+You know the Instagram photos. You've seen the line on Saturday mornings. Glam Doll Donuts is exactly what it looks like: a loud, irreverent donut shop with a rotating menu of creative flavors, a lot of them vegan or vegan-adaptable, and a following that shows up early because the best stuff sells out.
+
+The vegan options rotate weekly and seasonally. Classics like **maple glazed**, **salted caramel**, and **lemon glaze** appear regularly. Seasonal drops — pumpkin spice in fall, strawberry lavender in spring, peppermint in December — are all frequently vegan.
+
+**How to get the best selection:** Show up before 11am on weekends. After noon, the vegan-labeled options thin out fast.
+
+**Pro tip:** They post daily vegan options to their Instagram story. Worth following if donuts are on your agenda.
+
+**Also featured in:** [Best Vegan Bakeries & Desserts in Minneapolis](/blog/vegan-bakeries-minneapolis)
+
+---
+
+## 🎭 6. Bryant Lake Bowl — Theater Dining Done Right
+
+**Lyn-Lake | 810 W Lake St | $$**
+
+Bryant Lake Bowl is a Minneapolis original — a bowling alley, theater, and restaurant all in one space, open since 1993. The menu is seasonal and locally sourced, with consistently strong vegan options that rotate. The atmosphere is Lyn-Lake in the best way: a little weird, completely unpretentious, and deeply local.
+
+**What to expect:** 4-6 clearly marked vegan dishes on the menu at any time. Grain bowls, soups, sandwiches, and salads that change seasonally. The kitchen is farm-to-table oriented, which means winter means warming stews and spring means bright grain salads.
+
+**Best use case:** Pre-show dinner before a performance in the theater space, or a weekend brunch with the papers. The bowling lanes add a fun backdrop for group dinners.
+
+**Note:** Always check the current menu — it rotates frequently and the vegan options shift. Their website lists current specials.
+
+---
+
+## 🍺 7. Reverie Cafe + Bar — The Fully Vegan Bar
+
+**Powderhorn | 2506 Minnehaha Ave | $$**
+
+Technically Powderhorn, not Uptown — but Reverie is a 10-minute walk or one-minute bike ride from the Lyn-Lake core, and it's different enough from everything else in this guide to earn the trip.
+
+Reverie is a **fully vegan bar and restaurant**. Not vegan-friendly. Not "we have options." Fully vegan — every single item on the menu, from the dark chocolate beignets to the craft beer list to the cashew cheesecake, contains zero animal products.
+
+**Why it's worth it:**
+- 20+ craft beers on tap, rotating selection
+- Full cocktail and mocktail program
+- Dark chocolate beignets (the signature — get these)
+- Cashew cheesecake that is legitimately better than most non-vegan alternatives
+- Savory dishes: rotating plates, charcuterie-style vegan boards, seasonal mains
+
+**Vibe:** Cozy, dark, candlelit. Booth seating. Neighborhood bar energy with better food than you'd expect. Good for dates, good for after a show, good for solo dining at the bar.
+
+**Also featured in:** [Best Vegan Bakeries & Desserts in Minneapolis](/blog/vegan-bakeries-minneapolis), [Vegan Date Night Minneapolis](/blog/vegan-date-night-minneapolis)
+
+---
+
+## Neighborhood Map: Uptown → Lyn-Lake → Powderhorn
+
+| Restaurant | Neighborhood | Best Vegan Pick | Price |
+|---|---|---|---|
+| Amazing Thailand | Uptown | Mock Duck Red Curry | $$ |
+| Peninsula Malaysian | Lyn-Lake | Vegetable Curry Laksa | $$ |
+| World Street Kitchen | Lyn-Lake | Yum Yum Bowl | $$ |
+| French Meadow Bakery | Lyn-Lake | Grain Bowl + Pastry | $$ |
+| Glam Doll Donuts | Lyn-Lake | Rotating Seasonal Flavor | $ |
+| Bryant Lake Bowl | Lyn-Lake | Seasonal Vegan Plate | $$ |
+| Reverie Cafe + Bar | Powderhorn | Dark Chocolate Beignets | $$ |
+
+---
+
+## How to Make a Day of It
+
+**Morning:** French Meadow for coffee and a grain bowl → Glam Doll if it's before 11am for a donut
+**Lunch:** World Street Kitchen Yum Yum Bowl or Peninsula Malaysian curry laksa
+**Afternoon:** Walk Lake Street from Lyn-Lake west through Uptown, browse Magers & Quinn or Ragstock
+**Dinner:** Amazing Thailand for mock duck curry or Bryant Lake Bowl for a pre-show meal
+**After dinner:** Reverie Cafe + Bar for a beer, dark chocolate beignets, and whatever's on the rotation
+
+This corridor covers about 1.5 miles of walkable Minneapolis — all of it deeply local, none of it chain restaurants, and more vegan food per square mile than almost anywhere else in the Midwest.
+
+---
+
+## What About Grocery and Takeout?
+
+**Seward Community Co-op** (2823 E Franklin Ave, nearby Seward neighborhood) has one of the best vegan prepared food sections in the Twin Cities — hot bar, salad bar, and packaged grab-and-go items. Worth adding to a Lyn-Lake day if you're heading home with dinner.
+
+**Whole Foods in Uptown** (222 Hennepin Ave S) has a solid prepared foods section, but the Co-op is better for vegan options and more interesting.
+
+---
+
+## Bottom Line
+
+Uptown and Lyn-Lake are where Minneapolis vegans eat. The neighborhood has built its food identity around local sourcing, adventurous flavors, and genuinely welcoming kitchen attitudes toward plant-based diners. Whether you're visiting the Twin Cities or live ten blocks away and haven't explored the full stretch, these seven spots cover breakfast through late night — all within a short walk of each other.
+
+For the full Minneapolis picture, see our [Best Vegan Restaurants in Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) guide. For exploring other neighborhoods, check the [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide) and the new [Downtown Minneapolis Vegan Guide](/blog/vegan-restaurants-downtown-minneapolis).
+`,
+  },
+  {
     slug: "vegan-restaurants-downtown-minneapolis",
     title: "Best Vegan Restaurants Near Downtown Minneapolis (2026 Guide)",
     description: "The best vegan and plant-based restaurants in and around downtown Minneapolis — from 100% vegan Ethiopian at Lulu EthioVegan to coal-fired pizza at Black Sheep, Crisp & Green on Nicollet Mall, and vegan ramen at Tori in the North Loop.",
@@ -255,7 +462,7 @@ Afro Deli sits at the edge of Cedar-Riverside's East African community and serve
       }
     ],
     relatedRestaurants: ["amazing-thailand", "tori-ramen", "masu-sushi", "peninsula-malaysian", "world-street-kitchen", "ngon-vietnamese"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "late-night-vegan-food-minneapolis", "vegan-restaurants-st-paul", "vegan-food-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-restaurants-uptown-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "late-night-vegan-food-minneapolis", "vegan-restaurants-st-paul"],
     content: `
 ## The Best Vegan Asian Food in Minneapolis
 
@@ -2242,7 +2449,7 @@ Now go forth and brunch. 🥞🌱
       }
     ],
     relatedRestaurants: ["tongue-in-cheek", "reverie-cafe-bar", "francis-burger-joint", "masu-sushi", "herbivorous-butcher"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-restaurants-uptown-minneapolis", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
     content: `
 ## The Ultimate Guide to Vegan Date Night in Minneapolis
 
@@ -3494,7 +3701,7 @@ For more Minneapolis vegan dining, check out our [complete restaurant guide](/bl
       }
     ],
     relatedRestaurants: ["vegan-east-bakery", "glam-doll-donuts", "lutunjis-palate", "sift-gluten-free", "french-meadow"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-brunch-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-restaurants-uptown-minneapolis", "vegan-comfort-food-minneapolis", "vegan-brunch-minneapolis"],
     content: `
 ## Best Vegan Bakeries in Minneapolis: Your Complete Guide to Plant-Based Pastries
 
