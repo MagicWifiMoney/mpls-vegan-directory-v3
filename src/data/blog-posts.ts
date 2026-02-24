@@ -23,6 +23,192 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "vegan-fathers-day-minneapolis-2026",
+    title: "Vegan Father's Day in Minneapolis 2026: Brunch, Dinner & Gift Ideas 🌿",
+    description: "Father's Day 2026 is June 15 — here's how to celebrate with the vegan dad (or vegan-curious dad) in Minneapolis. Best brunch spots, dinner picks, grilling ideas, and gifts from the Herbivorous Butcher.",
+    publishedAt: "2026-02-23",
+    updatedAt: "2026-02-23",
+    author: "Mia & Jay",
+    category: "guides",
+    tags: ["fathers day", "fathers day brunch minneapolis", "vegan fathers day", "vegan brunch", "vegan gifts", "minneapolis", "fathers day 2026"],
+    readingTime: "7 min read",
+    tldr: "Best vegan Father's Day in Minneapolis: Francis Burger Joint (NE Mpls) is the ultimate pick for the sports/burger dad — 100% vegan bar & grill with real beer. Hard Times Cafe (Seward) for the casual comfort-food dad. J. Selby's (St. Paul) for the dad who deserves a proper brunch. Herbivorous Butcher for vegan grill gifts. Reserve by early June — Father's Day is June 15, 2026.",
+    faqs: [
+      {
+        question: "Where is the best vegan Father's Day brunch in Minneapolis?",
+        answer: "The top picks for vegan Father's Day brunch in Minneapolis are: J. Selby's in St. Paul (full vegan menu, upscale atmosphere, great for a celebratory meal), Hard Times Cafe in Seward (legendary vegan biscuits & gravy, casual punk diner vibes, cash only), and Reverie Cafe (Lyn-Lake, excellent pastries and coffee). Book early — Father's Day is one of the busiest brunch days of the year."
+      },
+      {
+        question: "Is there a vegan bar and grill in Minneapolis for Father's Day?",
+        answer: "Yes — Francis Burger Joint in Northeast Minneapolis is 100% vegan and functions as a full bar & grill. It's the perfect spot for the sports-loving vegan dad: craft beers, vegan burgers, bar food, and TVs. No reservations needed, walk-in friendly."
+      },
+      {
+        question: "Where can I buy vegan Father's Day gifts in Minneapolis?",
+        answer: "The Herbivorous Butcher (North Loop) is the go-to for vegan Father's Day gifts in Minneapolis. They sell artisanal vegan meats, cheeses, and gift boxes — perfect for the dad who loves grilling. Gift cards are available online. Glam Doll Donuts also does gift boxes of vegan donuts if Dad has a sweet tooth."
+      },
+      {
+        question: "What vegan restaurants are good for a Father's Day dinner in Minneapolis?",
+        answer: "For Father's Day dinner in Minneapolis: Common Roots Cafe (Uptown, seasonal menu, outdoor seating), Francis Burger Joint (NE Minneapolis, full bar, very casual), and Tongue in Cheek in St. Paul (plant-forward, excellent cocktail program). French Meadow Bakery in Uptown is great for a full sit-down dinner with a wide vegan menu and full bar."
+      },
+      {
+        question: "When is Father's Day 2026?",
+        answer: "Father's Day 2026 falls on Sunday, June 15. Minneapolis restaurants will fill up fast — especially for brunch. Reservations at places like J. Selby's and French Meadow should be made by late May or early June."
+      },
+      {
+        question: "What's the best vegan grill food for Father's Day in Minneapolis?",
+        answer: "The Herbivorous Butcher in Minneapolis's North Loop sells artisanal vegan sausages, ribs, and burger patties that are perfect for grilling. Their products are available in-store and ship nationwide. For a restaurant grilling experience, Francis Burger Joint in NE Minneapolis has the best vegan smash burgers in the city."
+      }
+    ],
+    relatedRestaurants: ["j-selbys", "hard-times-cafe", "francis-burger-joint", "common-roots-cafe", "reverie-cafe-bar", "herbivorous-butcher", "french-meadow"],
+    relatedPosts: ["vegan-mothers-day-brunch-minneapolis-2026", "vegan-brunch-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-comfort-food-minneapolis"],
+    content: `# Vegan Father's Day in Minneapolis 2026: Brunch, Dinner & Gifts
+
+Father's Day 2026 is **Sunday, June 15** — and whether you're celebrating a dad who's fully vegan, cooking for a mixed family, or just trying to find somewhere good that works for everyone, Minneapolis delivers.
+
+The city has a legitimately great vegan restaurant scene: everything from a 100% vegan sports bar to an upscale brunch destination in St. Paul to a butcher shop full of artisanal vegan grilling meats. This guide covers it all.
+
+---
+
+## 🍺 For the Sports & Burger Dad — Francis Burger Joint
+
+**[Francis Burger Joint](/restaurants/francis-burger-joint)** in Northeast Minneapolis is the best Father's Day pick if Dad wants a burger and a cold beer — and happens to be vegan (or is willing to try).
+
+It's **100% vegan** and runs like a sports bar: big-screen TVs, craft beers on tap, a full cocktail menu, and burgers that actually satisfy. This is the rare vegan spot that doesn't require any convincing. Non-vegan dads visiting have been known to quietly admit the smash burger is better than expected.
+
+**Why it works for Father's Day:**
+- Walk-in friendly — no reservations required
+- Full bar (craft beer, cocktails, mocktails)
+- Vegan smash burgers, wings, loaded fries, nachos
+- Northeast Minneapolis neighborhood vibe (parking available)
+- Open afternoons and evenings — great for a relaxed Father's Day lunch or dinner
+
+**Address:** 1119 Washington Ave NE, Minneapolis
+
+---
+
+## 🥞 For the Comfort Food Dad — Hard Times Cafe
+
+**[Hard Times Cafe](/restaurants/hard-times-cafe)** in Seward has been feeding Minneapolis's vegan community since 1989. It's not fancy — it's better than fancy. Cash-only, punk-diner energy, and the **best vegan biscuits and gravy in the city**.
+
+For the dad who grew up on Saturday morning diner breakfasts and doesn't want something pretentious, Hard Times is the move. Everything on the menu is vegan. The portions are generous. The coffee is strong.
+
+**Father's Day picks:**
+- Biscuits & gravy (the signature — don't skip it)
+- Seitan scramble with hash browns
+- Pancakes with maple syrup
+- Their rotating specials (always worth checking the board)
+
+**Pro tip:** Arrive right at opening. Hard Times fills up fast on weekends and doesn't take reservations.
+
+**Address:** 1821 Riverside Ave, Minneapolis | **Cash only**
+
+---
+
+## 🥂 For the Fancy Brunch Dad — J. Selby's
+
+For the dad who deserves a proper celebration, **[J. Selby's](/restaurants/j-selbys)** in St. Paul's Cathedral Hill neighborhood is the premier vegan brunch spot in the Twin Cities.
+
+Fully vegan, full service, full menu — and genuinely excellent food. The kind of place where you make a reservation, dress slightly better than usual, and linger over coffee. It's a 15-minute drive from downtown Minneapolis and absolutely worth it.
+
+**Father's Day brunch highlights:**
+- Avocado toast with housemade sourdough
+- Seasonal specials (often feature local produce)
+- Brunch cocktails and mocktails
+- Excellent coffee program
+- Spacious, relaxed atmosphere
+
+**⚠️ Reserve early.** Father's Day is one of the busiest brunch days of the year. Book through their website by **early June** to guarantee a spot.
+
+**Address:** 169 Western Ave N, St. Paul
+
+---
+
+## ☕ For the Coffee-Loving Dad — Reverie Cafe + Bar
+
+**[Reverie Cafe + Bar](/restaurants/reverie-cafe-bar)** in Lyn-Lake is the spot if Dad's Father's Day vibe is more "excellent espresso and a pastry in a beautiful space" than "big brunch spread."
+
+Reverie isn't exclusively vegan but has a strong plant-based menu. The pastries are exceptional. The coffee is serious. The space is warm and genuinely lovely — good for an unhurried morning with the family.
+
+**Best for:** The dad who's an early riser, into specialty coffee, or prefers a lighter morning before a bigger meal later in the day.
+
+**Address:** 2506 Hennepin Ave, Minneapolis
+
+---
+
+## 🌿 For the Health-Conscious Dad — Common Roots Cafe
+
+**[Common Roots Cafe](/restaurants/common-roots-cafe)** in Uptown is Minneapolis's go-to for farm-to-table eating with a strong vegan menu. The menu changes with the season. Local sourcing is prioritized. And in June, the outdoor seating is genuinely great.
+
+For the dad who eats well and cares where his food comes from, Common Roots is the right call.
+
+**Why it works:**
+- Seasonal, locally sourced menu
+- Excellent vegan options clearly marked
+- Outdoor patio (perfect for mid-June weather)
+- Family-friendly, relaxed pace
+
+**Address:** 2558 Lyndale Ave S, Minneapolis
+
+---
+
+## 🎁 Vegan Father's Day Gifts
+
+### Herbivorous Butcher Gift Box
+**[Herbivorous Butcher](/restaurants/herbivorous-butcher)** in the North Loop is the best source for vegan Father's Day gifts in Minneapolis. They make artisanal vegan meats and cheeses — sausages, ribs, burger patties, pepperoni, smoked gouda — all from scratch.
+
+For the vegan dad who loves to grill, a Herbivorous Butcher gift box is a home run. Products are available in-store and ship nationwide. Gift cards available online.
+
+**Best gift picks:**
+- **Grill Pack** — sausages, burger patties, ribs for the ultimate vegan summer cookout
+- **Cheese Board Box** — assorted vegan cheeses for snacking
+- **Gift Card** — lets Dad choose his own adventure
+
+**Address:** 507 1st Ave N, Minneapolis (North Loop)
+
+### Glam Doll Donuts Gift Box
+**[Glam Doll Donuts](/restaurants/glam-doll-donuts)** offers rotating vegan donut flavors in a gift box — perfect for the dad with a sweet tooth. They're one of the most creative donut shops in the country and a Minneapolis institution.
+
+---
+
+## 🔥 Father's Day Backyard Grill Guide
+
+Not every Father's Day needs to be a restaurant meal. If Dad's a home cook, June 15 is a great excuse for a vegan backyard cookout.
+
+**Shopping list:**
+| Item | Source |
+|------|--------|
+| Vegan sausages & burger patties | Herbivorous Butcher (North Loop) |
+| Vegan cheese for burgers | Herbivorous Butcher |
+| Produce & corn | Minneapolis Farmers Market (opens 6am) |
+| Vegan buns | Seward Co-op or Whole Foods |
+| Vegan beer | Most Twin Cities liquor stores — Surly, Fulton, Summit are vegan |
+
+**Tip:** Nearly all craft beer is vegan — unlike some commercial beers, craft breweries typically don't use isinglass (fish bladder) for fining. Surly Brewing and Fulton Beer are both Minnesota-made and vegan-friendly.
+
+---
+
+## Father's Day Weekend in Minneapolis
+
+If you want to make it a full weekend:
+
+**Saturday evening (June 14):**
+Visit Reverie or French Meadow for a laid-back dinner. Walk the Stone Arch Bridge or Minnehaha Falls after.
+
+**Sunday brunch (June 15 — Father's Day):**
+Reserve J. Selby's in advance, or walk into Hard Times Cafe early. Bring flowers from the Minneapolis Farmers Market.
+
+**Sunday afternoon:**
+Head to Minnehaha Park for a walk along the creek. The falls are at their best in June from snowmelt. Fully accessible, free parking.
+
+**Sunday evening:**
+Francis Burger Joint for a cold beer and a burger and maybe a game on TV. No reservations. Walk right in.
+
+---
+
+Looking for more Minneapolis vegan dining ideas? Check our [complete vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026), [best vegan brunch spots](/blog/vegan-brunch-minneapolis), or our [vegan date night guide](/blog/vegan-date-night-minneapolis) for evening options.
+`
+  },
+  {
     slug: "late-night-vegan-food-minneapolis",
     title: "Late Night Vegan Food Minneapolis: Where to Eat After 10pm 🌙",
     description: "Hungry after midnight in Minneapolis? Find the best late night vegan-friendly restaurants — from Pizza Karma's 3am fire-roasted pies to Francis Burger Joint's fully vegan bar. Real options, real hours.",
@@ -221,7 +407,7 @@ Neither requires you to awkwardly ask "can you make this vegan?" — both have g
       }
     ],
     relatedRestaurants: ["j-selbys", "reverie-cafe-bar", "crepe-and-spoon", "french-meadow", "herbivorous-butcher", "glam-doll-donuts"],
-    relatedPosts: ["vegan-brunch-minneapolis", "vegan-easter-brunch-minneapolis-2026", "best-vegan-restaurants-minneapolis-2026", "vegan-food-minneapolis"],
+    relatedPosts: ["vegan-brunch-minneapolis", "vegan-easter-brunch-minneapolis-2026", "vegan-fathers-day-minneapolis-2026", "best-vegan-restaurants-minneapolis-2026", "vegan-food-minneapolis"],
     content: `# Best Vegan Mother's Day Brunch in Minneapolis 2026
 
 Mother's Day 2026 is Sunday, May 11 — and Minneapolis has a genuinely outstanding vegan restaurant scene to celebrate the occasion in style. Whether Mom is fully plant-based, vegan-curious, or you're navigating a mixed dietary group, this guide covers the best options for a memorable vegan Mother's Day brunch in the Twin Cities.
