@@ -23,6 +23,201 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "vegan-restaurants-downtown-minneapolis",
+    title: "Best Vegan Restaurants Near Downtown Minneapolis (2026 Guide)",
+    description: "The best vegan and plant-based restaurants in and around downtown Minneapolis — from 100% vegan Ethiopian at Lulu EthioVegan to coal-fired pizza at Black Sheep, Crisp & Green on Nicollet Mall, and vegan ramen at Tori in the North Loop.",
+    publishedAt: "2026-02-24",
+    updatedAt: "2026-02-24",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan restaurants downtown minneapolis", "downtown minneapolis vegan", "vegan lunch minneapolis", "plant-based downtown minneapolis", "vegan food downtown"],
+    readingTime: "8 min read",
+    tldr: "Best vegan options near downtown Minneapolis: Lulu EthioVegan (Elliot Park, 100% vegan Ethiopian), Crisp & Green (Nicollet Mall, healthy bowls), Pizza Lucé (N 4th St, vegan-friendly pizza), Black Sheep Pizza (North Loop, coal-fired with vegan cheese), Tori Ramen (North Loop, excellent veggie ramen), and Hard Times Cafe (Cedar-Riverside, collectively-owned all-day diner).",
+    faqs: [
+      {
+        question: "What are the best vegan restaurants in downtown Minneapolis?",
+        answer: "The top vegan options in and near downtown Minneapolis are: Lulu EthioVegan (100% vegan Ethiopian in Elliot Park, walking distance from downtown), Crisp & Green (healthy bowls on Nicollet Mall), Pizza Lucé (downtown, 119 N 4th St), Black Sheep Pizza (North Loop, coal-fired with vegan cheese on any pizza), and Tori Ramen (North Loop, outstanding Veggie Ramen with mushroom broth)."
+      },
+      {
+        question: "Is there a 100% vegan restaurant near downtown Minneapolis?",
+        answer: "Yes — Lulu EthioVegan at 12 E Franklin Ave (Elliot Park) is fully vegan and one of the best restaurants in Minneapolis, period. Chef TG Feyisa serves Ethiopian cuisine with no animal products whatsoever — a rare find near the downtown core."
+      },
+      {
+        question: "Where can I get vegan pizza in downtown Minneapolis?",
+        answer: "Two great options near downtown: Pizza Lucé at 119 N 4th St (right downtown) has been making vegan pizza since 2000 — get the vegan cheese on any pie. Black Sheep Pizza in the North Loop (600 N Washington Ave) uses coal-fired ovens and vegan cheese is available on all their creative pies."
+      },
+      {
+        question: "Where can I eat vegan in the North Loop Minneapolis?",
+        answer: "The North Loop has solid vegan options: Tori Ramen (161 N 1st St) has excellent Veggie Ramen with rich mushroom broth, Black Sheep Pizza (600 N Washington Ave) does coal-fired pizza with vegan cheese, and Red Cow (208 N 1st Ave) does an Impossible Burger cooked with real care."
+      },
+      {
+        question: "Can I find vegan food on Nicollet Mall in Minneapolis?",
+        answer: "Yes — Crisp & Green at 801 Nicollet Mall is your best bet for healthy vegan food right on the mall. Build-your-own grain bowls, salads, and smoothies with vegan protein options. Quick, high-quality, and perfect for a downtown lunch break."
+      },
+      {
+        question: "What is the closest vegan restaurant to the Minneapolis Convention Center?",
+        answer: "Lulu EthioVegan (12 E Franklin Ave, Elliot Park) is about 5 minutes from the Convention Center and is fully vegan — the injera and berbere-spiced dishes are unlike anything else downtown. Crisp & Green on Nicollet Mall is also very close for a quick healthy lunch."
+      }
+    ],
+    relatedRestaurants: ["lulu-ethiovegan", "crisp-and-green", "pizza-luce", "black-sheep-pizza", "tori-ramen", "hard-times-cafe", "afro-deli", "red-cow"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis", "vegan-brunch-minneapolis", "late-night-vegan-food-minneapolis", "vegan-date-night-minneapolis"],
+    content: `
+## Vegan Eating Near Downtown Minneapolis: The Real Guide
+
+Downtown Minneapolis is underrated as a vegan destination. Yes, it lacks the concentrated plant-based culture of Uptown or the eclectic dining of Northeast — but within a mile or two of the CBD you'll find a fully vegan Ethiopian restaurant that rivals anything in the city, coal-fired pizza in the North Loop, and a ramen shop that takes its veggie broth as seriously as the chicken version.
+
+Here's where to eat if you're working downtown, staying at a hotel near the Convention Center, or exploring the North Loop on a weekend.
+
+---
+
+## 🌿 Lulu EthioVegan — 100% Vegan Ethiopian
+
+**Elliot Park | 12 E Franklin Ave | $$**
+
+Start here. If you're downtown and can make only one restaurant trip, Lulu EthioVegan is the one. Chef TG Feyisa has created a fully vegan Ethiopian restaurant that doesn't compromise on anything — flavor, depth, generosity of spirit, or portions.
+
+Ethiopian food is naturally built for vegans — injera (spongy sourdough flatbread) as the base, layered with slow-cooked lentils, split peas, collard greens, and berbere-spiced vegetables. At Lulu, every single dish is plant-based. No substitutions needed.
+
+**What to order:**
+- **Yemisir Wot** — Red lentils slow-cooked in berbere sauce. The spice is bold, complex, and balanced.
+- **Tikel Gomen** — Cabbage, carrots, and potatoes with turmeric and ginger. Simple and deeply satisfying.
+- **Gomen** — Collard greens with garlic and onion. Better than you think greens can taste.
+- **Azifa** — Cold lentil salad with mustard and jalapeño. Order it alongside.
+- **Sambusa** — Lentil-filled fried pastry. The starter you'll wish you'd ordered two of.
+- **Full Combination Plate** — The move for first-timers. Get everything on one plate and eat communally off the injera.
+
+**The vibe:** Warm, neighborhood restaurant energy. Small, intimate, welcoming. Chef TG is often in the dining room. About 10 minutes on foot from the Convention Center, or a quick Lyft from anywhere downtown.
+
+---
+
+## 🥗 Crisp & Green — Healthy Fast-Casual on Nicollet Mall
+
+**Downtown | 801 Nicollet Mall | $$**
+
+The most convenient option if you're working downtown and need a lunch that won't destroy your afternoon. Crisp & Green does clean, high-quality bowls, salads, and smoothies — build-your-own with your choice of greens, grains, vegetables, and protein.
+
+**Vegan-friendly picks:**
+- **Grain Bowl** — Pick a base (quinoa, brown rice, or mixed greens), load it with roasted vegetables, add tofu or chickpea protein, and choose a house dressing. Crisp and fresh.
+- **Smoothies** — Made to order, many dairy-free with plant milk options.
+- **Any salad** — Skip the chicken, load up on chickpeas and avocado.
+
+**The call:** Great for weekday lunches. Right on the mall, easy parking on evenings and weekends. Not a special-occasion spot — it's your reliable downtown quick fix that actually tastes good and won't make you crash at 2pm.
+
+---
+
+## 🍕 Pizza Lucé — Downtown Vegan Pizza Since 2000
+
+**Downtown | 119 N 4th St | $$**
+
+Pizza Lucé has been feeding vegans in Minneapolis since before being vegan was cool. The downtown location (there are several across the metro) is a proper sit-down restaurant with a full bar, rotating specials, and a staff that's been handling vegan orders with zero eyerolling for two decades.
+
+**The vegan setup:**
+- Vegan cheese available on any pizza — it melts well and they put enough of it on
+- Many appetizers and salads are naturally vegan or easily modified
+- The crust is excellent — thin, slightly charred, substantial
+
+**Order:**
+- **Veg Out pizza** — Roasted red peppers, mushrooms, onions, artichoke hearts, olives. Add vegan cheese.
+- **Create your own** — The menu is honest about what's vegan. Build exactly what you want.
+- **Side salad** — The house dressing is dairy-free. Ask your server to confirm current ingredients.
+
+**Good for:** Pre-game dinner before a show at Target Center or a Timberwolves game. The downtown location handles game-day crowds without drama.
+
+---
+
+## 🔥 Black Sheep Pizza — Coal-Fired in the North Loop
+
+**North Loop | 600 N Washington Ave | $$**
+
+The North Loop version of Black Sheep is worth the 10-minute walk (or quick bike ride) from downtown proper. Coal-fired ovens at 900+ degrees produce a crust with charred bubbles and a slightly smoky flavor that you genuinely cannot replicate in a conventional oven. Vegan cheese is available on every pizza.
+
+**What to order:**
+- **Coal-fired Margherita with vegan cheese** — Let the crust speak. Simplest is best here.
+- **Rotating seasonal vegetable pizza** — Whatever's on special with vegetables is usually outstanding.
+- **Build your own** — Great vegetable topping selection. Roasted garlic, shishito peppers, caramelized onions.
+
+**The space:** Industrial-chic, exposed brick, open kitchen, warehouse-district energy. Excellent for groups — the large format pizzas feed four without drama. Also a solid [vegan date night Minneapolis](/blog/vegan-date-night-minneapolis) option.
+
+---
+
+## 🍜 Tori Ramen & Yakitori — Veggie Ramen That Earns It
+
+**North Loop | 161 N 1st St | $$**
+
+Don't let the name throw you — Tori Ramen's Veggie Ramen is legitimately excellent. The mushroom broth is built with the same care as their chicken versions — rich, deep, complex. Chewy noodles. Roasted vegetables. Tofu. This isn't an afterthought vegan option; it's a great bowl of ramen.
+
+**Order:**
+- **Veggie Ramen** — The one you're here for. Rich mushroom broth, noodles cooked correctly, generous toppings.
+- **Charred Shiitake Yakitori** — Wood-fired shiitake mushrooms on skewers with finishing salt. One of the best single bites in the North Loop.
+- **Pickled Vegetables** — Great alongside or between bites of ramen.
+
+**Timing:** Cozy spot that fills up. Bar seating for solo diners. Also appears in the [late night vegan food Minneapolis](/blog/late-night-vegan-food-minneapolis) guide — they stay open late on weekends.
+
+---
+
+## ☕ Hard Times Cafe — All-Day Diner Near Cedar-Riverside
+
+**Cedar-Riverside | 1821 Riverside Ave | $**
+
+Technically Cedar-Riverside rather than downtown, but close enough (about 1.5 miles) and different enough that it deserves a separate mention. Hard Times Cafe has been collectively-owned since 1992, serves food all day from early morning through late night, and has always had strong vegan options. Cash-only, BYOB vibes, hand-painted walls.
+
+**Vegan picks:**
+- **Hash browns** — Crispy, made to order, the best in the Twin Cities
+- **Biscuits & Gravy (vegan version)** — Ask for the vegan mushroom gravy. It's the right call.
+- **Breakfast burritos** — Scrambled tofu, peppers, onions, salsa. Filling and cheap.
+- **Burgers** — Veggie patty options available, always have been
+
+**The deal:** Breakfast-to-dinner, $8-12 average meal, cash only (ATM on site), open until 1am Thursday-Saturday. A very different experience from North Loop upscale — but some days you want a booth, a cheap cup of coffee, and a big plate of hash browns.
+
+---
+
+## 🌍 Afro Deli — East African & Mediterranean Near Cedar-Riverside
+
+**Cedar-Riverside | 1939 5th St S | $**
+
+Afro Deli sits at the edge of Cedar-Riverside's East African community and serves falafel, shawarma, and East African dishes. Their vegan options are solid and well-priced. Multiple Minneapolis locations, but the Cedar-Riverside original has the neighborhood atmosphere.
+
+**Vegan options:**
+- **Falafel plate** — Fried falafel on a bed of rice with roasted vegetables, tahini, and salad. A solid $10 meal.
+- **Vegetarian shawarma wrap** — Roasted vegetables and falafel in flatbread with garlic sauce (confirm it's dairy-free)
+- **Sambusa** — Lentil-filled fried pastry, vegan, excellent
+
+**Good for:** A budget-friendly, satisfying lunch near campus or the Convention Center.
+
+---
+
+## 📍 Map: Downtown Vegan Spots at a Glance
+
+| Restaurant | Neighborhood | Best Vegan Pick | Price |
+|---|---|---|---|
+| Lulu EthioVegan | Elliot Park | Full combination plate | $$ |
+| Crisp & Green | Downtown (Nicollet Mall) | Build-your-own grain bowl | $$ |
+| Pizza Lucé | Downtown | Veg Out pizza w/ vegan cheese | $$ |
+| Black Sheep Pizza | North Loop | Coal-fired margherita | $$ |
+| Tori Ramen | North Loop | Veggie Ramen | $$ |
+| Hard Times Cafe | Cedar-Riverside | Hash browns + biscuits & gravy | $ |
+| Afro Deli | Cedar-Riverside | Falafel plate | $ |
+
+---
+
+## Tips for Vegan Dining Downtown
+
+**1. Lulu EthioVegan is the gem most people miss.** It's not on Nicollet Mall or in the North Loop — it's in Elliot Park, one neighborhood away. Worth the extra 5 minutes. Fully vegan, genuinely outstanding food.
+
+**2. The North Loop cluster (Black Sheep + Tori Ramen) makes a great evening out.** Walk between them, drinks at a bar in between. The neighborhood has more life than downtown proper after 6pm.
+
+**3. Crisp & Green is your weekday lunch move.** Fast, healthy, genuinely good. Not Instagram-worthy, but your future self thanks you.
+
+**4. Hard Times for late night.** If you're out past midnight, it's Hard Times or nothing — and Hard Times is actually good. Cash only.
+
+**5. Ask about vegan cheese at any pizza spot.** Both Pizza Lucé and Black Sheep have it, and both actually use decent vegan cheese. Just ask.
+
+---
+
+*Looking for more? Browse the [complete Minneapolis vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026) or explore [Northeast Minneapolis vegan spots](/blog/northeast-minneapolis-vegan-guide) — a great neighborhood for a longer vegan food crawl.*
+`
+  },
+  {
     slug: "vegan-asian-restaurants-minneapolis",
     title: "Best Vegan Asian Restaurants in Minneapolis (Thai, Ramen, Sushi & More)",
     description: "The best vegan Asian food in Minneapolis — Thai curries at Amazing Thailand, Tori Ramen's mushroom broth, Masu's sushi & robata, Peninsula's curry laksa, and more.",
