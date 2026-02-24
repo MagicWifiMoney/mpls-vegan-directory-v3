@@ -416,7 +416,8 @@ export const restaurants: Restaurant[] = [
     description: "This punk-rock donut shop serves creative, Instagram-worthy vegan donuts that rival their traditional counterparts. The rotating menu features inventive flavors like maple bacon (with coconut bacon), salted caramel, and seasonal specials. Fluffy, fresh, and generously topped, these donuts satisfy any sweet tooth. The Nicollet Avenue location features bold decor and a rock-and-roll attitude. Pair your donut with locally roasted coffee for the complete experience. A must-visit for anyone with a sweet tooth.",
     priceRange: '$',
     features: ['Takeout', 'Coffee', 'Vegan Options Daily'],
-    coordinates: { lat: 44.9509, lng: -93.2781 }
+    coordinates: { lat: 44.9509, lng: -93.2781 },
+    relatedBlogs: ['vegan-bakeries-minneapolis', 'best-vegan-restaurants-minneapolis-2026']
   },
   // NEW RESTAURANTS START HERE
   {
@@ -477,7 +478,8 @@ export const restaurants: Restaurant[] = [
     description: "A delightful addition to the Minneapolis vegan scene, Crepe & Spoon specializes in vegan crepes and housemade ice cream. Located in Northeast, this charming spot offers both sweet and savory crepe options perfect for any time of day. Try the Nutella-style crepe with bananas or go savory with spinach and vegan cheese. Their ice cream flavors are inventive and memorable—blueberry cardamom, coconut ash, salted caramel—all rich and creamy without a drop of dairy. A cozy date-night destination.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Ice Cream', 'Desserts'],
-    coordinates: { lat: 45.0131, lng: -93.2479 }
+    coordinates: { lat: 45.0131, lng: -93.2479 },
+    relatedBlogs: ['vegan-bakeries-minneapolis', 'best-vegan-ice-cream-twin-cities', 'best-vegan-restaurants-minneapolis-2026']
   },
   {
     id: '24',

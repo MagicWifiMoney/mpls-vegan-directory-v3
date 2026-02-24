@@ -23,6 +23,175 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "vegan-bakeries-minneapolis",
+    title: "Best Vegan Bakeries & Desserts in Minneapolis (2026 Guide) 🍩",
+    description: "From 100% vegan custom cakes to punk-rock donuts, housemade ice cream, and dark chocolate beignets — Minneapolis has a surprisingly great vegan dessert scene. Here's where to find the best vegan bakeries and sweet treats in the Twin Cities.",
+    publishedAt: "2026-02-23",
+    updatedAt: "2026-02-23",
+    author: "Mia & Jay",
+    category: "guides",
+    tags: ["vegan bakery minneapolis", "vegan desserts minneapolis", "vegan donuts minneapolis", "vegan ice cream minneapolis", "vegan sweets", "minneapolis", "vegan guide"],
+    readingTime: "6 min read",
+    tldr: "Best vegan bakeries in Minneapolis: Vegan East Bakery (Longfellow, 100% vegan, legendary cinnamon rolls + custom cakes), Glam Doll Donuts (Lyn-Lake, punk-rock rotating flavors), Crepe & Spoon (NE, vegan ice cream + sweet crepes), Reverie Cafe (Powderhorn, dark chocolate beignets + cashew cheesecake), French Meadow Bakery (Lyn-Lake, vegan pastries + breakfast).",
+    faqs: [
+      {
+        question: "What is the best vegan bakery in Minneapolis?",
+        answer: "Vegan East Bakery in the Longfellow neighborhood is Minneapolis's premier 100% vegan bakery. They specialize in custom cakes, cupcakes, cookies, and their legendary cinnamon rolls. Everything is made from scratch daily, with many gluten-free options available. Hours are Tuesday–Saturday, 10am–3pm — plan ahead and consider calling ahead for custom orders."
+      },
+      {
+        question: "Where can I get vegan donuts in Minneapolis?",
+        answer: "Glam Doll Donuts on Nicollet Avenue (Lyn-Lake neighborhood) is the go-to spot for vegan donuts in Minneapolis. This punk-rock donut shop offers a rotating menu of creative, Instagram-worthy flavors — many of which are vegan or can be made vegan. Seasonal flavors like maple pecan and salted caramel rotate regularly. Arrive early on weekends as popular flavors sell out by noon."
+      },
+      {
+        question: "Where can I get vegan ice cream in Minneapolis?",
+        answer: "Crepe & Spoon in Northeast Minneapolis makes outstanding housemade vegan ice cream in inventive flavors like blueberry cardamom, coconut ash, and salted caramel — all dairy-free and rich without compromise. Reverie Cafe + Bar in Powderhorn also serves creative vegan desserts including cashew cheesecake. Both are fully vegan restaurants."
+      },
+      {
+        question: "Is there a fully vegan bakery in Minneapolis?",
+        answer: "Yes — Vegan East Bakery (5501 34th Ave S, Longfellow) is Minneapolis's only 100% vegan dedicated bakery. Crepe & Spoon (2723 Johnson St NE, Northeast) is also 100% vegan and specializes in sweet crepes and housemade ice cream. Both are excellent options if you need a fully vegan dessert destination."
+      },
+      {
+        question: "Where can I order a vegan birthday cake in Minneapolis?",
+        answer: "Vegan East Bakery in Minneapolis's Longfellow neighborhood specializes in custom vegan cakes for birthdays, weddings, and special occasions. Their designs are showstopping and the flavors are outstanding. Pre-orders are required for custom cakes — reach out at least 1–2 weeks in advance via their website at veganeast.com. Many flavors are also available gluten-free."
+      },
+      {
+        question: "Are there vegan dessert options at non-vegan Minneapolis restaurants?",
+        answer: "Yes — several non-vegan Minneapolis restaurants offer notable vegan dessert options. French Meadow Bakery & Café (Lyn-Lake and St. Paul) has a bakery case with vegan muffins, pastries, and organic breads. Reverie Cafe + Bar is fully vegan and serves dark chocolate beignets and cashew cheesecake. Glam Doll Donuts is vegan-friendly with rotating all-vegan flavors available daily."
+      }
+    ],
+    relatedRestaurants: ["vegan-east-bakery", "glam-doll-donuts", "crepe-and-spoon", "reverie-cafe-bar", "french-meadow"],
+    relatedPosts: ["vegan-brunch-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "best-vegan-ice-cream-twin-cities", "vegan-food-minneapolis"],
+    content: `# Best Vegan Bakeries & Desserts in Minneapolis (2026 Guide)
+
+Minneapolis has a legitimately impressive vegan dessert scene — and most people don't know it. Between a dedicated 100% vegan bakery turning out custom cakes and legendary cinnamon rolls, a punk-rock donut shop with rotating creative flavors, a Northeast creperie with housemade dairy-free ice cream, and a Powderhorn bar serving dark chocolate beignets, the city punches well above its weight for vegan sweets.
+
+Whether you're looking for a **vegan birthday cake**, a late-afternoon donut run, or a proper dessert stop after dinner, this guide covers the best vegan bakeries and sweet spots in the Twin Cities.
+
+---
+
+## 🎂 1. Vegan East Bakery — The Real Deal (Longfellow)
+
+**[Vegan East Bakery](/restaurants/vegan-east-bakery)** is Minneapolis's only dedicated 100% vegan bakery, and it's exceptional.
+
+Owner Shelia Nelson turned a passionate hobby into a full-time operation, and the result is a bakery that proves vegan baking doesn't require compromise. Everything is made from scratch daily — and the detail that goes into both flavor and decoration is genuinely impressive.
+
+**The must-orders:**
+- **Cinnamon rolls** — The signature. Fluffy, perfectly spiced, generously frosted. Locals swear by them.
+- **Custom cakes** — Showstopper-level designs for birthdays, weddings, and celebrations. Pre-orders required 1–2 weeks out.
+- **Cupcakes** — Daily rotating flavors; always worth trying whatever's fresh.
+- **Cookies** — Crisp edges, chewy centers, dairy-free and delicious.
+
+Many items are also **gluten-free**, making Vegan East a rare safe haven for people managing multiple dietary restrictions.
+
+**Practical details:** 5501 34th Ave S, Longfellow neighborhood. Hours: Tuesday–Saturday, 10am–3pm. Limited hours — plan ahead. Custom cake orders: veganeast.com.
+
+> **Best for:** Special occasion cakes, weekly treat runs, gifting, anyone who wants to quietly blow people's minds at a party.
+
+---
+
+## 🍩 2. Glam Doll Donuts — Punk Rock Donuts (Lyn-Lake)
+
+**[Glam Doll Donuts](/restaurants/glam-doll-donuts)** at 2605 Nicollet Ave has been a Minneapolis institution since it opened — a bold, rock-and-roll donut shop that takes creativity seriously.
+
+The rotating menu of flavors leans heavily vegan (and they clearly label which are vegan each day). Think inventive combinations like **maple pecan**, **salted caramel**, **birthday cake**, and rotating seasonal specials that align with whatever ingredients are peak right now.
+
+These aren't small, timid donuts. They're fluffy, generously topped, and photographable enough to make your Instagram followers briefly jealous before you eat them.
+
+**Tips:**
+- **Arrive early on weekends** — popular flavors sell out by noon, sometimes earlier.
+- Ask what's vegan that day — staff are helpful and knowledgeable.
+- Pair with locally roasted coffee for the full experience.
+- **Gift boxes** are available and make excellent presents.
+
+**Location:** 2605 Nicollet Ave, Lyn-Lake. Near [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) and [French Meadow Bakery](/restaurants/french-meadow) — a natural dessert-focused afternoon in the neighborhood.
+
+> **Best for:** Creative donut flavors, weekend morning runs, gifts, Instagram content.
+
+---
+
+## 🍦 3. Crepe & Spoon — Housemade Vegan Ice Cream (Northeast)
+
+**[Crepe & Spoon](/restaurants/crepe-and-spoon)** in Northeast Minneapolis is fully vegan and does two things exceptionally well: sweet crepes and housemade ice cream.
+
+The ice cream flavors are inventive and made in-house without a drop of dairy — **blueberry cardamom**, **coconut ash**, **salted caramel**, and rotating seasonal options. They're rich, creamy, and distinctive in a way that mass-produced vegan ice creams rarely achieve.
+
+The sweet crepes are the perfect vessel: a golden, paper-thin wrap around Nutella-style chocolate spread with bananas, or fruit-forward options that work beautifully with a scoop of ice cream on the side.
+
+**Why it stands out:**
+- 100% vegan — zero cross-contamination concerns
+- Housemade ice cream (not store-bought) in genuinely creative flavors
+- Cozy, intimate atmosphere — a natural date-night dessert stop
+- Located in Northeast near other great restaurants — easy to pair with dinner
+
+**Location:** 2723 Johnson St NE, Northeast Minneapolis. Near [The Herbivorous Butcher](/restaurants/herbivorous-butcher).
+
+> **Best for:** Date nights, unique ice cream flavors, sweet crepe cravings, Northeast neighborhood dessert stops.
+
+---
+
+## 🍰 4. Reverie Cafe + Bar — Elevated Vegan Desserts (Powderhorn)
+
+**[Reverie Cafe + Bar](/restaurants/reverie-cafe-bar)** is a fully vegan bar and restaurant in Powderhorn — but the dessert menu deserves its own spotlight.
+
+The **dark chocolate beignets** are the star: crispy outside, pillowy inside, dusted with powdered sugar and served warm. The **cashew cheesecake** is the kind of dessert that makes non-vegans do a double-take — rich, smooth, and convincingly cheesecake-like.
+
+This is the spot when you want a proper dessert *experience* — sit down, get a craft cocktail or mocktail, and end a meal well.
+
+**The dessert highlights:**
+- Dark chocolate beignets — the must-order
+- Cashew cheesecake — rotating flavors
+- Seasonal specials that change with the kitchen's mood
+
+**Also note:** Reverie has a full bar with 20 craft beers on tap, cocktails, and mocktails — so it works as both a dinner destination and a dessert stop.
+
+**Location:** 1517 E 35th St, Powderhorn Park neighborhood. Near Glam Doll Donuts and French Meadow in the Lyn-Lake corridor.
+
+> **Best for:** Date nights, post-dinner dessert stops, elevated vegan sweets with a craft cocktail.
+
+---
+
+## 🥐 5. French Meadow Bakery & Café — Vegan-Friendly Classics (Lyn-Lake)
+
+**[French Meadow Bakery & Café](/restaurants/french-meadow)** has been a Minneapolis institution since 1985, built around organic, locally sourced ingredients long before it was fashionable.
+
+The bakery case features **vegan muffins**, **pastries**, and their famous organic breads. It's not a dedicated vegan bakery — but for people who want reliably good vegan baked goods in a full-service café setting, French Meadow is the most accessible option on this list.
+
+**The vegan bakery picks:**
+- Vegan muffins (rotating flavors, available daily)
+- Organic sourdough and whole-grain breads
+- Seasonal pastries (ask what's vegan — the staff knows)
+
+The Lyn-Lake location also has a full breakfast and brunch menu with strong vegan options. It's a great spot if you want breakfast alongside your baked goods.
+
+**Location:** 2610 Lyndale Ave S, Lyn-Lake. Also: 1662 Grand Ave, St. Paul.
+
+> **Best for:** Morning pastries with breakfast, organic bread shopping, vegan-friendly brunch alongside baked goods.
+
+---
+
+## Quick Hits: More Vegan-Friendly Sweets in Minneapolis
+
+**J. Selby's (St. Paul):** Fully vegan, serving thick Frostbite shakes and cookie dough sundaes. Excellent dessert menu alongside their full food menu. See the [full J. Selby's guide](/restaurants/j-selbys).
+
+**Herbivorous Butcher (North Loop):** The specialty vegan deli occasionally stocks sweet items and seasonal gift boxes. Check their current offerings online.
+
+**Wedge Co-op & Seward Co-op:** Both carry excellent locally-made vegan chocolate, cookies, and specialty dessert items — great for stocking your home dessert stash.
+
+---
+
+## Planning Your Minneapolis Vegan Dessert Run
+
+**The Lyn-Lake Sweet Loop:** Hit Glam Doll Donuts (2605 Nicollet) → walk two blocks to French Meadow Bakery → end with a cocktail and beignets at Reverie (1517 E 35th). Covers donuts, pastries, and elevated desserts in one neighborhood.
+
+**The Northeast Vegan Trail:** Lunch at [The Herbivorous Butcher](/restaurants/herbivorous-butcher) → dessert at Crepe & Spoon (2723 Johnson St NE). Fully vegan, two of the best spots in the city, walkable if you're motivated.
+
+**For Special Occasions:** Vegan East Bakery is the move for any event that needs a custom cake. Order 1–2 weeks ahead, pick up Tuesday–Saturday.
+
+---
+
+Ready to explore more of Minneapolis's vegan scene? Check the [full Minneapolis vegan restaurant directory](/restaurants) or browse our [neighborhood guides](/neighborhoods) to find plant-based spots near you.`
+  },
+  {
     slug: "vegan-fathers-day-minneapolis-2026",
     title: "Vegan Father's Day in Minneapolis 2026: Brunch, Dinner & Gift Ideas 🌿",
     description: "Father's Day 2026 is June 15 — here's how to celebrate with the vegan dad (or vegan-curious dad) in Minneapolis. Best brunch spots, dinner picks, grilling ideas, and gifts from the Herbivorous Butcher.",
@@ -1491,7 +1660,7 @@ Now stop reading and go eat. 🌱
       }
     ],
     relatedRestaurants: ["j-selbys", "hard-times-cafe", "seward-cafe", "modern-times", "french-meadow"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-mothers-day-brunch-minneapolis-2026", "vegan-easter-brunch-minneapolis-2026", "vegan-st-patricks-day-minneapolis-2026", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-mothers-day-brunch-minneapolis-2026", "vegan-easter-brunch-minneapolis-2026", "vegan-st-patricks-day-minneapolis-2026", "vegan-bakeries-minneapolis", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis"],
     content: `
 ## Your Complete Guide to Vegan Brunch in Minneapolis
 
@@ -2614,7 +2783,7 @@ Now stop reading and go prep some food. 🌱
       }
     ],
     relatedRestaurants: ["j-selbys", "francis-burger-joint", "reverie-cafe-bar", "hard-times-cafe", "herbivorous-butcher", "pizza-luce", "french-meadow"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-pizza-minneapolis", "best-vegan-pizza-minneapolis", "best-vegan-mac-and-cheese-brands-ranked", "best-vegan-ice-cream-twin-cities"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "vegan-bakeries-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-pizza-minneapolis", "best-vegan-pizza-minneapolis", "best-vegan-mac-and-cheese-brands-ranked", "best-vegan-ice-cream-twin-cities"],
     content: `
 ## Best Vegan Comfort Food in Minneapolis: A Guide to Indulgent Plant-Based Eating
 
