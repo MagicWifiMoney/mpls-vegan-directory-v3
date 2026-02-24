@@ -129,7 +129,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Full Bar', 'Brunch', 'Live Music'],
     coordinates: { lat: 44.9341, lng: -93.2447 },
-    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis']
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'vegan-coffee-shops-minneapolis']
   },
   {
     id: '6',
@@ -150,7 +150,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Bakery', 'Brunch', 'Patio'],
     coordinates: { lat: 44.9508, lng: -93.2879 },
-    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis', 'vegan-coffee-shops-minneapolis']
   },
   {
     id: '7',
@@ -192,7 +192,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Brunch', 'Coffee'],
     coordinates: { lat: 44.9620, lng: -93.2376 },
-    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis', 'vegan-coffee-shops-minneapolis']
   },
   {
     id: '9',
@@ -234,7 +234,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Coffee', 'Brunch', 'WiFi'],
     coordinates: { lat: 44.9372, lng: -93.2615 },
-    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis', 'vegan-coffee-shops-minneapolis']
   },
   {
     id: '12',
@@ -417,7 +417,7 @@ export const restaurants: Restaurant[] = [
     priceRange: '$',
     features: ['Takeout', 'Coffee', 'Vegan Options Daily'],
     coordinates: { lat: 44.9509, lng: -93.2781 },
-    relatedBlogs: ['vegan-bakeries-minneapolis', 'best-vegan-restaurants-minneapolis-2026']
+    relatedBlogs: ['vegan-bakeries-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-coffee-shops-minneapolis']
   },
   // NEW RESTAURANTS START HERE
   {
@@ -438,7 +438,8 @@ export const restaurants: Restaurant[] = [
     description: "Founded by two yoga instructors who spotted the perfect cafe location while scouting for studio space, Seed is a health-conscious haven on West Lake Street. The menu throws away the deep fryer in favor of the freshest, most nutrient-dense ingredients available. Their kale salad might be the best you've ever tried—perfectly massaged with lemon and olive oil. Rice bowls pack colorful vegetables, proteins, and house-made dressings. Smoothies and fresh juices round out the clean-eating experience. Perfect for a post-workout refuel.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Smoothies', 'Gluten-Free Options'],
-    coordinates: { lat: 44.9479, lng: -93.3095 }
+    coordinates: { lat: 44.9479, lng: -93.3095 },
+    relatedBlogs: ['vegan-coffee-shops-minneapolis', 'best-vegan-restaurants-minneapolis-2026']
   },
   {
     id: '22',
@@ -581,7 +582,8 @@ export const restaurants: Restaurant[] = [
     description: "A neighborhood cafe with a strong commitment to local, sustainable, and organic ingredients. Common Roots features an ever-changing menu with substantial vegan options. Their Buddha bowl—grain base with roasted vegetables, beans, greens, and tahini dressing—is a perennial favorite. Breakfast brings vegan pancakes, tofu scrambles, and seasonal fruit. The sunny corner location is perfect for weekend brunch, and their commitment to composting and sustainability resonates with environmentally conscious diners.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Brunch', 'Coffee', 'Sustainable'],
-    coordinates: { lat: 44.9608, lng: -93.2880 }
+    coordinates: { lat: 44.9608, lng: -93.2880 },
+    relatedBlogs: ['vegan-coffee-shops-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
   },
   {
     id: '29',
@@ -661,7 +663,8 @@ export const restaurants: Restaurant[] = [
     description: "A beloved Powderhorn neighborhood cafe with a progressive spirit and commitment to local sourcing. May Day serves all-day breakfast with excellent vegan options including tofu scrambles, vegan pancakes, and tempeh hash. Lunch brings soups, salads, and sandwiches with plant-based proteins. The cozy, colorful space often features local art and community bulletin boards. Fair trade coffee and a welcoming vibe make it a neighborhood gathering spot. Cash-only keeps things old school.",
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Brunch', 'Cash Only', 'Local Art'],
-    coordinates: { lat: 44.9341, lng: -93.2550 }
+    coordinates: { lat: 44.9341, lng: -93.2550 },
+    relatedBlogs: ['vegan-coffee-shops-minneapolis', 'best-vegan-restaurants-minneapolis-2026']
   },
   {
     id: '33',

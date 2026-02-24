@@ -5068,6 +5068,243 @@ Browse the [full restaurant directory](/restaurants) to filter by neighborhood, 
 - [Vegan Restaurants St. Paul](/blog/vegan-restaurants-st-paul)
 `
 
+  },
+  {
+    slug: "vegan-coffee-shops-minneapolis",
+    title: "Best Vegan Coffee Shops in Minneapolis: Oat Milk, Plant-Based Lattes & More",
+    description: "The best vegan-friendly coffee shops in Minneapolis — from 100% plant-based cafes to oat milk lattes and fair trade brews. Find your perfect spot in the Twin Cities.",
+    publishedAt: "2026-02-24",
+    updatedAt: "2026-02-24",
+    author: "Mia & Jay",
+    category: "guides",
+    tags: ["vegan coffee shops minneapolis", "oat milk coffee minneapolis", "plant-based cafe minneapolis", "vegan friendly coffee", "minneapolis coffee", "vegan cafe", "2026"],
+    readingTime: "7 min read",
+    tldr: "Best vegan coffee in Minneapolis: Seed Plant-Based Cafe (100% vegan, incredible smoothies + health bowls on West Lake St), Reverie Cafe + Bar (100% vegan, stunning seasonal oat milk lattes in Powderhorn), Common Roots (sustainability-focused, strong vegan menu in Lyn-Lake), Modern Times Cafe (pay-what-you-can community vibes + fair trade coffee), Seward Cafe (worker-owned institution with fair trade brews). For coffee + vegan donuts: Glam Doll on Nicollet Ave is unbeatable.",
+    faqs: [
+      {
+        question: "Are there any 100% vegan coffee shops in Minneapolis?",
+        answer: "Yes — Seed Plant-Based Cafe (3252 W Lake St, West Lake neighborhood) and Reverie Cafe + Bar (1517 E 35th St, Powderhorn) are both 100% vegan and serve excellent coffee and espresso drinks with plant milks. Both make seasonal lattes and are fully committed to plant-based menus."
+      },
+      {
+        question: "Which Minneapolis coffee shops have oat milk?",
+        answer: "Most independent coffee shops in Minneapolis now offer oat milk as a standard option. Seed Plant-Based Cafe, Reverie Cafe, Common Roots Cafe, Modern Times Cafe, Seward Cafe, and May Day Cafe all use plant milks. For the best oat milk lattes, Reverie Cafe does seasonal, visually stunning drinks worth the trip."
+      },
+      {
+        question: "What is the best vegan-friendly coffee shop in Minneapolis?",
+        answer: "For a 100% vegan experience, Seed Plant-Based Cafe and Reverie Cafe + Bar are the top picks. For a neighborhood community feel with strong vegan options, Seward Cafe (worker-owned, fair trade) and Modern Times Cafe (progressive, pay-what-you-can model) stand out. Common Roots Cafe in Lyn-Lake is excellent for a sunny corner shop with a strong plant-based menu."
+      },
+      {
+        question: "Where can I get vegan pastries with my coffee in Minneapolis?",
+        answer: "French Meadow Bakery & Cafe (Lyn-Lake) has an impressive vegan pastry case alongside excellent coffee. Reverie Cafe serves vegan croissants and seasonal pastries. Glam Doll Donuts (Nicollet Ave) is the pick for creative vegan donuts paired with locally roasted coffee. Seward Cafe makes vegan baked goods daily."
+      },
+      {
+        question: "Are there vegan coffee shops in Minneapolis open late?",
+        answer: "Most Minneapolis independent cafes close by 8-9pm. For late-night plant-based options, Hard Times Cafe (Stadium Village) serves fair trade coffee alongside a full vegan menu and stays open late. Modern Times Cafe has flexible hours. For late-night food and coffee vibes, Pizza Karma in Dinkytown is open until 3am on weekends."
+      },
+      {
+        question: "Which Minneapolis coffee shops are good for remote work?",
+        answer: "Modern Times Cafe (WiFi, community tables, laid-back vibe), Common Roots Cafe (sunny corner location, solid WiFi, good acoustics), and Seed Plant-Based Cafe (West Lake Street, health-focused, calming atmosphere) are the best for working remotely with plant-based coffee and food options."
+      }
+    ],
+    relatedRestaurants: ["seed-cafe", "reverie-cafe-bar", "common-roots-cafe", "modern-times", "seward-cafe", "may-day-cafe", "glam-doll-donuts", "french-meadow"],
+    relatedPosts: ["vegan-bakeries-minneapolis", "vegan-brunch-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-food-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: `# Best Vegan Coffee Shops in Minneapolis (2026 Guide)
+
+Minneapolis has a surprisingly strong plant-based cafe scene — and coffee drinkers who want to skip the dairy have more options than ever. From 100% vegan spots serving oat milk seasonal lattes to worker-owned institutions pouring fair trade coffee alongside vegan biscuits and gravy, the Twin Cities has it covered.
+
+Here's where to find the best vegan and vegan-friendly coffee shops in Minneapolis in 2026.
+
+---
+
+## ☕ 100% Vegan Coffee & Cafes
+
+### 1. [Seed Plant-Based Cafe](/restaurants/seed-cafe) — West Lake Street
+
+**Address:** 3252 W Lake St, Minneapolis | **Price:** $$  
+**Best for:** Health-focused coffee drinkers, post-workout fuel, smoothies
+
+[Seed Plant-Based Cafe](/restaurants/seed-cafe) is the product of two yoga instructors who spotted the perfect corner spot while scouting studio space. The result: a fully plant-based cafe on West Lake Street where the menu is built around the freshest, most nutrient-dense ingredients available.
+
+Coffee here comes with your choice of plant milks — oat, almond, soy, coconut — and the baristas know what they're doing. Pair it with a health bowl, their legendary kale salad, or a house-made smoothie for a complete plant-based coffee shop experience.
+
+**What to order:**
+- Any latte with oat milk
+- Kale salad (seriously, it might convert you)
+- Smoothies and fresh-pressed juices
+- Grain bowls with house-made dressings
+
+**The vibe:** Clean, calm, wellness-focused. Great for a mid-morning work session or post-yoga refuel.
+
+---
+
+### 2. [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) — Powderhorn
+
+**Address:** 1517 E 35th St, Minneapolis | **Price:** $$  
+**Best for:** Seasonal lattes, brunch + coffee, date mornings
+
+[Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) is the most visually stunning cafe on this list. The muraled walls, natural light, and rotating seasonal drink menu make it a destination as much as a coffee shop.
+
+Everything at Reverie is 100% plant-based. Their seasonal oat milk lattes are thoughtfully crafted — expect combinations like lavender honey (vegan honey), turmeric rose, or whatever the season calls for. The baristas here treat coffee as craft.
+
+**What to order:**
+- Seasonal oat milk latte (always ask what's current)
+- Vegan croissants and pastries
+- Dark chocolate beignets (dessert territory but impossible to resist)
+- Avocado toast
+
+**The vibe:** Beautiful neighborhood cafe energy, artsy, community-centered. Ideal for a slow Saturday morning.
+
+---
+
+## 🌿 Best Vegan-Friendly Independent Cafes
+
+### 3. [Common Roots Cafe](/restaurants/common-roots-cafe) — Lyn-Lake
+
+**Address:** 2558 Lyndale Ave S, Minneapolis | **Price:** $$  
+**Best for:** Remote work, sustainability-focused dining, weekend brunch coffee runs
+
+Common Roots is the sustainability standard in Minneapolis coffee shops. Everything here is locally sourced, organic where possible, and zero-waste focused. Their ever-changing menu has substantial vegan options at every meal.
+
+The sunny corner location on Lyndale is perfect for a 2-hour work session — good WiFi, great acoustics, and the kind of light that makes Minneapolis winters slightly more tolerable.
+
+**What to order:**
+- Organic drip coffee or espresso with oat milk
+- Buddha bowl (grain base, roasted vegetables, tahini)
+- Seasonal vegan pancakes on weekends
+- Tofu scramble for breakfast
+
+**The vibe:** Sustainable, neighborhood, genuinely good food alongside the coffee.
+
+---
+
+### 4. [Modern Times Cafe](/restaurants/modern-times) — Powderhorn
+
+**Address:** 3200 Chicago Ave S, Minneapolis | **Price:** $  
+**Best for:** Community vibes, fair trade coffee, affordable plant-based eats
+
+Modern Times is one of Minneapolis's most beloved progressive cafes — described by regulars as "for punks and their parents," which captures the vibe perfectly. In January 2026, the cafe shifted to a pay-what-you-can model in solidarity with immigration advocacy efforts.
+
+Fair trade coffee is a cornerstone here. Oat milk is available. Most menu items can be made vegan with a simple swap.
+
+**What to order:**
+- Fair trade drip coffee or espresso
+- Veggie breakfast burrito (ask for no eggs/dairy)
+- Vegan pancakes
+- Organic seasonal bowls
+
+**The vibe:** Community gathering spot. Political, welcoming, laid-back. WiFi for working.
+
+---
+
+### 5. [Seward Cafe](/restaurants/seward-cafe) — Seward
+
+**Address:** 2129 E Franklin Ave, Minneapolis | **Price:** $  
+**Best for:** Worker-owned, fair trade coffee, vegan brunch classics
+
+Seward Cafe has been serving the neighborhood since 1974 and has earned its reputation as a Minneapolis institution. This worker-owned cooperative emphasizes local, organic ingredients and fair trade coffee — values they've held long before they were trendy.
+
+The cafe is primarily a brunch destination, but the coffee is excellent and the vegan menu is substantial. Their biscuits and gravy are famous. Pair your coffee with the tofu scramble or vegan pancakes for the full Seward experience. See our [complete vegan brunch guide](/blog/vegan-brunch-minneapolis) for more options.
+
+**What to order:**
+- Fair trade coffee with oat or soy milk
+- Vegan biscuits and gravy
+- Tofu scramble
+- Vegan pancakes with blueberries or tahini
+
+**The vibe:** Worker-owned, community-board-covered walls, garden patio in summer.
+
+---
+
+### 6. [May Day Cafe](/restaurants/may-day-cafe) — Powderhorn
+
+**Address:** 3440 Bloomington Ave, Minneapolis | **Price:** $  
+**Best for:** Neighborhood feel, cash-only old-school charm, excellent vegan breakfast
+
+May Day is a Powderhorn neighborhood cafe with a progressive spirit that shows up in both the politics and the menu. Fair trade coffee, local sourcing, and a full vegan breakfast menu make it a natural stop for plant-based coffee drinkers.
+
+The space is cozy, colorful, and covered in local art. Cash only — so come prepared.
+
+**What to order:**
+- Fair trade coffee (bring cash)
+- Tofu scramble or tempeh hash
+- Vegan pancakes
+- Seasonal soups
+
+**The vibe:** Old-school neighborhood cafe. Community bulletin boards. Genuine Powderhorn character.
+
+---
+
+## 🍩 Coffee + Vegan Sweets
+
+### 7. [Glam Doll Donuts](/restaurants/glam-doll-donuts) — Lyn-Lake
+
+**Address:** 2605 Nicollet Ave, Minneapolis | **Price:** $  
+**Best for:** Vegan donuts + coffee combo, Instagram-worthy treats
+
+Glam Doll is primarily a punk-rock donut shop, but the coffee pairing is the move. Locally roasted coffee + a rotating selection of creative vegan donuts is one of Minneapolis's best casual morning experiences.
+
+The donuts rotate constantly — maple bacon (coconut bacon), salted caramel, seasonal specials. Many are vegan daily. Check their Instagram before you go for the current lineup. Read more in our [vegan bakeries Minneapolis guide](/blog/vegan-bakeries-minneapolis).
+
+**What to order:**
+- Whatever vegan donut is rotating today
+- Locally roasted drip coffee
+- Oat milk latte if you want to upgrade
+
+**The vibe:** Punk rock, bold decor, fast service. More dessert shop than cafe but worth it.
+
+---
+
+### 8. [French Meadow Bakery & Cafe](/restaurants/french-meadow) — Lyn-Lake
+
+**Address:** 2610 Lyndale Ave S, Minneapolis | **Price:** $$  
+**Best for:** Organic coffee, vegan pastry case, sit-down cafe experience
+
+French Meadow has been Minneapolis's organic food standard since 1985. The bakery case always includes vegan options — muffins, pastries, organic breads — alongside excellent coffee. It's more of a full cafe experience than a quick stop, and one of the best spots on this list for a proper sit-down coffee with food.
+
+**What to order:**
+- Organic drip coffee or espresso
+- Vegan pastry from the bakery case
+- Tempeh Reuben if you're staying for lunch
+- Vegan muffins for grab-and-go
+
+**The vibe:** Organic pioneer energy. Relaxed, neighborhood, good for lingering.
+
+---
+
+## 📍 Quick Reference: Minneapolis Vegan Coffee Shops
+
+| Cafe | Neighborhood | Vegan Status | Best For |
+|------|-------------|-------------|---------|
+| Seed Plant-Based Cafe | West Lake | 100% Vegan | Health bowls + smoothies |
+| Reverie Cafe + Bar | Powderhorn | 100% Vegan | Seasonal lattes + brunch |
+| Common Roots | Lyn-Lake | Vegan-Friendly | Remote work |
+| Modern Times | Powderhorn | Vegetarian | Fair trade + community |
+| Seward Cafe | Seward | Vegetarian | Worker-owned + brunch |
+| May Day Cafe | Powderhorn | Vegan-Friendly | Neighborhood charm |
+| Glam Doll Donuts | Lyn-Lake | Vegan-Friendly | Coffee + vegan donuts |
+| French Meadow | Lyn-Lake | Vegan-Friendly | Organic + pastries |
+
+---
+
+## Tips for Vegan Coffee Drinkers in Minneapolis
+
+**Ask about oat milk.** Most Minneapolis independent cafes stock oat milk as standard, but some charge extra ($0.50-1.00). Reverie, Seed, and Common Roots include it at no charge.
+
+**Fair trade is the norm here.** Minneapolis's independent cafe scene prioritizes fair trade coffee — Seward Cafe, Modern Times, Common Roots, and May Day Cafe are all committed fair trade buyers. If that matters to you, you're in good hands.
+
+**Instagram-check Glam Doll before going.** Their vegan donut selection varies day to day. Following them on Instagram lets you see what's available before making the trip.
+
+**Powderhorn is the vegan cafe neighborhood.** Reverie, Modern Times, and May Day Cafe are all within 2 miles of each other in Powderhorn. If you're doing a coffee shop tour, start there.
+
+---
+
+## More Minneapolis Vegan Guides
+
+- 🥐 [Best Vegan Bakeries Minneapolis](/blog/vegan-bakeries-minneapolis) — Full guide to vegan sweets and pastries
+- 🍳 [Best Vegan Brunch Minneapolis](/blog/vegan-brunch-minneapolis) — Brunch spots with full plant-based menus
+- 🌿 [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) — The complete directory
+- 🏙️ [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide) — NE-specific neighborhood guide
+`
   }
 ];
 
