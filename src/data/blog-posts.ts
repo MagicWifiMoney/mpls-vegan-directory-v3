@@ -6251,6 +6251,339 @@ See our full [Minneapolis Vegan Restaurant Guide](/blog/best-vegan-restaurants-m
 `
   },
   {
+    slug: "vegan-food-trucks-twin-cities-2026",
+    title: "Best Vegan Food Trucks in the Twin Cities (2026 Season Guide)",
+    description: "Your complete guide to vegan and vegan-friendly food trucks in Minneapolis and Saint Paul - from spring pop-ups to summer festivals.",
+    publishedAt: "2026-02-25",
+    updatedAt: "2026-02-25",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan food trucks twin cities", "vegan food trucks minneapolis", "vegan food trucks st paul", "twin cities food trucks vegan", "minneapolis vegan food trucks 2026", "vegan street food minneapolis"],
+    readingTime: "7 min read",
+    tldr: "Twin Cities vegan food trucks are most active spring through fall. The Herbivorous Butcher appears at markets and festivals - follow their Instagram. For any truck, ask what's plant-based - Indian, Ethiopian, falafel, and taco trucks often have strong vegan options. Best spots to find them: Mill City Farmers Market, brewery taprooms in NE Minneapolis, and neighborhood summer festivals. Track schedules on Instagram and Roaming Hunger.",
+    faqs: [
+      {
+        question: "Are there vegan food trucks in Minneapolis?",
+        answer: "Yes - the Twin Cities has an active food truck scene with several vegan and vegan-friendly options, especially during spring and summer. The Herbivorous Butcher (based in NE Minneapolis) appears at events and markets. Beyond dedicated vegan trucks, many Indian, Ethiopian, falafel, and taco trucks have solid plant-based menus. Check Instagram and Roaming Hunger for current schedules."
+      },
+      {
+        question: "How do I find vegan food trucks in the Twin Cities?",
+        answer: "Instagram is the best tool - follow individual trucks and search hashtags like #MplsFoodTrucks and #VeganMpls. The Roaming Hunger app also aggregates Twin Cities food truck locations and schedules. Farmers markets (Mill City, Minneapolis Farmers Market, Fulton) regularly feature food vendors with vegan options."
+      },
+      {
+        question: "When is food truck season in Minneapolis?",
+        answer: "Peak food truck season in Minneapolis runs April through October, with the busiest months being June, July, and August. Some trucks operate year-round at indoor markets and pop-ups, but the outdoor festival and farmers market circuit is strictly spring through fall."
+      },
+      {
+        question: "What Minneapolis events have vegan food trucks?",
+        answer: "Mill City Farmers Market, Fulton Farmers Market, and Minneapolis Farmers Market all host food vendors with vegan options. Summer neighborhood street fairs (Powderhorn May Day, Art-A-Whirl in NE Minneapolis), brewery taproom pop-ups in the North Loop and Northeast, and various outdoor festivals throughout summer are all reliable spots to find food trucks."
+      }
+    ],
+    relatedRestaurants: [],
+    relatedPosts: ["vegan-brunch-minneapolis", "vegan-bars-minneapolis", "vegan-restaurants-uptown-minneapolis", "best-vegan-restaurants-minneapolis-2026", "ethiopian-vegan-food-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: `
+## Why Food Trucks Are Having a Moment in the Twin Cities
+
+Minneapolis has always had a strong food truck culture - partly because of the density of outdoor events (farmers markets, neighborhood street fairs, brewery pop-ups, summer festivals), and partly because the city's independent food scene rewards scrappy, mobile operators who can show up where the crowds are.
+
+For vegans, food trucks are particularly interesting. Many plant-based chefs have launched via the mobile format - lower startup costs, direct customer feedback, and the flexibility to test menus before committing to a permanent space. As a result, some of the most creative vegan food in the metro shows up on wheels - or at a farmers market booth.
+
+The 2026 season runs roughly April through October. Here's how to navigate it and make sure you actually find the good stuff.
+
+---
+
+## Top Vegan and Vegan-Friendly Food Trucks to Know
+
+### The Herbivorous Butcher (Events and Markets)
+
+The Herbivorous Butcher is the most recognized vegan brand in the Twin Cities. While primarily known for their Northeast Minneapolis shop - where they sell house-made vegan meats, cheeses, and sandwiches - they appear at events, festivals, and markets throughout spring and summer.
+
+If you haven't been to their shop, the sandwiches are the move: built on their own vegan deli slices with house-made sauces. At pop-ups and events, they typically run a focused menu of signature items. Worth seeking out when they're near you.
+
+**Where to find them:** Follow [@HerbivorousButcher](https://www.instagram.com/herbivorousbutcher/) on Instagram for event announcements and market appearances. Their NE Minneapolis shop is also open year-round if you don't want to wait for a pop-up.
+
+---
+
+### Indian and South Asian Trucks
+
+Indian food trucks are arguably the most reliable bet for vegans in any city - and the Twin Cities is no exception. Dal, chana masala, aloo gobi, samosas, and rice dishes are frequently all-vegan by default. Look for trucks at downtown lunch spots, farmers markets, and summer festivals. The spice-forward cooking and naturally plant-based base of many dishes makes Indian trucks a consistent win.
+
+---
+
+### Ethiopian Trucks and Vendors
+
+Ethiopian food is one of the best vegan cuisines on the planet - injera flatbread with red lentils, split peas, roasted vegetables, and greens is a complete meal that happens to be entirely plant-based. Several Ethiopian vendors operate in Twin Cities market and festival circuits. For a deeper dive into Ethiopian vegan food in the metro, see our [Ethiopian vegan food Minneapolis guide](/blog/ethiopian-vegan-food-minneapolis).
+
+---
+
+### Falafel and Mediterranean
+
+Falafel wraps, hummus plates, tabbouleh, and roasted vegetable bowls are nearly always vegan. Several falafel trucks operate in the Twin Cities - ask about the pita wrap options and what's cooked without dairy.
+
+---
+
+### Taco Trucks
+
+Many of the Twin Cities' taco trucks have excellent plant-based options: black bean, potato, grilled vegetable, and roasted mushroom fillings are common. Ask what's cooked without lard (some beans are cooked with it, some aren't), and you'll find that several options are naturally vegan.
+
+---
+
+## How to Track Vegan Food Trucks in Minneapolis
+
+The food truck schedule changes weekly - sometimes daily. Here's how to stay on top of it:
+
+### Instagram Is Your Best Tool
+
+Instagram is the primary communication channel for Twin Cities food trucks. Almost every truck with a regular presence posts their weekly schedule on stories and in their feed.
+
+Tips for tracking on Instagram:
+- Follow trucks you like and turn on post notifications
+- Search hashtags like **#TwinCitiesFoodTrucks**, **#MplsFoodTrucks**, and **#VeganMpls**
+- Check the Instagram pages for event venues - farmers markets, breweries, and parks often tag which trucks are appearing that week
+
+### Roaming Hunger
+
+[Roaming Hunger](https://roaminghunger.com/) is a food truck tracking platform with Twin Cities coverage. You can search by date and location to see which trucks are scheduled nearby. Coverage is strongest for downtown Minneapolis and popular event sites.
+
+### The Twin Cities Food Truck Community
+
+Several Facebook groups and local food blogs track the Twin Cities food truck scene. A quick search for "Twin Cities food trucks" will surface the most active communities - these are good for learning about new operators before they have a big Instagram following.
+
+---
+
+## Best Events and Spots to Catch Vegan Food Trucks
+
+### Farmers Markets
+
+Farmers markets are the most reliable spots to find trucks with vegan options. The Mill City Farmers Market, Minneapolis Farmers Market, and Fulton Farmers Market all feature food vendors alongside produce - and typically include a mix of ethnic food trucks and plant-based prepared food vendors. See our [Twin Cities farmers markets vegan guide](/blog/vegan-farmers-markets-twin-cities-2026) for a full breakdown.
+
+### Brewery Taprooms (Northeast Minneapolis and North Loop)
+
+Many Twin Cities breweries host food trucks on weekends - Thursday through Saturday is common. Northeast Minneapolis breweries and North Loop taprooms frequently feature rotating truck pop-ups. If you're already planning a vegan bar night (check our [vegan bars Minneapolis guide](/blog/vegan-bars-minneapolis) for the best spots), a food truck out front is a common bonus in warmer months.
+
+### Neighborhood Street Fairs and Festivals
+
+Minneapolis's summer neighborhood events - Powderhorn May Day Festival, Art-A-Whirl in Northeast, neighborhood block parties throughout the summer - regularly feature food trucks. These are good hunting grounds for plant-based vendors and smaller operations that don't have a permanent downtown spot.
+
+### Downtown Minneapolis Lunch Spots
+
+During the work week, Nicollet Mall and the surrounding blocks see regular food truck lunch rotations in warmer months. Check for trucks near Government Center and along the Nicollet Mall corridor on weekdays.
+
+---
+
+## Tips for Navigating the Food Truck Scene as a Vegan
+
+**Ask about shared equipment.** Many food trucks cook meat and plant-based items on the same grill or griddle. If cross-contamination matters to you, ask upfront - most operators will tell you plainly.
+
+**Go early at events.** Popular items sell out. If a truck has a signature vegan dish that's been getting attention, assume it could be gone by 1pm at a busy market or festival.
+
+**Build a truck following list.** Create a dedicated Instagram list of Twin Cities food trucks you want to track. Checking it on Thursdays or Fridays is a good way to plan your weekend eating around who's nearby.
+
+**Tip well.** Food truck operating costs are high and margins are tight. The best vegan trucks survive because their communities support them consistently.
+
+---
+
+## The Bigger Picture: Vegan Food in the Twin Cities
+
+The food truck scene is one slice of a thriving plant-based food ecosystem in Minneapolis and Saint Paul. For sit-down options, see our [vegan brunch Minneapolis guide](/blog/vegan-brunch-minneapolis) for the best weekend spots - or head straight to the [best vegan restaurants guide](/blog/best-vegan-restaurants-minneapolis-2026) for the full city rundown.
+
+The 2026 season is shaping up to be a strong one for outdoor dining in the Twin Cities. Follow the trucks, hit the markets, and eat something good on a picnic blanket. That's what spring in Minneapolis is for.
+
+---
+
+*Food truck schedules change frequently. Always confirm on Instagram or the truck's website before making a special trip.*
+`
+  },
+  {
+    slug: "vegan-farmers-markets-twin-cities-2026",
+    title: "Vegan Finds at Twin Cities Farmers Markets (2026 Season Guide)",
+    description: "From fresh produce to vegan baked goods and plant-based prepared foods - the best Twin Cities farmers markets for vegans in 2026.",
+    publishedAt: "2026-02-25",
+    updatedAt: "2026-02-25",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan farmers market twin cities", "vegan farmers market minneapolis", "twin cities farmers markets 2026", "vegan food farmers market minneapolis", "minneapolis farmers market vegan", "st paul farmers market vegan"],
+    readingTime: "8 min read",
+    tldr: "Best Twin Cities farmers markets for vegans: Mill City Farmers Market (top pick - curated vendors, riverside location, excellent prepared foods), St. Paul Farmers Market (largest selection, multiple locations), Minneapolis Farmers Market (open year-round, great for produce), Fulton Farmers Market (neighborhood feel, strong baked goods). Look for vegan baked goods, fresh produce, tofu/tempeh vendors, and prepared food booths. Season runs May-October for most markets - check individual websites for 2026 dates.",
+    faqs: [
+      {
+        question: "What farmers markets are in Minneapolis?",
+        answer: "Major Minneapolis farmers markets include: the Minneapolis Farmers Market (312 E Lyndale Ave N, open year-round), Mill City Farmers Market (at Mill City Museum, seasonal May-October), Fulton Farmers Market (SW Minneapolis neighborhood market, seasonal), and Kingfield Farmers Market. St. Paul has its own large market system with multiple locations."
+      },
+      {
+        question: "What can vegans find at Twin Cities farmers markets?",
+        answer: "Twin Cities farmers markets typically have: fresh produce (the core of any plant-based diet), vegan baked goods from local bakeries, plant-based prepared foods (falafel, grain bowls, Ethiopian, Indian), tofu and tempeh from local producers, mushroom vendors, nut butters, preserves, and seasonal items like spring greens, asparagus, and strawberries. Ask vendors directly - most are happy to answer vegan questions."
+      },
+      {
+        question: "Is the Minneapolis Farmers Market open year-round?",
+        answer: "Yes - the main Minneapolis Farmers Market location (312 E Lyndale Ave N) operates year-round, with outdoor markets running spring through fall and a reduced indoor market continuing through winter. Hours and vendor selection are most robust from May through October."
+      },
+      {
+        question: "When does the Mill City Farmers Market open for 2026?",
+        answer: "Mill City Farmers Market typically runs from May through October on Saturday mornings. Check millcityfarmersmarket.org for confirmed 2026 opening date and hours."
+      },
+      {
+        question: "What is the best farmers market in the Twin Cities?",
+        answer: "Mill City Farmers Market is widely considered the most curated and food-focused market in the Twin Cities - excellent for prepared foods and local specialty vendors. The St. Paul Farmers Market is the largest for raw produce and variety. The Minneapolis Farmers Market is the most accessible year-round. Which is 'best' depends on what you're looking for."
+      }
+    ],
+    relatedRestaurants: [],
+    relatedPosts: ["vegan-brunch-minneapolis", "vegan-coffee-shops-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-food-trucks-twin-cities-2026", "vegan-bakeries-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: `
+## Why Farmers Markets Are a Vegan's Best Friend
+
+For plant-based eaters, farmers markets are one of the best ways to connect with your food - seasonally, locally, and in a way that a grocery store run just doesn't replicate. You're talking directly to the person who grew the produce, baked the sourdough, or pressed the tofu. You can ask questions, discover new vendors, and find ingredients you genuinely can't get at a supermarket.
+
+In the Twin Cities, the farmers market scene is strong. Several markets operate across Minneapolis and Saint Paul from spring through fall, each with its own character and vendor mix. Here's what to know about each one - and what to look for as a vegan.
+
+---
+
+## The Markets
+
+### Mill City Farmers Market - Top Pick for Prepared Foods
+
+**Minneapolis - Mill City Museum, 704 S 2nd St | Season: May - October, Saturdays**
+
+If you're going to one Twin Cities farmers market for the full experience, Mill City is the one. Located at the Mill City Museum on the Mississippi River - adjacent to the Stone Arch Bridge - it's a beautifully situated, curated market with a strong emphasis on prepared foods and local specialty vendors alongside traditional produce.
+
+The prepared food vendors at Mill City consistently include excellent vegan options: grain bowls, falafel, fresh-pressed juices, and plant-based baked goods rotate through the season. The market is smaller and more curated than some of the larger city markets, which means a higher hit rate on interesting finds.
+
+**What to look for as a vegan:**
+- Prepared food booths with grain bowls and vegetable-forward dishes
+- Vegan baked goods from local bakeries (ask vendors directly - many label clearly)
+- Fresh produce from regional farms
+- Specialty items like local mushrooms, artisan pickles, and ferments
+
+**Pro tip:** Come hungry and plan to eat a full meal from the prepared food vendors. Mill City's food vendor selection is among the best in the market circuit.
+
+**Check millcityfarmersmarket.org for confirmed 2026 dates and vendor lists.**
+
+---
+
+### Minneapolis Farmers Market - Year-Round and Accessible
+
+**North Loop / Near Downtown - 312 E Lyndale Ave N | Open year-round**
+
+The Minneapolis Farmers Market is one of the few in the region that operates year-round - outdoor markets in warmer months and a reduced indoor format through winter. The main location near the North Loop and the satellite Lyndale Avenue market are both worth knowing.
+
+This market is more traditional than Mill City - heavy on produce, plants, and staple items. For vegans, the produce selection is the main draw: seasonal vegetables and fruit from regional farms, often at better prices than grocery stores for volume.
+
+The prepared food and specialty vendor mix is solid but not as curated as Mill City. You'll find a range of ethnic food vendors, baked goods, and prepared items mixed in with the produce stalls.
+
+**What to look for as a vegan:**
+- Seasonal produce (spring: asparagus, greens, rhubarb; summer: tomatoes, corn, berries; fall: squash, apples)
+- Plant starts for home growing in spring
+- Ethnic food vendors with vegan options - ask what's plant-based
+- Local honey, preserves, and nut butters
+
+**Check mpls.gov/farmers-market for 2026 hours and seasonal schedule.**
+
+---
+
+### St. Paul Farmers Market - Best for Volume and Variety
+
+**Multiple locations - Lowertown main market + satellite locations | Season: April - November**
+
+The St. Paul Farmers Market is the largest producers-only market in the region - meaning every vendor is required to grow or make what they sell. That producer-only rule means a consistently high quality and authenticity across the stalls.
+
+The Lowertown main market (at 5th and Wall St in downtown St. Paul) is the flagship, running Saturday and Sunday mornings from April through November. Additional satellite locations operate throughout the metro.
+
+For produce shoppers, this is the gold standard. The variety and volume are unmatched in the Twin Cities market system. You'll find vendors who specialize in heirloom tomatoes, unusual squash varieties, and greens you won't find anywhere else.
+
+**What to look for as a vegan:**
+- Bulk produce in season - this is the best market for loading up on summer tomatoes or fall squash
+- Tofu and tempeh - local producers occasionally appear at the market, worth seeking out
+- Vegan baked goods from local bakeries and producers
+- Specialty mushroom vendors (morels in spring, chanterelles in summer)
+
+**Check stpaulfarmersmarket.com for confirmed 2026 dates, hours, and locations.**
+
+---
+
+### Fulton Farmers Market - Neighborhood Feel, Strong Baked Goods
+
+**Southwest Minneapolis - Fulton neighborhood | Season: June - October, Sundays**
+
+The Fulton Farmers Market is a neighborhood-scale market with a loyal local following. It's smaller than the major city markets, which makes it easier to navigate and gives it a more intimate community vibe.
+
+The baked goods vendors at Fulton are a consistent highlight - local bakeries bring vegan-friendly bread, pastry, and seasonal items. It's a good market for slow weekend mornings: coffee, pastries, fresh produce, and a relaxed pace.
+
+**What to look for as a vegan:**
+- Vegan baked goods - ask vendors at each bakery booth what's plant-based
+- Fresh produce from local farms
+- Honey, preserves, and specialty food items
+- Prepared snack items for eating at the market
+
+**Check the Fulton neighborhood association website or their social media for 2026 dates.**
+
+---
+
+### Kingfield Farmers Market - Neighborhood Discovery
+
+**Southwest Minneapolis - Kingfield neighborhood | Season: May - October, Sundays**
+
+Kingfield runs a compact, community-oriented market in SW Minneapolis. Like Fulton, it's a neighborhood-scale operation - smaller vendor selection but very walkable and local in feel. Worth checking if you're in the area; a good source for produce and baked goods with less traffic than the larger markets.
+
+---
+
+## What to Look For: A Vegan's Market Shopping Guide
+
+### Fresh Produce - The Foundation
+
+The reason to go to a farmers market over a grocery store is the produce. In-season, locally grown vegetables and fruit at farmers markets are almost always fresher, more flavorful, and often competitively priced compared to grocery stores.
+
+Spring priority list: asparagus, spring greens (arugula, spinach, mixed greens), rhubarb, early strawberries, herbs, pea shoots.
+
+### Vegan Baked Goods
+
+Most Twin Cities farmers markets include at least a few bakery vendors. Not all bakeries offer vegan items - but many do, and more are adding vegan options each season. Ask directly: "Do you have anything vegan?" is a completely normal farmers market question, and most vendors know their ingredients well.
+
+Look for: sourdough bread (often vegan), fruit-based pastries, cookies, granola, and seasonal items. If you want more dedicated vegan bakery options in Minneapolis, see our [vegan bakeries Minneapolis guide](/blog/vegan-bakeries-minneapolis).
+
+### Plant-Based Prepared Foods
+
+The prepared food vendors at farmers markets are increasingly vegan-friendly. Look for:
+- Grain and rice bowl vendors
+- Falafel and Mediterranean food
+- Indian food vendors (dal, chana masala, samosas)
+- Ethiopian food vendors (injera with lentils and vegetables)
+- Fresh juice and smoothie bars
+
+### Specialty Items
+
+Farmers markets are the best place in the metro to find local tofu, tempeh, mushrooms, unusual produce varieties, artisan nut butters, fermented foods, and other plant-based specialty items. Take your time browsing - the interesting vendors aren't always at the front.
+
+---
+
+## Making the Most of Market Season
+
+**Go in the morning.** The best vendors sell out. Peak selection is typically in the first hour or two of the market.
+
+**Bring cash and reusable bags.** Most vendors accept cards now, but cash is still faster and preferred. A few produce vendors are cash-only.
+
+**Talk to vendors.** Ask what's been growing well, what's coming into season, and how they'd cook something. Farmers and food producers at markets almost always enjoy talking about their work.
+
+**Pair with coffee and brunch.** Market mornings are better with a good coffee stop. See our [vegan coffee shops Minneapolis guide](/blog/vegan-coffee-shops-minneapolis) for the best nearby options, and our [vegan brunch Minneapolis guide](/blog/vegan-brunch-minneapolis) if you want to turn market Saturday into a full morning out.
+
+---
+
+## Season Overview for 2026
+
+Most Twin Cities farmers markets run from spring through fall - roughly May through October, with the Minneapolis Farmers Market open year-round. Here's the seasonal produce timeline to plan around:
+
+- **April - May (early season):** Spring greens, asparagus, rhubarb, pea shoots, herbs, plant starts
+- **June - July (peak spring/early summer):** Strawberries, peas, lettuce, early tomatoes, fresh herbs
+- **August (peak summer):** Tomatoes, corn, peppers, cucumbers, berries, beans, summer squash
+- **September - October (fall):** Winter squash, apples, root vegetables, late tomatoes, pumpkins
+
+**For confirmed 2026 dates:** check mpls.gov for Minneapolis markets, stpaulfarmersmarket.com for St. Paul, and millcityfarmersmarket.org for Mill City.
+
+---
+
+*Market hours and vendor selection vary week to week. Check individual market websites and social media for current vendor lists before visiting.*
+`
+  },
+  {
     slug: "vegan-grocery-stores-minneapolis",
     title: "Best Vegan Grocery Stores in Minneapolis: Co-ops, Natural Foods & Specialty Shops (2026)",
     description: "The best vegan grocery stores in Minneapolis — from Seward Co-op and Wedge Co-op to Herbivorous Butcher, Trader Joe's, and Whole Foods. Where to buy vegan staples, specialty items, and local plant-based brands in the Twin Cities.",
@@ -6268,7 +6601,7 @@ See our full [Minneapolis Vegan Restaurant Guide](/blog/best-vegan-restaurants-m
       },
       {
         question: "Is Seward Co-op good for vegans?",
-        answer: "Yes — Seward Co-op is one of the best grocery stores in the country for vegans. The Franklin Ave SE location has an extensive bulk section with grains, legumes, nuts, and seeds; a deli with rotating vegan hot food and grab-and-go options; a large supplement and personal care section with vegan-certified products; and strong local and regional brand selection. All products are clearly labeled with vegan, gluten-free, and organic icons. They also have a second location on Franklin Ave NE."
+        answer: "Yes — Seward Co-op is one of the best grocery stores in the country for vegans. The Franklin Ave SE location has an extensive bulk section with grains, legumes, nuts, and seeds; a deli with rotating vegan hot food and grab-and-go options; a large supplement and personal care section with vegan-certified products; and strong local and regional brand selection. All products are clearly labeled with vegan, gluten-free, and organic icons. They also have a second location in Minnehaha."
       },
       {
         question: "Where can I buy vegan meat and cheese in Minneapolis?",
@@ -6276,19 +6609,19 @@ See our full [Minneapolis Vegan Restaurant Guide](/blog/best-vegan-restaurants-m
       },
       {
         question: "Does Trader Joe's in Minneapolis have good vegan options?",
-        answer: "Yes — Trader Joe's is one of the best value options for vegan grocery shopping in Minneapolis. They carry a wide range of affordable vegan staples including plant-based milks, vegan cheeses (shredded mozzarella, sliced cheddar, cream cheese), vegan proteins (breaded chicken tenders, gyoza, soyrizo), frozen meals, and an excellent snack selection. Their store-brand prices are hard to beat. Minneapolis has multiple Trader Joe's locations including Uptown (1769 W Lake St), St. Louis Park, Woodbury, and others."
+        answer: "Yes — Trader Joe's is one of the best value options for vegan grocery shopping in Minneapolis. They carry a wide range of affordable vegan staples including plant-based milks, vegan cheeses (shredded mozzarella, sliced cheddar, cream cheese), vegan proteins (breaded chicken tenders, gyoza, soyrizo), frozen meals, and an excellent snack selection. Minneapolis has multiple Trader Joe's locations including Uptown (1769 W Lake St), St. Louis Park, and others."
       },
       {
         question: "Are Minneapolis co-ops expensive for vegan shopping?",
-        answer: "Co-ops in Minneapolis are generally priced 10-30% higher than conventional grocery stores for packaged items, but their bulk sections often offer better value than comparable packaged products at Whole Foods or specialty stores. If you're on a budget, use the co-ops for specialty items, local brands, and bulk grains/legumes — and shop Trader Joe's or ALDI for everyday staples like plant milk, canned beans, and frozen vegetables. Most co-ops also have member programs that offer modest discounts on regular purchases."
+        answer: "Co-ops in Minneapolis are generally priced 10-30% higher than conventional grocery stores for packaged items, but their bulk sections often offer better value than comparable packaged products. If you're on a budget, use co-ops for specialty items, local brands, and bulk grains and legumes — and shop Trader Joe's or ALDI for everyday staples like plant milk, canned beans, and frozen vegetables."
       },
       {
         question: "What is the best grocery store for vegan staples in Minneapolis?",
-        answer: "For everyday vegan staples (plant milk, canned beans, tofu, frozen vegetables, pasta, snacks), Trader Joe's offers the best combination of price and quality in Minneapolis. For fresh produce and bulk items, Seward Co-op or Wedge Co-op. For specialty vegan meats and cheeses, Herbivorous Butcher. For the largest overall natural foods selection, Whole Foods Market in St. Louis Park. Most vegan Minneapolitans shop at a combination of 2-3 stores depending on what they're looking for."
+        answer: "For everyday vegan staples (plant milk, canned beans, tofu, frozen vegetables, pasta, snacks), Trader Joe's offers the best combination of price and quality in Minneapolis. For fresh produce and bulk items, Seward Co-op or Wedge Co-op. For specialty vegan meats and cheeses, Herbivorous Butcher. For the largest overall natural foods selection, Whole Foods Market in St. Louis Park. Most vegan Minneapolitans shop at a combination of 2-3 stores depending on what they need."
       }
     ],
     relatedRestaurants: ["herbivorous-butcher", "seward-cafe", "wedge-table", "vegan-east-bakery"],
-    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-food-minneapolis", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-food-minneapolis", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-farmers-markets-twin-cities-2026"],
     content: `
 ## Vegan Grocery Shopping in Minneapolis: The Full Guide
 
@@ -6312,11 +6645,10 @@ Seward Co-op is the original. It's been in the Seward neighborhood since 1972 an
 - **Vegan labels:** All products are icon-labeled — vegan, gluten-free, organic, local — so you never have to guess
 - **Local brands:** Strong selection of Minnesota and regional vegan producers
 - **Refrigerated section:** Comprehensive vegan meat, cheese, and dairy alternatives
-- **Personal care:** Vegan-certified toiletries, supplements, and household products
 
-The Minnehaha location (38th & 4th Ave area) opened in 2015 and serves the south Minneapolis corridor. Both locations are excellent; the Franklin Ave original is slightly larger.
+The Minnehaha location serves the south Minneapolis corridor. Both locations are excellent; the Franklin Ave original is slightly larger.
 
-**Member savings:** $15 one-time membership fee gives you access to member deals. Worth it if you shop here regularly.
+**Member savings:** $15 one-time membership fee gives you access to member deals.
 
 ---
 
@@ -6324,32 +6656,29 @@ The Minnehaha location (38th & 4th Ave area) opened in 2015 and serves the south
 
 **2105 Lyndale Ave S (Lyn-Lake / Uptown adjacent)**
 
-The Wedge is the Uptown/Lyn-Lake neighborhood co-op, and its bulk section is arguably the best in the city — more variety than even Seward for dry goods. The Wedge has been in the neighborhood since 1974 and is a pillar of the vegan food scene.
+The Wedge is the Uptown/Lyn-Lake neighborhood co-op, and its bulk section is arguably the best in the city — more variety than even Seward for dry goods. The Wedge has been in the neighborhood since 1974.
 
 **Why vegans love the Wedge:**
 - Bulk bins with 200+ options including specialty items like black sesame seeds, hemp hearts, and unusual grains
-- Strong local produce sourcing (partnerships with Minnesota farms)
+- Strong local produce sourcing with Minnesota farm partnerships
 - Excellent vegan deli with daily rotating specials
-- Wide selection of vegan cheeses (Violife, Miyoko's, Kite Hill, Treeline, and smaller brands)
-- Beer and wine with vegan filtering info
-
-The Wedge is walkable from most of Uptown and all of Lyn-Lake, making it a convenient daily-use store.
+- Wide selection of vegan cheeses (Violife, Miyoko's, Kite Hill, Treeline)
 
 ---
 
-### 3. Linden Hills Co-op — South Minneapolis Neighborhood Anchor
+### 3. Linden Hills Co-op — South Minneapolis Anchor
 
-**2 Coops: 2 locations — Linden Hills (43rd & Upton SW) and Plymouth**
+**43rd & Upton SW (Linden Hills)**
 
-Linden Hills Co-op is smaller and more neighborhood-focused than Seward or the Wedge, but it's an excellent local option for South Minneapolis vegans. Good produce, solid vegan selection, and a community feel. If you live in the Linden Hills, Fulton, or Lynnhurst neighborhoods, this is your go-to.
+Linden Hills Co-op is smaller and more neighborhood-focused, but it's an excellent local option for South Minneapolis vegans. Good produce, solid vegan selection, and a community feel. If you live in Linden Hills, Fulton, or Lynnhurst, this is your go-to.
 
 ---
 
-### 4. Mississippi Market — St. Paul's Co-op Anchor
+### 4. Mississippi Market — St. Paul's Co-op
 
 **Two St. Paul locations:** 622 Selby Ave (Cathedral Hill) + 1500 W 7th St (West 7th)
 
-If you're on the St. Paul side of the river, Mississippi Market is the equivalent of Seward Co-op. Excellent bulk section, strong vegan selection, and the same member-owned ethos. The Selby Ave location is the original and slightly larger.
+If you're on the St. Paul side, Mississippi Market is the equivalent of Seward Co-op. Excellent bulk section, strong vegan selection, and the same member-owned ethos. The Selby Ave location is the original and slightly larger.
 
 ---
 
@@ -6357,16 +6686,14 @@ If you're on the St. Paul side of the river, Mississippi Market is the equivalen
 
 **507 1st Ave NE, Northeast Minneapolis**
 
-Herbivorous Butcher deserves its own category. It's a 100% vegan butcher shop and deli run by siblings Aubry and Kale Walch — the first vegan butcher shop in the country. Everything is made in-house:
+Herbivorous Butcher deserves its own category. It's a 100% vegan butcher shop and deli — the first vegan butcher shop in the country. Everything is made in-house:
 
-- Vegan "meats": smoked gouda-stuffed sausage, pepperoni, pulled pork, fried chicken strips, Italian sausage, capicola
+- Vegan "meats": smoked gouda-stuffed sausage, pepperoni, pulled pork, fried chicken strips, Italian sausage
 - Vegan "cheeses": smoked gouda, sharp cheddar, brie, cream cheese, queso
 - Deli sandwiches and grab-and-go items
 - Wholesale to local restaurants (you'll recognize their products on several MPLS menus)
 
-This is the destination for specialty vegan proteins and cheeses. Prices are higher than grocery stores (these are handmade artisan products), but the quality is exceptional. The Northeast location is open Tuesday–Saturday.
-
-**Also ships nationally** via their website if you're reading this from outside the Twin Cities.
+Prices are higher than grocery stores (these are handmade artisan products), but the quality is exceptional. Open Tuesday–Saturday. **Also ships nationally** via their website.
 
 ---
 
@@ -6374,19 +6701,15 @@ This is the destination for specialty vegan proteins and cheeses. Prices are hig
 
 ### Trader Joe's — Best Everyday Value
 
-**Multiple MPLS-area locations:** Uptown (1769 W Lake St), St. Louis Park, Woodbury, Minnetonka, Maple Grove
-
-Trader Joe's punches above its weight for vegan shopping. Their store-brand products are remarkably affordable:
+**Multiple locations:** Uptown (1769 W Lake St), St. Louis Park, Woodbury, Minnetonka, Maple Grove
 
 | Category | Top Picks | Price Range |
 |----------|-----------|-------------|
-| Plant milk | Oat milk, almond milk, coconut milk | $2.49–$3.49 |
+| Plant milk | Oat, almond, coconut milk | $2.49–$3.49 |
 | Vegan cheese | Shredded mozzarella, sliced cheddar, cream cheese | $3.49–$4.49 |
-| Frozen protein | Breaded chick'n tenders, mandarin orange chicken (vegan), soyrizo | $3.99–$5.99 |
+| Frozen protein | Chick'n tenders, mandarin orange chicken (vegan), soyrizo | $3.99–$5.99 |
 | Snacks | Everything bagel seasoning, lentil chips, dried mango | $2–$4 |
 | Pantry | Canned chickpeas, lentils, coconut milk, pasta | $0.89–$1.99 |
-
-The Uptown location is the busiest and occasionally runs out of popular items by late week. The St. Louis Park location tends to have more consistent stock.
 
 ---
 
@@ -6394,17 +6717,15 @@ The Uptown location is the busiest and occasionally runs out of popular items by
 
 **St. Louis Park (1001 W Highway 7) + Minnetonka (2195 Ridgedale Dr)**
 
-Whole Foods has the largest conventional selection of vegan meats, cheeses, and specialty products in the Twin Cities — including brands you won't find elsewhere. The hot bar and prepared foods section typically has 3-5 clearly labeled vegan options daily. Prices are higher across the board, but for specific brands (Miyoko's, Siete, Forager) it's often the most reliable local source.
-
-**Prime members:** 10% off weekly deals + additional Prime-exclusive discounts.
+Largest conventional selection of vegan meats, cheeses, and specialty products in the Twin Cities. The hot bar typically has 3-5 clearly labeled vegan options daily. Prime members get 10% off weekly deals.
 
 ---
 
-### ALDI — Hidden Gem for Vegan Budget Shopping
+### ALDI — Hidden Gem for Budget Vegan Shopping
 
 **Multiple MPLS-area locations**
 
-ALDI's vegan selection has improved dramatically in recent years. Their private-label plant milks, canned beans, and frozen vegetables are priced 30-50% below comparable products at Trader Joe's or Whole Foods. Not every location carries the same items, but ALDI is worth adding to your rotation for budget staples.
+ALDI's vegan selection has improved dramatically. Their private-label plant milks, canned beans, and frozen vegetables are priced 30-50% below Trader Joe's or Whole Foods. Worth adding to your rotation for budget staples.
 
 ---
 
@@ -6412,20 +6733,19 @@ ALDI's vegan selection has improved dramatically in recent years. Their private-
 
 **Edina (7200 France Ave S) + Maple Grove + Coon Rapids**
 
-Fresh Thyme sits between conventional grocery stores and full natural foods stores. Good selection of vegan proteins, cheeses, and supplements at prices slightly below Whole Foods. Their weekly sales often feature strong vegan deals.
+Fresh Thyme sits between conventional grocery stores and full natural foods stores. Good vegan protein and cheese selection. Their weekly sales often feature strong vegan deals.
 
 ---
 
-## 🗺️ Where to Shop: MPLS Vegan Grocery by Neighborhood
+## 🗺️ Where to Shop by Neighborhood
 
 | Your Neighborhood | Best Nearby Options |
 |------------------|---------------------|
 | **Uptown / Lyn-Lake** | Wedge Co-op (walkable), Trader Joe's (W Lake St) |
-| **Seward / Longfellow** | Seward Co-op (home base), Minnehaha Seward location |
-| **Northeast** | Herbivorous Butcher, Seward Co-op NE |
-| **South Minneapolis** | Linden Hills Co-op, Seward Minnehaha location |
-| **Midtown / Lake St corridor** | Wedge Co-op, ALDI (budget), Seward Co-op |
-| **Downtown** | Whole Foods (drive SLP), Target downtown (basics) |
+| **Seward / Longfellow** | Seward Co-op (home base) |
+| **Northeast** | Herbivorous Butcher, Seward Co-op NE location |
+| **South Minneapolis** | Linden Hills Co-op, Seward Minnehaha |
+| **Midtown / Lake St** | Wedge Co-op, ALDI (budget) |
 | **St. Paul** | Mississippi Market (Cathedral Hill or West 7th) |
 | **Suburbs** | Trader Joe's + Fresh Thyme (most suburbs) |
 
@@ -6433,34 +6753,24 @@ Fresh Thyme sits between conventional grocery stores and full natural foods stor
 
 ## Shopping Strategy: What to Buy Where
 
-Most Minneapolis vegans shop at 2-3 stores. Here's how to think about it:
+Most Minneapolis vegans shop at 2-3 stores:
 
-**Seward Co-op or Wedge:** Bulk grains, legumes, specialty flours, local produce, vegan deli items, unique local brands  
-**Trader Joe's:** Everyday plant milks, budget vegan cheese, frozen proteins, pantry staples, snacks  
-**Herbivorous Butcher:** Specialty event cooking, when you want something impressive, local gifts  
+**Seward Co-op or Wedge:** Bulk grains, legumes, specialty flours, local produce, vegan deli  
+**Trader Joe's:** Everyday plant milks, budget vegan cheese, frozen proteins, pantry staples  
+**Herbivorous Butcher:** Specialty cooking, impressive dinner parties, local gifts  
 **Whole Foods:** Specific brands not available elsewhere, prime-sale deals, hot bar lunch  
 **ALDI:** Budget staples, plant milks, canned goods, frozen vegetables
 
 ---
 
-## Local Minneapolis Vegan Brands to Look For
+## The Bottom Line
 
-Shopping at Twin Cities co-ops means access to local producers you won't find at national chains:
-
-- **Herbivorous Butcher** — vegan meats and cheeses (also at some co-ops)
-- **Hope Creamery** — not vegan, but co-ops often stock excellent local products adjacent to vegan sections
-- **Elden's Fresh Foods** (regional)
-- **Hmong Village Market** (St. Paul) — fresh produce, herbs, unique ingredients for Southeast Asian vegan cooking
-
----
-
-## Final Word: Co-op Culture Is the Vegan Secret Weapon
-
-What makes Minneapolis's vegan grocery scene unusual is that the co-ops aren't niche — they're neighborhood institutions. Seward Co-op has 14,000+ member-owners. The Wedge has been on Lyndale Avenue for 50 years. These stores make finding vegan food easy not because they're targeting vegans, but because their entire ethos is aligned: local, organic, thoughtful sourcing. For vegans new to Minneapolis, joining a co-op is step one.
+What makes Minneapolis's vegan grocery scene unusual is that the co-ops aren't niche — they're neighborhood institutions. Seward Co-op has 14,000+ member-owners. The Wedge has been on Lyndale Avenue for 50 years. For vegans new to Minneapolis, joining a co-op is step one.
 
 Browse our full [Minneapolis vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026) to pair your grocery haul with the best plant-based dining in the city.
 `
-  }
+  },
+
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
