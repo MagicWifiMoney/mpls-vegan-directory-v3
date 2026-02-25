@@ -6770,6 +6770,174 @@ What makes Minneapolis's vegan grocery scene unusual is that the co-ops aren't n
 Browse our full [Minneapolis vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026) to pair your grocery haul with the best plant-based dining in the city.
 `
   },
+  {
+    slug: "vegan-indian-food-minneapolis",
+    title: "Best Vegan Indian Food in Minneapolis & St. Paul (2026 Guide)",
+    description: "The best vegan Indian and Himalayan food in the Twin Cities — Gandhi Mahal, Himalayan Restaurant, Namaste Cafe, and Everest on Grand. What to order, what to skip, and why Minneapolis is surprisingly great for plant-based Indian cuisine.",
+    publishedAt: "2026-02-25",
+    updatedAt: "2026-02-25",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan indian food minneapolis", "vegan indian restaurant minneapolis", "vegetarian indian minneapolis", "gandhi mahal vegan", "himalayan restaurant minneapolis vegan", "vegan south asian food twin cities"],
+    readingTime: "8 min read",
+    tldr: "Best vegan Indian food in Minneapolis: Gandhi Mahal (Longfellow, chana masala + tofu palak, city's most beloved Indian comeback story), Himalayan Restaurant (Lake St, momos + Kathmandu curry, Nepali-Indian-Tibetan), Namaste Cafe (Uptown, organic Indian-Nepali, gorgeous patio), and Everest on Grand in St. Paul (jackfruit katahar + thukpa, Grand Ave institution). All four are vegan-friendly with extensive plant-based menus.",
+    faqs: [
+      {
+        question: "What is the best vegan Indian restaurant in Minneapolis?",
+        answer: "Gandhi Mahal (now operating as Curry in a Hurry at 3009 27th Ave S, Longfellow) is widely considered the best vegan-friendly Indian restaurant in Minneapolis. Their chana masala, tofu palak, and vegetable korma are all excellent, and the food is affordable with quick service. For a sit-down experience, Namaste Cafe (2512 Hennepin Ave, Uptown) offers organic Indian and Nepali cuisine with a beautiful patio, and Himalayan Restaurant (2910 E Lake St, Longfellow) serves outstanding momos and curries."
+      },
+      {
+        question: "Is Indian food generally vegan-friendly?",
+        answer: "Yes — Indian cuisine is one of the most naturally vegan-friendly cuisines in the world. A large portion of traditional Indian cooking is plant-based: lentil dishes (dal), chickpea dishes (chana masala), vegetable curries, rice dishes, and bread like roti and certain naan preparations. The main non-vegan ingredients to watch for are ghee (clarified butter), paneer (fresh cheese), and cream in certain sauces. Most Minneapolis Indian restaurants will happily substitute tofu for paneer and can prepare dishes without ghee on request."
+      },
+      {
+        question: "What should I order at a vegan Indian restaurant in Minneapolis?",
+        answer: "Great vegan orders at Minneapolis Indian restaurants: chana masala (chickpea curry, almost always vegan), dal makhani (lentil dish — ask without butter/cream or request vegan version), aloo gobi (potato and cauliflower), vegetable biryani, samosas (often vegan), momos with vegetable filling, and any jackfruit preparation. Ask that dishes be made without ghee. Avoid paneer dishes unless they can substitute tofu. At Himalayan Restaurant, the momos and chana masala are outstanding vegan choices."
+      },
+      {
+        question: "Is Gandhi Mahal back open in Minneapolis?",
+        answer: "Yes — Gandhi Mahal has returned as 'Curry in a Hurry by Gandhi Mahal' at 3009 27th Ave S in Longfellow. The original Gandhi Mahal location (also in Longfellow) was lost in 2020 but the family rebuilt with a quick-service concept that serves the same beloved recipes: chana masala, palak tofu, vegetable korma, and samosa chaat. The Longfellow community rallied around them and the new format delivers the same quality at a faster pace and lower price point."
+      },
+      {
+        question: "Are there vegan Indian restaurants in St. Paul?",
+        answer: "Yes. Everest on Grand (1278 Grand Ave, St. Paul) is a well-regarded Nepali-Indian-Tibetan restaurant on Grand Avenue with extensive vegetarian and vegan options — vegetable thukpa (Tibetan noodle soup), momos, katahar (jackfruit curry), and vegetable curries. It's one of the Twin Cities' best spots for Himalayan cuisine with strong vegan options throughout the menu."
+      },
+      {
+        question: "What's the difference between Indian and Himalayan cuisine for vegans?",
+        answer: "Both Indian and Himalayan (Nepali/Tibetan) cuisines offer excellent vegan options, but with different flavor profiles. Indian cuisine features complex spice blends (masala, turmeric, cumin, coriander) in thick curries, lentil dishes, and flatbreads. Himalayan cuisine includes momos (dumplings), thukpa (noodle soup), and curries with influences from Nepal, Tibet, and India — often lighter and less intensely spiced. In Minneapolis, restaurants like Himalayan Restaurant and Everest on Grand blend both traditions. Both are worth exploring for vegan diners."
+      }
+    ],
+    relatedRestaurants: ["gandhi-mahal", "himalayan-restaurant", "namaste-cafe", "everest-on-grand"],
+    relatedPosts: ["vegan-restaurants-st-paul", "vegan-asian-restaurants-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-brunch-minneapolis", "vegan-comfort-food-minneapolis"],
+    content: `
+## Why Minneapolis Is Great for Vegan Indian Food
+
+Indian cuisine might be the single best match for vegan eating. Somewhere between 20 and 40 percent of the Indian population is vegetarian, and a significant portion of traditional Indian cooking — dals, chole, aloo preparations, rice dishes — was plant-based long before "plant-based" was a food trend. When you add the Himalayan cuisines of Nepal and Tibet into the mix (momos, thukpa, jackfruit curries), you get a region of the world whose food traditions are naturally aligned with how vegans eat.
+
+Minneapolis has four restaurants that bring this cooking to a high level. Here's what you need to know about each one.
+
+---
+
+## 1. Gandhi Mahal (Curry in a Hurry) — Longfellow's Comeback Story
+
+**Longfellow | 3009 27th Ave S | $**
+
+Gandhi Mahal is a Minneapolis institution. The original restaurant — a full-service destination on Minnehaha Avenue — was one of the best Indian restaurants in the Twin Cities for over a decade. When it was lost in 2020, the community grieved. And then rallied. The Gandhi Mahal family came back with a quick-service concept, Curry in a Hurry, serving the same food faster and cheaper.
+
+The result is one of the best value lunch spots in the city. The chana masala is deep and complex, the tofu palak is silky and rich, and the samosa chaat — chickpeas, tamarind chutney, yogurt (specify vegan) on flaky pastry — is a snack that demands repeating.
+
+**What to order (vegan):**
+- **Chana Masala** — the foundation dish, always vegan, deeply satisfying
+- **Tofu Palak** — spinach-based curry with tofu substituted for paneer; ask to confirm vegan (no ghee)
+- **Vegetable Korma** — mild, coconut-and-cashew based curry, comfort food at its best
+- **Samosa Chaat** — specify no yogurt for fully vegan; the tamarind chutney alone is worth it
+- **Vegetable Biryani** — fragrant basmati rice, mixed vegetables, whole spices
+
+**What to watch:** Most dishes here are naturally dairy-light, but always mention vegan when ordering — ghee can sneak into dal and bread preparations.
+
+**Bottom line:** Affordable, fast, and genuinely good. This is the place for vegan Indian on a weeknight.
+
+---
+
+## 2. Himalayan Restaurant — Lake Street's Momo Destination
+
+**Longfellow | 2910 E Lake St | $$**
+
+Lake Street's Himalayan Restaurant sits at the intersection of Indian, Nepali, and Tibetan cooking — a combination that produces some of the most distinctive and vegan-friendly food in the Twin Cities. The momos are the star: steamed (or kothe-style, pan-fried on one side) dumplings stuffed with spiced vegetables, served with a tangy tomato-cilantro chutney that you will want by the jar.
+
+The curry selection is strong. The chana masala is a lighter, Nepali interpretation — brighter and more citrus-forward than the Indian version. The Kathmandu curry is the restaurant's signature: creamy without being heavy, complex without being overwhelming.
+
+**What to order (vegan):**
+- **Kothe Momos (vegetable)** — pan-fried on one side, crispy bottom, soft top, best dumplings on Lake Street
+- **Steamed Momos (vegetable)** — if you want the classic version; the chutney is the same either way
+- **Chana Masala** — brighter and lighter than most Indian versions; specify vegan
+- **Kathmandu Curry (tofu)** — the house specialty; ask without cream for fully vegan
+- **Thukpa (vegetable)** — Tibetan noodle soup; warming, substantial, naturally vegan
+
+**What to watch:** Some curries use butter or cream. Ask for vegan preparation — the kitchen accommodates.
+
+**Neighborhood note:** Himalayan is in Longfellow, a 10-minute drive from Uptown. Worth the trip specifically for the momos.
+
+---
+
+## 3. Namaste Cafe — Organic Indian in Uptown
+
+**Uptown | 2512 Hennepin Ave | $$**
+
+Namaste Cafe occupies a converted Victorian house on Hennepin Avenue — one of those only-in-Minneapolis dining spaces where the building is part of the experience. The menu is organic Indian and Nepali cuisine, carefully prepared and labeled. The patio is one of the better outdoor dining spots in Uptown.
+
+The bhel puri starter — puffed rice, vegetables, chutneys — is a refreshing way to begin. The mango curry with tofu is the standout main: sweet, sour, and spicy in a balance that works. The chai is house-made and worth ordering with dessert.
+
+**What to order (vegan):**
+- **Bhel Puri** — light, crunchy street food starter; naturally vegan
+- **Mango Curry with Tofu** — their most distinctive dish; sweet-tart-spicy, excellent balance
+- **Aloo Bodi** — potato and black-eyed pea curry; simple, hearty, fully vegan
+- **Dal Soup** — warming lentil soup; ask to confirm no ghee
+- **Vegetable Thali** — a sampler plate; ask which components are vegan
+
+**What makes it different:** Everything is organic. The space is unhurried. The patio, in warm weather, is one of Uptown's nicest dining experiences.
+
+---
+
+## 4. Everest on Grand — St. Paul's Himalayan Institution
+
+**Summit-University, St. Paul | 1278 Grand Ave | $$**
+
+Cross the river and Everest on Grand becomes the destination. Grand Avenue's dining strip has no shortage of excellent restaurants, and Everest has been one of its anchors for years. The menu spans India, Nepal, and Tibet, with an emphasis on vegetarian cooking that means vegan diners have genuine choices throughout.
+
+The katahar — young jackfruit buds cooked with potatoes and spices — is one of the more interesting dishes in the Twin Cities. Long before jackfruit became a mainstream plant-based meat substitute, Nepali cooking was using it as a savory ingredient. Everest's version is the real thing.
+
+**What to order (vegan):**
+- **Katahar** — jackfruit curry with potatoes and spices; the standout dish, unique to Himalayan cooking
+- **Momos (vegetable)** — stuffed with cabbage and ginger; served with tomato-sesame chutney
+- **Vegetable Thukpa** — Tibetan noodle soup with snap peas; warming and deeply comforting
+- **Vegetable Curry** — rotating seasonal preparations; ask the server what's vegan today
+- **Roti** — whole wheat flatbread, often vegan; confirm no ghee
+
+**St. Paul logistics:** Everest on Grand is on the heart of Grand Avenue, walkable from Cathedral Hill and the Macalester area. Worth combining with a walk down Grand.
+
+---
+
+## Vegan Indian Ordering Guide: What's Safe, What to Ask
+
+Indian and Himalayan menus can feel intimidating if you're not sure what's automatically vegan. Here's a quick reference:
+
+| Dish | Typically Vegan? | What to Watch |
+|------|-----------------|---------------|
+| Chana masala | ✅ Usually | Ask about ghee in base |
+| Dal | ⚠️ Often | Tadka (finishing) often uses ghee; ask |
+| Aloo gobi | ✅ Usually | Sometimes finished with ghee |
+| Vegetable biryani | ✅ Usually | Ask about ghee in rice cooking |
+| Momos (vegetable) | ✅ Yes | Wrappers are flour + water |
+| Naan | ❌ Usually not | Contains dairy; roti is safer |
+| Roti / chapati | ✅ Usually | Confirm no ghee |
+| Paneer dishes | ❌ No | Paneer is fresh cheese; ask for tofu sub |
+| Samosas | ✅ Usually | Some use ghee in pastry; ask |
+| Lassi | ❌ No | Yogurt-based |
+| Chai | ⚠️ Ask | Usually milk-based; ask for plant milk |
+
+**The one ask that covers most situations:** When ordering, say *"I'm vegan — can you make this without ghee or dairy?"* Most Minneapolis Indian restaurants will accommodate without issue.
+
+---
+
+## The Neighborhoods
+
+The four restaurants in this guide are split between two cities:
+
+**Minneapolis — Longfellow (Lake Street corridor):**
+Both Gandhi Mahal (Curry in a Hurry) and Himalayan Restaurant are in Longfellow, within a mile of each other on or near Lake Street. If you're doing a South Minneapolis food tour, you can hit both.
+
+**Minneapolis — Uptown:**
+Namaste Cafe is on Hennepin Avenue, walkable from the Uptown core and close to Lyn-Lake. Pairs well with dessert at [Glam Doll Donuts](/restaurants/glam-doll-donuts) a few blocks away.
+
+**St. Paul — Grand Avenue:**
+Everest on Grand is an easy drive from Minneapolis via I-94, right on the Grand Avenue strip. Pair it with a stop at [J. Selby's](/blog/j-selbys-review-saint-paul-vegan) a few miles away for a full St. Paul vegan day.
+
+---
+
+*See also: [Vegan Asian Restaurants Minneapolis](/blog/vegan-asian-restaurants-minneapolis) · [Vegan Restaurants St. Paul](/blog/vegan-restaurants-st-paul) · [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026)*
+`
+  },
 
 ];
 
