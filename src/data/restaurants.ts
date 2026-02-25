@@ -407,7 +407,7 @@ export const restaurants: Restaurant[] = [
     city: 'Minneapolis',
     state: 'MN',
     zip: '55408',
-    phone: '(612) 874-5752',
+    phone: '(612) 345-7064',
     website: 'https://glamdolldonuts.com/',
     googlePlaceId: 'ChIJaRIBdLUys1IRJ9oxz9RkNdg',
     cuisineType: ['Donuts', 'Bakery', 'Coffee'],
