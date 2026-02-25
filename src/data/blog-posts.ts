@@ -6249,6 +6249,217 @@ If you're making a vegan food tour of Minneapolis, hit Northeast in the afternoo
 
 See our full [Minneapolis Vegan Restaurant Guide](/blog/best-vegan-restaurants-minneapolis-2026) for the city-wide top picks.
 `
+  },
+  {
+    slug: "vegan-grocery-stores-minneapolis",
+    title: "Best Vegan Grocery Stores in Minneapolis: Co-ops, Natural Foods & Specialty Shops (2026)",
+    description: "The best vegan grocery stores in Minneapolis — from Seward Co-op and Wedge Co-op to Herbivorous Butcher, Trader Joe's, and Whole Foods. Where to buy vegan staples, specialty items, and local plant-based brands in the Twin Cities.",
+    publishedAt: "2026-02-25",
+    updatedAt: "2026-02-25",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan grocery stores minneapolis", "minneapolis vegan grocery", "vegan shopping minneapolis", "seward co-op vegan", "minneapolis co-op vegan", "plant-based grocery minneapolis", "vegan stores minneapolis", "vegan food minneapolis"],
+    readingTime: "8 min read",
+    tldr: "Best vegan grocery stores in Minneapolis: Seward Co-op (the anchor of the Twin Cities natural food scene, two locations), Wedge Community Co-op (Lyn-Lake, massive bulk section), Herbivorous Butcher (NE Minneapolis, 100% vegan specialty meats and cheeses), Trader Joe's (best everyday value for vegan staples), and Linden Hills Co-op (South Minneapolis neighborhood anchor). Mississippi Market Co-op covers St. Paul.",
+    faqs: [
+      {
+        question: "What are the best vegan grocery stores in Minneapolis?",
+        answer: "The best vegan grocery stores in Minneapolis are: Seward Co-op (Franklin Ave SE — the Twin Cities' original natural food anchor with exceptional vegan selection), Wedge Community Co-op (Lyndale Ave S in Lyn-Lake, massive bulk section and local brands), Herbivorous Butcher (507 1st Ave NE — specialty 100% vegan meats, cheeses, and deli), Linden Hills Co-op (South Minneapolis neighborhood co-op), and Trader Joe's (multiple locations, best everyday vegan value). For St. Paul, Mississippi Market Co-op on Grand Ave is the top pick."
+      },
+      {
+        question: "Is Seward Co-op good for vegans?",
+        answer: "Yes — Seward Co-op is one of the best grocery stores in the country for vegans. The Franklin Ave SE location has an extensive bulk section with grains, legumes, nuts, and seeds; a deli with rotating vegan hot food and grab-and-go options; a large supplement and personal care section with vegan-certified products; and strong local and regional brand selection. All products are clearly labeled with vegan, gluten-free, and organic icons. They also have a second location on Franklin Ave NE."
+      },
+      {
+        question: "Where can I buy vegan meat and cheese in Minneapolis?",
+        answer: "Herbivorous Butcher (507 1st Ave NE, Northeast Minneapolis) is the top destination for specialty vegan meats and cheeses in Minneapolis — it's a 100% vegan butcher and deli with house-made products like smoked gouda, pepperoni, chicken strips, and pulled pork. For more accessible options, Seward Co-op and Wedge Co-op carry the widest selection of brand-name vegan meats (Impossible, Beyond, Field Roast, Tofurky) and cheeses (Violife, Miyoko's, Kite Hill). Whole Foods also has a strong vegan deli selection."
+      },
+      {
+        question: "Does Trader Joe's in Minneapolis have good vegan options?",
+        answer: "Yes — Trader Joe's is one of the best value options for vegan grocery shopping in Minneapolis. They carry a wide range of affordable vegan staples including plant-based milks, vegan cheeses (shredded mozzarella, sliced cheddar, cream cheese), vegan proteins (breaded chicken tenders, gyoza, soyrizo), frozen meals, and an excellent snack selection. Their store-brand prices are hard to beat. Minneapolis has multiple Trader Joe's locations including Uptown (1769 W Lake St), St. Louis Park, Woodbury, and others."
+      },
+      {
+        question: "Are Minneapolis co-ops expensive for vegan shopping?",
+        answer: "Co-ops in Minneapolis are generally priced 10-30% higher than conventional grocery stores for packaged items, but their bulk sections often offer better value than comparable packaged products at Whole Foods or specialty stores. If you're on a budget, use the co-ops for specialty items, local brands, and bulk grains/legumes — and shop Trader Joe's or ALDI for everyday staples like plant milk, canned beans, and frozen vegetables. Most co-ops also have member programs that offer modest discounts on regular purchases."
+      },
+      {
+        question: "What is the best grocery store for vegan staples in Minneapolis?",
+        answer: "For everyday vegan staples (plant milk, canned beans, tofu, frozen vegetables, pasta, snacks), Trader Joe's offers the best combination of price and quality in Minneapolis. For fresh produce and bulk items, Seward Co-op or Wedge Co-op. For specialty vegan meats and cheeses, Herbivorous Butcher. For the largest overall natural foods selection, Whole Foods Market in St. Louis Park. Most vegan Minneapolitans shop at a combination of 2-3 stores depending on what they're looking for."
+      }
+    ],
+    relatedRestaurants: ["herbivorous-butcher", "seward-cafe", "wedge-table", "vegan-east-bakery"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-food-minneapolis", "vegan-brunch-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: `
+## Vegan Grocery Shopping in Minneapolis: The Full Guide
+
+Minneapolis has one of the best vegan grocery ecosystems in the Midwest — anchored by a co-op culture that goes back to the 1970s and accelerated by a food scene that takes plant-based cooking seriously. Whether you're looking for bulk grains, specialty vegan meats, local brands, or just the cheapest possible plant milk, this guide covers every store worth knowing about.
+
+---
+
+## 🌿 The Co-ops: The Heart of MPLS Vegan Grocery Culture
+
+Minneapolis's co-op scene is genuinely exceptional. These are member-owned grocery stores that have been championing organic, local, and plant-forward food long before it was mainstream.
+
+### 1. Seward Co-op — The Anchor
+
+**Two locations:** 2823 E Franklin Ave (Seward) + 317 E 38th St (Minnehaha)
+
+Seward Co-op is the original. It's been in the Seward neighborhood since 1972 and has grown into one of the best natural food stores in the country. For vegans, it checks every box:
+
+- **Bulk section:** Massive selection of grains, legumes, nuts, seeds, flours, spices, and nutritional yeast by the pound
+- **Produce:** Local and organic priority, excellent selection year-round
+- **Deli:** Rotating vegan hot food (soups, grain bowls, curries), vegan grab-and-go sandwiches and salads
+- **Vegan labels:** All products are icon-labeled — vegan, gluten-free, organic, local — so you never have to guess
+- **Local brands:** Strong selection of Minnesota and regional vegan producers
+- **Refrigerated section:** Comprehensive vegan meat, cheese, and dairy alternatives
+- **Personal care:** Vegan-certified toiletries, supplements, and household products
+
+The Minnehaha location (38th & 4th Ave area) opened in 2015 and serves the south Minneapolis corridor. Both locations are excellent; the Franklin Ave original is slightly larger.
+
+**Member savings:** $15 one-time membership fee gives you access to member deals. Worth it if you shop here regularly.
+
+---
+
+### 2. Wedge Community Co-op — Best Bulk Section
+
+**2105 Lyndale Ave S (Lyn-Lake / Uptown adjacent)**
+
+The Wedge is the Uptown/Lyn-Lake neighborhood co-op, and its bulk section is arguably the best in the city — more variety than even Seward for dry goods. The Wedge has been in the neighborhood since 1974 and is a pillar of the vegan food scene.
+
+**Why vegans love the Wedge:**
+- Bulk bins with 200+ options including specialty items like black sesame seeds, hemp hearts, and unusual grains
+- Strong local produce sourcing (partnerships with Minnesota farms)
+- Excellent vegan deli with daily rotating specials
+- Wide selection of vegan cheeses (Violife, Miyoko's, Kite Hill, Treeline, and smaller brands)
+- Beer and wine with vegan filtering info
+
+The Wedge is walkable from most of Uptown and all of Lyn-Lake, making it a convenient daily-use store.
+
+---
+
+### 3. Linden Hills Co-op — South Minneapolis Neighborhood Anchor
+
+**2 Coops: 2 locations — Linden Hills (43rd & Upton SW) and Plymouth**
+
+Linden Hills Co-op is smaller and more neighborhood-focused than Seward or the Wedge, but it's an excellent local option for South Minneapolis vegans. Good produce, solid vegan selection, and a community feel. If you live in the Linden Hills, Fulton, or Lynnhurst neighborhoods, this is your go-to.
+
+---
+
+### 4. Mississippi Market — St. Paul's Co-op Anchor
+
+**Two St. Paul locations:** 622 Selby Ave (Cathedral Hill) + 1500 W 7th St (West 7th)
+
+If you're on the St. Paul side of the river, Mississippi Market is the equivalent of Seward Co-op. Excellent bulk section, strong vegan selection, and the same member-owned ethos. The Selby Ave location is the original and slightly larger.
+
+---
+
+## 🥩 Specialty Vegan: Herbivorous Butcher
+
+**507 1st Ave NE, Northeast Minneapolis**
+
+Herbivorous Butcher deserves its own category. It's a 100% vegan butcher shop and deli run by siblings Aubry and Kale Walch — the first vegan butcher shop in the country. Everything is made in-house:
+
+- Vegan "meats": smoked gouda-stuffed sausage, pepperoni, pulled pork, fried chicken strips, Italian sausage, capicola
+- Vegan "cheeses": smoked gouda, sharp cheddar, brie, cream cheese, queso
+- Deli sandwiches and grab-and-go items
+- Wholesale to local restaurants (you'll recognize their products on several MPLS menus)
+
+This is the destination for specialty vegan proteins and cheeses. Prices are higher than grocery stores (these are handmade artisan products), but the quality is exceptional. The Northeast location is open Tuesday–Saturday.
+
+**Also ships nationally** via their website if you're reading this from outside the Twin Cities.
+
+---
+
+## 🛒 Conventional Stores: Best Value Options
+
+### Trader Joe's — Best Everyday Value
+
+**Multiple MPLS-area locations:** Uptown (1769 W Lake St), St. Louis Park, Woodbury, Minnetonka, Maple Grove
+
+Trader Joe's punches above its weight for vegan shopping. Their store-brand products are remarkably affordable:
+
+| Category | Top Picks | Price Range |
+|----------|-----------|-------------|
+| Plant milk | Oat milk, almond milk, coconut milk | $2.49–$3.49 |
+| Vegan cheese | Shredded mozzarella, sliced cheddar, cream cheese | $3.49–$4.49 |
+| Frozen protein | Breaded chick'n tenders, mandarin orange chicken (vegan), soyrizo | $3.99–$5.99 |
+| Snacks | Everything bagel seasoning, lentil chips, dried mango | $2–$4 |
+| Pantry | Canned chickpeas, lentils, coconut milk, pasta | $0.89–$1.99 |
+
+The Uptown location is the busiest and occasionally runs out of popular items by late week. The St. Louis Park location tends to have more consistent stock.
+
+---
+
+### Whole Foods Market
+
+**St. Louis Park (1001 W Highway 7) + Minnetonka (2195 Ridgedale Dr)**
+
+Whole Foods has the largest conventional selection of vegan meats, cheeses, and specialty products in the Twin Cities — including brands you won't find elsewhere. The hot bar and prepared foods section typically has 3-5 clearly labeled vegan options daily. Prices are higher across the board, but for specific brands (Miyoko's, Siete, Forager) it's often the most reliable local source.
+
+**Prime members:** 10% off weekly deals + additional Prime-exclusive discounts.
+
+---
+
+### ALDI — Hidden Gem for Vegan Budget Shopping
+
+**Multiple MPLS-area locations**
+
+ALDI's vegan selection has improved dramatically in recent years. Their private-label plant milks, canned beans, and frozen vegetables are priced 30-50% below comparable products at Trader Joe's or Whole Foods. Not every location carries the same items, but ALDI is worth adding to your rotation for budget staples.
+
+---
+
+### Fresh Thyme Market
+
+**Edina (7200 France Ave S) + Maple Grove + Coon Rapids**
+
+Fresh Thyme sits between conventional grocery stores and full natural foods stores. Good selection of vegan proteins, cheeses, and supplements at prices slightly below Whole Foods. Their weekly sales often feature strong vegan deals.
+
+---
+
+## 🗺️ Where to Shop: MPLS Vegan Grocery by Neighborhood
+
+| Your Neighborhood | Best Nearby Options |
+|------------------|---------------------|
+| **Uptown / Lyn-Lake** | Wedge Co-op (walkable), Trader Joe's (W Lake St) |
+| **Seward / Longfellow** | Seward Co-op (home base), Minnehaha Seward location |
+| **Northeast** | Herbivorous Butcher, Seward Co-op NE |
+| **South Minneapolis** | Linden Hills Co-op, Seward Minnehaha location |
+| **Midtown / Lake St corridor** | Wedge Co-op, ALDI (budget), Seward Co-op |
+| **Downtown** | Whole Foods (drive SLP), Target downtown (basics) |
+| **St. Paul** | Mississippi Market (Cathedral Hill or West 7th) |
+| **Suburbs** | Trader Joe's + Fresh Thyme (most suburbs) |
+
+---
+
+## Shopping Strategy: What to Buy Where
+
+Most Minneapolis vegans shop at 2-3 stores. Here's how to think about it:
+
+**Seward Co-op or Wedge:** Bulk grains, legumes, specialty flours, local produce, vegan deli items, unique local brands  
+**Trader Joe's:** Everyday plant milks, budget vegan cheese, frozen proteins, pantry staples, snacks  
+**Herbivorous Butcher:** Specialty event cooking, when you want something impressive, local gifts  
+**Whole Foods:** Specific brands not available elsewhere, prime-sale deals, hot bar lunch  
+**ALDI:** Budget staples, plant milks, canned goods, frozen vegetables
+
+---
+
+## Local Minneapolis Vegan Brands to Look For
+
+Shopping at Twin Cities co-ops means access to local producers you won't find at national chains:
+
+- **Herbivorous Butcher** — vegan meats and cheeses (also at some co-ops)
+- **Hope Creamery** — not vegan, but co-ops often stock excellent local products adjacent to vegan sections
+- **Elden's Fresh Foods** (regional)
+- **Hmong Village Market** (St. Paul) — fresh produce, herbs, unique ingredients for Southeast Asian vegan cooking
+
+---
+
+## Final Word: Co-op Culture Is the Vegan Secret Weapon
+
+What makes Minneapolis's vegan grocery scene unusual is that the co-ops aren't niche — they're neighborhood institutions. Seward Co-op has 14,000+ member-owners. The Wedge has been on Lyndale Avenue for 50 years. These stores make finding vegan food easy not because they're targeting vegans, but because their entire ethos is aligned: local, organic, thoughtful sourcing. For vegans new to Minneapolis, joining a co-op is step one.
+
+Browse our full [Minneapolis vegan restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026) to pair your grocery haul with the best plant-based dining in the city.
+`
   }
 ];
 
