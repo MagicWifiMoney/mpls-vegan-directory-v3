@@ -6249,7 +6249,7 @@ If you're making a vegan food tour of Minneapolis, hit Northeast in the afternoo
 
 See our full [Minneapolis Vegan Restaurant Guide](/blog/best-vegan-restaurants-minneapolis-2026) for the city-wide top picks.
 `
-  }
+  },
   {
     slug: "vegan-food-trucks-twin-cities-2026",
     title: "Best Vegan Food Trucks in the Twin Cities (2026 Season Guide)",
