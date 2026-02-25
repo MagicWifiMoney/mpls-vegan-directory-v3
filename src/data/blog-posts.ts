@@ -2651,7 +2651,7 @@ Happy dating. 🌱💚
       }
     ],
     relatedRestaurants: ["herbivorous-butcher", "francis-burger-joint", "masu-sushi", "brasa-premium-rotisserie"],
-    relatedPosts: ["vegan-food-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-brunch-minneapolis", "ethiopian-vegan-food-minneapolis"],
+    relatedPosts: ["north-loop-vegan-guide", "vegan-food-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-bars-minneapolis"],
     content: `
 ## A Walking Tour of Northeast Minneapolis' Best Vegan Spots
 
@@ -5923,7 +5923,7 @@ French Meadow has been Minneapolis's organic food standard since 1985. The baker
       }
     ],
     relatedRestaurants: ["reverie-cafe-bar", "francis-burger-joint", "seward-cafe", "common-roots-cafe"],
-    relatedPosts: ["late-night-vegan-food-minneapolis", "vegan-date-night-minneapolis", "vegan-restaurants-uptown-minneapolis", "northeast-minneapolis-vegan-guide", "best-vegan-restaurants-minneapolis-2026"],
+    relatedPosts: ["north-loop-vegan-guide", "late-night-vegan-food-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "best-vegan-restaurants-minneapolis-2026"],
     content: `# Best Vegan Bars & Happy Hour Spots in Minneapolis (2026 Guide) 🍺
 
 Minneapolis has a genuinely thriving vegan restaurant scene — but what about after dinner? Whether you're looking for a full vegan bar where you don't have to decode the menu, a craft brewery with plant-based snacks, or just want to know which cocktails are actually vegan, this guide covers it all.
@@ -6069,6 +6069,185 @@ You don't have to limit yourself to the fully vegan spots. Here's how to navigat
 **For a Minneapolis institution:** Seward Cafe — the original.
 
 Minneapolis is one of the best cities in the Midwest for vegan nightlife. You're not limited to sparkling water and a side salad anymore.
+`
+  },
+  {
+    slug: "north-loop-vegan-guide",
+    title: "North Loop Vegan Guide: Best Plant-Based Restaurants in Minneapolis's Coolest Neighborhood",
+    description: "Your complete guide to vegan dining in Minneapolis's North Loop — from 100% vegan smash burgers to coal-fired pizza and authentic ramen. Everything plant-based in the Warehouse District.",
+    publishedAt: "2026-02-24",
+    updatedAt: "2026-02-24",
+    author: "Mia & Jay",
+    category: "Neighborhood Guide",
+    tags: ["north loop vegan", "vegan restaurants north loop minneapolis", "warehouse district vegan", "north loop minneapolis food", "vegan minneapolis neighborhoods"],
+    readingTime: "7 min read",
+    tldr: "North Loop's best vegan spots: Francis Burger Joint (#1 — 100% vegan smash burgers, loaded fries, and a full bar — the anchor of plant-based dining in the Warehouse District), Tori Ramen (North Loop ramen bar with a stellar veggie broth ramen), and Black Sheep Coal-Fire Pizza (coal-fired crusts + Daiya vegan cheese available). The neighborhood is walkable, close to Target Field, and has excellent vegan cocktail options at Francis and the surrounding craft cocktail scene.",
+    faqs: [
+      {
+        question: "Are there vegan restaurants in North Loop Minneapolis?",
+        answer: "Yes — North Loop has some of Minneapolis's best vegan dining. The standout is Francis Burger Joint at 215 N 1st St, a 100% vegan bar and restaurant with smash burgers, loaded fries, Nashville-style 'chicken' tenders, and a full bar with beer, wine, and cocktails. Tori Ramen on Washington Ave has an excellent veggie ramen made with mushroom broth, and Black Sheep Coal-Fire Pizza has vegan cheese options for their wood-fired pies."
+      },
+      {
+        question: "What is the best vegan restaurant in North Loop Minneapolis?",
+        answer: "Francis Burger Joint (215 N 1st St, North Loop) is the best vegan restaurant in the area — and one of the best in Minneapolis. It's 100% vegan with a casual sports bar vibe: smash burgers, Nashville-style tenders, loaded fries, and a full tap list. Nothing on the menu contains animal products, so you can order freely without interrogating the kitchen. Open daily for lunch and dinner."
+      },
+      {
+        question: "Is North Loop Minneapolis walkable for vegan dining?",
+        answer: "Very walkable. Francis Burger Joint, Tori Ramen, and Black Sheep Pizza are all within a 10-minute walk of each other in the North Loop/Warehouse District area. The neighborhood is flat, well-lit, and dense with restaurants — easy to hop between spots. It's also walking distance from Target Field, the Mississippi River Parkway, and the Guthrie Theater."
+      },
+      {
+        question: "Is North Loop or Northeast Minneapolis better for vegans?",
+        answer: "Both neighborhoods are great, but they offer different experiences. Northeast Minneapolis (NE) has the Herbivorous Butcher — America's first vegan butcher shop — making it a destination for serious plant-based food lovers. North Loop is more bar-forward, with Francis Burger Joint as the anchor and a stronger nightlife scene. For a food tour, do NE during the day (Herbivorous Butcher + Masu) and North Loop in the evening (Francis + cocktails)."
+      },
+      {
+        question: "Can I get vegan pizza in North Loop Minneapolis?",
+        answer: "Yes — Black Sheep Coal-Fire Pizza in North Loop offers vegan cheese (Daiya) on their coal-fired pies. Build your own with vegan cheese + vegetable toppings. The coal-fired crust is naturally vegan and has a great char. Note: call ahead to confirm vegan cheese availability, as it can sell out on busy weekends."
+      },
+      {
+        question: "What is there to do in North Loop Minneapolis besides eat?",
+        answer: "North Loop (aka the Warehouse District) is Minneapolis's most design-forward neighborhood. Visit the Guthrie Theater for world-class productions, walk the Stone Arch Bridge over the Mississippi River, explore independent shops and galleries along Washington Ave, or catch a Minnesota Twins game at Target Field (just a few blocks away). The neighborhood has excellent cocktail bars, coffee shops, and boutiques — easy to make a full day of it."
+      }
+    ],
+    relatedRestaurants: ["francis-burger-joint", "tori-ramen", "black-sheep-pizza"],
+    relatedPosts: ["northeast-minneapolis-vegan-guide", "vegan-restaurants-downtown-minneapolis", "vegan-bars-minneapolis", "late-night-vegan-food-minneapolis", "best-vegan-restaurants-minneapolis-2026"],
+    content: `# North Loop Vegan Guide: Best Plant-Based Restaurants in Minneapolis's Coolest Neighborhood
+
+The North Loop — Minneapolis's Warehouse District — is the city's most stylish neighborhood. Converted industrial buildings, independent boutiques, James Beard-nominated restaurants, and some of the best cocktail bars in the Midwest. And if you're eating plant-based? You have options.
+
+This guide covers every vegan-friendly spot in the North Loop, from the 100% vegan bar that's become a neighborhood institution to the ramen counter and coal-fired pizza spot that accommodate plant-based diners better than most.
+
+---
+
+## 🏆 The Anchor: 100% Vegan in the North Loop
+
+### 1. Francis Burger Joint — The North Loop's Vegan Flagship
+**215 N 1st St, Minneapolis · 100% Vegan · Sports Bar Vibes · ⭐ 4.7**
+
+If you eat plant-based in Minneapolis, you already know Francis. If you don't — pay attention.
+
+Francis Burger Joint is a **100% vegan bar and restaurant** in the heart of the North Loop. Every single item on the menu — burgers, fries, tenders, wings, sauces, drinks — is entirely plant-based. No asterisks, no "ask your server," no hidden dairy. Just order what looks good.
+
+**The Menu Highlights:**
+
+| Item | The Breakdown |
+|------|--------------|
+| **Francis Smash Burger** | Double smashed patties, special sauce, pickles, onion — the flagship. Crispy edges, juicy center. |
+| **Juicy Lucy** | Cheese-stuffed smash patty. The Minneapolis classic, done vegan. Order it. |
+| **Nashville Tender Basket** | Crispy plant-based tenders, hot sauce, pickles, comeback sauce. Aggressively good. |
+| **Loaded Fries** | Crispy fries, vegan cheese sauce, jalapeños, green onions, sour cream. A full meal. |
+| **Buffalo Wings** | Cauliflower or plant-based — sauced and served with vegan ranch. Satisfying bar food. |
+
+**The Bar:** Francis runs a full bar — local craft beer, wine, cocktails, mocktails. Happy hour runs weekdays; check their social for current specials.
+
+**The Vibe:** Sports on TV. Loud. Fun. Totally unpretentious. You'll be sitting next to a table of meat-eaters who have no idea — or don't care — that everything is vegan. That's the goal.
+
+> 💡 **Pro tip:** Francis gets busy on Friday and Saturday nights. Arrive by 6:30 PM or expect a wait. They don't take reservations.
+
+---
+
+## 🍜 The Ramen Counter: Veggie Done Right
+
+### 2. Tori Ramen — Authentic Japanese, Vegan-Friendly
+**Washington Ave N, North Loop · Japanese Ramen · $$**
+
+Tori Ramen is the North Loop's ramen counter — warm, efficient, and genuinely good at accommodating plant-based diners. Their **Veggie Ramen** is the move: a rich mushroom-based broth (built from kombu, dried shiitake, and mirepoix), ramen noodles, roasted king trumpet mushrooms, menma (bamboo shoots), nori, soft-boiled egg (sub tofu), and green onion.
+
+**What to Order:**
+- **Veggie Ramen** — Ask for the tofu egg substitute (they do it). The mushroom broth is layered and umami-forward — not an afterthought.
+- **Add-ons:** Extra king trumpet mushrooms, extra nori, extra menma — all vegan
+- **Gyoza:** Verify vegan status — the pork version is not, but ask about vegetable gyoza availability
+
+**The Vibe:** Counter seating, open kitchen, fast-casual energy. Perfect for a solo lunch or a quick dinner before a show at the Guthrie.
+
+> 💡 **Tip:** Go weekday lunch for the shortest wait. Weekend evenings fill up fast.
+
+---
+
+## 🍕 The Pizza Stop: Coal-Fired Vegan Crust
+
+### 3. Black Sheep Coal-Fire Pizza — The Vegan Pie
+**600 Washington Ave N, North Loop · Coal-Fired Pizza · $$**
+
+Black Sheep is the North Loop's coal-fired pizza institution. Their 900-degree coal ovens produce a crust that's blistered, leopard-spotted, and naturally vegan — no eggs, no dairy in the dough. Add vegan cheese (Daiya, available by request) and load up on plant-based toppings.
+
+**Vegan-Friendly Build:**
+- **Crust:** All crusts are vegan (just flour, water, yeast, salt)
+- **Sauce:** Tomato sauce is vegan — confirm oil-based white sauces
+- **Vegan Cheese:** Ask for Daiya ($3 upcharge) — call ahead on weekends to confirm availability
+- **Toppings to stack:** Roasted garlic, hot honey (note: contains honey, skip if strict), mushrooms, roasted peppers, olives, caramelized onions, arugula
+
+**Best Order:** Tomato sauce + Daiya + mushroom + roasted garlic + arugula. Finished in 90 seconds under coal heat.
+
+**The Vibe:** Dark, lively, great for date night. Strong wine list and craft cocktails. Louder than you'd expect — reserve in advance on weekends.
+
+---
+
+## 🌮 More North Loop Vegan Options
+
+### Spoon & Stable — For the Fancy Night
+**211 N 1st St · Upscale American · $$$-$$$$**
+
+James Beard-nominated chef Gavin Kaysen's flagship. Not vegan-focused, but their vegetable sides and salads are extraordinary — roasted beet preparations, wood-roasted carrots, grain salads. Tell them you're vegan; the kitchen accommodates. Great for a special occasion.
+
+> Best move: Call ahead, explain you're vegan, and ask what's possible that evening. They've surprised guests with full vegan tasting menus with advance notice.
+
+### Target Field / Warehouse District Food Halls
+For quick grab-and-go near Target Field, look for pop-ups and food hall vendors. Quality varies — Francis Burger Joint is always the safe play if you want guaranteed vegan.
+
+---
+
+## 🗺️ North Loop Vegan Itinerary: Make a Day of It
+
+| Time | What to Do |
+|------|-----------|
+| **10:00 AM** | Coffee at one of the North Loop's indie coffee shops (black coffee is always vegan) |
+| **12:00 PM** | Lunch at Tori Ramen — Veggie Ramen + gyoza |
+| **2:00 PM** | Explore Washington Ave boutiques, galleries, and design shops |
+| **4:00 PM** | Walk to the Stone Arch Bridge overlook — stunning Mississippi River views |
+| **5:30 PM** | Happy hour at Francis Burger Joint — drinks + loaded fries |
+| **7:00 PM** | Dinner at Francis or grab a coal-fired pie at Black Sheep |
+| **9:00 PM** | Cocktails at a North Loop bar — most spirits are vegan, most cocktail bars can make plant-based drinks |
+
+---
+
+## 🏠 The Neighborhood: What to Know
+
+**North Loop at a Glance:**
+- **Also called:** The Warehouse District
+- **Character:** Design-forward, creative, urban — converted industrial warehouses turned into restaurants, boutiques, and studios
+- **Parking:** Street parking (meters until 10 PM) + ramps on 1st Ave N and near Target Field
+- **Transit:** Metro Green Line + multiple bus routes; walkable from downtown
+- **Walkability:** Excellent — flat, well-lit, dense with destinations
+- **Best for:** Couples, friend groups, post-work dinners, pre-show dining (Guthrie Theater is close), game day eating (Target Field)
+
+**The Vegan Landscape:** North Loop is anchored by Francis Burger Joint — Minneapolis's most popular vegan restaurant and one of the best in the Midwest. Beyond Francis, several restaurants accommodate vegans well. The neighborhood skews upscale, so expect "plant-forward" menus rather than dedicated vegan concepts (except Francis).
+
+---
+
+## How North Loop Compares to Other Minneapolis Vegan Neighborhoods
+
+| Neighborhood | Top Vegan Spot | Vibe | Best For |
+|-------------|---------------|------|---------|
+| **North Loop** | Francis Burger Joint | Bar & nightlife | Evenings, date night, sports |
+| **Northeast** | Herbivorous Butcher | Artsy & foodie | Daytime food tours |
+| **Uptown** | Amazing Thailand / Reverie | Eclectic, neighborhood | Brunch, casual dinner |
+| **Downtown** | Lulu EthioVegan | Fast-casual, diverse | Weekday lunch |
+| **Lyn-Lake** | Peninsula Malaysian / French Meadow | Cafe, international | Weekend brunch, dinner |
+
+---
+
+## The Bottom Line
+
+North Loop is the best neighborhood in Minneapolis for vegan *nightlife* — and Francis Burger Joint is the reason. It's the rare 100% vegan bar where non-vegans don't notice (or don't care), which makes it perfect for mixed groups. Add Tori Ramen for weekday lunch and Black Sheep for pizza night, and you have a neighborhood that works for plant-based dining throughout the week.
+
+If you're making a vegan food tour of Minneapolis, hit Northeast in the afternoon (Herbivorous Butcher + Masu) and end your night in the North Loop (Francis + cocktails). That's the play.
+
+**The North Loop vegan hit list:**
+1. ✅ Francis Burger Joint — 100% vegan, any night of the week
+2. ✅ Tori Ramen — Veggie Ramen, weekday lunch
+3. ✅ Black Sheep Pizza — vegan cheese on coal-fired crust, call ahead
+
+See our full [Minneapolis Vegan Restaurant Guide](/blog/best-vegan-restaurants-minneapolis-2026) for the city-wide top picks.
 `
   }
 ];

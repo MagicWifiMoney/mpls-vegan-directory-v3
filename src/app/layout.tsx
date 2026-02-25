@@ -18,8 +18,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Minneapolis Vegan Restaurant Guide & Directory | 50+ Plant-Based Spots",
-  description: "Your complete local guide to vegan & vegetarian restaurants in Minneapolis & Twin Cities — 50+ plant-based spots, real reviews, hours & must-try dishes. Browse by neighborhood. Updated 2026.",
+  title: "Minneapolis Vegan Restaurants Local Guide 2026 | 75+ Plant-Based Spots",
+  description: "The #1 local guide to vegan & vegetarian restaurants in Minneapolis — 75+ plant-based spots with real reviews, hours, must-try dishes & neighborhood maps. Uptown, Northeast, Downtown & more. Updated 2026.",
   keywords: [
     "vegan restaurants Minneapolis",
     "plant-based Minneapolis",
@@ -44,8 +44,8 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Minneapolis Vegan Restaurant Guide & Directory | 50+ Plant-Based Spots",
-    description: "Your complete local guide to vegan restaurants in Minneapolis & Twin Cities — 50+ plant-based spots, real reviews, hours & must-try dishes. Updated 2026.",
+    title: "Minneapolis Vegan Restaurants Local Guide 2026 | 75+ Plant-Based Spots",
+    description: "The #1 local guide to vegan restaurants in Minneapolis — 75+ plant-based spots with real reviews, hours & neighborhood maps. Updated 2026.",
     url: 'https://mplsvegan.com',
     siteName: "Minneapolis Vegan Directory",
     locale: 'en_US',
@@ -61,8 +61,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Minneapolis Vegan Restaurant Guide & Directory 2026",
-    description: "Complete local guide to 50+ vegan & plant-based restaurants in Minneapolis & Twin Cities. Browse by neighborhood.",
+    title: "Minneapolis Vegan Restaurants Local Guide 2026 | 75+ Spots",
+    description: "The #1 local guide to 75+ vegan & plant-based restaurants in Minneapolis. Real reviews, hours & neighborhood maps. Updated 2026.",
     images: ['/og-image.png'],
   },
   robots: {
