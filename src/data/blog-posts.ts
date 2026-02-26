@@ -4105,8 +4105,8 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
   },
   {
     slug: "best-vegan-pizza-minneapolis",
-    title: "Best Vegan Pizza in Minneapolis: Every Slice Ranked",
-    description: "We ate vegan pizza at every spot in Minneapolis so you don't have to guess. Here's exactly where to go for the best vegan pizza in 2026—from coal-fired to delivery.",
+    title: "Best Vegan Pizza in Minneapolis (2026 Guide)",
+    description: "Looking for the best vegan pizza in Minneapolis? Here are our top picks for dairy-free, plant-based pizza that actually delivers.",
     publishedAt: "2026-02-17",
     updatedAt: "2026-02-17",
     author: "Mia & Jay",
