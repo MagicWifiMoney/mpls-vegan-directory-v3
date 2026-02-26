@@ -4105,8 +4105,8 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
   },
   {
     slug: "best-vegan-pizza-minneapolis",
-    title: "Best Vegan Pizza in Minneapolis (2026 Guide)",
-    description: "Looking for the best vegan pizza in Minneapolis? Here are our top picks for dairy-free, plant-based pizza that actually delivers.",
+    title: "Best Vegan Pizza Near Me in Minneapolis (2026) — 9 Spots Ranked",
+    description: "Looking for vegan pizza near you in Minneapolis? We ranked 9 dairy-free, plant-based pizza spots — Pizza Lucé, Black Sheep, Galactic Pizza & more. Updated 2026.",
     publishedAt: "2026-02-17",
     updatedAt: "2026-02-17",
     author: "Mia & Jay",

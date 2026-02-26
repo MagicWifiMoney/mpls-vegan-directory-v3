@@ -18,10 +18,13 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Minneapolis Vegan Restaurants Local Guide 2026 | 75+ Plant-Based Spots",
-  description: "The #1 local guide to vegan & vegetarian restaurants in Minneapolis — 75+ plant-based spots with real reviews, hours, must-try dishes & neighborhood maps. Uptown, Northeast, Downtown & more. Updated 2026.",
+  title: "Twin Cities Vegan Restaurant Directory | Minneapolis & St. Paul 2026 | 75+ Spots",
+  description: "The Twin Cities vegan restaurant directory — 75+ plant-based spots in Minneapolis & St. Paul with real reviews, hours, must-try dishes & neighborhood maps. The best vegan food website for Minneapolis. Updated 2026.",
   keywords: [
     "vegan restaurants Minneapolis",
+    "Twin Cities vegan restaurants directory",
+    "vegan restaurants directory Minneapolis",
+    "best vegan food websites minneapolis",
     "plant-based Minneapolis",
     "vegan Saint Paul",
     "Twin Cities vegan",
@@ -44,8 +47,8 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Minneapolis Vegan Restaurants Local Guide 2026 | 75+ Plant-Based Spots",
-    description: "The #1 local guide to vegan restaurants in Minneapolis — 75+ plant-based spots with real reviews, hours & neighborhood maps. Updated 2026.",
+    title: "Twin Cities Vegan Restaurant Directory | Minneapolis & St. Paul 2026 | 75+ Spots",
+    description: "The Twin Cities vegan restaurant directory — 75+ plant-based spots in Minneapolis & St. Paul with real reviews, hours & neighborhood maps. Updated 2026.",
     url: 'https://mplsvegan.com',
     siteName: "Minneapolis Vegan Directory",
     locale: 'en_US',
