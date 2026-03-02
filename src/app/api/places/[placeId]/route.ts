@@ -1,19 +1,21 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getYelpData } from '@/lib/yelp';
 import { extractPopularItems } from '@/lib/gemini';
 import { restaurants } from '@/data/restaurants';
+import placesCache from '@/data/places-cache.json';
 
-// Cache place details for 24 hours
-const cache = new Map<string, { data: PlaceDetails; timestamp: number }>();
-const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours
-const CACHE_VERSION = 'v4'; // Increment to invalidate all caches
-
-interface PlaceDetails {
+// Typed cache structure
+interface CacheEntry {
+  placeId: string;
+  restaurantId?: string;
+  restaurantName?: string;
+  _fetchedAt: string;
   rating?: number;
   userRatingsTotal?: number;
   openingHours?: string[];
   openNow?: boolean;
-  photos?: string[];
+  formattedPhoneNumber?: string;
+  googleMapsUrl?: string;
+  photoReferences?: string[];
   reviews?: Array<{
     author_name: string;
     rating: number;
@@ -21,24 +23,28 @@ interface PlaceDetails {
     time: number;
     profile_photo_url: string;
   }>;
-  popularItems?: string[];
-  // Yelp data
   yelp?: {
+    yelpId?: string;
     rating?: number;
     reviewCount?: number;
+    yelpUrl?: string;
     photos?: string[];
+    openNow?: boolean;
     reviews?: Array<{
-      author_name: string;
+      author_name?: string;
       rating: number;
       text: string;
       time: string;
-      profile_photo_url: string;
-      url: string;
+      url?: string;
     }>;
-    yelpUrl?: string;
-    openNow?: boolean;
-  };
+  } | null;
 }
+
+const typedCache = placesCache as Record<string, CacheEntry>;
+
+// In-memory cache for popular items (Gemini extraction — expensive)
+const popularItemsCache = new Map<string, { items: string[]; timestamp: number }>();
+const POPULAR_ITEMS_CACHE_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
 
 export async function GET(
   request: NextRequest,
@@ -50,76 +56,86 @@ export async function GET(
     return NextResponse.json({ error: 'Place ID is required' }, { status: 400 });
   }
 
-  // Check cache first
-  const cacheKey = `${CACHE_VERSION}:${placeId}`;
-  const cached = cache.get(cacheKey);
-  if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
-    return NextResponse.json(cached.data, {
-      headers: {
-        'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200',
-      },
+  // Serve from static pre-fetched cache (refreshed weekly by cron)
+  const cached = typedCache[placeId];
+
+  if (!cached) {
+    // Not in cache — rare (new restaurant added since last prefetch)
+    // Fall back to live API call
+    const liveData = await fetchGooglePlacesLive(placeId);
+    return NextResponse.json(liveData, {
+      headers: { 'Cache-Control': 'public, s-maxage=3600, stale-while-revalidate=7200' },
     });
   }
 
-  // Find restaurant by place ID to get Yelp data
-  const restaurant = restaurants.find(r => r.googlePlaceId === placeId);
+  // Build photo URLs from stored photo references
+  const apiKey = process.env.GOOGLE_PLACES_API_KEY;
+  const photos = cached.photoReferences?.map(ref =>
+    `https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=${ref}&key=${apiKey}`
+  ) || [];
 
-  // Fetch Google Places data
-  const googleData = await fetchGooglePlaces(placeId);
-  
-  // Fetch Yelp data if we have restaurant info
-  let yelpData = null;
-  if (restaurant) {
-    yelpData = await getYelpData(
-      restaurant.name,
-      restaurant.address,
-      restaurant.city,
-      restaurant.state
-    );
+  // Extract popular items from reviews (cached — Gemini call is expensive)
+  let popularItems: string[] = [];
+  const popCached = popularItemsCache.get(placeId);
+  if (popCached && Date.now() - popCached.timestamp < POPULAR_ITEMS_CACHE_MS) {
+    popularItems = popCached.items;
+  } else {
+    const restaurant = restaurants.find(r => r.googlePlaceId === placeId);
+    const allReviews = [
+      ...(cached.reviews || []),
+      ...(cached.yelp?.reviews?.map(r => ({
+        author_name: r.author_name || '',
+        rating: r.rating,
+        text: r.text,
+        time: new Date(r.time).getTime() / 1000,
+        profile_photo_url: '',
+      })) || []),
+    ];
+    if (allReviews.length > 0) {
+      popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
+      popularItemsCache.set(placeId, { items: popularItems, timestamp: Date.now() });
+    }
   }
 
-  // Extract popular items from reviews (keyword-based)
-  const allReviews = [
-    ...(googleData.reviews || []),
-    ...(yelpData?.reviews || []),
-  ];
-  const popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
-
-  const placeDetails: PlaceDetails = {
-    ...googleData,
+  const response = {
+    rating: cached.rating,
+    userRatingsTotal: cached.userRatingsTotal,
+    openingHours: cached.openingHours,
+    openNow: cached.openNow,
+    photos,
+    reviews: cached.reviews,
     popularItems,
-    yelp: yelpData || undefined,
+    _cachedAt: cached._fetchedAt,
+    yelp: cached.yelp ? {
+      rating: cached.yelp.rating,
+      reviewCount: cached.yelp.reviewCount,
+      photos: cached.yelp.photos,
+      reviews: cached.yelp.reviews,
+      yelpUrl: cached.yelp.yelpUrl,
+      openNow: cached.yelp.openNow,
+    } : undefined,
   };
 
-  // Store in cache
-  cache.set(cacheKey, { data: placeDetails, timestamp: Date.now() });
-
-  return NextResponse.json(placeDetails, {
+  return NextResponse.json(response, {
     headers: {
-      'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200',
+      // Tell CDN to cache aggressively — data only changes weekly
+      'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=604800',
     },
   });
 }
 
-async function fetchGooglePlaces(placeId: string): Promise<Partial<PlaceDetails>> {
+// Fallback: live API call for restaurants not yet in the static cache
+async function fetchGooglePlacesLive(placeId: string): Promise<Partial<CacheEntry>> {
   const apiKey = process.env.GOOGLE_PLACES_API_KEY;
-
-  if (!apiKey) {
-    console.warn('Google Places API key not configured');
-    return {};
-  }
+  if (!apiKey) return {};
 
   try {
     const fields = 'rating,user_ratings_total,opening_hours,photos,reviews,current_opening_hours';
     const url = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=${fields}&key=${apiKey}`;
-
     const response = await fetch(url);
     const data = await response.json();
 
-    if (data.status !== 'OK') {
-      console.error('Google Places API error:', data.status, data.error_message);
-      return {};
-    }
+    if (data.status !== 'OK') return {};
 
     const result = data.result;
     return {
@@ -127,19 +143,10 @@ async function fetchGooglePlaces(placeId: string): Promise<Partial<PlaceDetails>
       userRatingsTotal: result.user_ratings_total,
       openingHours: result.opening_hours?.weekday_text,
       openNow: result.current_opening_hours?.open_now,
-      photos: result.photos?.slice(0, 10).map((photo: { photo_reference: string }) =>
-        `https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=${photo.photo_reference}&key=${apiKey}`
-      ),
-      reviews: result.reviews?.slice(0, 5).map((review: any) => ({
-        author_name: review.author_name,
-        rating: review.rating,
-        text: review.text,
-        time: review.time,
-        profile_photo_url: review.profile_photo_url,
-      })),
+      photoReferences: result.photos?.slice(0, 10).map((p: { photo_reference: string }) => p.photo_reference),
+      reviews: result.reviews?.slice(0, 5),
     };
-  } catch (error) {
-    console.error('Error fetching Google Places details:', error);
+  } catch {
     return {};
   }
 }

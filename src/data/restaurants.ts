@@ -1086,6 +1086,36 @@ export const restaurants: Restaurant[] = [
     bestFor: ['Date night', 'Late-night eats', 'Happy hour', 'Weekend brunch', 'Bar hopping with good food'],
     theVibe: "Moody, neighborhood-cool plant-based cafe and bar — the kind of place you stay at for three hours without noticing.",
     relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'vegan-brunch-minneapolis']
+  },
+  {
+    id: '54',
+    slug: 'heal-mpls',
+    name: 'Heal',
+    address: '4171 N Lyndale Ave',
+    city: 'Minneapolis',
+    state: 'MN',
+    zip: '55412',
+    phone: '(612) 354-7573',
+    website: 'https://www.healmpls.com/',
+    googlePlaceId: '',
+    cuisineType: ['Juice Bar', 'Cafe', 'Soul Food'],
+    veganStatus: '100% Vegan',
+    neighborhood: 'North Minneapolis',
+    neighborhoodSlug: 'north-minneapolis',
+    description: "Heal sits in a striking red-brick former bank building at 42nd Street and Lyndale Avenue in North Minneapolis, and the space feels every bit as intentional as its name. Owner Sierra Carter, a music executive and trained herbalist, opened the cafe as a community pop-up during the 2020 uprisings before turning it into a permanent fixture in 2021. The name is an acronym: herbs, eats, all love.\n\nThe menu draws on African diasporic flavors and Carter's Southern family roots. Tinga cabbage tacos, banana chia seed pudding, a Mississippi Bae Bowl with pan-fried catfish cakes (yes, truly plant-based), and fresh-pressed juices round out a menu that changes with what's in season and what's healing. Organic locally roasted coffee and custom-blended teas make Heal a strong morning anchor too.\n\nBeyond the food, the space functions as a healing center. An in-house apothecary stocks over 130 herbs for purchase. Books on self-help and wellness line the shelves. Goods from local Black makers fill the shop floor. A floor-to-ceiling tropical rainforest mural bathes the dining room in green, and plants drip from the ceiling — the effect is immersive and genuinely calming. Black-owned and women-owned, Heal is one of the most distinctive and community-rooted plant-based spaces in the Twin Cities.",
+    priceRange: '$',
+    features: ['Dine-In', 'Takeout', 'Juice Bar', 'Apothecary', 'Black-Owned', 'Women-Owned', 'Community Space'],
+    coordinates: { lat: 44.9928, lng: -93.2985 },
+    whatToOrder: [
+      'Tinga Cabbage Tacos - A standout savory plate with real depth of flavor',
+      'Banana Chia Seed Pudding - Simple, satisfying, and made well',
+      'Mississippi Bae Bowl - Southern-rooted comfort food, fully plant-based',
+      'Fresh-Pressed Juices - The house speciality; made to order',
+      'Custom-Blended Teas - Herbalist-crafted blends for whatever you need'
+    ],
+    bestFor: ['Morning coffee and juice', 'Healthy lunch', 'Community gathering', 'Herbal wellness', 'Supporting Black-owned businesses'],
+    theVibe: "A healing space as much as a restaurant -- plant-filled, herbalist-run, rooted in North Minneapolis and African diasporic tradition.",
+    relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis']
   }
 ];
 
@@ -1137,6 +1167,7 @@ export const neighborhoods = [
   { name: 'Frogtown', slug: 'frogtown', city: 'Saint Paul' },
   { name: 'Saint Louis Park', slug: 'slp', city: 'Saint Louis Park' },
   { name: 'Dinkytown', slug: 'dinkytown', city: 'Minneapolis' },
+  { name: 'North Minneapolis', slug: 'north-minneapolis', city: 'Minneapolis' },
 ];
 
 export function getNeighborhoodBySlug(slug: string) {
