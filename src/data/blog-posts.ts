@@ -4105,10 +4105,10 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
   },
   {
     slug: "best-vegan-pizza-minneapolis",
-    title: "Best Vegan Pizza Near Me in Minneapolis (2026) — 9 Spots Ranked",
-    description: "Looking for vegan pizza near you in Minneapolis? We ranked 9 dairy-free, plant-based pizza spots — Pizza Lucé, Black Sheep, Galactic Pizza & more. Updated 2026.",
+    title: "Best Vegan Pizza Minneapolis 2026: 9 Spots Ranked",
+    description: "9 vegan pizza spots in Minneapolis - Pizza Lucé, Black Sheep, Galactic Pizza, Wrecktangle + more. Ranked by crust, sauce, and cheese. Order right tonight.",
     publishedAt: "2026-02-17",
-    updatedAt: "2026-02-17",
+    updatedAt: "2026-03-03",
     author: "Mia & Jay",
     category: "Guide",
     tags: ["vegan pizza", "minneapolis", "dairy-free", "pizza", "plant-based", "2026"],
@@ -4306,10 +4306,10 @@ For more Minneapolis vegan dining, check out our [complete restaurant guide](/bl
   },
   {
     slug: "best-vegan-mac-and-cheese-brands-ranked",
-    title: "Best Vegan Mac and Cheese Brands Ranked: We Tried Them All",
-    description: "We blind-tested every vegan mac and cheese brand we could find — boxed, frozen, and restaurant. Here are the definitive rankings for 2026.",
+    title: "Best Vegan Mac & Cheese Brands 2026: Blind-Tested Rankings",
+    description: "Daiya, Annie's, Back to the Roots, Banza, Goodles + 7 more - we blind-tested 12 vegan mac and cheese brands. Honest 2026 rankings, no brand deals.",
     publishedAt: "2026-02-17",
-    updatedAt: "2026-02-17",
+    updatedAt: "2026-03-03",
     author: "Mia & Jay",
     category: "Reviews",
     tags: ["vegan mac and cheese", "product reviews", "plant-based", "rankings", "grocery", "2026"],
@@ -4897,10 +4897,10 @@ Happy eating, Minneapolis! 🍕🌱
   ,
   {
     slug: "j-selbys-review-saint-paul-vegan",
-    title: "J. Selby's Review: Still the Best Vegan Comfort Food in Saint Paul",
-    description: "A first-person review of J. Selby's in Saint Paul — nachos, crunch wrap supreme, buffalo chicken wrap, Caesar salad, and the legendary cookies and cream shake. 10 out of 10.",
+    title: "J. Selby's Review 2026: Saint Paul's Best Vegan Spot",
+    description: "J. Selby's is Saint Paul's fully vegan comfort food spot. Nachos, crunchwraps, buffalo wing dip, cookies and cream shake. Here's what to order - plus hours.",
     publishedAt: "2026-02-20",
-    updatedAt: "2026-02-20",
+    updatedAt: "2026-03-03",
     author: "Tia",
     category: "Restaurant Reviews",
     tags: ["j selbys", "saint paul", "vegan comfort food", "restaurant review", "vegan shakes", "cathedral hill"],
@@ -6936,6 +6936,136 @@ Everest on Grand is an easy drive from Minneapolis via I-94, right on the Grand 
 ---
 
 *See also: [Vegan Asian Restaurants Minneapolis](/blog/vegan-asian-restaurants-minneapolis) · [Vegan Restaurants St. Paul](/blog/vegan-restaurants-st-paul) · [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026)*
+`
+  },
+  {
+    slug: "herbivorous-butcher-minneapolis-guide",
+    title: "The Herbivorous Butcher Minneapolis: What to Buy & Why It's Worth It",
+    description: "The world's first vegan butcher shop is in Northeast Minneapolis. Here's everything you need to know — what to order, hours, prices, and why locals love it.",
+    publishedAt: "2026-03-03",
+    updatedAt: "2026-03-03",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["herbivorous butcher minneapolis", "herbivorous butcher", "vegan butcher minneapolis", "vegan meat minneapolis", "plant-based butcher minneapolis", "vegan grocery minneapolis", "herbivorous butcher review"],
+    featuredImage: "/images/blog/herbivorous-butcher-guide.jpg",
+    readingTime: "8 min read",
+    tldr: "The Herbivorous Butcher in Northeast Minneapolis is the world's first vegan butcher shop, founded by siblings Kale and Aubry Walch in 2016. They make everything in-house: seitan sausages, smoked ribs, pepperoni, chicken-style cutlets, mac and cheese, and more. Open Tuesday-Saturday. Worth the trip — not just for vegans.",
+    faqs: [
+      {
+        question: "What is The Herbivorous Butcher in Minneapolis?",
+        answer: "The Herbivorous Butcher is the world's first vegan butcher shop, located in Northeast Minneapolis at 507 1st Ave NE. Founded by siblings Kale and Aubry Walch in 2016, it makes all of its plant-based meats, cheeses, and prepared foods in-house from scratch — no Beyond Meat or Impossible on the shelves. Everything is handcrafted, from smoked ribs to pepperoni to chicken-style cutlets."
+      },
+      {
+        question: "What should I buy at The Herbivorous Butcher?",
+        answer: "The crowd favorites are: the Italian Sausage (perfect on pizza or pasta), the Smoked Ribs (fall-off-the-bone texture with real smoke flavor), the Mac and Cheese (made fresh, genuinely better than most dairy versions), the Korean BBQ Ribs, and the Pepperoni (a game-changer for homemade vegan pizza). First-timers should grab the sampler if it's available, or pick two or three proteins and a prepared side."
+      },
+      {
+        question: "Where is The Herbivorous Butcher located?",
+        answer: "The Herbivorous Butcher is at 507 1st Ave NE, Minneapolis, MN 55413 — in the Northeast Minneapolis Arts District. It's a short drive from Uptown, downtown, and Nordeast bar corridors. Street parking is usually available on 1st Ave NE. They also ship nationwide via their online store."
+      },
+      {
+        question: "What are The Herbivorous Butcher's hours?",
+        answer: "The Herbivorous Butcher is typically open Tuesday through Saturday, 11am to 7pm. Hours can vary seasonally and for special events — check their website or Instagram before visiting. They often sell out of popular items by late afternoon, so earlier visits are better."
+      },
+      {
+        question: "Does The Herbivorous Butcher ship nationwide?",
+        answer: "Yes. The Herbivorous Butcher ships most of their products nationwide through their online store at theherbivorousbutcher.com. Products are packed frozen for shipping. Prices are higher than in-store due to shipping, but it's the only way to get authentic HB products if you're outside the Twin Cities."
+      }
+    ],
+    relatedRestaurants: ["herbivorous-butcher", "francis-burger-joint", "reverie-cafe-bar"],
+    relatedPosts: ["northeast-minneapolis-vegan-guide", "best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-meal-prep-services-minneapolis"],
+    content: `
+## The World's First Vegan Butcher Shop Is in Minneapolis — And It's Not a Gimmick
+
+In 2016, siblings Kale and Aubry Walch opened a shop in Northeast Minneapolis that did something nobody had done before: a full-service butcher counter, but entirely plant-based. No Beyond Meat. No Impossible. Nothing from a factory in California. Every sausage, every rack of ribs, every slice of pepperoni — made by hand in their Minneapolis kitchen.
+
+The Herbivorous Butcher didn't just open. It went viral overnight. The line on opening day stretched around the block. The New York Times came. The Today Show came. And then, unlike most viral moments, it kept going.
+
+Nine years later, it's still there, still packed, still making everything in-house. This is a guide to what it is, what to buy, and why — even if you eat meat — it's worth a visit.
+
+---
+
+## What Makes The Herbivorous Butcher Different
+
+Most vegan "meat" at the grocery store is engineered to mimic beef or chicken using industrial processes. The Herbivorous Butcher takes a different approach: artisan craftsmanship with whole-food ingredients.
+
+The base for most products is seitan — vital wheat gluten — which has been used in Asian Buddhist cooking for over a thousand years to make plant-based meat. But what the Walches do with it goes well beyond any seitan you've tried before. They control the texture, the smoke, the seasoning, and the cut.
+
+The result is products that don't taste like "vegan versions of meat." They taste like food that stands on its own — because it was designed to.
+
+---
+
+## What to Buy at The Herbivorous Butcher
+
+### The Italian Sausage — Start Here
+
+If you've never been to The Herbivorous Butcher, start with the Italian Sausage. It's the product most people point to as the moment they stopped thinking about vegan meat as a compromise. Snappy casing, fennel-forward flavor, excellent texture when seared in a cast iron pan. Put it on pasta or slice it onto homemade pizza and nobody at the table will ask questions.
+
+### The Smoked Ribs
+
+This is the showstopper. The Smoked Ribs are made with actual smoke — they go through a real smoking process, not liquid smoke flavoring — and the result is a rib rack with genuine depth of flavor and a pull-apart texture that's hard to explain without just eating it. Order these for game day. Order these when you're trying to impress a skeptical omnivore.
+
+### Korean BBQ Ribs
+
+Same rib base, completely different flavor profile. The Korean BBQ glaze brings gochujang heat and ginger and sesame — more punch than the smoked version, better with rice and pickled vegetables. If you're buying both, don't heat them together.
+
+### The Pepperoni
+
+Single most-requested item for vegan pizza makers in the Twin Cities. The Herbivorous Butcher pepperoni crisps properly in the oven, develops actual grease rings (in the best way), and has the paprika-anise spice profile you expect. Buy this and a ball of pizza dough and you're halfway to the best Friday night you've had.
+
+### Mac and Cheese
+
+Fresh, made in-house, rotating. The Herbivorous Butcher mac and cheese uses their own cashew-based cheese sauce and comes in configurations that rotate seasonally. This is a prepared side, not a packaged box — pick it up cold and heat it at home. It's genuinely better than most dairy mac and cheese, which is a disorienting sentence to type but an accurate one.
+
+### The Chicken-Style Cutlets
+
+Seitan-based, herb-seasoned, properly sized for a sandwich. Bread them, pan-fry them, build a vegan chicken sandwich at home that competes with the fast food versions everyone is trying to recreate. The texture is firm without being rubbery — the hardest thing to get right in plant-based chicken, and they've gotten it right.
+
+---
+
+## The Shop: What to Expect
+
+The Herbivorous Butcher is a small shop — the retail counter is compact, and the vibe is friendly neighborhood butcher, not slick brand experience. You come in, see what's available (it does sell out, especially later in the day), and buy what looks good.
+
+**Hours:** Tuesday through Saturday, 11am to 7pm (verify on their website or Instagram — can vary seasonally)
+
+**Address:** 507 1st Ave NE, Minneapolis, MN 55413 — Northeast Minneapolis Arts District
+
+**Parking:** Street parking on 1st Ave NE. Usually available, especially mid-week.
+
+**Best time to visit:** Mid-week, mid-morning. Saturday afternoons can get crowded and popular items sell out. If you want the smoked ribs on a Saturday, arrive by noon.
+
+**Online orders:** They ship nationwide at theherbivorousbutcher.com. Products go frozen. Worth doing if you're outside the Cities.
+
+---
+
+## Who Goes There (Hint: Not Just Vegans)
+
+The Herbivorous Butcher's customer base has always included a significant percentage of omnivores — people who are curious, people cooking for vegan family members, food-obsessed people who just want to try the thing everyone's talking about.
+
+If you eat meat and think vegan food is sad, The Herbivorous Butcher will revise that opinion. It's not offering you a lesser version of something. It's offering something that happens to not involve animals, made by people who are genuinely excellent at what they do.
+
+---
+
+## How It Connects to the Minneapolis Vegan Scene
+
+The Herbivorous Butcher isn't just a shop — it's a kind of anchor for Northeast Minneapolis's food culture. Northeast (Nordeast, to locals) is already one of the best eating neighborhoods in the city, and the Herbivorous Butcher fits naturally alongside the [brewery scene](https://exploreminnesota.com/article/northeast-minneapolis-brewery-trail), the [Francis Burger Joint](/restaurants/francis-burger-joint) two miles north, and the [Northeast Minneapolis vegan scene](/blog/northeast-minneapolis-vegan-guide) more broadly.
+
+A full Nordeast vegan day: start at The Herbivorous Butcher for groceries, grab lunch at Francis Burger Joint (fully vegan burgers and a proper bar), walk the Mississippi riverfront, end at one of the Northeast breweries with vegan bar food.
+
+---
+
+## The Bottom Line
+
+Nine years in, The Herbivorous Butcher is still the standard for what plant-based meat can be when it's made with real craft. Not a novelty. Not a curiosity. A legitimate neighborhood institution that earned its reputation one sausage at a time.
+
+If you're in Minneapolis and you haven't been — go. If you're not in Minneapolis, they ship.
+
+---
+
+**Browse the full Minneapolis vegan scene:** [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) · [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide) · [Vegan Comfort Food Minneapolis](/blog/vegan-comfort-food-minneapolis)
+
+*Have you been to The Herbivorous Butcher? [Explore more Minneapolis vegan restaurants →](/restaurants)*
 `
   },
 
