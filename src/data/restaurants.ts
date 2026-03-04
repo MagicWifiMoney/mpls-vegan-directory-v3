@@ -340,7 +340,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '17',
     slug: 'foxy-falafel',
-    name: 'Foxy Falafel',
+    name: 'Foxy Falafel (Closed)',
     address: '791 Raymond Ave',
     city: 'Saint Paul',
     state: 'MN',
@@ -424,7 +424,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '21',
     slug: 'seed-cafe',
-    name: 'Seed Plant-Based Cafe',
+    name: 'Seed Plant-Based Cafe (Closed)',
     address: '3252 W Lake St',
     city: 'Minneapolis',
     state: 'MN',
@@ -465,7 +465,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '23',
     slug: 'crepe-and-spoon',
-    name: 'Crepe & Spoon',
+    name: 'Crepe & Spoon (Closed)',
     address: '2723 Johnson St NE',
     city: 'Minneapolis',
     state: 'MN',
@@ -527,7 +527,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '26',
     slug: 'the-dripping-root',
-    name: 'The Dripping Root',
+    name: 'The Dripping Root (Closed)',
     address: '3037 Minnehaha Ave',
     city: 'Minneapolis',
     state: 'MN',
@@ -670,7 +670,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '33',
     slug: 'peninsula-malaysian',
-    name: 'Peninsula Malaysian Cuisine',
+    name: 'Peninsula Malaysian Cuisine (Closed)',
     address: '2608 Nicollet Ave',
     city: 'Minneapolis',
     state: 'MN',
@@ -754,7 +754,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '37',
     slug: 'ipho-saigon',
-    name: 'iPho by Saigon',
+    name: 'iPho by Saigon (Closed)',
     address: '601 Dale St N',
     city: 'Saint Paul',
     state: 'MN',
@@ -794,7 +794,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '40',
     slug: 'red-cow',
-    name: 'Red Cow',
+    name: 'Red Cow (Closed)',
     address: '208 N 1st Ave',
     city: 'Minneapolis',
     state: 'MN',
@@ -835,7 +835,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '42',
     slug: 'wok-in-the-park',
-    name: 'Wok in the Park',
+    name: 'Wok in the Park (Closed)',
     address: '3005 Utah Ave S',
     city: 'Saint Louis Park',
     state: 'MN',
@@ -877,7 +877,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '44',
     slug: 'tori-ramen',
-    name: 'Tori Ramen & Yakitori',
+    name: 'Tori Ramen & Yakitori (Closed)',
     address: '161 N 1st St',
     city: 'Minneapolis',
     state: 'MN',
@@ -921,7 +921,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '46',
     slug: 'gandhi-mahal',
-    name: 'Curry in a Hurry by Gandhi Mahal',
+    name: 'Curry in a Hurry by Gandhi Mahal (Closed)',
     address: '3009 27th Ave S',
     city: 'Minneapolis',
     state: 'MN',

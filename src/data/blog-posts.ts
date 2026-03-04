@@ -7068,6 +7068,121 @@ If you're in Minneapolis and you haven't been — go. If you're not in Minneapol
 *Have you been to The Herbivorous Butcher? [Explore more Minneapolis vegan restaurants →](/restaurants)*
 `
   },
+  {
+    slug: 'vegan-happy-hour-minneapolis',
+    title: 'Best Vegan Happy Hour Spots in Minneapolis',
+    description: 'Looking for vegan-friendly happy hour in Minneapolis? Here are the best spots for plant-based bites and drinks after 5, from cocktail bars to brewery taprooms.',
+    publishedAt: '2026-03-03',
+    updatedAt: '2026-03-03',
+    author: 'Mia & Jay',
+    category: 'Guide',
+    tags: ['vegan happy hour minneapolis', 'happy hour minneapolis vegan', 'vegan bars minneapolis', 'plant-based drinks minneapolis', 'vegan after work minneapolis'],
+    readingTime: '5 min read',
+    tldr: 'Best vegan happy hour in Minneapolis: Reverie Cafe + Bar (Powderhorn, $2 off taps + starters weekdays 4-6pm, 100% vegan), Francis Burger Joint (NE and Longfellow, fully vegan bar with HH specials), Hai Hai (NE Minneapolis, tropical vegan-friendly bites), Hola Arepa (Lyn-Lake, Latin small plates), and Black Sheep Pizza (North Loop, coal-fired vegan pizza + bar deals). Most bars in Minneapolis use naturally vegan craft beer and cocktail spirits - the happy hour advantage is real.',
+    faqs: [
+      {
+        question: 'Where can I find vegan happy hour in Minneapolis?',
+        answer: 'Reverie Cafe + Bar in Powderhorn is the best fully vegan happy hour in Minneapolis - $2 off all taps, house wines, and starters on weekdays 4-6pm. Francis Burger Joint (NE Minneapolis and Longfellow) runs happy hour specials at their 100% vegan bar. Hai Hai in Northeast and Hola Arepa in Lyn-Lake are top vegan-friendly picks with craft cocktails and small plate specials.'
+      },
+      {
+        question: 'Is happy hour good for vegans in Minneapolis?',
+        answer: 'Yes - happy hour is actually one of the best times to eat vegan in Minneapolis. Most craft beers, wines, and spirits are vegan by default. The challenge is finding spots with vegan food specials alongside the drink deals. Reverie Cafe is the only 100% vegan happy hour in the city. Francis Burger Joint, Hai Hai, and Hola Arepa all have strong vegan-friendly bar food menus during happy hour hours.'
+      },
+      {
+        question: 'What time is happy hour at Reverie Cafe in Minneapolis?',
+        answer: 'Reverie Cafe + Bar offers happy hour weekdays from 4-6pm. The deal is $2 off all taps, house wines, and starters. Reverie has 20+ craft taps pouring local breweries like Venn Brewing, Lupulin, Bauhaus Brewlabs, Dangerous Man, and more - all rotating regularly. The food menu is 100% vegan.'
+      },
+      {
+        question: 'Are there vegan cocktail bars in Minneapolis?',
+        answer: 'Francis Burger Joint operates a fully vegan bar program - no animal-derived ingredients in any cocktail, beer, or wine served. This means no isinglass-filtered beers, no carmine dyes in cocktails. Reverie Cafe + Bar also has a full vegan bar with 20+ craft taps and wine. Both are great options for after-work drinks with zero hidden animal products.'
+      }
+    ],
+    relatedRestaurants: ['reverie-cafe-bar', 'francis-burger-joint', 'black-sheep-pizza', 'seward-cafe'],
+    relatedPosts: ['best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'late-night-vegan-food-minneapolis', 'vegan-bars-minneapolis'],
+    content: `
+## Happy Hour Is One of the Best Times to Be Vegan in Minneapolis
+
+Here is something that does not get said enough: happy hour is naturally vegan-friendly territory. Beer, wine, spirits - the core of any happy hour drink menu - are overwhelmingly vegan by default. Most craft beers skip the isinglass filtration that makes some commercial lagers sketchy. A gin and tonic is a gin and tonic.
+
+The harder question is the food. Vegan bar snacks can be an afterthought. Not in Minneapolis. The city's strong plant-based scene means several spots run serious vegan happy hour programs - real deals on real food, alongside craft drinks that happen to be cruelty-free.
+
+Here is where to go.
+
+---
+
+## Best Vegan Happy Hour Deals in Minneapolis
+
+### Reverie Cafe + Bar - Powderhorn
+
+The only 100% vegan happy hour in Minneapolis, and the best one.
+
+Reverie runs **$2 off all taps, house wines, and starters on weekdays from 4-6pm**. The tap list rotates constantly - 20+ handles pouring from breweries like Venn Brewing, Bauhaus Brewlabs, Lupulin, Dangerous Man, Fair State, Indeed, and Modist. Several taps are dedicated gluten-free. The wine list is curated to be fully plant-based.
+
+The food is the bonus. Dark chocolate beignets, lemongrass tofu tacos, and the Rev Burger (tempeh, tomato jam, smoked onions, kimchi aioli) are all eligible for starters pricing during happy hour. Everything on the menu is vegan - no scanning for hidden dairy or asking your server to double-check the sauce.
+
+**When:** Weekdays 4-6pm | **Address:** 1517 E 35th St (Powderhorn) | In-person dining only
+
+---
+
+### Francis Burger Joint - NE Minneapolis and Longfellow
+
+Francis runs a fully vegan bar program and happy hour specials at both locations. This is the spot if you want a cold beer and a burger after work and want zero compromises - no animal-derived fining agents in the wine, no crushed beetle dye in the cocktails, no wondering about the ranch dip.
+
+The Juicy Lucy stuffed with vegan cheese, the Hunny Dijon Chicken Sandwich, and the loaded fries are the go-to happy hour orders. The NE Minneapolis location has more of a neighborhood bar feel; Longfellow is slightly more relaxed.
+
+**Address:** 2422 Central Ave NE + 3900 E Lake St (Longfellow)
+
+---
+
+### Hai Hai - Northeast Minneapolis
+
+Hai Hai is a tropical bar and restaurant in Northeast with some of the most interesting cocktails in the city and a food menu that leans heavily toward vegan-friendly. The happy hour drink specials make the creative rum-forward cocktails and natural wines more approachable. The snack menu - rice paper rolls, coconut dishes, tropical small plates - is where vegans eat well here.
+
+Check their current specials before going; the deal varies by season.
+
+**Address:** 2121 University Ave NE
+
+---
+
+### Hola Arepa - Lyn-Lake
+
+Hola Arepa's Venezuelan-inspired menu is built around arepas (corn cakes), which are naturally gluten-free and easily filled with vegan fillings. Happy hour brings drink specials on cocktails and beer alongside the snack menu. The guacamole, roasted carrot, and mushroom arepas are solid vegan options.
+
+**Address:** 3501 Nicollet Ave S
+
+---
+
+### Black Sheep Pizza - North Loop
+
+Coal-fired pizza at 900+ degrees, vegan cheese on any pie, and a full bar with happy hour specials. Black Sheep is not 100% vegan, but the kitchen handles vegan cheese requests without drama and the happy hour drink deals make a pizza and beer combination after work genuinely affordable.
+
+**Address:** 600 N Washington Ave (North Loop)
+
+---
+
+## What to Order at a Vegan Happy Hour
+
+**Drinks:** Craft beer is almost always vegan - lagers and ales from local breweries like Surly, Indeed, and Bauhaus are safe bets. Most wines are vegan (ask if you are unsure). Spirits - vodka, gin, rum, whiskey - are universally vegan. Watch for cream-based cocktails or those with honey syrup.
+
+**Food:** Look for anything fried without dairy batter, corn-based dishes (arepas, tortilla chips), hummus and vegetable plates, flatbreads and pizzas with vegan cheese noted, and rice-based small plates. Ask servers about fryer oil sharing if cross-contamination matters to you.
+
+---
+
+## Tips for Finding Vegan Happy Hour Options
+
+**1. Call ahead.** Happy hour menus change seasonally and do not always appear online. A quick call confirms current deals and whether any specific vegan starters are discounted.
+
+**2. Stick with the bar.** Most fully vegan restaurants in Minneapolis close their kitchens early or do not run traditional happy hours. The bar-and-grill format - Reverie, Francis, Hai Hai - is where happy hour culture and vegan food overlap.
+
+**3. Craft beer is almost always vegan.** The Minnesota craft beer scene - Surly, Indeed, Modist, Bauhaus - does not use isinglass fining. You can order without second-guessing most of the tap list.
+
+**4. Check Instagram.** Reverie, Francis, and Hai Hai post happy hour specials and seasonal deals to their Instagram stories. Following them is the easiest way to catch limited-time offers.
+
+---
+
+For the full Minneapolis vegan dining picture, check our [complete vegan restaurant directory](/restaurants) or the [Best Vegan Restaurants in Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) guide.
+`,
+  },
 
 ];
 
