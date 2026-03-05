@@ -37,7 +37,7 @@
       "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "🤣 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes"
+        "\ud83e\udd23 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "reviewMentions": 1,
       "badge": "Featured",
       "quotes": [
-        "The coconut cream chai was yummy and so was my creamy masala curry with chicken spice level 3 which next time I'll do a four or five haha 😂 My wife enjoyed her food as well"
+        "The coconut cream chai was yummy and so was my creamy masala curry with chicken spice level 3 which next time I'll do a four or five haha \ud83d\ude02 My wife enjoyed her food as well"
       ]
     },
     {
@@ -80,21 +80,21 @@
     {
       "author": "Ella F",
       "rating": 5,
-      "text": "This has been one of my favorite places for years. The staff have always been wonderful and kind. They go above and beyond service wise. Making sure we had plenty of rice and even some extra raita with my to go order on the way out. Just the most thoughtful touches. They actually make their food fresh so yes, it may take awhile but I don't mind waiting. During my travels in other countries you often wait an hour for them to cook your food. Waiting for amazing food is definitely never an issue for me. 🤣 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes. Really anything on the menu you cannot go wrong with. Definitely a must visit place. ❤️",
+      "text": "This has been one of my favorite places for years. The staff have always been wonderful and kind. They go above and beyond service wise. Making sure we had plenty of rice and even some extra raita with my to go order on the way out. Just the most thoughtful touches. They actually make their food fresh so yes, it may take awhile but I don't mind waiting. During my travels in other countries you often wait an hour for them to cook your food. Waiting for amazing food is definitely never an issue for me. \ud83e\udd23 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes. Really anything on the menu you cannot go wrong with. Definitely a must visit place. \u2764\ufe0f",
       "date": "2 weeks ago",
       "source": "Google"
     },
     {
       "author": "Maggie Christopher",
       "rating": 5,
-      "text": "My husband and I love this restaurant! They use high-quality, local meats and the flavors are amazing! I have some food sensitivities and they’re always very kind about working around that. And it’s easy to do with this type of food. Our servers have always been very polite and accommodating. This restaurant is a total gem in the Twin Cities!",
+      "text": "My husband and I love this restaurant! They use high-quality, local meats and the flavors are amazing! I have some food sensitivities and they\u2019re always very kind about working around that. And it\u2019s easy to do with this type of food. Our servers have always been very polite and accommodating. This restaurant is a total gem in the Twin Cities!",
       "date": "4 months ago",
       "source": "Google"
     },
     {
       "author": "Kamal Rochlani",
       "rating": 5,
-      "text": "Best and yummiest food! Loved the Chicken in mango curry 🍛 with Garlic paratha — absolutely delicious. The Spicy Masala tea was just perfect ☕️😋. Five stars to the chef, the ambience, and the amazing team. Please keep up the great work and continue running this beautiful cafe — places like this make the city feel warmer and happier!",
+      "text": "Best and yummiest food! Loved the Chicken in mango curry \ud83c\udf5b with Garlic paratha \u2014 absolutely delicious. The Spicy Masala tea was just perfect \u2615\ufe0f\ud83d\ude0b. Five stars to the chef, the ambience, and the amazing team. Please keep up the great work and continue running this beautiful cafe \u2014 places like this make the city feel warmer and happier!",
       "date": "5 months ago",
       "source": "Google"
     },
@@ -129,12 +129,16 @@
     {
       "author": "David",
       "rating": 5,
-      "text": "There’s a lot of great Indian food in Minneapolis, but this place sits firmly at the top of our list. Maybe it’s all in my head, but the quality here tastes noticeably better. Everything is fresh, light, and perfectly spiced. It’s one of those meals where, halfway through, you’re already planning when you can come back.",
+      "text": "There\u2019s a lot of great Indian food in Minneapolis, but this place sits firmly at the top of our list. Maybe it\u2019s all in my head, but the quality here tastes noticeably better. Everything is fresh, light, and perfectly spiced. It\u2019s one of those meals where, halfway through, you\u2019re already planning when you can come back.",
       "date": "a month ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:24:13.326Z"
+  "lastUpdated": "2026-02-06T02:24:13.326Z",
+  "menu": [],
+  "menuScrapedAt": "2026-03-04T06:24:56.815072+00:00",
+  "menuPlatform": "squarespace",
+  "menuItemCount": 0
 }

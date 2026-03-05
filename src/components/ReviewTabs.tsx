@@ -16,11 +16,9 @@ interface Review {
 
 interface ReviewTabsProps {
   googleReviews: Review[];
-  yelpReviews: Review[];
   restaurantName: string;
   restaurantAddress: string;
   restaurantCity: string;
-  yelpUrl?: string;
   restaurantSlug?: string;
   totalReviewCount?: number;
 }
@@ -75,11 +73,9 @@ const highlightedReviews: Record<string, Review[]> = {
 
 export default function ReviewTabs({
   googleReviews,
-  yelpReviews,
   restaurantName,
   restaurantAddress,
   restaurantCity,
-  yelpUrl,
   restaurantSlug,
   totalReviewCount,
 }: ReviewTabsProps) {
@@ -88,14 +84,12 @@ export default function ReviewTabs({
     ? highlightedReviews[restaurantSlug]
     : googleReviews;
 
-  if (reviewsToShow.length === 0 && yelpReviews.length === 0) {
+  if (reviewsToShow.length === 0) {
     return null;
   }
 
   const displayCount = totalReviewCount || googleReviews.length;
-  const reviewSource = restaurantSlug && highlightedReviews[restaurantSlug]
-    ? 'across Google and Yelp'
-    : 'verified Google reviews';
+  const reviewSource = 'verified Google reviews';
 
   return (
     <section>
@@ -170,19 +164,7 @@ export default function ReviewTabs({
         >
           View All Google Reviews →
         </a>
-        {yelpUrl && (
-          <a
-            href={yelpUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-[#d32323]/10 hover:bg-[#d32323]/20 text-[#d32323] font-medium transition"
-          >
-            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12 2l2.4 7.4h7.6l-6 4.6 2.3 7-6.3-4.6-6.3 4.6 2.3-7-6-4.6h7.6z"/>
-            </svg>
-            View on Yelp →
-          </a>
-        )}
+
       </div>
     </section>
   );

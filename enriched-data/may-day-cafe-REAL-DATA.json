@@ -38,14 +38,14 @@
     {
       "author": "Gabriel Pass",
       "rating": 5,
-      "text": "The MayDay Cafe is one of my favorite coffee shops ever.  A unique and eclectic vibe. The coffee and beverages are good but the food is really exceptional.  It's all made in-house, fresh, with quality ingredients, plus so many great options that are vegan, gluten-free, etc.\nWatch for their specials, but make sure to get them before they're gone! 😋",
+      "text": "The MayDay Cafe is one of my favorite coffee shops ever.  A unique and eclectic vibe. The coffee and beverages are good but the food is really exceptional.  It's all made in-house, fresh, with quality ingredients, plus so many great options that are vegan, gluten-free, etc.\nWatch for their specials, but make sure to get them before they're gone! \ud83d\ude0b",
       "date": "10 months ago",
       "source": "Google"
     },
     {
       "author": "Ali",
       "rating": 5,
-      "text": "The May Day is a bright spot in the universe! The food is incredible, the coffee spot on, and the service is fast/friendly/knowledgable. Vegetarian options, vegan baked goods. The absolutely magical neighborhood and community vibe that shines from this place is unmatched! MmmmmmMay Day ❤️🌈💫 Bring your friendly face and community vibe and you’ll fit right in. InJoy!! 😘",
+      "text": "The May Day is a bright spot in the universe! The food is incredible, the coffee spot on, and the service is fast/friendly/knowledgable. Vegetarian options, vegan baked goods. The absolutely magical neighborhood and community vibe that shines from this place is unmatched! MmmmmmMay Day \u2764\ufe0f\ud83c\udf08\ud83d\udcab Bring your friendly face and community vibe and you\u2019ll fit right in. InJoy!! \ud83d\ude18",
       "date": "a year ago",
       "source": "Google"
     },
@@ -73,7 +73,7 @@
     {
       "author": "Kathryn Van Wert",
       "rating": 5,
-      "text": "UPDATE: there are now croissants and the danishes are very good again!!! Yay!!!\n\nI’m really supportive of the workers’ coop and I want this place to succeed. In that spirit, I wish they’d step up their baked goods game. The baked goods used to be sooooo good and I’m sorry to say they’re not so good now. Specifically, they used to have the absolutely best croissants, and now they have none. Also, the fruit danish used to be really special; now, it’s made with pastry cream instead of cream cheese, and it’s not a good change. I’m not sure why these changes happened; maybe the old pastry chef left when they switched to a coop?",
+      "text": "UPDATE: there are now croissants and the danishes are very good again!!! Yay!!!\n\nI\u2019m really supportive of the workers\u2019 coop and I want this place to succeed. In that spirit, I wish they\u2019d step up their baked goods game. The baked goods used to be sooooo good and I\u2019m sorry to say they\u2019re not so good now. Specifically, they used to have the absolutely best croissants, and now they have none. Also, the fruit danish used to be really special; now, it\u2019s made with pastry cream instead of cream cheese, and it\u2019s not a good change. I\u2019m not sure why these changes happened; maybe the old pastry chef left when they switched to a coop?",
       "date": "Edited 3 months ago",
       "source": "Google"
     },
@@ -101,12 +101,26 @@
     {
       "author": "Shayon Keating",
       "rating": 5,
-      "text": "Great coffee, amazing pastries, warm and comforting environment, friendly staff. 10/10 will be back and a mainstay whenever I’m in Minneapolis. This place deserves your business.\n\nAlso the cinnamon roll was HANDS down one of the best cinnamon rolls I’ve had in this country",
+      "text": "Great coffee, amazing pastries, warm and comforting environment, friendly staff. 10/10 will be back and a mainstay whenever I\u2019m in Minneapolis. This place deserves your business.\n\nAlso the cinnamon roll was HANDS down one of the best cinnamon rolls I\u2019ve had in this country",
       "date": "a year ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:29:56.460Z"
+  "lastUpdated": "2026-02-06T02:29:56.460Z",
+  "menu": [
+    {
+      "name": "The 2026 estimated budget is ,000. Every contribution counts, monthly gifts are especially helpful.",
+      "price": "$162",
+      "category": "Mayday",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://maydaympls.com/menu"
+    }
+  ],
+  "menuScrapedAt": "2026-03-04T06:24:56.815922+00:00",
+  "menuPlatform": "squarespace",
+  "menuItemCount": 1
 }

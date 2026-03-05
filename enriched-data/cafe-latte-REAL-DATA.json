@@ -37,7 +37,7 @@
       "quotes": [
         "Great Soup and Salad options and Latte/Coffee worthy Desserts",
         "Great coffee, great cake selection, great sandwiches, pizza,wine and beer",
-        "Cafe Latte serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts"
+        "Cafe Latte\u00a0serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "reviewMentions": 2,
       "badge": "Popular",
       "quotes": [
-        "Cafe Latte serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts",
+        "Cafe Latte\u00a0serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts",
         "Server was more content on telling me what he could't do instead of accommodating my request"
       ]
     }
@@ -56,7 +56,7 @@
     {
       "author": "Lillys Osorio",
       "rating": 5,
-      "text": "😀Today I visited Cafe Latte. I was served by Duffez,👈👌 who was very quick and friendly. Then a Mexican gentleman who speaks Spanish💪 found me a menu and was very helpful. I will return and I recommend it. They have vegan and gluten-free options.✨️",
+      "text": "\ud83d\ude00Today I visited Cafe Latte. I was served by Duffez,\ud83d\udc48\ud83d\udc4c who was very quick and friendly. Then a Mexican gentleman who speaks Spanish\ud83d\udcaa found me a menu and was very helpful. I will return and I recommend it. They have vegan and gluten-free options.\u2728\ufe0f",
       "date": "2 months ago",
       "source": "Google"
     },
@@ -77,14 +77,14 @@
     {
       "author": "Magarara",
       "rating": 5,
-      "text": "I love their food! The desserts are another notch as Emeril used to say. The soup is beyond wonderful. I think it was artichoke leek I had. Given that it was -24° F, (-47° F with wind chill) it hit the spot. Unfortunately the prices have increased dramatically.",
+      "text": "I love their food! The desserts are another notch as Emeril used to say. The soup is beyond wonderful. I think it was artichoke leek I had. Given that it was -24\u00b0 F, (-47\u00b0 F with wind chill) it hit the spot. Unfortunately the prices have increased dramatically.",
       "date": "Edited 2 days ago",
       "source": "Google"
     },
     {
       "author": "Jeannie Hill",
       "rating": 5,
-      "text": "I've been going to Cafe Latte for years and years; meeting clients for business, taking a dear senior friend on an outing, going out to eat with fellow dancers before or after a class, or just for my own pleasure. It's a bit like a salad, soup, and sandwich bar, where you make selections and place your order as you go. However, I'd call this gourmet quality menu entrees.\n\nMy favorite is to order their three salad combos. The selection is great, with a good variety of flavors and cuisines, and they are unusually tasty. Cafe Latte serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts. Individuals can select from gourmet pizzas to their own award-winning Blueberry Lemon Scones and Turtle Cake.\n\nIf you want the European clotted cream / scone experience, this is as close as you can come to it in the United States. I highly recommend going for scones first thing in the morning, when you cannot the \"fresh out of the oven\" flavor.\n\nRecently, I wanted to thank a helpful neighbor by gifting them with a cheesecake. I checked closer to home, in Minnetonka, Eden Prairie, and Edina - no one else had full cheesecakes ready for pickup-and-go. Not only that, Cafe Latte, has them in three sizes as well as selling cheesecake by the slice. In addition, you have multiple flavors to choose from. For my neighbor, I selected their Classic Vanilla Cheesecake. It's boxed nicely and is a stunning presentation with whipped cream and strawberries on top.\n\nThere are three distinct dining areas an upstairs, lower-level tables and booths, as well as the dessert/coffee lounge on the south end. Conveniently, they have two cash register areas.\nLarge men and women restrooms are available directly across the hall. There is street parking and a paid parking lot across the street on the west. To avoid peak hours, I recommend going mid-afternoon.\n\nExcellent service. Top notch ambience.",
+      "text": "I've been going to\u00a0Cafe Latte\u00a0for years and years; meeting clients for business, taking a dear senior friend on an outing, going out to eat with fellow dancers before or after a class, or just for my own pleasure. It's a bit like a salad, soup, and sandwich bar, where you make selections and place your order as you go. However, I'd call this gourmet\u00a0quality menu entrees.\n\nMy favorite\u00a0is to order their three salad combos. The selection is great, with a good variety of flavors and cuisines, and they are unusually tasty.\u00a0Cafe Latte\u00a0serves both timeless, favorite comfort food, but also exceptional lattes, coffee, tea, and desserts. Individuals can select from gourmet pizzas to their\u00a0own award-winning Blueberry Lemon Scones and Turtle Cake.\n\nIf you want the European clotted cream / scone experience, this is as close as you can come to it in the United States. I highly recommend going for scones first thing in the morning, when you cannot the \"fresh out of the oven\" flavor.\n\nRecently, I wanted to thank a helpful neighbor by gifting them with a cheesecake. I checked\u00a0closer to home, in Minnetonka, Eden Prairie, and Edina - no one else had full cheesecakes ready for pickup-and-go. Not only that, Cafe Latte, has them in three sizes as well as selling cheesecake by the slice. In addition, you have multiple\u00a0flavors to choose from. For my neighbor, I selected their Classic Vanilla Cheesecake. It's boxed nicely and is a stunning presentation with whipped cream and strawberries on top.\n\nThere are three distinct dining areas an upstairs, lower-level tables and booths, as well as the dessert/coffee lounge on the south end. Conveniently, they have two cash register areas.\nLarge men and women restrooms are available directly across the hall. There is street parking and a paid parking lot across the street on the west. To avoid peak hours, I recommend going mid-afternoon.\n\nExcellent service. Top notch ambience.",
       "date": "Edited 4 weeks ago",
       "source": "Google"
     },
@@ -119,12 +119,16 @@
     {
       "author": "Poppy",
       "rating": 4,
-      "text": "The food is excellent. My experiences with service have been mixed. Today, the chick serving was quite rude, rolling her eyes and sighing at me. I really can’t imagine why. I smiled, asked for what I wanted, and said thanks, that was the extent of the interaction, add in her asking one question, which I answered “yes, please,” and and her unexplainable huffing and eye rolling. She did not greet me or thank me, only acted like I was somehow a pain in her side. I’m not asking for stellar customer service, only for kindness to other humans. I have been there twice before and once had excellent service and the other time it was fine and unremarkable. I guess they can’t all be stars. 🤷‍♀️",
+      "text": "The food is excellent. My experiences with service have been mixed. Today, the chick serving was quite rude, rolling her eyes and sighing at me. I really can\u2019t imagine why. I smiled, asked for what I wanted, and said thanks, that was the extent of the interaction, add in her asking one question, which I answered \u201cyes, please,\u201d and and her unexplainable huffing and eye rolling. She did not greet me or thank me, only acted like I was somehow a pain in her side. I\u2019m not asking for stellar customer service, only for kindness to other humans. I have been there twice before and once had excellent service and the other time it was fine and unremarkable. I guess they can\u2019t all be stars. \ud83e\udd37\u200d\u2640\ufe0f",
       "date": "Edited a month ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:31:26.661Z"
+  "lastUpdated": "2026-02-06T02:31:26.661Z",
+  "menu": [],
+  "menuScrapedAt": "2026-03-04T06:24:56.816376+00:00",
+  "menuPlatform": "squarespace",
+  "menuItemCount": 0
 }

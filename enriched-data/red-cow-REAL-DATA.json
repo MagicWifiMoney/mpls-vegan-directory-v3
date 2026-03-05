@@ -88,14 +88,14 @@
     {
       "author": "Mary Ann Gazich",
       "rating": 5,
-      "text": "Absolutely love Red Cow North Loop! The vibe is always on point, and the onsite team makes every visit feel like catching up with good friends amidst fabulous eats and an A+ atmosphere 🎉\n\nHuge shoutout to Kari, who always goes above and beyond — seriously the definition of excellent service. She remembers the little things and somehow manages to make every guest feel like a regular. She is a rockstar!\n\nCullen deserves a ton of credit too…. he takes the time to check in, even remembering my niece by name and asking thoughtful question. That kind of genuine care and kindness is rare and so appreciated.\n\nAnd of course, Sam — absolute icon, total GOAT status. Brings the energy, the humor, and makes every visit better just by being there.\n\nRef Cow North Loop has built something special — amazing food, even better people. Can’t recommend it enough!",
+      "text": "Absolutely love Red Cow North Loop! The vibe is always on point, and the onsite team makes every visit feel like catching up with good friends amidst fabulous eats and an A+ atmosphere \ud83c\udf89\n\nHuge shoutout to Kari, who always goes above and beyond \u2014 seriously the definition of excellent service. She remembers the little things and somehow manages to make every guest feel like a regular. She is a rockstar!\n\nCullen deserves a ton of credit too\u2026. he takes the time to check in, even remembering my niece by name and asking thoughtful question. That kind of genuine care and kindness is rare and so appreciated.\n\nAnd of course, Sam \u2014 absolute icon, total GOAT status. Brings the energy, the humor, and makes every visit better just by being there.\n\nRef Cow North Loop has built something special \u2014 amazing food, even better people. Can\u2019t recommend it enough!",
       "date": "3 months ago",
       "source": "Google"
     },
     {
       "author": "Jan Tillotson",
       "rating": 5,
-      "text": "This restaurant was a new find for us and now it’s our favorite in Minneapolis. The food is amazing and unique, but what makes this place so unusual is the staff. I don’t know when I’ve experienced a restaurant staff so welcoming, informative, helpful, warm and on top of things.  We had the most amazing server I’ve ever had. Her name is Amajae — the joy and professionalism she brings to her job is infectious.  We were happy to be together as a family but her energy and presence took our experience to another level. She just made our evening. I’m not sure Ive ever had an experience like this in my 82 year.",
+      "text": "This restaurant was a new find for us and now it\u2019s our favorite in Minneapolis. The food is amazing and unique, but what makes this place so unusual is the staff. I don\u2019t know when I\u2019ve experienced a restaurant staff so welcoming, informative, helpful, warm and on top of things.  We had the most amazing server I\u2019ve ever had. Her name is Amajae \u2014 the joy and professionalism she brings to her job is infectious.  We were happy to be together as a family but her energy and presence took our experience to another level. She just made our evening. I\u2019m not sure Ive ever had an experience like this in my 82 year.",
       "date": "3 months ago",
       "source": "Google"
     },
@@ -107,7 +107,7 @@
       "source": "Google"
     },
     {
-      "author": "I “The Swedish Chef” I",
+      "author": "I \u201cThe Swedish Chef\u201d I",
       "rating": 5,
       "text": "Here's a rewritten version:\nRed Cow has several locations, and this one stands out as my favorite. The interior has a fresh, contemporary design that feels current and inviting. Both the attentive service and delicious food exceeded expectations. It's an excellent choice for anyone looking for quality burgers. Even the salad I had was amazing.",
       "date": "2 months ago",
@@ -123,14 +123,14 @@
     {
       "author": "Nate Keator",
       "rating": 5,
-      "text": "I visited from out of state and came to Red Cow North Loop with some friends. The staff, food and drinks were amazing. I had Ahi crisps, 60/40 burger, and an old fashioned. All were top notch. I very much wish I had a Red Cow down the block in Steven’s Point. It’d be the best eatery in town overnight.",
+      "text": "I visited from out of state and came to Red Cow North Loop with some friends. The staff, food and drinks were amazing. I had Ahi crisps, 60/40 burger, and an old fashioned. All were top notch. I very much wish I had a Red Cow down the block in Steven\u2019s Point. It\u2019d be the best eatery in town overnight.",
       "date": "2 weeks ago",
       "source": "Google"
     },
     {
       "author": "Corinne Welter",
       "rating": 4,
-      "text": "Brittni was cheerful, helpful and eager to point out her favorite aspect of the new renovation. The space was lovely and happy hour has a robust menu. My martini was ordered dirty but lacked olive juice which is the only reason I haven’t given 5 stars. The bar, however, was very busy so I assume that was just an accident. Great food, great service and the wine is good!",
+      "text": "Brittni was cheerful, helpful and eager to point out her favorite aspect of the new renovation. The space was lovely and happy hour has a robust menu. My martini was ordered dirty but lacked olive juice which is the only reason I haven\u2019t given 5 stars. The bar, however, was very busy so I assume that was just an accident. Great food, great service and the wine is good!",
       "date": "3 months ago",
       "source": "Google"
     },
@@ -158,5 +158,145 @@
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:33:33.323Z"
+  "lastUpdated": "2026-02-06T02:33:33.323Z",
+  "menu": [
+    {
+      "name": "Lunch Deal",
+      "price": "$15",
+      "category": "Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/brunch-menu/"
+    },
+    {
+      "name": "Milkshakes",
+      "price": "$8",
+      "category": "So Cal (Vegan)",
+      "description": "Birthday Cake Shake",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/rochester-dine-in-menu/"
+    },
+    {
+      "name": "Tuesday-Friday from 11am-2pm //",
+      "price": "$15",
+      "category": "Drinks",
+      "description": "1/2 Sandwich",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/pick-two-lunch-menu/"
+    },
+    {
+      "name": "Tuesday - Friday from 2-5:30pm",
+      "price": "$7",
+      "category": "Drinks",
+      "description": "Tap Beers",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "red, white, ros\u00e9, sparkling",
+      "price": "$8",
+      "category": "Wine",
+      "description": "Classic Tini Martini",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Guacamole",
+      "price": "$8",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Truffle Fries",
+      "price": "$8",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Chips & Dip",
+      "price": "$8",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Ahi Tuna Crisps*",
+      "price": "$9",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Cheese Curds",
+      "price": "$9",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Chicken Tenders",
+      "price": "$9",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Burrata",
+      "price": "$10",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Cheeseburger Sliders*",
+      "price": "$10",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Shrimp Tacos",
+      "price": "$10",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    },
+    {
+      "name": "Lettuce Wraps",
+      "price": "$10",
+      "category": "Snacks",
+      "description": "",
+      "vegan": null,
+      "source": "wp_html_parse",
+      "source_url": "https://redcowmn.com/menus/happy-hour/"
+    }
+  ],
+  "menuScrapedAt": "2026-03-04T06:23:36.990528+00:00",
+  "menuPlatform": "wordpress",
+  "menuItemCount": 15
 }

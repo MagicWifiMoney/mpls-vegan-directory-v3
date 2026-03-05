@@ -25,21 +25,7 @@ interface PlaceDetails {
   }>;
   openNow?: boolean;
   popularItems?: string[];
-  yelp?: {
-    rating?: number;
-    reviewCount?: number;
-    photos?: string[];
-    reviews?: Array<{
-      author_name: string;
-      rating: number;
-      text: string;
-      time: string;
-      profile_photo_url: string;
-      url: string;
-    }>;
-    yelpUrl?: string;
-    openNow?: boolean;
-  };
+
 }
 
 export default function RestaurantDetail({ restaurant }: { restaurant: Restaurant }) {
@@ -63,10 +49,7 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
     fetchDetails();
   }, [restaurant.googlePlaceId]);
 
-  // Combine photos from Google and Yelp
-  const googlePhotos = placeDetails?.photos?.map(url => url.trim()) || [];
-  const yelpPhotos = placeDetails?.yelp?.photos || [];
-  const photos = [...googlePhotos, ...yelpPhotos];
+  const photos = placeDetails?.photos?.map(url => url.trim()) || [];
   
   const reviews = placeDetails?.reviews || [];
   const rating = placeDetails?.rating || restaurant.rating;
@@ -271,43 +254,20 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
                 Visit Website →
               </a>
             </div>
-            {(rating || placeDetails?.yelp?.rating) && (
+            {rating && (
               <div>
-                <div className="text-xs text-[#f5f0e8]/40 mb-1">Ratings</div>
-                <div className="space-y-2">
-                  {/* Google Rating */}
-                  {rating && (
-                    <div className="flex items-center gap-2">
-                      <span className="text-sm text-[#f5f0e8]/60 w-16">Google</span>
-                      <span className="text-xl font-bold text-[#f5f0e8]">{rating.toFixed(1)}</span>
-                      <div className="flex">
-                        {[1, 2, 3, 4, 5].map((star) => (
-                          <span key={star} className={star <= Math.round(rating) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
-                            ★
-                          </span>
-                        ))}
-                      </div>
-                      {reviewCount && (
-                        <span className="text-xs text-[#f5f0e8]/40">({reviewCount.toLocaleString()})</span>
-                      )}
-                    </div>
-                  )}
-                  {/* Yelp Rating */}
-                  {placeDetails?.yelp?.rating && (
-                    <div className="flex items-center gap-2">
-                      <span className="text-sm text-[#f5f0e8]/60 w-16">Yelp</span>
-                      <span className="text-xl font-bold text-[#f5f0e8]">{placeDetails.yelp.rating.toFixed(1)}</span>
-                      <div className="flex">
-                        {[1, 2, 3, 4, 5].map((star) => (
-                          <span key={star} className={star <= Math.round(placeDetails.yelp!.rating!) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
-                            ★
-                          </span>
-                        ))}
-                      </div>
-                      {placeDetails.yelp.reviewCount && (
-                        <span className="text-xs text-[#f5f0e8]/40">({placeDetails.yelp.reviewCount.toLocaleString()})</span>
-                      )}
-                    </div>
+                <div className="text-xs text-[#f5f0e8]/40 mb-1">Rating</div>
+                <div className="flex items-center gap-2">
+                  <span className="text-xl font-bold text-[#f5f0e8]">{rating.toFixed(1)}</span>
+                  <div className="flex">
+                    {[1, 2, 3, 4, 5].map((star) => (
+                      <span key={star} className={star <= Math.round(rating) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
+                        ★
+                      </span>
+                    ))}
+                  </div>
+                  {reviewCount && (
+                    <span className="text-xs text-[#f5f0e8]/40">({reviewCount.toLocaleString()})</span>
                   )}
                 </div>
               </div>
@@ -319,11 +279,9 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
       {/* Reviews Section with Tabs */}
       <ReviewTabs
         googleReviews={reviews}
-        yelpReviews={placeDetails?.yelp?.reviews || []}
         restaurantName={restaurant.name}
         restaurantAddress={restaurant.address}
         restaurantCity={restaurant.city}
-        yelpUrl={placeDetails?.yelp?.yelpUrl}
         restaurantSlug={restaurant.slug}
         totalReviewCount={placeDetails?.userRatingsTotal || reviewCount}
       />

@@ -85,7 +85,7 @@
     {
       "author": "Shannon Mahedy",
       "rating": 5,
-      "text": "Wow! I went to Common Roots cafe for brunch today, and I was blown away by the fish tacos. They were, without a doubt, the best fish tacos I’ve ever had! They were light, delicately-balanced, fresh, and flavorful. Each bite was incredible, and I found myself telling my friend how delicious they were over and over while I devoured my tacos. The chips and salsa on the side were excellent too, and the salsa was definitely house-made. My only wish were that there were more tacos on my plate. I’ll be back for more tacos soon! I’m very impressed by this dish!",
+      "text": "Wow! I went to Common Roots cafe for brunch today, and I was blown away by the fish tacos. They were, without a doubt, the best fish tacos I\u2019ve ever had! They were light, delicately-balanced, fresh, and flavorful. Each bite was incredible, and I found myself telling my friend how delicious they were over and over while I devoured my tacos. The chips and salsa on the side were excellent too, and the salsa was definitely house-made. My only wish were that there were more tacos on my plate. I\u2019ll be back for more tacos soon! I\u2019m very impressed by this dish!",
       "date": "3 years ago",
       "source": "Google"
     },
@@ -106,14 +106,14 @@
     {
       "author": "Ashley Belisle",
       "rating": 5,
-      "text": "What can I say? This place is amazing. Phenomenal staff, wonderful values that show, and I dream about the Common Roots bagel, egg, and cheese. I placed a delivery order that never arrived (Door Dash's fault, not the restaurant's), so they remade my order and delivered it personally instead – with extra bakery treats to boot. Truly the best.",
+      "text": "What can I say? This place is amazing. Phenomenal staff, wonderful values that show, and\u00a0I dream about the Common Roots bagel, egg, and cheese. I placed a delivery order that never arrived (Door Dash's fault, not the restaurant's), so they remade my order and delivered it personally instead \u2013\u00a0with extra bakery treats to boot. Truly the best.",
       "date": "Edited 4 years ago",
       "source": "Google"
     },
     {
       "author": "Karen Lunde",
       "rating": 5,
-      "text": "Common Roots Café, at 2558 Lyndale Ave S, offers great food and beverages, including at least four (4) Fair Trade products. These include Fair Trade Bananas and Fair Trade Sugar from Equal Exchange, Black Squirrel Espresso roasted by Peace Coffee, and Rishi Jasmine Green Tea.\n\nThank you for helping to eliminate poverty & protect the environment by selling Fair Trade products, and welcome to Fair Trade Minneapolis!",
+      "text": "Common Roots Caf\u00e9, at 2558 Lyndale Ave S, offers great food and beverages, including at least four (4) Fair Trade products. These include Fair Trade Bananas and Fair Trade Sugar from Equal Exchange, Black Squirrel Espresso roasted by Peace Coffee, and Rishi Jasmine Green Tea.\n\nThank you for helping to eliminate poverty & protect the environment by selling Fair Trade products, and welcome to Fair Trade Minneapolis!",
       "date": "4 years ago",
       "source": "Google"
     },
@@ -127,5 +127,9 @@
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:28:01.164Z"
+  "lastUpdated": "2026-02-06T02:28:01.164Z",
+  "menu": [],
+  "menuScrapedAt": "2026-03-04T06:23:36.992312+00:00",
+  "menuPlatform": "wordpress",
+  "menuItemCount": 0
 }

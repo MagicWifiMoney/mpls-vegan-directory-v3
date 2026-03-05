@@ -42,7 +42,7 @@
     {
       "author": "Yusra Farhat Ullah",
       "rating": 5,
-      "text": "Bar-like pizza place with fresh coal fired pizza, and unique toppings.\nThis is the only gluten free pizza that tasted so good, it could be wheat pizza. And their mozzarella did not cause my lactose-intolerant self any issues. Favorite toppings (not all together) are Persian beef, mushrooms, margarita, Kalamata olives, harissa sauce, rosemary, and smoked mozzarella.\nAlso, don’t sleep on the eggplant dip, it’s so delicious.\nCocktails are excellent, too.\nPizza is on the expensive end but so worth it.\n\n3 points for atmosphere because it’s very bar-like, loud, dark, juke box, sports tv, etc, which may be right up someone else’s alley, just not mine\n\n4 points for service, could be better. They seem exhausted and exasperated consistently. And this isn’t a judgement of the employees, but rather the employer. The employer should hire more staff rather than have overworked and exhausted employees.",
+      "text": "Bar-like pizza place with fresh coal fired pizza, and unique toppings.\nThis is the only gluten free pizza that tasted so good, it could be wheat pizza. And their mozzarella did not cause my lactose-intolerant self any issues. Favorite toppings (not all together) are Persian beef, mushrooms, margarita, Kalamata olives, harissa sauce, rosemary, and smoked mozzarella.\nAlso, don\u2019t sleep on the eggplant dip, it\u2019s so delicious.\nCocktails are excellent, too.\nPizza is on the expensive end but so worth it.\n\n3 points for atmosphere because it\u2019s very bar-like, loud, dark, juke box, sports tv, etc, which may be right up someone else\u2019s alley, just not mine\n\n4 points for service, could be better. They seem exhausted and exasperated consistently. And this isn\u2019t a judgement of the employees, but rather the employer. The employer should hire more staff rather than have overworked and exhausted employees.",
       "date": "8 months ago",
       "source": "Google"
     },
@@ -56,14 +56,14 @@
     {
       "author": "Braydi McPherson",
       "rating": 5,
-      "text": "I was visiting for a work trip and someone from Chicago told me I had to try this pizza on my way in on the Amtrak. The pizza was so good!! They even let you do half and half pizzas, so you can try more of their delicious flavors. I went with the meatball/ricotta (#4) and the smoked chicken (#14), and it was one of the best pizzas I’ve had. The crust was perfectly crispy and the flavors were freak and complex. The service was phenomenal and they made sure my water never got below half full on a hot day in the city. I did pay $3/hr for parking, but that’s to be expected anywhere in the city. If you like quality pizza from a local company that supports their workers, this is a must try spot.",
+      "text": "I was visiting for a work trip and someone from Chicago told me I had to try this pizza on my way in on the Amtrak. The pizza was so good!! They even let you do half and half pizzas, so you can try more of their delicious flavors. I went with the meatball/ricotta (#4) and the smoked chicken (#14), and it was one of the best pizzas I\u2019ve had. The crust was perfectly crispy and the flavors were freak and complex. The service was phenomenal and they made sure my water never got below half full on a hot day in the city. I did pay $3/hr for parking, but that\u2019s to be expected anywhere in the city. If you like quality pizza from a local company that supports their workers, this is a must try spot.",
       "date": "7 months ago",
       "source": "Google"
     },
     {
       "author": "Anna",
       "rating": 5,
-      "text": "Can definitely be harder to find parking on the weekend when there’s a Tim’s game or twins game going on, but definitely worth it, really great location, amazing service and phenomenal food. Really delicious and exciting mocktails! for one pizza split between two people and two drinks it was about $20 each!!",
+      "text": "Can definitely be harder to find parking on the weekend when there\u2019s a Tim\u2019s game or twins game going on, but definitely worth it, really great location, amazing service and phenomenal food. Really delicious and exciting mocktails! for one pizza split between two people and two drinks it was about $20 each!!",
       "date": "8 months ago",
       "source": "Google"
     },
@@ -91,7 +91,7 @@
     {
       "author": "Nick Wright",
       "rating": 5,
-      "text": "Really good pizza. It wasn’t even very hot because we had it Uber Eats delivered but I could have crushed an entire pizza by myself. Surprisingly the cheese pizza was really good. Not usually a fan of just cheese but this was great. Nice chew to the crust. Good sauce. Good toppings on the others. Nice slight coal fired flavored. Definitely a win. The rest of the city is crap but this place is good.",
+      "text": "Really good pizza. It wasn\u2019t even very hot because we had it Uber Eats delivered but I could have crushed an entire pizza by myself. Surprisingly the cheese pizza was really good. Not usually a fan of just cheese but this was great. Nice chew to the crust. Good sauce. Good toppings on the others. Nice slight coal fired flavored. Definitely a win. The rest of the city is crap but this place is good.",
       "date": "5 months ago",
       "source": "Google"
     },
@@ -105,5 +105,19 @@
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:33:07.155Z"
+  "lastUpdated": "2026-02-06T02:33:07.155Z",
+  "menu": [
+    {
+      "name": "3 Wings",
+      "price": "$18",
+      "category": "Happy Hour",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_prewrap",
+      "source_url": "https://www.blacksheeppizza.com/menus-1"
+    }
+  ],
+  "menuScrapedAt": "2026-03-04T06:24:56.818038+00:00",
+  "menuPlatform": "squarespace",
+  "menuItemCount": 1
 }

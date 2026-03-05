@@ -90,21 +90,21 @@
     {
       "author": "Andrew Zay",
       "rating": 5,
-      "text": "Some of the best Ethiopian food in the Twin Cities. Everything is so flavorful. I’ve loved the combo meals that feature both kitfo and tibs, but the vegetarian and vegan options are excellent as well. Repeat customer, will be back.",
+      "text": "Some of the best Ethiopian food in the Twin Cities. Everything is so flavorful. I\u2019ve loved the combo meals that feature both kitfo and tibs, but the vegetarian and vegan options are excellent as well. Repeat customer, will be back.",
       "date": "2 months ago",
       "source": "Google"
     },
     {
       "author": "Dan Salem",
       "rating": 5,
-      "text": "I stumbled upon this wonderful new restaurant in Maple Grove with meat and vegan options. I can’t wait to go back! The vegan sampler was out of this world, as were the appetizers. My friend had a couple different traditional meat dishes.",
+      "text": "I stumbled upon this wonderful new restaurant in Maple Grove with meat and vegan options. I can\u2019t wait to go back! The vegan sampler was out of this world, as were the appetizers. My friend had a couple different traditional meat dishes.",
       "date": "4 months ago",
       "source": "Google"
     },
     {
       "author": "Adarus Ali",
       "rating": 5,
-      "text": "My wife and I absolutely love this Ethiopian restaurant—it’s been our go-to spot for a long time, and for good reason. The food is always delicious and truly authentic, with flavors that keep us coming back again and again. The service is consistently top-notch, and you can really feel the pride they take in taking care of their guests.\n\nWhat really touched us recently was how the owner/chef went above and beyond. My wife had just graduated, and he surprised us by making a special cake just for her. It was such a thoughtful gesture and made the night unforgettable.\n\nIf you’re looking for amazing food, great service, and a place that treats you like family, this is the spot. Highly recommended! 👌🏾🍽️🎉",
+      "text": "My wife and I absolutely love this Ethiopian restaurant\u2014it\u2019s been our go-to spot for a long time, and for good reason. The food is always delicious and truly authentic, with flavors that keep us coming back again and again. The service is consistently top-notch, and you can really feel the pride they take in taking care of their guests.\n\nWhat really touched us recently was how the owner/chef went above and beyond. My wife had just graduated, and he surprised us by making a special cake just for her. It was such a thoughtful gesture and made the night unforgettable.\n\nIf you\u2019re looking for amazing food, great service, and a place that treats you like family, this is the spot. Highly recommended! \ud83d\udc4c\ud83c\udffe\ud83c\udf7d\ufe0f\ud83c\udf89",
       "date": "2 months ago",
       "source": "Google"
     },
@@ -125,21 +125,21 @@
     {
       "author": "Alicia Shinn",
       "rating": 5,
-      "text": "I was looking for a unique yet flavorful place to eat while in Minnesota on business travel and came across this spot! At first glance, you think you’re in the wrong location, but you’re not!\nAs soon as I opened the door I was greeted and seated, which is an A+ for me.\nMy waitress was amazing with the recommendations.\nI tried the Midway dish with the three sides.\nEVERYTHING WAS FLAVORFUL AND GOOD!\nCome try it, you will not be disappointed!!",
+      "text": "I was looking for a unique yet flavorful place to eat while in Minnesota on business travel and came across this spot! At first glance, you think you\u2019re in the wrong location, but you\u2019re not!\nAs soon as I opened the door I was greeted and seated, which is an A+ for me.\nMy waitress was amazing with the recommendations.\nI tried the Midway dish with the three sides.\nEVERYTHING WAS FLAVORFUL AND GOOD!\nCome try it, you will not be disappointed!!",
       "date": "7 months ago",
       "source": "Google"
     },
     {
       "author": "Allyson C",
       "rating": 5,
-      "text": "Got the half meat / half veggie combo and instantly knew I would have to come back soon because it was delicious! I went with my brother who suggested what veggie dishes to get, and I was amazed at how good everything was. For example, I normally don’t like lentils, but the lentils here might have changed my mind with just how flavorful and delicious they were.\n\nOne of my favorite recent meals and a place I want to make one of my new regular places!",
+      "text": "Got the half meat / half veggie combo and instantly knew I would have to come back soon because it was delicious! I went with my brother who suggested what veggie dishes to get, and I was amazed at how good everything was. For example, I normally don\u2019t like lentils, but the lentils here might have changed my mind with just how flavorful and delicious they were.\n\nOne of my favorite recent meals and a place I want to make one of my new regular places!",
       "date": "3 months ago",
       "source": "Google"
     },
     {
       "author": "Teklie Yohannes",
       "rating": 5,
-      "text": "Bole Restaurant is simply outstanding! The food is always fresh and delicious, the service is excellent, and the hospitality is warm and welcoming. I recently brought my friends, and they were just as impressed. Maintaining such consistent quality for so many years is rare—this truly is one of the best restaurants around!",
+      "text": "Bole Restaurant is simply outstanding! The food is always fresh and delicious, the service is excellent, and the hospitality is warm and welcoming. I recently brought my friends, and they were just as impressed. Maintaining such consistent quality for so many years is rare\u2014this truly is one of the best restaurants around!",
       "date": "3 months ago",
       "source": "Google"
     },
@@ -160,5 +160,937 @@
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:23:12.477Z"
+  "lastUpdated": "2026-02-06T02:23:12.477Z",
+  "menu": [
+    {
+      "name": "Kategna",
+      "price": "$8.95",
+      "category": "Kategna",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Crispy Kitfo",
+      "price": "$15.00",
+      "category": "Crispy Kitfo",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Veggie Wings",
+      "price": "$12.00",
+      "category": "Veggie Wings",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Dirkosh Shiro Dip",
+      "price": "$9.00",
+      "category": "Dirkosh Shiro Dip",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Beef Sambusa",
+      "price": "$9.95",
+      "category": "Beef Sambusa",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Veggie Sambusa",
+      "price": "$9.45",
+      "category": "Veggie Sambusa",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Mitmita Fries (Fresh Cut)",
+      "price": "$6.00",
+      "category": "Mitmita Fries (Fresh Cut)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Regular Fries (Fresh Cut)",
+      "price": "$5.00",
+      "category": "Regular Fries (Fresh Cut)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "House Salad",
+      "price": "$11.00",
+      "category": "House Salad",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Beets & Goat Cheese Salad",
+      "price": "$15.00/Bowl",
+      "category": "Beets & Goat Cheese Salad",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Mac & Cheese",
+      "price": "$7.95",
+      "category": "Mac & Cheese",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Grilled Cheese w/ Fresh Cut Fries",
+      "price": "$6.95",
+      "category": "Grilled Cheese W/ Fresh Cut Fries",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Chicken Strips w/ Fresh Cut Fries",
+      "price": "$6.95",
+      "category": "Chicken Strips W/ Fresh Cut Fries",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Fish & Fresh Cut Fries",
+      "price": "$6.95",
+      "category": "Fish & Fresh Cut Fries",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Pasta w/ Tomato Sauce",
+      "price": "$9.95",
+      "category": "Pasta W/ Tomato Sauce",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Pasta with meat sauce",
+      "price": "$11.95",
+      "category": "Pasta With Meat Sauce",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Kitfo Sandwich with Fries",
+      "price": "$11.95",
+      "category": "Kitfo Sandwich With Fries",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Steak Sandwich with Fries",
+      "price": "$14.95",
+      "category": "Steak Sandwich With Fries",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Pasta w/ Meat Sauce",
+      "price": "$15.95",
+      "category": "Pasta W/ Meat Sauce",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Miser",
+      "price": "$7.95/Small",
+      "category": "Miser",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Shiro",
+      "price": "$7.95/Small",
+      "category": "Shiro",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Ater Kik",
+      "price": "$7.45/Small",
+      "category": "Ater Kik",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Fasolia",
+      "price": "$7.45/Small",
+      "category": "Fasolia",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Tiqel Gomen",
+      "price": "$7.45/Small",
+      "category": "Tiqel Gomen",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Gomen",
+      "price": "$7.45/Small",
+      "category": "Gomen",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Potato and Carrot Alicha",
+      "price": "$6.95/Small",
+      "category": "Potato And Carrot Alicha",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Roasted Beets w/ Turmeric",
+      "price": "$6.95/Small",
+      "category": "Roasted Beets W/ Turmeric",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Small Veggie Sampler",
+      "price": "$11.95",
+      "category": "Small Veggie Sampler",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Regular Veggie Sampler",
+      "price": "$15.95",
+      "category": "Regular Veggie Sampler",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Super Veggie",
+      "price": "$28.95",
+      "category": "Super Veggie",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Kitfo",
+      "price": "$15.95",
+      "category": "Kitfo",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Special Kitfo",
+      "price": "$18.95",
+      "category": "Special Kitfo",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Kitfo Dulet",
+      "price": "$18.00",
+      "category": "Kitfo Dulet",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Gumer Kitfo with Kocho",
+      "price": "$29.95",
+      "category": "Gumer Kitfo With Kocho",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Gored Gored",
+      "price": "$17.00",
+      "category": "Gored Gored",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Asa Kitfo",
+      "price": "$15.95",
+      "category": "Asa Kitfo",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Asa Gulash",
+      "price": "$16.95",
+      "category": "Asa Gulash",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Whole Tilapia Fried Fish",
+      "price": "$15.95",
+      "category": "Whole Tilapia Fried Fish",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Bozena Shiro",
+      "price": "$15.95",
+      "category": "Bozena Shiro",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Quanta Firfir",
+      "price": "$15.00",
+      "category": "Quanta Firfir",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Dirkosh Quanta Firfir",
+      "price": "$14.00",
+      "category": "Dirkosh Quanta Firfir",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Yebeg Tibs (Lamb Tibs)",
+      "price": "$17.95",
+      "category": "Yebeg Tibs (Lamb Tibs)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Half & Half",
+      "price": "$19.95",
+      "category": "Half & Half",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Lega Tibs",
+      "price": "$16.00",
+      "category": "Lega Tibs",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Lega Tibs Fitfit",
+      "price": "$15.00",
+      "category": "Lega Tibs Fitfit",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Awaze Tibs",
+      "price": "$17.00",
+      "category": "Awaze Tibs",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Doro Tibs",
+      "price": "$15.00",
+      "category": "Doro Tibs",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Zil Zil Tibs",
+      "price": "$19.95",
+      "category": "Zil Zil Tibs",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Derek Tibs",
+      "price": "$18.00",
+      "category": "Derek Tibs",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Biret Mitad Tibs",
+      "price": "$19.00",
+      "category": "Biret Mitad Tibs",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Midway Tibs",
+      "price": "$18.00",
+      "category": "Midway Tibs",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Chikina Tibs",
+      "price": "$22.95",
+      "category": "Chikina Tibs",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Doro Wat",
+      "price": "$18.00",
+      "category": "Doro Wat",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Yebeg Alicha",
+      "price": "$15.00",
+      "category": "Yebeg Alicha",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Siga Wat",
+      "price": "$14.00",
+      "category": "Siga Wat",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Half Meat Half Veggie",
+      "price": "$33.95",
+      "category": "Half Meat Half Veggie",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "TOUR OF ETHIOPIA",
+      "price": "$69.95",
+      "category": "Tour Of Ethiopia",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Tokkumaa",
+      "price": "$33.95/Half",
+      "category": "Tokkumaa",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Tibs Combo",
+      "price": "$69.95",
+      "category": "Tibs Combo",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Injera",
+      "price": "$1.50",
+      "category": "Injera",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Rice",
+      "price": "$2.00",
+      "category": "Rice",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Salad",
+      "price": "$2.85",
+      "category": "Salad",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Bread",
+      "price": "$1.00",
+      "category": "Bread",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Sinig",
+      "price": "$0.85",
+      "category": "Sinig",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Side Veggie Dish",
+      "price": "$3.50",
+      "category": "Side Veggie Dish",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Gluten Free Injera",
+      "price": "$3.00",
+      "category": "Gluten Free Injera",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Millefoglie",
+      "price": "$5.25",
+      "category": "Millefoglie",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "$5.25",
+      "category": "Tiramisu",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Vanilla Mocha Cake",
+      "price": "$4.45",
+      "category": "Vanilla Mocha Cake",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Seasonal Desserts (Cr\u00e8me Br\u00fbl\u00e9e)",
+      "price": "$5.95",
+      "category": "Seasonal Desserts (Cr\u00e8me Br\u00fbl\u00e9e)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Baklava",
+      "price": "$3.95",
+      "category": "Baklava",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Cream Puff",
+      "price": "$4.95",
+      "category": "Cream Puff",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Ricotta pie",
+      "price": "$6.95",
+      "category": "Ricotta Pie",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Pick 2",
+      "price": "$7.95",
+      "category": "Pick 2",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Pick 4",
+      "price": "$11.95",
+      "category": "Pick 4",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Ater Kik (Split Pea Stew)",
+      "price": "$11.95",
+      "category": "Ater Kik (Split Pea Stew)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Shiro (Ground-Chickpea Stew)",
+      "price": "$12.95",
+      "category": "Shiro (Ground-Chickpea Stew)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Miser (Red Lentils)",
+      "price": "$12.95",
+      "category": "Miser (Red Lentils)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Fasolia (Green Beans)",
+      "price": "$11.95",
+      "category": "Fasolia (Green Beans)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Gomen (Greens)",
+      "price": "$11.95",
+      "category": "Gomen (Greens)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Tiqel Gomen (Cabbage)",
+      "price": "$11.95",
+      "category": "Tiqel Gomen (Cabbage)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Qey Sir (Beets)",
+      "price": "$11.95",
+      "category": "Qey Sir (Beets)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Potatoes & Carrots",
+      "price": "$12.95",
+      "category": "Potatoes & Carrots",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Pick 1",
+      "price": "$8.95/Small",
+      "category": "Pick 1",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Pick 3",
+      "price": "$18.95",
+      "category": "Pick 3",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Awaze Tibs (Beef Stir Fry)",
+      "price": "$12.95",
+      "category": "Awaze Tibs (Beef Stir Fry)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Chicken Tibs (Chicken Stir Fry)",
+      "price": "$12.95",
+      "category": "Chicken Tibs (Chicken Stir Fry)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Doro (Chicken Stew)",
+      "price": "$12.95",
+      "category": "Doro (Chicken Stew)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Siga Wot (Beef Stew)",
+      "price": "$12.95",
+      "category": "Siga Wot (Beef Stew)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Gomen Besiga (Beef/Collard Greens)",
+      "price": "$12.95",
+      "category": "Gomen Besiga (Beef/Collard Greens)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Alicha Wot (Turmeric Lamb Stew)",
+      "price": "$12.95",
+      "category": "Alicha Wot (Turmeric Lamb Stew)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "One Meat / One Veggie",
+      "price": "$9.95",
+      "category": "One Meat / One Veggie",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "One Meat / Three Veggie",
+      "price": "$14.95",
+      "category": "One Meat / Three Veggie",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Good to Share",
+      "price": "$21.95",
+      "category": "Good To Share",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Ater Kik Roll",
+      "price": "$7.95",
+      "category": "Ater Kik Roll",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Sambusas (2)",
+      "price": "$3.45",
+      "category": "Sambusas (2)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Mitmita Fries",
+      "price": "$4.95",
+      "category": "Mitmita Fries",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Fries (Regular)",
+      "price": "$4.95",
+      "category": "Fries (Regular)",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Chicken Strips",
+      "price": "$4.95",
+      "category": "Chicken Strips",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Side Mitmita",
+      "price": "$0.85",
+      "category": "Side Mitmita",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Side Awaze",
+      "price": "$0.85",
+      "category": "Side Awaze",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "White Rice",
+      "price": "$4.00",
+      "category": "White Rice",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    },
+    {
+      "name": "Regular Injera",
+      "price": "$1.25",
+      "category": "Regular Injera",
+      "description": "",
+      "vegan": null,
+      "source": "direct_html",
+      "source_url": "https://boleethiopiancuisine.com/st-paul-como-park-bole-ethiopian-cuisine-food-menu"
+    }
+  ],
+  "menuScrapedAt": "2026-03-04T06:22:17.609025+00:00",
+  "menuPlatform": "toast",
+  "menuItemCount": 103
 }

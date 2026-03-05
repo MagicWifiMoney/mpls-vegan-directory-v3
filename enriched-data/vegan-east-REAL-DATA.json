@@ -82,7 +82,7 @@
     {
       "author": "Mj Sullivan",
       "rating": 5,
-      "text": "Vegan East is renowned for its delectable Carrot Cake, which is a must-try for anyone with a sweet tooth. Their cupcakes come in a variety of mouth-watering flavors, including Cookie Dough and Red Velvet. Don't miss their Gluten Free Cosmic Brownies – they're a perfect treat for any brownie lover.\n\nWhat's more, all their treats are 100% vegan, meaning they are free from any animal products. This makes Vegan East a fantastic destination for those who follow a plant-based diet or anyone looking to enjoy delicious, cruelty-free goodies.\n\nIf you're in Minneapolis, make sure to stop by Vegan East and treat yourself – your taste buds will thank you!",
+      "text": "Vegan East is renowned for its delectable Carrot Cake, which is a must-try for anyone with a sweet tooth. Their cupcakes come in a variety of mouth-watering flavors, including Cookie Dough and Red Velvet. Don't miss their Gluten Free Cosmic Brownies \u2013 they're a perfect treat for any brownie lover.\n\nWhat's more, all their treats are 100% vegan, meaning they are free from any animal products. This makes Vegan East a fantastic destination for those who follow a plant-based diet or anyone looking to enjoy delicious, cruelty-free goodies.\n\nIf you're in Minneapolis, make sure to stop by Vegan East and treat yourself \u2013 your taste buds will thank you!",
       "date": "11 months ago",
       "source": "Google"
     },
@@ -103,7 +103,7 @@
     {
       "author": "Rae ofSunshine",
       "rating": 4,
-      "text": "At first, it’s hard to believe this tiny shop exists within this neighborhood. It is a tiny store in general, and it is tiny when you walk in. It’s not set up to dazzle you in anyway. It’s actually quite confusing that they have product to sell, unless you search them online and order a cake and already know that they’re making you something great. The cake I ordered – the chocolate cake, in the 5 inch size was delicious and pleased my dad very much. It was for his birthday which I will not be in town for. So an early surprise. I would definitely surprise him with a cake from here when I’m visiting Minneapolis again.",
+      "text": "At first, it\u2019s hard to believe this tiny shop exists within this neighborhood. It is a tiny store in general, and it is tiny when you walk in. It\u2019s not set up to dazzle you in anyway. It\u2019s actually quite confusing that they have product to sell, unless you search them online and order a cake and already know that they\u2019re making you something great. The cake I ordered \u2013 the chocolate cake, in the 5 inch size was delicious and pleased my dad very much. It was for his birthday which I will not be in town for. So an early surprise. I would definitely surprise him with a cake from here when I\u2019m visiting Minneapolis again.",
       "date": "10 months ago",
       "source": "Google"
     },
@@ -124,7 +124,7 @@
     {
       "author": "Elizabeth Campbell",
       "rating": 5,
-      "text": "We just had a birthday cake for my son (who can’t have eggs or dairy due to FPIES) at his birthday party. It was SO tasty!!! Everyone kept exclaiming that they couldn’t believe it was vegan. I am so appreciative that Vegan East made this amazing dessert- he’s starting to figure out when he doesn’t get the same food as everyone else and gets sad. This cake made him feel included and special all at the same time. Ordering was easy, and it was ready right when I ordered It for!",
+      "text": "We just had a birthday cake for my son (who can\u2019t have eggs or dairy due to FPIES) at his birthday party. It was SO tasty!!! Everyone kept exclaiming that they couldn\u2019t believe it was vegan. I am so appreciative that Vegan East made this amazing dessert- he\u2019s starting to figure out when he doesn\u2019t get the same food as everyone else and gets sad. This cake made him feel included and special all at the same time. Ordering was easy, and it was ready right when I ordered It for!",
       "date": "2 months ago",
       "source": "Google"
     },
@@ -145,5 +145,9 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:23:20.689Z"
+  "lastUpdated": "2026-02-05T23:23:20.689Z",
+  "menu": [],
+  "menuScrapedAt": "2026-03-04T06:19:41.526250+00:00",
+  "menuPlatform": "shopify",
+  "menuItemCount": 0
 }

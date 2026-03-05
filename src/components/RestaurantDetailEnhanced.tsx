@@ -124,21 +124,7 @@ interface PlaceDetails {
   }>;
   openNow?: boolean;
   popularItems?: string[];
-  yelp?: {
-    rating?: number;
-    reviewCount?: number;
-    photos?: string[];
-    reviews?: Array<{
-      author_name: string;
-      rating: number;
-      text: string;
-      time: string;
-      profile_photo_url: string;
-      url: string;
-    }>;
-    yelpUrl?: string;
-    openNow?: boolean;
-  };
+
 }
 
 export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: Restaurant }) {
@@ -165,17 +151,14 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
     fetchDetails();
   }, [restaurant.googlePlaceId]);
 
-  // Combine and categorize photos
-  const googlePhotos = placeDetails?.photos?.map(url => url.trim()) || [];
-  const yelpPhotos = placeDetails?.yelp?.photos || [];
-  const allPhotos = [...googlePhotos, ...yelpPhotos];
+  const allPhotos = placeDetails?.photos?.map(url => url.trim()) || [];
   
   // Categorize photos (basic heuristic - in production, use image labels)
   const categorizedPhotos = {
     all: allPhotos,
-    food: allPhotos.slice(0, Math.ceil(allPhotos.length * 0.6)), // First 60% assumed food
-    menu: allPhotos.slice(0, 3), // First few often menu shots
-    interior: allPhotos.slice(Math.ceil(allPhotos.length * 0.6)) // Rest interior
+    food: allPhotos.slice(0, Math.ceil(allPhotos.length * 0.6)),
+    menu: allPhotos.slice(0, 3),
+    interior: allPhotos.slice(Math.ceil(allPhotos.length * 0.6))
   };
 
   const photos = categorizedPhotos[activePhotoCategory];
@@ -280,7 +263,7 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
                 <h2 className="font-display text-2xl text-[#f5f0e8]">What to Order</h2>
                 <p className="text-sm text-[#f5f0e8]/60">
                   {enhancedRestaurantData[restaurant.slug]?.ratings
-                    ? `Real customer favorites from ${(enhancedRestaurantData[restaurant.slug].ratings.sources.google.reviewCount + (enhancedRestaurantData[restaurant.slug].ratings.sources.yelp?.reviewCount || 0)).toLocaleString()}+ reviews` 
+                    ? `Real customer favorites from ${enhancedRestaurantData[restaurant.slug].ratings.sources.google.reviewCount.toLocaleString()}+ reviews`
                     : 'Based on menu highlights and customer reviews'}
                 </p>
               </div>
@@ -487,25 +470,20 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
                 Visit Website →
               </a>
             </div>
-            {(rating || placeDetails?.yelp?.rating) && (
+            {rating && (
               <div>
-                <div className="text-xs text-[#f5f0e8]/40 mb-1">Ratings</div>
-                <div className="space-y-2">
-                  {rating && (
-                    <div className="flex items-center gap-2">
-                      <span className="text-sm text-[#f5f0e8]/60 w-16">Google</span>
-                      <span className="text-xl font-bold text-[#f5f0e8]">{rating.toFixed(1)}</span>
-                      <div className="flex">
-                        {[1, 2, 3, 4, 5].map((star) => (
-                          <span key={star} className={star <= Math.round(rating) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
-                            ★
-                          </span>
-                        ))}
-                      </div>
-                      {reviewCount && (
-                        <span className="text-xs text-[#f5f0e8]/40">({reviewCount.toLocaleString()})</span>
-                      )}
-                    </div>
+                <div className="text-xs text-[#f5f0e8]/40 mb-1">Rating</div>
+                <div className="flex items-center gap-2">
+                  <span className="text-xl font-bold text-[#f5f0e8]">{rating.toFixed(1)}</span>
+                  <div className="flex">
+                    {[1, 2, 3, 4, 5].map((star) => (
+                      <span key={star} className={star <= Math.round(rating) ? 'text-[#d4a574]' : 'text-[#f5f0e8]/10'}>
+                        ★
+                      </span>
+                    ))}
+                  </div>
+                  {reviewCount && (
+                    <span className="text-xs text-[#f5f0e8]/40">({reviewCount.toLocaleString()})</span>
                   )}
                 </div>
               </div>
@@ -517,16 +495,13 @@ export default function RestaurantDetailEnhanced({ restaurant }: { restaurant: R
       {/* Reviews Section */}
       <ReviewTabs
         googleReviews={enhancedRestaurantData[restaurant.slug]?.highlightedReviews || reviews}
-        yelpReviews={placeDetails?.yelp?.reviews || []}
         restaurantName={restaurant.name}
         restaurantAddress={restaurant.address}
         restaurantCity={restaurant.city}
-        yelpUrl={placeDetails?.yelp?.yelpUrl}
         restaurantSlug={restaurant.slug}
         totalReviewCount={
           enhancedRestaurantData[restaurant.slug]?.ratings
-            ? enhancedRestaurantData[restaurant.slug].ratings.sources.google.reviewCount + 
-              (enhancedRestaurantData[restaurant.slug].ratings.sources.yelp?.reviewCount || 0)
+            ? enhancedRestaurantData[restaurant.slug].ratings.sources.google.reviewCount
             : (placeDetails?.userRatingsTotal || reviewCount)
         }
       />

@@ -44,7 +44,7 @@
       },
       "cookingInstructions": [
         "Steam: 20 minutes",
-        "Oven: 350°F for 15-20 min in foil",
+        "Oven: 350\u00b0F for 15-20 min in foil",
         "Grill: Few minutes each side",
         "Pan Fry: Medium heat until heated through"
       ],
@@ -89,7 +89,7 @@
       },
       "cookingInstructions": [
         "Pan Fry: 5-7 minutes, turning occasionally",
-        "Air Fryer: 375°F for 6-8 minutes",
+        "Air Fryer: 375\u00b0F for 6-8 minutes",
         "Grill: Medium heat for 5-7 minutes"
       ],
       "whyPeopleLoveIt": "Perfect snap texture, bold Italian flavors, ideal for grilling or pasta",
@@ -272,7 +272,7 @@
       "Uber Eats featured",
       "Reddit r/vegan highly recommended"
     ],
-    "fanFavoriteStatus": "4.8★ across 1,500+ reviews",
+    "fanFavoriteStatus": "4.8\u2605 across 1,500+ reviews",
     "testimonials": [
       "Fake meat never tasted this good",
       "I didn't expect it to taste this great!",
@@ -303,7 +303,7 @@
     {
       "author": "Philip",
       "rating": 5,
-      "text": "Amazing vegan place, really affordable sandwiches, and an amazing selection of vegan meats. For someone who is sick of every restaurant just having a beyond burger or impossible burger this place is very refreshing and delicious. Sandwiches are about 12.50 for about a 10” long traditional sandwich on a French roll. And you can spend as much as you want on their specialty meats",
+      "text": "Amazing vegan place, really affordable sandwiches, and an amazing selection of vegan meats. For someone who is sick of every restaurant just having a beyond burger or impossible burger this place is very refreshing and delicious. Sandwiches are about 12.50 for about a 10\u201d long traditional sandwich on a French roll. And you can spend as much as you want on their specialty meats",
       "date": "a year ago"
     },
     {
@@ -333,7 +333,7 @@
     {
       "author": "Daniel Pfleger",
       "rating": 5,
-      "text": "My daughter is vegan and my wife and I have also given up meat. That said, I took my kids here to get sandwiches. The cold cut sandwiches were fantastic! My son picked the sandwich with the vegan mac and cheese and we all loved it. I bought the cookbook and a sweatshirt for my daughter for christmas and she’s excited to make the mac and cheese.\nOh, and the gentleman who helped us navigate our first visit was patient and quite helpful. We will be back…",
+      "text": "My daughter is vegan and my wife and I have also given up meat. That said, I took my kids here to get sandwiches. The cold cut sandwiches were fantastic! My son picked the sandwich with the vegan mac and cheese and we all loved it. I bought the cookbook and a sweatshirt for my daughter for christmas and she\u2019s excited to make the mac and cheese.\nOh, and the gentleman who helped us navigate our first visit was patient and quite helpful. We will be back\u2026",
       "date": "2 years ago"
     },
     {
@@ -342,5 +342,568 @@
       "text": "We loved it! I was a bit hesitant because I don't generaly like vegan cheeses and meats I tried from the grocery stores, but these were great. Turkey dill havarti sandwhich was excellent! We tried beef sticks, a bit spicy but tasty. And mozzarela and smoked gouda were WOW. Neither had that fake cheese flavor but were tasty and moorish, excellent texture, would be great on it's own on vegan charcuterie boards.\nCan't wait to try it on a pizza!",
       "date": "2 years ago"
     }
-  ]
+  ],
+  "menu": [
+    {
+      "name": "A la Carte Shredded Corned Beef (7.5oz) - Made without gluten",
+      "price": "$18.49",
+      "category": "Food",
+      "description": "Introducing our Shredded Corned Beef! Made from gluten-free jackfruit, it\u2019s seared and seasoned to bring all the savory corned beef flavors you love. Perfect for sandwiches, toss it in a sauce, add it",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-shredded-corned-beef-7-5oz-made-without-gluten",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Gorgonzola Sauce (16oz)",
+      "price": "$17.49",
+      "category": "Food",
+      "description": "Gorgonzola Sauce\u2014 Here for a Limited Time! Our rich, creamy Gorgonzola Sauce is made with our signature almond-based Blue Cheese, bringing the perfect balance of tangy, savory, and umami flavors. Limi",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-gorgonzola-sauce",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Lasagna (32oz)",
+      "price": "$25.99",
+      "category": "Menu",
+      "description": "Our Lasagna is officially here to stay (for now \ud83d\ude09). Each 32 oz tray includes 4 hearty servings and is packed and sealed frozen to lock in all that cozy, layered goodness. It ships to you with ice pack",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/lasagna-32oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Korean Beef Stick Bundle",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Meet your new favorite protein snack \u2014 our NEW Korean Beef Sticks. Inspired by classic Korean BBQ flavors, these sticks are savory, salty, and rich with toasted sesame flavor, finished with a subtle t",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-korean-beef-stick-bundle",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Corned Beef (8oz)",
+      "price": "$18.99",
+      "category": "Food",
+      "description": "It\u2019s back. Our savory, perfectly seasoned Sliced Corned Beef has returned \u2014 thinly sliced, deli-style, and ready to be stacked high. Bold, briny, and beautifully balanced, this plant-based classic del",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-corned-beef-8oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Corned Beef Roast (16oz)",
+      "price": "$22.99",
+      "category": "Food",
+      "description": "Your vegan Corned Beef Roast dreams have come true \u2014 again. This plant-based corned beef roast blends our signature seitan recipe with tender jackfruit for the perfect sliceable bite. Savory, peppery,",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-corned-beef-roast-16oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Swiss Cheese (5oz)",
+      "price": "$14.99",
+      "category": "Food",
+      "description": "Our vegan Swiss cheese is smooth, nutty, and perfectly tangy \u2014 with that classic melt you expect from a true sandwich staple. This plant-based Swiss melts beautifully into hot sandwiches, making it th",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-swiss-cheese-5oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Luck of The Vegan Pack 2026 \u2013 Pre-Order",
+      "price": "$110.00",
+      "category": "Food",
+      "description": "You don\u2019t need a four-leaf clover to strike gold \u2014 our Luck of the Vegan Pack is back, and it\u2019s overflowing with plant-based treasures worthy of the ultimate St. Paddy\u2019s Day feast! \ud83c\udf40\u2728 This limited-tim",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/luck-of-the-vegan-pack-2026-pre-order",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Fried Chicken (16oz)",
+      "price": "$22.99",
+      "category": "Food",
+      "description": "\ud83c\udf57 FRIED CHICKEN IS BACK! \ud83c\udf57 Our fan-favorite 16 oz Fried Chicken is officially available again! \u2014 Right now we have a very limited amount, so grab yours while it lasts! Thank you for your patience and ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-fried-chicken-16oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Summer Sausage (13oz)",
+      "price": "$19.99",
+      "category": "Food",
+      "description": "\u2600\ufe0f Our Summer Sausage is back \u2014 but only for a limited time! \u2600\ufe0f Available now through April 18th at 12pm CST, this savory, smoky sausage is perfectly seasoned and ready to eat. It\u2019s bold, flavorful, a",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-summer-sausage",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Jerky Sampler (18oz)",
+      "price": "$34.99",
+      "category": "Menu",
+      "description": "Craving variety or just can\u2019t get enough of your favorite jerky? Our Jerky Sampler lets you mix and match exactly how you like! Choose three different flavors, all the same, or any combo in between. E",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/jerky-sampler-three-varities-pack",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Vegan Starter Kit 2025",
+      "price": "$125.00",
+      "category": "Food",
+      "description": "// ATTENTION: PRE-ORDER FOR SHIPPING ONLY \u2014 SHIPS WEEK OF JANUARY 5TH! Get ready to elevate your plant-based lifestyle with our Vegan Starter Kit 2025! This exciting kit features 10 of our best-sellin",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/vegan-starter-kit-2025",
+      "source": "shopify_api"
+    },
+    {
+      "name": "HBFC Mac Sauce (16oz)",
+      "price": "$18.99",
+      "category": "Food",
+      "description": "ATTENTION: PRE-ORDER FOR SHIPPING ONLY \u2014 SHIPS WEEK OF JANUARY 5TH! The mac &amp; cheese magic lives on. Straight from the kitchen that made it legendary, our HBFC Mac Sauce brings rich, creamy, crave",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/hbfc-mac-sauce",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Porter Cheddar (5oz)",
+      "price": "$14.99",
+      "category": "Food",
+      "description": "Bold, savory, and deeply flavorful \u2014 our Vegan Porter Cheddar is here for a limited time. Crafted with real porter beer, this plant-based cheddar delivers a rich, malty depth with sharp, savory notes ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-porter-cheddar-5oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Meatloaf (28oz) - made without gluten",
+      "price": "$29.99",
+      "category": "Food",
+      "description": "Our Meatloaf (28oz) is the perfect hearty entr\u00e9e for sharing with family or friends \u2014 big enough to serve a group or guarantee plenty of delicious leftovers. A true Staff Favorite, it\u2019s packed with a ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-meatloaf-28oz-made-without-gluten",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Sliced Pepper Jack Cheese (8oz)",
+      "price": "$16.49",
+      "category": "Food",
+      "description": "Spicy slices for bold bites \ud83d\udd25 Our Sliced Pepper Jack brings creamy dairy-free goodness with a lively kick of real peppers \u2014 perfectly portioned and ready to stack, melt, or snack. Tangy, smooth, and j",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-sliced-pepper-jack-cheese-8oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Cashew Parmesan (3oz)",
+      "price": "$10.99",
+      "category": "Food",
+      "description": "Parmesan Cheese! \ud83e\uddc0 The wait is over! This long-anticipated cheesy dust is here to take your dishes to the next level. Perfect for sprinkling on pizzas, pastas, salads, roasted veggies, popcorn, soups,",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/cashew-parmesan",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Oops All Cheese Pack",
+      "price": "$99.00",
+      "category": "Food",
+      "description": "ATTENTION: PRE-ORDER FOR SHIPPING ONLY \u2014 SHIPS WEEK OF JANUARY 5TH! Cheese lovers, rejoice! \ud83e\uddc0 Our Oops, All Cheese Pack is here to satisfy your cheesiest cravings with a curated selection of our best-",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/oops-all-cheese-pack",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte White Cheddar Sauce (16oz)",
+      "price": "$17.49",
+      "category": "Food",
+      "description": "Gobble up a cheesy delight with our White Cheddar Sauce! Our sauce is bursting with cheesy goodness that'll make your mouth water.",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-white-cheddar-sauce-16oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Variety Meat Stick Bundle",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Snack time just got a whole lot more exciting with our Meat Stick Bundle! Packed with flavor and protein, this bundle is a perfect combo of savory Pepperoni and Beef Sticks \u2014no prep required, just gra",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-variety-meat-stick-bundle",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Beef Stick Bundle",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Beef Sticks \u2013 Now with Even More Protein! \ud83d\udcaa Get ready to fuel your day with our Beef Sticks, packed with a whopping 23 grams of protein per stick! Our new recipe is even more protein-packed than befor",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-beef-sticks",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Pepperoni Stick Bundle",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Pepperoni Sticks \u2013 A Flavorful Twist! Craving something bold and savory? Our Pepperoni Sticks have got you covered! With 17 grams of protein per stick , these spicy, delicious treats are perfect for s",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-pepperoni-sticks-1",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Bleu Cheese Dressing (16oz)",
+      "price": "$14.99",
+      "category": "Food",
+      "description": "Tangy, creamy, and boldly bleu. Our Bleu Cheese Dressing brings all the sharp, savory goodness of the classic \u2014 completely dairy-free and crafted from almonds for rich, creamy perfection. With plant-b",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-bleu-cheese-dressing-16oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Bleu Cheese (6oz)",
+      "price": "$17.49",
+      "category": "Food",
+      "description": "Creamy, tangy, and boldly unforgettable. Our almond-based Bleu Cheese brings the sharp, savory funk that bleu lovers crave \u2014 in a rich, creamy crumble that melts beautifully into any dish. Crafted wit",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-blue-cheese-6oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Gift Card (for shipped orders only)",
+      "price": "$10.00",
+      "category": "Menu",
+      "description": "The perfect gift for your meat-free friends and family! \ud83c\udf81 This digital gift card is valid for shipping orders only. \u2714\ufe0f Choose from the denominations below. \u2714\ufe0f At checkout, enter the recipient\u2019s email ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/gift-card-for-shipping",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Gluten-Free Pack",
+      "price": "$85.00",
+      "category": "Food",
+      "description": "ATTENTION: PRE-ORDER FOR SHIPPING ONLY \u2014 SHIPS WEEK OF JANUARY 5TH! No gluten? No problem \u2014 flavor comes first! Our Gluten Free Pack brings together a delicious assortment of plant-based meats and dai",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/gluten-free-pack",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Roast Beef (8oz)",
+      "price": "$15.99",
+      "category": "Food",
+      "description": "Bold deli flavor without the bull. Our Roast Beef delivers deep, savory richness with classic roast-house vibes \u2014 perfectly seasoned and thinly sliced for that authentic deli bite. Juicy, tender, and ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-roast-beef-8oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Bacon Brats (13oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Our savory Bacon Brats are a smoky, flavorful twist on the classic bratwurst! We marble each one with the same signature vegan fat we use on our house-made bacon \u2014 crafted from tapioca flour and oil \u2014",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-bacon-brats-13oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Sriracha Brats (13oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Turn up the heat with our bold and flavorful Sriracha Brats! \ud83c\udf36\ufe0f\ud83d\udd25 These spicy, savory brats are packed with that unmistakable tangy Sriracha kick, balanced perfectly with juicy, smoky plant-based goodn",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/copy-of-sriracha-brats",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Smoked Gouda (8oz)",
+      "price": "$14.99",
+      "category": "Food",
+      "description": "Rich, smoky, and seriously snackable. Our Smoked Gouda delivers a bold, buttery flavor with that irresistible smoky finish \u2014 all without the dairy. Smooth and creamy with a deep, savory profile, it\u2019s ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-smoked-gouda-1",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Ranch Dressing (16oz)",
+      "price": "$12.99",
+      "category": "Food",
+      "description": "The ranch everyone raves about. Our Ranch Dressing is legendary \u2014 the kind customers stock up on and refuse to share. Cool, creamy, and bursting with fresh dill and tangy flavor, this dairy-free class",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-ranch-dressing-16oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Breakfast Pack",
+      "price": "$79.00",
+      "category": "Food",
+      "description": "ATTENTION: PRE-ORDER FOR SHIPPING ONLY \u2014 SHIPS WEEK OF JANUARY 5TH! Rise, shine, and brunch like a champion! Our Breakfast Pack is a morning feast of plant-based favorites \u2014 savory sausages, sizzling ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/breakfast-pack",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Sliced Cheddar Cheese (8oz)",
+      "price": "$16.49",
+      "category": "Food",
+      "description": "Bold, creamy, and always a classic. Our Sliced Cheddar delivers all the familiar tangy, savory goodness you expect from cheddar \u2014 completely dairy-free and ready to elevate every bite. Smooth, melty, ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-sliced-cheddar-cheese-8oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte All American Breakfast Sausage (13oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Start your day with a savory, smoky, and perfectly spiced sausage that brings the heat! Our All American Breakfast Sausage is packed with umami-rich soy sauce, smoky Worcestershire, and just the right",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-all-american-breakfast-sausage-13oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Chicken (14oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Our Vegan Chicken is made with a unique blend of dry and wet ingredients to create a soft, tender bite that mimics the natural flavor of chicken. It\u2019s neutral and versatile, making it perfect for any ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-chicken-14oz-1",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Brie (10oz)",
+      "price": "$19.99",
+      "category": "Food",
+      "description": "Soft, creamy, and effortlessly elegant. Our Brie is a true highlight on any cheese board \u2014 luxuriously smooth with a mild, buttery flavor that melts beautifully on the palate. Completely dairy-free ye",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-brie-10oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Cheddar Cheese (8oz)",
+      "price": "$14.99",
+      "category": "Food",
+      "description": "Sharp, creamy, and endlessly versatile. Our Cheddar block brings that classic tangy cheddar flavor \u2014 bold enough for snacking, smooth enough for melting, and perfect for grating over anything that nee",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-cheddar-cheese-5oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Queso (16oz)",
+      "price": "$19.99",
+      "category": "Food",
+      "description": "Turn up the heat and let the good times pour. \ud83d\udd25 Our Queso is a spicy, creamy vegan cheese dip that brings the perfect kick to any snack moment. Smooth, melty, and packed with bold flavor, it\u2019s your go",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-queso",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Meat-Free Tote (oatmeal)",
+      "price": "$25.00",
+      "category": "Menu",
+      "description": "// 100% Natural Canvas Tote - just the right size with a real bottom - this tote has that true look and feeling of quality to it and we know they last and age splendidly from our collective experience",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/meat-free-tote-oatmeal-1",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Mozzarella (8oz)",
+      "price": "$14.99",
+      "category": "Food",
+      "description": "Melty, creamy, and classically Italian. Our Mozzarella brings that clean, mild flavor everyone loves \u2014 completely dairy-free and wonderfully versatile. Smooth, creamy, and ready to melt into all your ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-mozzarella",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Deli Ham (8oz)",
+      "price": "$15.99",
+      "category": "Food",
+      "description": "Sweet, Savory, and Oh-So-Smokin\u2019! Our Deli Ham is the perfect balance of smoky and sweet, made with a hint of pineapple juice for that irresistible twist on classic honey ham. Each 8oz pack of thinly ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-deli-ham-8oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Black Cooler Bag",
+      "price": "$20.00",
+      "category": "Menu",
+      "description": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-151298279-1'); Sister Butcher loves using our black cooler bag to pack",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/black-cooler-bag",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Pepper Jack (8oz)",
+      "price": "$14.99",
+      "category": "Food",
+      "description": "Creamy, zesty, and bringing the heat \ud83d\udd25 Our Pepper Jack combines smooth, dairy-free creaminess with a spicy kick from real peppers, making it the perfect cheese for anyone craving a little extra excite",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-pepperjack-5oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Meatloaf (14oz) - made without gluten",
+      "price": "$18.49",
+      "category": "Food",
+      "description": "Our Meatloaf (14oz) is the ultimate hearty, comforting entr\u00e9e \u2014 perfect for a solo dinner with leftovers or to share with someone you love. A true Staff Favorite, it\u2019s packed with a savory blend of ka",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-meatloaf-16oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Porterhouse Steak (12oz)",
+      "price": "$18.99",
+      "category": "Food",
+      "description": "A hearty plant-based steak built for bold meals. Our Porterhouse Steak is a thick and tender 12oz cut with a rich, savory flavor that shines in every bite. Seared in a skillet or simmered low and slow",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-porterhouse-steak-1",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Herbivorous Acres Donation - Wholesale Customers",
+      "price": "$1.00",
+      "category": "Menu",
+      "description": "Each 1 (qty) = $1 and will be added to your invoice. Thank you for supporting our non-profit farm sanctuary! herbivorousacres.org",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/herbivorous-acres-donation-wholesale",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Deli Turkey (8oz)",
+      "price": "$14.49",
+      "category": "Food",
+      "description": "Light, classic, and deli-fresh every time. Our Deli Turkey brings that familiar roasted turkey flavor you know and love \u2014 clean, savory, and perfectly seasoned for everyday eats. Thinly sliced with a ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-deli-turkey",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Hickory Bacon (8oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Our Hickory Bacon is an 8oz pack of pure smoky, savory magic! Handcrafted with marbled fat made from tapioca flour and oil, each slice delivers the perfect balance of salt, smoke, and deep umami flavo",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-hickory-bacon-8oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Ribeye Steak (28oz)",
+      "price": "$29.99",
+      "category": "Food",
+      "description": "Indulge in the ultimate steak experience with our Ribeye Steaks ! You\u2019ll receive two (2) thick, 14oz steaks , perfect for a fancy, restaurant-quality dinner at home. Marbled with rich fat made from ta",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-ribeye-steak-28oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Pepperoni (8oz)",
+      "price": "$13.99",
+      "category": "Food",
+      "description": "Bold, Spicy &amp; Bursting with Flavor! Our vegan Pepperoni brings the perfect balance of smoky, spicy, and savory flavors, made with real tomato juice, miso, and bold spices like mustard seed, cumin,",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-pepperoni",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Mini Jerky Sampler (9oz)",
+      "price": "$17.99",
+      "category": "Food",
+      "description": "Can\u2019t decide which jerky to try? Our Mini Jerky Sampler lets you taste three bold, protein-packed flavors in perfectly snackable 3oz packs . Whether you\u2019re craving something smoky, spicy, or classic, ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-mini-jerky-sampler-9oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Chorizo (13oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Smoky, Spicy &amp; Full of Bold Flavor! \ud83d\udd25 Our vegan Chorizo is a rich, smoky, and perfectly spiced sausage that brings the heat and depth of traditional chorizo\u2014without the meat! Made with a blend of ",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-chorizo-13oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Capicola Ham (8oz)",
+      "price": "$15.99",
+      "category": "Food",
+      "description": "Savory, smoky, and ready for sandwich perfection. Our Capicola Ham brings bold deli flavor with a tender, satisfying bite, marbled with our signature plant-based fat (the same one that makes our bacon",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-capicola-8oz",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Smoky House Ribs (12oz)",
+      "price": "$18.99",
+      "category": "Food",
+      "description": "Fool your taste buds with our Smoky House Ribs \u2014a true standout! These ribs are hickory-smoked, braised to perfection, and drenched in our secret BBQ sauce, delivering a mouthwatering blend of smokine",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-smoky-house-bbq-ribs",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Pastrami (8oz)",
+      "price": "$15.99",
+      "category": "Food",
+      "description": "The legend. The favorite. The one you always come back to. Our Pastrami is a top fan-favorite for a reason \u2014 deeply seasoned with cracked pepper, coriander, and warm spices, slow-crafted for bold deli",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-pastrami",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Maple Sage Breakfast Sausage (13oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Wake up to the perfect blend of sweet maple and savory spices with our Maple Sage Breakfast Sausage! Made with real maple syrup, earthy sage, and a touch of smoky Worcestershire , this sausage is rich",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-maple-sage-breakfast-sausage",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Maple Glazed Bacon (8oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Our Maple Bacon is an 8oz pack of sweet-meets-savory perfection! Starting with a rich, smoky base and layered with real maple syrup, this bacon bakes up into something truly special \u2014 the sweetness ca",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-maple-glazed-bacon",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Korean BBQ Ribs (12oz)",
+      "price": "$18.99",
+      "category": "Food",
+      "description": "Treat your taste buds to our best-selling Korean BBQ Ribs \u2014the ultimate crowd-pleaser! These juicy, bold ribs are made from seitan, offering a tender, meaty texture with a perfect balance of sweet, sa",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-korean-ribs",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Italian Sausage (13oz)",
+      "price": "$16.99",
+      "category": "Food",
+      "description": "Say hello to one of our boldest staples\u2014 the Italian Sausage! \ud83c\uddee\ud83c\uddf9 Packed with all the classic flavors you crave\u2014Italian seasoning, sun-dried tomatoes, garlic, olive oil, fennel, herbs, and a little red",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-italian-sausage",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Shredded Chicken (7.5oz) - made without gluten",
+      "price": "$16.49",
+      "category": "Food",
+      "description": "Our Shredded Chicken is a savory, nutty, and zesty plant-based protein made from tender, seasoned jackfruit, perfectly browned on our flat top for a hearty, satisfying bite. Each strand is packed with",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-la-carte-gluten-free-shredded-chicken-1",
+      "source": "shopify_api"
+    },
+    {
+      "name": "A la Carte Dill Havarti (8oz)",
+      "price": "$14.99",
+      "category": "Food",
+      "description": "Creamy, herby, and totally irresistible. Our Dill Havarti is a dairy-free take on the beloved Scandinavian classic \u2014 smooth, mild, and studded with fresh dill for a bright, tangy pop in every bite. It",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/a-a-carte-dill-havarti",
+      "source": "shopify_api"
+    },
+    {
+      "name": "Deli Dive-in and Dine Pack",
+      "price": "$99.00",
+      "category": "Food",
+      "description": "ATTENTION: PRE-ORDER FOR SHIPPING ONLY \u2014 SHIPS WEEK OF JANUARY 5TH! The ultimate vegan deli experience \u2014 straight from the spotlight! Our Deli Dive In &amp; Dine Pack features the exact plant-based me",
+      "vegan": true,
+      "url": "https://www.theherbivorousbutcher.com/products/deli-dive-in-and-dive-pack",
+      "source": "shopify_api"
+    }
+  ],
+  "menuScrapedAt": "2026-03-04T06:19:41.520633+00:00",
+  "menuPlatform": "shopify",
+  "menuItemCount": 62
 }

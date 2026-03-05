@@ -128,14 +128,14 @@
     {
       "author": "Holly Santiago",
       "rating": 5,
-      "text": "Went here for lunch today (12/5) -first time in about five years- and was blown away! The two ppl at the register were incredibly helpful and welcoming. They suggested favorites to order, engaged in convos and questions about the food, and were so so so friendly! Even though this place is somewhat self-service, both people at the register came out to drop off food/waters/napkins/etc and chat a bit about the food and ice cream (they sell milk jam pints!). The place was clean and bright… and that MFC still hits after being on their menu for over 10 years! It all just felt “above and beyond” …a genuinely friendly vibe unlike anything I’ve experienced here before! It’s always been good, but my friend and I felt so at home and comfortable today :)",
+      "text": "Went here for lunch today (12/5) -first time in about five years- and was blown away! The two ppl at the register were incredibly helpful and welcoming. They suggested favorites to order, engaged in convos and questions about the food, and were so so so friendly! Even though this place is somewhat self-service, both people at the register came out to drop off food/waters/napkins/etc and chat a bit about the food and ice cream (they sell milk jam pints!). The place was clean and bright\u2026 and that MFC still hits after being on their menu for over 10 years! It all just felt \u201cabove and beyond\u201d \u2026a genuinely friendly vibe unlike anything I\u2019ve experienced here before! It\u2019s always been good, but my friend and I felt so at home and comfortable today :)",
       "date": "a month ago",
       "source": "Google"
     },
     {
       "author": "James Brennan",
       "rating": 5,
-      "text": "World Street Kitchen is an absolute gem! The menu is lean mean eclectic bliss. The lovely location in the heart of Uptown is always wonderful to visit. The staff is incredible, the service is snappy, and the restaurant has a welcoming ambience.\n\nOriginal Hummus: Extremely strong start to the meal with extremely well made hummus with a perfect spice to it.\n\nMFC Biscuit Sandwich: This is a perfect dish. The perfectly crisp Moroccan fried chicken gives way to these craveable preserved carrots on a moist cheddar Biscuit. Not to be forgotten is the spicy feta spread which I would be happy spreading on just about anything, it is perfect.\n\nRed Curry Chicken Burrito: Another incredible dish with perfectly cooked chicken, in a creamy sauce, and in a perfect tortilla.\n\nKOREAN “BBQ” BEEF SHORT RIBS BURRITO: This is a contender for the best dish as well, the beef is perfectly cooked, the flavor is rich and deep. The rice inside is perfect and there is an amazing hit of cilantro.\n\nWSK never fails to impress and they have my highest recommendation.",
+      "text": "World Street Kitchen is an absolute gem! The menu is lean mean eclectic bliss. The lovely location in the heart of Uptown is always wonderful to visit. The staff is incredible, the service is snappy, and the restaurant has a welcoming ambience.\n\nOriginal Hummus: Extremely strong start to the meal with extremely well made hummus with a perfect spice to it.\n\nMFC Biscuit Sandwich: This is a perfect dish. The perfectly crisp Moroccan fried chicken gives way to these craveable preserved carrots on a moist cheddar Biscuit. Not to be forgotten is the spicy feta spread which I would be happy spreading on just about anything, it is perfect.\n\nRed Curry Chicken Burrito: Another incredible dish with perfectly cooked chicken, in a creamy sauce, and in a perfect tortilla.\n\nKOREAN \u201cBBQ\u201d BEEF SHORT RIBS BURRITO: This is a contender for the best dish as well, the beef is perfectly cooked, the flavor is rich and deep. The rice inside is perfect and there is an amazing hit of cilantro.\n\nWSK never fails to impress and they have my highest recommendation.",
       "date": "a year ago",
       "source": "Google"
     },
@@ -149,7 +149,7 @@
     {
       "author": "Hudson Klein",
       "rating": 5,
-      "text": "Definitely my go-to restaurant, delicious fusion I highly recommend the beef or chicken burrito in a bowl. Probably the number one place to order from but going there isn’t amazing as they lack a good atmosphere. The ice cream that you order is delicious and super creative next door, w  hi icy you order with the meal. I would highly recommend ordering from here!!",
+      "text": "Definitely my go-to restaurant, delicious fusion I highly recommend the beef or chicken burrito in a bowl. Probably the number one place to order from but going there isn\u2019t amazing as they lack a good atmosphere. The ice cream that you order is delicious and super creative next door, w  hi icy you order with the meal. I would highly recommend ordering from here!!",
       "date": "a year ago",
       "source": "Google"
     },
@@ -163,5 +163,9 @@
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:35:22.198Z"
+  "lastUpdated": "2026-02-06T02:35:22.198Z",
+  "menu": [],
+  "menuScrapedAt": "2026-03-04T06:23:36.991632+00:00",
+  "menuPlatform": "wordpress",
+  "menuItemCount": 0
 }

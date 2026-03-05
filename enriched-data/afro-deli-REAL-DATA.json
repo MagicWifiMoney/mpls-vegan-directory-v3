@@ -99,7 +99,7 @@
     {
       "author": "Creole Chef",
       "rating": 4,
-      "text": "I'll start with the food first. I ordered the chicken curry, chapati wrap ( it came with a  salad)  and the vegetable sambusa (Stuffed triangular flour pastry appetizer stuffed with  sautéed  onions, peppers & green chili and potatoes)\n\n. The Chicken curry perfectly seasoned with super tender chicken breast and  vegetables. It was was very good. The Chicken chapati wrap was absolutely delicious and the vegetable sambusa  was also delicious. The only thing that I didn't like about this meal was the salad wasn't that great.  The service was top notch and the prices are actually very good. I hope I'm able to come back  here again on Friday before I fly back home on Saturday. I would like to take some of the vegetables sambusas back home.",
+      "text": "I'll start with the food first. I ordered the chicken curry, chapati wrap ( it came with a  salad)  and the vegetable sambusa (Stuffed triangular flour pastry appetizer stuffed with  saut\u00e9ed  onions, peppers & green chili and potatoes)\n\n. The Chicken curry perfectly seasoned with super tender chicken breast and  vegetables. It was was very good. The Chicken chapati wrap was absolutely delicious and the vegetable sambusa  was also delicious. The only thing that I didn't like about this meal was the salad wasn't that great.  The service was top notch and the prices are actually very good. I hope I'm able to come back  here again on Friday before I fly back home on Saturday. I would like to take some of the vegetables sambusas back home.",
       "date": "Edited 2 years ago",
       "source": "Google"
     },
@@ -113,12 +113,16 @@
     {
       "author": "H G",
       "rating": 5,
-      "text": "The two types of gyros were amazing. Both meats, lamb and chicken, tasted great and seemed high quality (not that strange over-processed chicken). Would eat the gyros again in a heartbeat but will be trying the wraps and beef sandwich on my next visits after running into a old colleague of mine at the restaurant who was eating those and highly recommended them! I can’t believe it took me so long to visit this restaurant! Besides the great food, the service was great and quick, and the meal reasonably priced!",
+      "text": "The two types of gyros were amazing. Both meats, lamb and chicken, tasted great and seemed high quality (not that strange over-processed chicken). Would eat the gyros again in a heartbeat but will be trying the wraps and beef sandwich on my next visits after running into a old colleague of mine at the restaurant who was eating those and highly recommended them! I can\u2019t believe it took me so long to visit this restaurant! Besides the great food, the service was great and quick, and the meal reasonably priced!",
       "date": "2 years ago",
       "source": "Google"
     }
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:27:38.217Z"
+  "lastUpdated": "2026-02-06T02:27:38.217Z",
+  "menu": [],
+  "menuScrapedAt": "2026-03-04T06:23:36.988012+00:00",
+  "menuPlatform": "wordpress",
+  "menuItemCount": 0
 }

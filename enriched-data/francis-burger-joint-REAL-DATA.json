@@ -6,9 +6,9 @@
       "category": "Entree",
       "badge": "Top Pick",
       "quotes": [
-        "(Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty 😋\nSeveral members of their waitstaff came over to check on us, very attentive and friendly",
+        "(Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty \ud83d\ude0b\nSeveral members of their waitstaff came over to check on us, very attentive and friendly",
         "We had the juicy Lucy burger which was very good",
-        "Haven’t stopped thinking about the juicy Lucy since I had it a few days ago"
+        "Haven\u2019t stopped thinking about the juicy Lucy since I had it a few days ago"
       ],
       "reviewMentions": 7
     },
@@ -32,7 +32,7 @@
       "quotes": [
         "Delicious burger, tasty seasoned fries",
         "I also think their fries are MUCH better than other places",
-        "(Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty 😋\nSeveral members of their waitstaff came over to check on us, very attentive and friendly"
+        "(Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty \ud83d\ude0b\nSeveral members of their waitstaff came over to check on us, very attentive and friendly"
       ],
       "reviewMentions": 27
     },
@@ -90,7 +90,7 @@
     {
       "author": "Misty Perfetto Holland",
       "rating": 5,
-      "text": "We came from Wisconsin for the weekend and we found Francis on google- searching for the top rated vegan restaurants. Husband and tried it tonight and we absolutely loved everything.  The burger and fried chicken sandwich we got were both so flavorful and cooked to perfection! (Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty 😋\nSeveral members of their waitstaff came over to check on us, very attentive and friendly. Plus this place has a very cool, laid back vibe. We will definitely be coming back!\nPS- get a milkshake! 😋",
+      "text": "We came from Wisconsin for the weekend and we found Francis on google- searching for the top rated vegan restaurants. Husband and tried it tonight and we absolutely loved everything.  The burger and fried chicken sandwich we got were both so flavorful and cooked to perfection! (Juicy Lucy and Hunny Dijon Chicken Sandwich) Their shoestring fries were nice and hot and salty \ud83d\ude0b\nSeveral members of their waitstaff came over to check on us, very attentive and friendly. Plus this place has a very cool, laid back vibe. We will definitely be coming back!\nPS- get a milkshake! \ud83d\ude0b",
       "date": "a month ago",
       "source": "Google"
     },
@@ -118,7 +118,7 @@
     {
       "author": "Joshua",
       "rating": 5,
-      "text": "I am not vegan but this is probably the best vegan “chicken” sandwich I’ve tried. The seasoning was great and the texture of the “chicken” was pretty convincing as well. Fries were crispy and fresh. Service was outstanding! I also appreciate that this is a no tipping establishment (cost is built into the menu price). Would definitely return!",
+      "text": "I am not vegan but this is probably the best vegan \u201cchicken\u201d sandwich I\u2019ve tried. The seasoning was great and the texture of the \u201cchicken\u201d was pretty convincing as well. Fries were crispy and fresh. Service was outstanding! I also appreciate that this is a no tipping establishment (cost is built into the menu price). Would definitely return!",
       "date": "5 months ago",
       "source": "Google"
     },
@@ -132,7 +132,7 @@
     {
       "author": "Jordan E-B",
       "rating": 5,
-      "text": "I’m neither vegan nor vegetarian, but these burgers are better than most meat burger joints i’ve been to. The chicken is not as convincing as I had been lead to believe, but the burger is all it takes for me to keep coming back.\nThe mixture of waitstaff/QR code independent ordering is sometimes bizarre, and leads to awkward bill splitting. It’s much more enjoyable in a very small group, ordering via QR code.",
+      "text": "I\u2019m neither vegan nor vegetarian, but these burgers are better than most meat burger joints i\u2019ve been to. The chicken is not as convincing as I had been lead to believe, but the burger is all it takes for me to keep coming back.\nThe mixture of waitstaff/QR code independent ordering is sometimes bizarre, and leads to awkward bill splitting. It\u2019s much more enjoyable in a very small group, ordering via QR code.",
       "date": "5 months ago",
       "source": "Google"
     },
@@ -153,5 +153,721 @@
   ],
   "timingInsights": [],
   "dataQuality": "REAL - From Apify-scraped Google reviews",
-  "lastUpdated": "2026-02-05T23:22:56.391Z"
+  "lastUpdated": "2026-02-05T23:22:56.391Z",
+  "menu": [
+    {
+      "name": "Crispy beer-battered wings tossed in zesty lemon pepper seasoning and served with a side of ranch",
+      "price": "$12.00",
+      "category": "Special! Lemon Pepper Cauliflower Wings",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "An assortment of house pickled fruit &amp; veg, marinated olives, and seed crackers (gluten free!)",
+      "price": "$11.00",
+      "category": "Special! Lemon Pepper Cauliflower Wings",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Eight (or more) Impossible chicken nuggets served with fries. Add your choice of sauce(s).",
+      "price": "$15.00",
+      "category": "Special! Lemon Pepper Cauliflower Wings",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "(contains gluten &amp; soy)",
+      "price": "$16.00",
+      "category": "Special! Heartbeet Burger With Fries",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Grilled chicken with house-made Caesar dressing, romaine, and tomato in a warm flour tortilla",
+      "price": "$14.00",
+      "category": "Special! Heartbeet Burger With Fries",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "(Sorry, no more roasted broccoli)",
+      "price": "$16.00",
+      "category": "Special! Heartbeet Burger With Fries",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Side of Bacon",
+      "price": "$3.00",
+      "category": "Side Of Bacon",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Oh sweet, sweet Baby Ray.",
+      "price": "$1.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Extra strong, extra good.",
+      "price": "$1.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Eggfree and carefree, but not fat free.",
+      "price": "$1.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "BBQ + Mayo + Garlic = LOVE",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "House-made and perfectly spicy!",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Creamy, lemony, garlicky--yum!",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Mayo, chipotle, lime, cilantro.",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Like 1000 Island but FRANCIER!",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "House-made hot sauce mixed with smoky BBQ sauce",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "House-made hot sauce with a nice punch of lime. (8/10 spicy)",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Sweet and tangy!",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "If you know, you know.",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Tangy, warm, and medium spicy",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Umami, bright, tangy perfection!",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "House-made, creamy, dilly goodness.",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "House made herbaceous serrano hot sauce (6/10 spicy)",
+      "price": "$2.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Super garlicky aioli with a warming Ethiopian spice blend",
+      "price": "$3.00",
+      "category": "Bbq",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "THIS IS NOT A DRILL! IT'S REALLY HAPPENING.",
+      "price": "$3.00",
+      "category": "This Is Not A Drill! It'S Really Happening.",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "House-made chive and onion sour cream dip, reminiscent of the midwest staple!",
+      "price": "$3.00",
+      "category": "This Is Not A Drill! It'S Really Happening.",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Impossible patty and ketchup on a brioche bun with a small side of fries",
+      "price": "$8.50",
+      "category": "This Is Not A Drill! It'S Really Happening.",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Four Impossible Chicken Nuggets with a small side of fries",
+      "price": "$8.50",
+      "category": "This Is Not A Drill! It'S Really Happening.",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Contains soy and coconut.",
+      "price": "$10.00",
+      "category": "This Is Not A Drill! It'S Really Happening.",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "House-made and freshly baked!",
+      "price": "$4.00",
+      "category": "This Is Not A Drill! It'S Really Happening.",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Wildflyer 'Ice Queen' cold brew coffee, with house lavender vanilla syrup, and cream. 16oz.",
+      "price": "$10.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Cold Brew (16oz)",
+      "price": "$7.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Glass bottle (12oz) of Coke, Sprite, Orange Soda or Mineral Water",
+      "price": "$5.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Take a Diet Coke break with this refreshing, no-calorie soft drink",
+      "price": "$3.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Mineragua in a 12oz glass bottle",
+      "price": "$4.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Hoppy Refresher is a zippy and zingy highly carbonated dry-hopped sparkling water (12oz bottle)",
+      "price": "$6.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Kid's Drinks (9oz)",
+      "price": "$2.50",
+      "category": "Kid'S Drinks (9Oz)",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Apple Juice (10oz)",
+      "price": "$4.00",
+      "category": "Kid'S Drinks (9Oz)",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Kid's Root Beer (12 oz Draft)",
+      "price": "$4.00",
+      "category": "Kid'S Drinks (9Oz)",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Sparkling Water",
+      "price": "$0.50",
+      "category": "Kid'S Drinks (9Oz)",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Get your very own Francis x Hamm's pint glass!",
+      "price": "$5.00",
+      "category": "Thc",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "OUT OF STOCK",
+      "price": "$3.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Killer Burger Sticker",
+      "price": "$3.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "3\" vinyl sticker",
+      "price": "$3.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Spooky Francis Sticker",
+      "price": "$3.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Francis Camo Hat",
+      "price": "$30.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Can be worn cuffed or slouchy!",
+      "price": "$19.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Black Captains Hat",
+      "price": "$30.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "90's Black Tee",
+      "price": "$20.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Navy Blue Killer Burger Tee",
+      "price": "$20.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Sale! Francis Black Tee",
+      "price": "$15.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Our waffles are actually delicious! Come see for yourself during brunch.",
+      "price": "$10.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Almost gone!  Metal Baseball Tee",
+      "price": "$15.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Black Metal Zip-up Hoodie",
+      "price": "$45.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Very soft, front zip hoodie, with large logo on on back.",
+      "price": "$45.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Checker Sweatshirt",
+      "price": "$35.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Francis Onesie",
+      "price": "$16.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.francisburgerjoint.com/ordertakeout"
+    },
+    {
+      "name": "Grilled chicken, tomato, lettuce, and Caesar dressing, wrapped in a warm flour tortilla.",
+      "price": "$14.00",
+      "category": "Francis East Lake At 3900 East Lake Street!",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Eight Impossible chicken nuggets served with fries. Add your choice of sauce(s).",
+      "price": "$15.00",
+      "category": "Special! Lemon Pepper Cauliflower Wings",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Chicken sandwich with lettuce, pickles, and mayo on a brioche bun (contains gluten &amp; soy).",
+      "price": "$17.00",
+      "category": "Special! Heartbeet Burger With Fries",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Spring mix tossed in house lemon thyme vinaigrette",
+      "price": "$6.00",
+      "category": "Side Of Dressed Greens",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Dijon + Mayo = BFF",
+      "price": "$2.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Impossible patty and ketchup on a brioche bun with a small side of fries.",
+      "price": "$8.50",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Four Impossible Chicken Nuggets with a small side of fries.",
+      "price": "$8.50",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Glass bottle (12oz) of Coke or Orange Soda",
+      "price": "$5.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Wildflyer Ice Queen Cold Brew",
+      "price": "$7.00",
+      "category": "Kid'S Drinks (9Oz)",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Wildflyer 'Ice Queen' cold brew coffee, with house lavender vanilla syrup and oat milk.",
+      "price": "$10.00",
+      "category": "Kid'S Drinks (9Oz)",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Soft, buttery sugar cookie completely covered in rainbow sprinkles.",
+      "price": "$4.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Vanilla, Orange Dole Whip, or Twist! In a cup!",
+      "price": "$5.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Get your very own Francis x Hamms Bear glass pint glass!",
+      "price": "$5.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "High quality vinyl logo sticker (2.5\")",
+      "price": "$3.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Last in Stock! XL Metal Baseball Tee",
+      "price": "$15.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Black Beanie",
+      "price": "$19.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "90's Francis Tee",
+      "price": "$20.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Black Metal Zip Up Hoodie",
+      "price": "$45.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Checker Sweatshirt (Black)",
+      "price": "$35.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Black Tee w/Burger Guy offset",
+      "price": "$18.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Francis Camo Baseball Hat",
+      "price": "$30.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    },
+    {
+      "name": "Francis Black Baseball (dad) Cap",
+      "price": "$30.00",
+      "category": "Out Of Stock",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/francis-eastlake"
+    }
+  ],
+  "menuScrapedAt": "2026-03-04T06:24:56.813725+00:00",
+  "menuPlatform": "squarespace",
+  "menuItemCount": 79
 }

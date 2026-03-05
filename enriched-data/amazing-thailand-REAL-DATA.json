@@ -71,7 +71,7 @@
     {
       "author": "Jess Ycara",
       "rating": 5,
-      "text": "It’s my favorite restaurant. I recommend the spring rolls🥰  and the sticky mango rice. I love it.\nRecently I feel they give you less food and another thing that disappointed me was they took out my favorite dish ; before I could have  all the proteins in one meal but now just one and when I asked for extra protein they can’t cook it all together 😩",
+      "text": "It\u2019s my favorite restaurant. I recommend the spring rolls\ud83e\udd70  and the sticky mango rice. I love it.\nRecently I feel they give you less food and another thing that disappointed me was they took out my favorite dish ; before I could have  all the proteins in one meal but now just one and when I asked for extra protein they can\u2019t cook it all together \ud83d\ude29",
       "date": "Edited 10 months ago",
       "source": "Google"
     },
@@ -92,7 +92,7 @@
     {
       "author": "shelly motor",
       "rating": 5,
-      "text": "It broke my heart to see this place so quiet.\n\nI remember when Amazing Thailand was packed — filled with energy, laughter, and the comforting aroma of curry and spice. Today, during what used to be a bustling happy hour, there were only two tables occupied. It felt surreal at 4:30 pm\n\nAnd yet, the food? Still exceptional. Every dish was perfectly balanced — bold, fragrant, and full of soul. The flavors were just as I remembered: authentic, rich, and made with care.\n\nThe staff was kind and attentive, even in the quiet. They deserve a full house.\n\nIt’s disheartening to see what’s happened to Uptown — to see restaurants like this still showing up with quality while the city around them slips away.\n\nSupport this gem. It’s more than a meal — it’s a memory, a cultural anchor, and a sign of what still can be if we care enough to show up.",
+      "text": "It broke my heart to see this place so quiet.\n\nI remember when Amazing Thailand was packed \u2014 filled with energy, laughter, and the comforting aroma of curry and spice. Today, during what used to be a bustling happy hour, there were only two tables occupied. It felt surreal at 4:30 pm\n\nAnd yet, the food? Still exceptional. Every dish was perfectly balanced \u2014 bold, fragrant, and full of soul. The flavors were just as I remembered: authentic, rich, and made with care.\n\nThe staff was kind and attentive, even in the quiet. They deserve a full house.\n\nIt\u2019s disheartening to see what\u2019s happened to Uptown \u2014 to see restaurants like this still showing up with quality while the city around them slips away.\n\nSupport this gem. It\u2019s more than a meal \u2014 it\u2019s a memory, a cultural anchor, and a sign of what still can be if we care enough to show up.",
       "date": "8 months ago",
       "source": "Google"
     },
@@ -127,5 +127,9 @@
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:25:53.936Z"
+  "lastUpdated": "2026-02-06T02:25:53.936Z",
+  "menu": [],
+  "menuScrapedAt": "2026-03-04T06:24:56.815512+00:00",
+  "menuPlatform": "squarespace",
+  "menuItemCount": 0
 }

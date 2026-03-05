@@ -17,7 +17,7 @@
       "quotes": [
         "They do flavors so well (always recommend the pork)(and the Vegasm is never bad) - the people are great, and the vibes are good",
         "Best vegasm I ever had",
-        "I’ve particularly enjoyed the vegasm option despite being a meat eater (although their dishes with meat are also great)"
+        "I\u2019ve particularly enjoyed the vegasm option despite being a meat eater (although their dishes with meat are also great)"
       ]
     },
     {
@@ -101,14 +101,14 @@
     {
       "author": "Jessica Block",
       "rating": 5,
-      "text": "We go out to eat often. Probably too often. It takes a lot to truly stand out at this point, and this place absolutely did.\n\nEvery bite was delicious. A special shout-out to the teasers, which we almost skipped because we weren’t totally sure what they were from the menu. They’re small, perfectly crafted bites and honestly one of the highlights of our meal. Don’t sleep on them.\n\nThe cocktails were incredibly balanced, creative without being weird for the sake of it, and the flight option is a dangerously delightful idea. The atmosphere is casual, cozy, and genuinely welcoming, the kind of place that immediately makes you want to settle in and stay awhile. Food-wise, the pad thai salad was a fresh, satisfying take on a classic. The jerk cauliflower hit the ideal balance of spice and flavor.\n\nService was fantastic across the board. Our waiter was knowledgeable and gave helpful guidance. Also, every staff member who passed our table checked in and made sure we had what we needed. A small but much-appreciated touch was fresh silverware and plates between courses. It’s the kind of detail that quietly tells you they care.\n\nThis place is an absolute gem in East St. Paul. A true standout and one we won’t soon forget. I’m already looking forward to going back.",
+      "text": "We go out to eat often. Probably too often. It takes a lot to truly stand out at this point, and this place absolutely did.\n\nEvery bite was delicious. A special shout-out to the teasers, which we almost skipped because we weren\u2019t totally sure what they were from the menu. They\u2019re small, perfectly crafted bites and honestly one of the highlights of our meal. Don\u2019t sleep on them.\n\nThe cocktails were incredibly balanced, creative without being weird for the sake of it, and the flight option is a dangerously delightful idea. The atmosphere is casual, cozy, and genuinely welcoming, the kind of place that immediately makes you want to settle in and stay awhile. Food-wise, the pad thai salad was a fresh, satisfying take on a classic. The jerk cauliflower hit the ideal balance of spice and flavor.\n\nService was fantastic across the board. Our waiter was knowledgeable and gave helpful guidance. Also, every staff member who passed our table checked in and made sure we had what we needed. A small but much-appreciated touch was fresh silverware and plates between courses. It\u2019s the kind of detail that quietly tells you they care.\n\nThis place is an absolute gem in East St. Paul. A true standout and one we won\u2019t soon forget. I\u2019m already looking forward to going back.",
       "date": "a month ago",
       "source": "Google"
     },
     {
       "author": "Hollie Chase",
       "rating": 5,
-      "text": "One of my fav restaurants in MN. I appreciate delicious, flavorful, unique dishes that I can’t make at home and this place checks those boxes. Dining here can turn the worst of days around. Wonderful service and staff as well.\n\nOrdered the steamed pork buns (not pictured), ramen, and smoked salmon sandwich. The pork in the steamed buns and the ramen melted in your mouth. The smoked salmon sandwich had incredible flavor elements and the most perfect egg over easy. 10/10.",
+      "text": "One of my fav restaurants in MN. I appreciate delicious, flavorful, unique dishes that I can\u2019t make at home and this place checks those boxes. Dining here can turn the worst of days around. Wonderful service and staff as well.\n\nOrdered the steamed pork buns (not pictured), ramen, and smoked salmon sandwich. The pork in the steamed buns and the ramen melted in your mouth. The smoked salmon sandwich had incredible flavor elements and the most perfect egg over easy. 10/10.",
       "date": "6 months ago",
       "source": "Google"
     },
@@ -129,5 +129,9 @@
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:25:23.198Z"
+  "lastUpdated": "2026-02-06T02:25:23.198Z",
+  "menu": [],
+  "menuScrapedAt": "2026-03-04T06:22:17.610749+00:00",
+  "menuPlatform": "toast",
+  "menuItemCount": 0
 }

@@ -23,21 +23,7 @@ interface CacheEntry {
     time: number;
     profile_photo_url: string;
   }>;
-  yelp?: {
-    yelpId?: string;
-    rating?: number;
-    reviewCount?: number;
-    yelpUrl?: string;
-    photos?: string[];
-    openNow?: boolean;
-    reviews?: Array<{
-      author_name?: string;
-      rating: number;
-      text: string;
-      time: string;
-      url?: string;
-    }>;
-  } | null;
+
 }
 
 const typedCache = placesCache as Record<string, CacheEntry>;
@@ -81,16 +67,7 @@ export async function GET(
     popularItems = popCached.items;
   } else {
     const restaurant = restaurants.find(r => r.googlePlaceId === placeId);
-    const allReviews = [
-      ...(cached.reviews || []),
-      ...(cached.yelp?.reviews?.map(r => ({
-        author_name: r.author_name || '',
-        rating: r.rating,
-        text: r.text,
-        time: new Date(r.time).getTime() / 1000,
-        profile_photo_url: '',
-      })) || []),
-    ];
+    const allReviews = cached.reviews || [];
     if (allReviews.length > 0) {
       popularItems = await extractPopularItems(allReviews, restaurant?.name || '');
       popularItemsCache.set(placeId, { items: popularItems, timestamp: Date.now() });
@@ -106,14 +83,6 @@ export async function GET(
     reviews: cached.reviews,
     popularItems,
     _cachedAt: cached._fetchedAt,
-    yelp: cached.yelp ? {
-      rating: cached.yelp.rating,
-      reviewCount: cached.yelp.reviewCount,
-      photos: cached.yelp.photos,
-      reviews: cached.yelp.reviews,
-      yelpUrl: cached.yelp.yelpUrl,
-      openNow: cached.yelp.openNow,
-    } : undefined,
   };
 
   return NextResponse.json(response, {

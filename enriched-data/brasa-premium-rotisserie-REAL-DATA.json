@@ -70,21 +70,21 @@
     {
       "author": "Madison",
       "rating": 5,
-      "text": "We had Brasa cater our wedding and they were absolutely incredible! From start to finish, they were efficient, easy to communicate with, and so accommodating to our needs. The food was absolutely amazing—our guests couldn’t stop talking about it. On top of that, they went above and beyond by leaving us a thoughtful to-go bag with food and champagne at the end of the night. It was the perfect touch after such a special day. Highly recommend Brasa for any wedding or event!",
+      "text": "We had Brasa cater our wedding and they were absolutely incredible! From start to finish, they were efficient, easy to communicate with, and so accommodating to our needs. The food was absolutely amazing\u2014our guests couldn\u2019t stop talking about it. On top of that, they went above and beyond by leaving us a thoughtful to-go bag with food and champagne at the end of the night. It was the perfect touch after such a special day. Highly recommend Brasa for any wedding or event!",
       "date": "4 months ago",
       "source": "Google"
     },
     {
       "author": "Mika Baer",
       "rating": 5,
-      "text": "The menu is rooted in Southern and Caribbean-inspired flavors, and everything is made with care. My personal go-to is the pulled chicken, which is juicy, tender, and perfectly seasoned. Pair it with the creamed jalapeño spinach - a side dish so unexpectedly addictive that I now find myself ordering it every time, no matter what else I get.\n\nThe atmosphere is casual and welcoming, with a laid-back counter-service setup that somehow still manages to feel intentional and warm. It’s the kind of place where regulars bring newcomers, knowing the food will speak for itself.\n\nOther favorites include the slow-roasted pork, collard greens, and desserts. They are all flavorful, filling, and made to be mixed, matched, and shared. The portions are generous, and there are great options for gluten-free and dairy-free diners, too.\n\nBrasa doesn’t try to be trendy or overcomplicated. It focuses on doing comfort food right. With quality ingredients, bold flavor, and heart, if you’re looking for a meal that hits all the right notes without trying too hard, this is it.\n\n@foodiemsp on Instagram",
+      "text": "The menu is rooted in Southern and Caribbean-inspired flavors, and everything is made with care. My personal go-to is the pulled chicken, which is juicy, tender, and perfectly seasoned. Pair it with the creamed jalape\u00f1o spinach - a side dish so unexpectedly addictive that I now find myself ordering it every time, no matter what else I get.\n\nThe atmosphere is casual and welcoming, with a laid-back counter-service setup that somehow still manages to feel intentional and warm. It\u2019s the kind of place where regulars bring newcomers, knowing the food will speak for itself.\n\nOther favorites include the slow-roasted pork, collard greens, and desserts. They are all flavorful, filling, and made to be mixed, matched, and shared. The portions are generous, and there are great options for gluten-free and dairy-free diners, too.\n\nBrasa doesn\u2019t try to be trendy or overcomplicated. It focuses on doing comfort food right. With quality ingredients, bold flavor, and heart, if you\u2019re looking for a meal that hits all the right notes without trying too hard, this is it.\n\n@foodiemsp on Instagram",
       "date": "9 months ago",
       "source": "Google"
     },
     {
       "author": "Andrew Butterbrodt",
       "rating": 5,
-      "text": "Have loved eating here and getting takeout for years. Recently picked up an order when coming back into town from a camping trip and my wife remarked how this is the best takeout around and always satisfies. Leftovers keep well too so it’s just as good the next day. The collard greens with smoked chicken are my favorite side; they put most other collards to shame. Douse them (and your chips) with the hot pepper vinegar to really make them great.",
+      "text": "Have loved eating here and getting takeout for years. Recently picked up an order when coming back into town from a camping trip and my wife remarked how this is the best takeout around and always satisfies. Leftovers keep well too so it\u2019s just as good the next day. The collard greens with smoked chicken are my favorite side; they put most other collards to shame. Douse them (and your chips) with the hot pepper vinegar to really make them great.",
       "date": "6 months ago",
       "source": "Google"
     },
@@ -98,7 +98,7 @@
     {
       "author": "Annah Tessier",
       "rating": 5,
-      "text": "Brasa recently catered our wedding on 3/22/25 and I truly can not give them the praise they deserve. We decided to try Brasa after having their food at a wedding last summer - phenomenal.\n\nThey were easily the best vendor we worked with throughout the wedding process. Not only was the food and service exceptional, they truly helped us cut costs in certain areas with how helpful and accommodating they were (filling waters, folding napkins/doing linens, setting up desserts, etc.). Additionally, their staff was outstanding and has awesome attitudes all day.\n\nWe had over a dozen guests with food restrictions and allergies, and they had everything labeled accordingly and their food options were also fantastic.\n\nThey kept me calm, organized, and not to mention, the food was affordable on top of the incredible flavor.\n\nPlease consider them for your events or wedding. I could go on and on about this experience.\n\nThank you so much, Brasa team! You truly attributed to making our special day unforgettable.\n\nLove, the Amacci’s",
+      "text": "Brasa recently catered our wedding on 3/22/25 and I truly can not give them the praise they deserve. We decided to try Brasa after having their food at a wedding last summer - phenomenal.\n\nThey were easily the best vendor we worked with throughout the wedding process. Not only was the food and service exceptional, they truly helped us cut costs in certain areas with how helpful and accommodating they were (filling waters, folding napkins/doing linens, setting up desserts, etc.). Additionally, their staff was outstanding and has awesome attitudes all day.\n\nWe had over a dozen guests with food restrictions and allergies, and they had everything labeled accordingly and their food options were also fantastic.\n\nThey kept me calm, organized, and not to mention, the food was affordable on top of the incredible flavor.\n\nPlease consider them for your events or wedding. I could go on and on about this experience.\n\nThank you so much, Brasa team! You truly attributed to making our special day unforgettable.\n\nLove, the Amacci\u2019s",
       "date": "10 months ago",
       "source": "Google"
     },
@@ -126,5 +126,595 @@
   ],
   "timingInsights": [],
   "dataQuality": "VEGAN-FILTERED - Vegan-Friendly restaurant, only vegan items/reviews",
-  "lastUpdated": "2026-02-06T02:31:54.205Z"
+  "lastUpdated": "2026-02-06T02:31:54.205Z",
+  "menu": [
+    {
+      "name": "Plates add",
+      "price": "$1",
+      "category": "Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.brasa.us/menu"
+    },
+    {
+      "name": "Serves 3\u20134 people.",
+      "price": "$60",
+      "category": "Desserts",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://www.brasa.us/menu"
+    },
+    {
+      "name": "Yellow Rice, Creamed Spinach w/Jalape\u00f1o, Crispy Onions &amp; Red Chile Sauce",
+      "price": "$16.75",
+      "category": "Skip To Main Content",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "2pcs and one House Side",
+      "price": "$15.75",
+      "category": "2Pcs And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Citrus &amp; Olive oil Mojo (Vegetarian or Vegan Without Dipping Sauce)",
+      "price": "$6.50",
+      "category": "2Pcs And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Apricot Ginger Ceylon Tea",
+      "price": "$3.00",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Mrs. Kelly's Ceylon Black Tea sweetened with simple syrup.",
+      "price": "$3.00",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Lemonade",
+      "price": "$3.00",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Lemonade W/ Raspberry Puree Made Fresh Daily",
+      "price": "$4.00",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Lemonade Topped With Apricot Ginger Ceylon Tea",
+      "price": "$3.00",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Lemonade Topped With Sweet Tea",
+      "price": "$3.00",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Peace Coffee",
+      "price": "$2.50",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Fair Trade Organic Tea",
+      "price": "$2.50",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Mexican Coke \u2014the refreshing, crisp taste you know and love made with real cane sugar.",
+      "price": "$3.50",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "A delicious, crisp, sparkling cola for the refreshment you want",
+      "price": "$2.50",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Northern Soda Orange",
+      "price": "$4.00",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Northern Soda Grapefruit",
+      "price": "$4.00",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "La Croix Pure",
+      "price": "$2.50",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "BauHaus Nah - Non Alcoholic Beer",
+      "price": "$6.50",
+      "category": "Sodas &Amp; Drinks",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Chicken Salad, Crispy Bacon, Lettuce, Tomato (Dairy Free)",
+      "price": "$14.75",
+      "category": "2Pcs And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Creole Style Rub &amp; House Green Sauce. Mix of White &amp; Dark Meat (Dairy Free)",
+      "price": "$17.00",
+      "category": "2Pcs And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "1/3 lb and one House Side",
+      "price": "$15.75",
+      "category": "1/3 Lb And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Coleslaw &amp; Red Sauce",
+      "price": "$13.75",
+      "category": "1/3 Lb And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Pulled Rotisserie In Cream Gravy",
+      "price": "$18.00",
+      "category": "1/3 Lb And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Pickled Cucumber &amp; Red Onion, Cilantro &amp; Green Sauce",
+      "price": "$15.25",
+      "category": "1/3 Lb And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Slow Cooked w/ Garlic, Lime &amp; Spices",
+      "price": "$20.00",
+      "category": "1/3 Lb And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Yellow Rice, Beans, Yuca and Mixed Green Salad w/ Vegan Ranch",
+      "price": "$13.25",
+      "category": "1/3 Lb And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "1/4 lb Catfish and one House Side",
+      "price": "$17.25",
+      "category": "1/4 Lb Catfish And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Catfish, Coleslaw, Tomato &amp; Spicy Mayo",
+      "price": "$16.75",
+      "category": "1/4 Lb Catfish And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Candied Yams, Macaroni &amp; Cheese, Coleslaw &amp; Pickled Hot Peppers.",
+      "price": "$17.25",
+      "category": "1/4 Lb Catfish And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Catfish w/Cornmeal &amp; Rice Flour Crust. Served w/Spicy Mayo. (Dairy Free)",
+      "price": "$22.00",
+      "category": "1/4 Lb Catfish And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Scrambled in Butter or Fried in Olive Oil",
+      "price": "$13.00",
+      "category": "1/4 Lb Catfish And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Cheddar Cheese, Bacon, Tomato &amp; Red Sauce (Vegetarian)",
+      "price": "$12.50",
+      "category": "1/4 Lb Catfish And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Two Eggs, Scrambled in Butter or Fried in Olive Oil",
+      "price": "$6.00",
+      "category": "1/4 Lb Catfish And One House Side",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Vegan",
+      "price": "$6.50",
+      "category": "Sides",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Sunflower Seeds, Radish &amp; Sherry Vin (Vegetarian)",
+      "price": "$6.00",
+      "category": "Half Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Pepitas, Cucumber &amp; House Ranch (Vegan)",
+      "price": "$6.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "When Available (Vegetarian or Vegan Without Dipping Sauce)",
+      "price": "$6.50",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "(Vegan)",
+      "price": "$5.50",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Sofrito &amp; Smoked Ham (Dairy Free)",
+      "price": "$4.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Sharp Cheddar (Vegetarian)",
+      "price": "$5.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Smoked Chicken",
+      "price": "$6.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Jalape\u00f1o &amp; Crema (Vegetarian)",
+      "price": "$7.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Brown Sugar &amp; Vanilla (Vegetarian)",
+      "price": "$5.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "w/Andouille-Tomato Gravy (Dairy Free)",
+      "price": "$5.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Creamy Sharp Cheddar",
+      "price": "$6.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Vegetarian",
+      "price": "$2.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Dark &amp; Milk Chocolate Blend, Crispy Sweet Potato, Sea Salt",
+      "price": "$3.75",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "2oz-Vegan",
+      "price": "$4.50",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Dairy Free",
+      "price": "$2.75",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "1.5oz- w/Fresh Lime &amp; Garlic. Spicy!",
+      "price": "$0.95",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "1.5 oz- w/Cilantro, Lime, Ginger &amp; Mayo. Mild Heat. (Vegetarian)",
+      "price": "$0.85",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "12oz Bottle of Green Sauce",
+      "price": "$8.50",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "1.5 oz- w/Tomatillo, Roasted Tomato &amp; Chiles. Medium Heat. (Vegan)",
+      "price": "$0.85",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "12oz Bottle of Red Sauce",
+      "price": "$8.50",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Habanero Vinegar Bottle",
+      "price": "$3.95",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Signature Green Sauce w/ House Made Habanero Sauce",
+      "price": "$0.85",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Small Sherry Vinaigrette",
+      "price": "$0.50",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Made from Fresh Corn Tortillas (Vegan)",
+      "price": "$2.00",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Small Habanero Vinegar",
+      "price": "$0.50",
+      "category": "Full Romaine &Amp; Mozzarella Salad",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Whipped Cream &amp; Toffee",
+      "price": "$5.50",
+      "category": "Desserts",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Fresh Pineapple (Vegan)",
+      "price": "$4.50",
+      "category": "Desserts",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Gluten Free",
+      "price": "$1.75",
+      "category": "Desserts",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Chocolate Devils Food Cake w/ Chocolate Sauce &amp; Whipped Cream",
+      "price": "$4.50",
+      "category": "Desserts",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-northeast"
+    },
+    {
+      "name": "Kids Plate",
+      "price": "$9.50",
+      "category": "Desserts",
+      "description": "",
+      "vegan": null,
+      "source": "squarespace_text",
+      "source_url": "https://order.toasttab.com/online/brasa-rotisserie-hopkins-1728-mainstreet"
+    }
+  ],
+  "menuScrapedAt": "2026-03-04T06:24:56.816844+00:00",
+  "menuPlatform": "squarespace",
+  "menuItemCount": 65
 }
