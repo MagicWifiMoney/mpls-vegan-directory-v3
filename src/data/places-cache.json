@@ -8,12 +8,12 @@
     "userRatingsTotal": 655,
     "openingHours": [
       "Monday: Closed",
-      "Tuesday: 10:00 AM – 5:30 PM",
-      "Wednesday: 10:00 AM – 5:30 PM",
-      "Thursday: 10:00 AM – 5:30 PM",
-      "Friday: 10:00 AM – 5:30 PM",
-      "Saturday: 10:00 AM – 5:30 PM",
-      "Sunday: 11:00 AM – 4:00 PM"
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
     ],
     "openNow": false,
     "formattedPhoneNumber": "(612) 208-0992",
@@ -41,7 +41,7 @@
       {
         "author_name": "Andrew Abi-Mansour",
         "rating": 5,
-        "text": "This is an absolute must try! I’m not vegan, but I absolutely love the food here. Made from simple ingredients, the food and sauces taste amazing.",
+        "text": "This is an absolute must try! I\u2019m not vegan, but I absolutely love the food here. Made from simple ingredients, the food and sauces taste amazing.",
         "time": 1768760336,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGypmmdRjw0rcnE7MD2R-8GnPu1LG8FlL-grJV3W5CbE3pPT_s=s128-c0x00000000-cc-rp-mo-ba6"
       },
@@ -66,15 +66,7 @@
         "time": 1769893814,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5wv6GXzujwFm7iiyftnNkpEV1-UkKqrRlnIFnezBYL1gXZQ=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "CMFEdxLaeYAI9Vf3NUQx4w",
-      "rating": 4.3,
-      "reviewCount": 250,
-      "yelpUrl": "https://www.yelp.com/biz/the-herbivorous-butcher-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJiUzxP4gq9ocRvFPpu-wAMFU": {
     "placeId": "ChIJiUzxP4gq9ocRvFPpu-wAMFU",
@@ -86,11 +78,11 @@
     "openingHours": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 11:00 AM – 8:00 PM",
-      "Thursday: 11:00 AM – 8:00 PM",
-      "Friday: 11:00 AM – 8:00 PM",
-      "Saturday: 11:00 AM – 8:00 PM",
-      "Sunday: 10:00 AM – 7:00 PM"
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(651) 222-3263",
@@ -111,7 +103,7 @@
       {
         "author_name": "Trenton",
         "rating": 1,
-        "text": "Steak sandwich was burned beyond acceptable crisp. Tasted like ash. Can’t believe they brought it out to a table in such condition.\n\nBurger was served wet with sauce. A little dab will do ya. Wife struggled to eat the burger.\n\nWings were amazing!\n\nWhy did I pay 15% automatic gratuities for such poor service and very badly burnt food?",
+        "text": "Steak sandwich was burned beyond acceptable crisp. Tasted like ash. Can\u2019t believe they brought it out to a table in such condition.\n\nBurger was served wet with sauce. A little dab will do ya. Wife struggled to eat the burger.\n\nWings were amazing!\n\nWhy did I pay 15% automatic gratuities for such poor service and very badly burnt food?",
         "time": 1766865275,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL65v2_4WQG7Wuxks4XzMQKrb8k6ZpVUSzG4NZwTlVoisW66w=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -125,7 +117,7 @@
       {
         "author_name": "Miranda Siedelmann",
         "rating": 4,
-        "text": "I always love a plant based restaurant! The chicken bacon ranch wrap was perfect and would be great with some extra sauce for dipping. We were not as big a fan of the mac n cheese. We got the frostbites, which are a thicker version of a milkshake. I wasn’t such a fan of these either, they tasted a little chemically to me.",
+        "text": "I always love a plant based restaurant! The chicken bacon ranch wrap was perfect and would be great with some extra sauce for dipping. We were not as big a fan of the mac n cheese. We got the frostbites, which are a thicker version of a milkshake. I wasn\u2019t such a fan of these either, they tasted a little chemically to me.",
         "time": 1754872499,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuAvsJ8AwHbpA5l3cUZNkLUNOEp9DQxCRpkA_BHQtctPcl-rW_=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -143,15 +135,7 @@
         "time": 1769901537,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe7vB0sblsG8tHCJJoZDdMw_lzQ1MzV8CNfHT5HphBnXh0_nrjXg=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "4htPikslaZEDX8QKv7g14g",
-      "rating": 4.9,
-      "reviewCount": 51,
-      "yelpUrl": "https://www.yelp.com/biz/lulus-ethiovegan-cuisine-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJb4l2YYgzs1IRvErf9UUeNdI": {
     "placeId": "ChIJb4l2YYgzs1IRvErf9UUeNdI",
@@ -161,13 +145,13 @@
     "rating": 4.9,
     "userRatingsTotal": 313,
     "openingHours": [
-      "Monday: 11:00 AM – 8:30 PM",
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 2:00 – 8:30 PM",
-      "Friday: 11:00 AM – 9:00 PM",
-      "Saturday: 11:00 AM – 9:00 PM",
-      "Sunday: 11:00 AM – 8:30 PM"
+      "Thursday: 2:00\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 353-5758",
@@ -188,7 +172,7 @@
       {
         "author_name": "Brandy Nicole",
         "rating": 5,
-        "text": "I ate here yesterday and it was so good. It was only my second time having Ethiopian food, but I am obsessed with the injera bread. It’s so fluffy and light and and complemented the dish that I got so well. They also have items for sale that you can purchase if you want to make some dishes at home. I love that the menu is all plant based. I went with my boyfriend who is not Vegan and he got the spaghetti and really liked it. Will definitely be back!",
+        "text": "I ate here yesterday and it was so good. It was only my second time having Ethiopian food, but I am obsessed with the injera bread. It\u2019s so fluffy and light and and complemented the dish that I got so well. They also have items for sale that you can purchase if you want to make some dishes at home. I love that the menu is all plant based. I went with my boyfriend who is not Vegan and he got the spaghetti and really liked it. Will definitely be back!",
         "time": 1768240838,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-LjBy7gtPYvph2IXHVcnGxsxi_pfiaibWVfmUeZ3_5RU6H8A=s128-c0x00000000-cc-rp-mo-ba3"
       },
@@ -202,7 +186,7 @@
       {
         "author_name": "Mandy Shea Williams",
         "rating": 5,
-        "text": "Lulu's was amazing, and really appreciate it's all VEGAN. 🌱\n\nOwner's son greeted me & took my order; helped me narrow down my options, as there really is so much to choose from, even helped me figure out how to order smaller version of certain menu items, so I could try more dishes.\n\nLulu herself brought out my main dish, and she was so sweet & kind.\n\nEverything came out fast, yet everything was super fresh, super hot & full of flavor. 🔥\n\nSuper impressed! It was my first time, but I will definitely be back. Thank you, Lulu & fam! 💜",
+        "text": "Lulu's was amazing, and really appreciate it's all VEGAN. \ud83c\udf31\n\nOwner's son greeted me & took my order; helped me narrow down my options, as there really is so much to choose from, even helped me figure out how to order smaller version of certain menu items, so I could try more dishes.\n\nLulu herself brought out my main dish, and she was so sweet & kind.\n\nEverything came out fast, yet everything was super fresh, super hot & full of flavor. \ud83d\udd25\n\nSuper impressed! It was my first time, but I will definitely be back. Thank you, Lulu & fam! \ud83d\udc9c",
         "time": 1757799512,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBsA4_dZR0HYJAusy9oiE8CJkz6AjdXxEUT4maSa0QxNc5=s128-c0x00000000-cc-rp-mo-ba2"
       },
@@ -220,31 +204,23 @@
         "time": 1755749708,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaghpWvXcOM1dljhXD7K1oceBxZs6mtV_QvsPSk0R80zF1PXn0=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "qkDlcBEJr0JZjKI7fWVzrw",
-      "rating": 4.7,
-      "reviewCount": 165,
-      "yelpUrl": "https://www.yelp.com/biz/reverie-cafe-bar-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJXaSgL7gys1IR2XJTlKVwMjo": {
     "placeId": "ChIJXaSgL7gys1IR2XJTlKVwMjo",
     "restaurantId": "5",
-    "restaurantName": "French Meadow Bakery & Café",
+    "restaurantName": "French Meadow Bakery & Caf\u00e9",
     "_fetchedAt": "2026-03-02T00:04:15.285Z",
     "rating": 4.7,
     "userRatingsTotal": 1150,
     "openingHours": [
-      "Monday: 11:00 AM – 9:00 PM",
-      "Tuesday: 11:00 AM – 9:00 PM",
-      "Wednesday: 11:00 AM – 9:00 PM",
-      "Thursday: 11:00 AM – 9:00 PM",
-      "Friday: 11:00 AM – 9:00 PM",
-      "Saturday: 9:30 AM – 3:00 PM, 4:00 – 9:00 PM",
-      "Sunday: 9:30 AM – 3:00 PM, 4:00 – 9:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 987-7080",
@@ -265,21 +241,21 @@
       {
         "author_name": "Don Dude",
         "rating": 5,
-        "text": "This was a great vegan place!  I don't often search out vegan. I have no issue with veg/vegan, and a friend is hardcore vegan; so, I took them there when they were in town.\n\nThis is a classic Twin Cities eclectic specialty restaurant /cafe soany of us renused to on the different neighborhoods!\nWent for lunch and the mock duck Korean BBQ tacos were outstanding.  So much texture and the flavor of the (mock) duck was delicious; so,  you don't even think about 'mock meat'.  I want to note the fresh pickle were very good and great counter flavor pairing. I mean really good.  The arugula side salad was perfectly dressed and a good pairing with the crunchy sweetness of the tacos.  The BLT was good as well\nThey have a very good almost all regional microbrews.  But only pint pours (no half pours, I asked 😉)\nCounter service and they bring out to based on a table flag.  It can be a little slow during peak lunch period, but it was worth the wait.  Some small table seating but shared long tables make up about half the seating area.  Also a counter area/bar area.\nCounter can help you with any questions.  Very knowledgeable.",
+        "text": "This was a great vegan place!  I don't often search out vegan. I have no issue with veg/vegan, and a friend is hardcore vegan; so, I took them there when they were in town.\n\nThis is a classic Twin Cities eclectic specialty restaurant /cafe soany of us renused to on the different neighborhoods!\nWent for lunch and the mock duck Korean BBQ tacos were outstanding.  So much texture and the flavor of the (mock) duck was delicious; so,  you don't even think about 'mock meat'.  I want to note the fresh pickle were very good and great counter flavor pairing. I mean really good.  The arugula side salad was perfectly dressed and a good pairing with the crunchy sweetness of the tacos.  The BLT was good as well\nThey have a very good almost all regional microbrews.  But only pint pours (no half pours, I asked \ud83d\ude09)\nCounter service and they bring out to based on a table flag.  It can be a little slow during peak lunch period, but it was worth the wait.  Some small table seating but shared long tables make up about half the seating area.  Also a counter area/bar area.\nCounter can help you with any questions.  Very knowledgeable.",
         "time": 1762725180,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEjFZwyv43m4qvlv-HFRmtOX4Kfr5HD9rHYydsTnT38a8K4Q=s128-c0x00000000-cc-rp-mo-ba7"
       },
       {
         "author_name": "Deanna Thomas",
         "rating": 5,
-        "text": "OMG the Caprice sandwich is divine!  The dressed greens make a WONDERFUL topping on it. JUST TRY IT!!! The potato salad has artichoke hearts in it & the sauce is definitely delicious! 😋\nPs. The potato wedges & aioli are a perfect substitute if they're out of potato salad.",
+        "text": "OMG the Caprice sandwich is divine!  The dressed greens make a WONDERFUL topping on it. JUST TRY IT!!! The potato salad has artichoke hearts in it & the sauce is definitely delicious! \ud83d\ude0b\nPs. The potato wedges & aioli are a perfect substitute if they're out of potato salad.",
         "time": 1771306509,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWf4eqRXovPZPcet0qDZLqzQYcRedFTwcQmDTntJoiTzCnwW_Zq=s128-c0x00000000-cc-rp-mo-ba5"
       },
       {
         "author_name": "Caroline",
         "rating": 5,
-        "text": "Heavenly dishes…wow!!\nThe beignets were excellent and the Mac and cheese mature and Smokey. The lemonade was delicious. Great atmosphere, cool staff, happy it’s all vegan!!",
+        "text": "Heavenly dishes\u2026wow!!\nThe beignets were excellent and the Mac and cheese mature and Smokey. The lemonade was delicious. Great atmosphere, cool staff, happy it\u2019s all vegan!!",
         "time": 1763324445,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIxSN8e5RdFhuf2Yc6KFiTaKo9RhLi5flzX9hP3hzOV7-JjGRd=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -297,15 +273,7 @@
         "time": 1761076798,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM5MQUX6MQDX_IW_wA-xyXieMKqQV0m9ptbFe2WwJly6YNxrk=s128-c0x00000000-cc-rp-mo-ba5"
       }
-    ],
-    "yelp": {
-      "yelpId": "52Sw9P9nW1-5yu6dZOpyeg",
-      "rating": 3.7,
-      "reviewCount": 1160,
-      "yelpUrl": "https://www.yelp.com/biz/french-meadow-cafe-and-bluestem-bar-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJwQzEd80ys1IRMqr4uqdRbUM": {
     "placeId": "ChIJwQzEd80ys1IRMqr4uqdRbUM",
@@ -315,13 +283,13 @@
     "rating": 4.4,
     "userRatingsTotal": 3681,
     "openingHours": [
-      "Monday: 7:30 AM – 8:00 PM",
-      "Tuesday: 7:30 AM – 8:00 PM",
-      "Wednesday: 7:30 AM – 8:00 PM",
-      "Thursday: 7:30 AM – 8:00 PM",
-      "Friday: 7:30 AM – 9:00 PM",
-      "Saturday: 7:30 AM – 9:00 PM",
-      "Sunday: 7:30 AM – 8:00 PM"
+      "Monday: 7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 7:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 870-7855",
@@ -342,7 +310,7 @@
       {
         "author_name": "Sarah Mathre",
         "rating": 5,
-        "text": "I recently ate at French Meadow Cafe & Bluestem Bar and had a really enjoyable meal. They have a large number of vegan options, which makes it a great spot for anyone looking for plant based choices.\n\nI tried their dark chocolate sea salt cookie, which was rich and flavorful without being overly sweet. I also ordered a side of fruit, which was fresh and a nice complement to the meal. For my entree, I had a creamy mushroom pasta. I don’t remember the exact name, but it was very good and comforting, with a nice balance of creaminess and flavor. Overall, everything was well prepared, and I would definitely come back to try more from their menu.",
+        "text": "I recently ate at French Meadow Cafe & Bluestem Bar and had a really enjoyable meal. They have a large number of vegan options, which makes it a great spot for anyone looking for plant based choices.\n\nI tried their dark chocolate sea salt cookie, which was rich and flavorful without being overly sweet. I also ordered a side of fruit, which was fresh and a nice complement to the meal. For my entree, I had a creamy mushroom pasta. I don\u2019t remember the exact name, but it was very good and comforting, with a nice balance of creaminess and flavor. Overall, everything was well prepared, and I would definitely come back to try more from their menu.",
         "time": 1767489278,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwP9Knck9PvAtu0QmXn7-a6uA7B_8g4z8iTFeqiK2Eh_ngXNHQ4Q=s128-c0x00000000-cc-rp-mo-ba6"
       },
@@ -374,15 +342,7 @@
         "time": 1765563996,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzalr5ECI043oFbhYq1E7Qg6uqgK5unfrtjagbRdiHAJIVKYM=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "Rj1qvUhDindvLtMAHxCwWg",
-      "rating": 3.9,
-      "reviewCount": 409,
-      "yelpUrl": "https://www.yelp.com/biz/hard-times-caf%C3%A9-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJIxHJx0Mts1IRlGMFZ_q61xo": {
     "placeId": "ChIJIxHJx0Mts1IRlGMFZ_q61xo",
@@ -392,13 +352,13 @@
     "rating": 4.5,
     "userRatingsTotal": 1475,
     "openingHours": [
-      "Monday: 8:00 AM – 12:00 AM",
-      "Tuesday: 8:00 AM – 12:00 AM",
-      "Wednesday: 8:00 AM – 12:00 AM",
-      "Thursday: 8:00 AM – 12:00 AM",
-      "Friday: 8:00 AM – 12:00 AM",
-      "Saturday: 8:00 AM – 12:00 AM",
-      "Sunday: 8:00 AM – 12:00 AM"
+      "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
     ],
     "openNow": true,
     "googleMapsUrl": "https://maps.google.com/?cid=1934220149611914132",
@@ -418,7 +378,7 @@
       {
         "author_name": "Caroline",
         "rating": 4,
-        "text": "Food was pretty good, good pricing too. Atmosphere is cool. Wish they accepted cards or Venmo, cash app, PayPal, ANYTHING. I took a bus for an hour here because this place was recommended to me and I didn’t have cash. I ended up approaching another customer and asking if I could Venmo her for cash. Thankfully she accepted.",
+        "text": "Food was pretty good, good pricing too. Atmosphere is cool. Wish they accepted cards or Venmo, cash app, PayPal, ANYTHING. I took a bus for an hour here because this place was recommended to me and I didn\u2019t have cash. I ended up approaching another customer and asking if I could Venmo her for cash. Thankfully she accepted.",
         "time": 1763326030,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIxSN8e5RdFhuf2Yc6KFiTaKo9RhLi5flzX9hP3hzOV7-JjGRd=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -439,26 +399,18 @@
       {
         "author_name": "Lucky Strains",
         "rating": 5,
-        "text": "Rad vegetarian and vegan spot with loads of character! We ordered dinner and started eating our delicious vegan baked🍪goods while we waited.\nWe ordered a Ruhben and Philly both Vegan. Both sandwiches were outstanding!!! We will definitely be back. Thanks for being totally groovy Hard Times Cafe🙏💚",
+        "text": "Rad vegetarian and vegan spot with loads of character! We ordered dinner and started eating our delicious vegan baked\ud83c\udf6agoods while we waited.\nWe ordered a Ruhben and Philly both Vegan. Both sandwiches were outstanding!!! We will definitely be back. Thanks for being totally groovy Hard Times Cafe\ud83d\ude4f\ud83d\udc9a",
         "time": 1751244115,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1met5bPsR1lRxmWJN3t857_CN5SKDXyu_FstbhLRfi2zzMw=s128-c0x00000000-cc-rp-mo-ba3"
       },
       {
         "author_name": "Rachel M",
         "rating": 5,
-        "text": "It’s been surprisingly hard for me to find good vegan food in Minneapolis, but Hard Times is a gem. The vegan options are incredible, with tons of variety, all at prices that feel almost unreal by today’s standards, so I don’t mind it being cash only (there’s an ATM available if you need). We visit Minneapolis every year and this is a must-stop every single time. The vegan biscuits and gravy are my favorite, and all the baked goods I’ve had have been outstanding. Beyond the food, it’s very clear that the staff and restaurant are committed to creating a safe, welcoming space rooted in love and inclusion—while making it equally clear that hate (ICE) and harmful ideologies are absolutely not welcome. I love spending my money at a place that aligns so strongly with my values :) Can’t recommend it enough.",
+        "text": "It\u2019s been surprisingly hard for me to find good vegan food in Minneapolis, but Hard Times is a gem. The vegan options are incredible, with tons of variety, all at prices that feel almost unreal by today\u2019s standards, so I don\u2019t mind it being cash only (there\u2019s an ATM available if you need). We visit Minneapolis every year and this is a must-stop every single time. The vegan biscuits and gravy are my favorite, and all the baked goods I\u2019ve had have been outstanding. Beyond the food, it\u2019s very clear that the staff and restaurant are committed to creating a safe, welcoming space rooted in love and inclusion\u2014while making it equally clear that hate (ICE) and harmful ideologies are absolutely not welcome. I love spending my money at a place that aligns so strongly with my values :) Can\u2019t recommend it enough.",
         "time": 1768927983,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYNw4R4X_27D45u3znsbWKCxIsptrl58wf3Efza4GyO9TIE6D5=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "vH-rQnHNT99hjfRMOMJOGA",
-      "rating": 3.8,
-      "reviewCount": 200,
-      "yelpUrl": "https://www.yelp.com/biz/seward-cafe-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJvfJfb0gts1IR6pJXoFPcg1k": {
     "placeId": "ChIJvfJfb0gts1IR6pJXoFPcg1k",
@@ -471,10 +423,10 @@
       "Monday: Closed",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 8:00 AM – 4:00 PM",
-      "Friday: 8:00 AM – 4:00 PM",
-      "Saturday: 8:00 AM – 4:00 PM",
-      "Sunday: 8:00 AM – 4:00 PM"
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
     ],
     "openNow": false,
     "formattedPhoneNumber": "(612) 332-1011",
@@ -495,14 +447,14 @@
       {
         "author_name": "Ivy Bolthouse",
         "rating": 5,
-        "text": "Love Seward cafe overall. Good prices, good ethics. I have especially enjoyed their vegan breakfast sausage and biscuits and gravy. I didn’t love the hash browns, too oily for me, but the tofu scramble was good. As far as drinks go, I have had mixed experiences. The chai was good one time but the next time it had an overpowering taste of cloves and I struggled to drink it (and I do like spicy chai) so I hesitate to order that again.\n\nThey have 2 single-user bathrooms which are both gender neutral.",
+        "text": "Love Seward cafe overall. Good prices, good ethics. I have especially enjoyed their vegan breakfast sausage and biscuits and gravy. I didn\u2019t love the hash browns, too oily for me, but the tofu scramble was good. As far as drinks go, I have had mixed experiences. The chai was good one time but the next time it had an overpowering taste of cloves and I struggled to drink it (and I do like spicy chai) so I hesitate to order that again.\n\nThey have 2 single-user bathrooms which are both gender neutral.",
         "time": 1745507332,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGCgOMS-IhVDq2ntGtX_2D_iVXOOpYhE2IfHW9kc4H3vEo9x7I=s128-c0x00000000-cc-rp-mo-ba5"
       },
       {
         "author_name": "Marques Garrett",
         "rating": 5,
-        "text": "Seward Cafe is a gem for anyone looking for amazing vegan options! I had the tofu scramble, and the smoky tempeh in it was hands-down my favorite part—so flavorful and satisfying. The fluffy pancake was also a standout, especially drizzled with maple syrup. Cozy atmosphere, great food, and friendly service. Definitely worth a visit!",
+        "text": "Seward Cafe is a gem for anyone looking for amazing vegan options! I had the tofu scramble, and the smoky tempeh in it was hands-down my favorite part\u2014so flavorful and satisfying. The fluffy pancake was also a standout, especially drizzled with maple syrup. Cozy atmosphere, great food, and friendly service. Definitely worth a visit!",
         "time": 1744480245,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXniM3299wiBJfl-G7V5aBd-IrBFOUljwxO1SpHdkhmiF-qOab2=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -516,26 +468,18 @@
       {
         "author_name": "Alane Klein",
         "rating": 5,
-        "text": "This has always been a favorite place because they have vegan biscuits and gravy on the menu. It’s been about 8 years since I visited and I’m happy to report it hasn’t changed much.\n\nThe quantity of food for the price is pretty much unmatched for vegan options. I ordered the biscuit breakfast with tofu. I was very happy with the cold press coffee, it was perfect.\n\nGarden seating was so nice on an August morning. All of the space made it felt very private and chill.",
+        "text": "This has always been a favorite place because they have vegan biscuits and gravy on the menu. It\u2019s been about 8 years since I visited and I\u2019m happy to report it hasn\u2019t changed much.\n\nThe quantity of food for the price is pretty much unmatched for vegan options. I ordered the biscuit breakfast with tofu. I was very happy with the cold press coffee, it was perfect.\n\nGarden seating was so nice on an August morning. All of the space made it felt very private and chill.",
         "time": 1692588227,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSeOyYIw5dh1kS5HF-jBTG0XTDJAoaJP4-JaC2hj1ulvWj0cdY=s128-c0x00000000-cc-rp-mo-ba5"
       },
       {
         "author_name": "Sasha Renee",
         "rating": 5,
-        "text": "I’ve been going here since I was a kid. I am so glad they reopened. I am also happy that they have the same menu. I ordered the super earth and it tasted just as I remembered it.\nI know some people are a bit put off by the atmosphere, but I love it. It’s so eclectic and cozy. They have an awesome patio too.\nIt’s always been an order at the counter place. They call your name when your order is ready. They no longer have the order sheets to fill out.\nI definitely recommend if you like good food with tons of vegetarian and vegan options.",
+        "text": "I\u2019ve been going here since I was a kid. I am so glad they reopened. I am also happy that they have the same menu. I ordered the super earth and it tasted just as I remembered it.\nI know some people are a bit put off by the atmosphere, but I love it. It\u2019s so eclectic and cozy. They have an awesome patio too.\nIt\u2019s always been an order at the counter place. They call your name when your order is ready. They no longer have the order sheets to fill out.\nI definitely recommend if you like good food with tons of vegetarian and vegan options.",
         "time": 1731205695,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyxPT7ARGI2y91qGpQYZzA7E7JnlI1tn4G92cQ38sKQHTtE2OcFg=s128-c0x00000000-cc-rp-mo-ba5"
       }
-    ],
-    "yelp": {
-      "yelpId": "j9Y-HBjkJPyUjBQoIc2khg",
-      "rating": 4.7,
-      "reviewCount": 39,
-      "yelpUrl": "https://www.yelp.com/biz/francis-burger-joint-minneapolis-4?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ4RKDBRsts1IRf6g10ss7_gk": {
     "placeId": "ChIJ4RKDBRsts1IRf6g10ss7_gk",
@@ -545,13 +489,13 @@
     "rating": 4.8,
     "userRatingsTotal": 1084,
     "openingHours": [
-      "Monday: 11:00 AM – 9:00 PM",
-      "Tuesday: 11:00 AM – 9:00 PM",
-      "Wednesday: 11:00 AM – 9:00 PM",
-      "Thursday: 11:00 AM – 9:00 PM",
-      "Friday: 11:00 AM – 10:00 PM",
-      "Saturday: 10:00 AM – 10:00 PM",
-      "Sunday: 10:00 AM – 9:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 208-6870",
@@ -572,14 +516,14 @@
       {
         "author_name": "Autumn A",
         "rating": 5,
-        "text": "Love at first bite is no joke. I’ll be dreaming of this burger for all of eternity. Brought my vegan mom here while in town and have to say it is the best vegan food I’ve eaten. Cannot wait to come back in the future!!! Meat eaters, you’ll have no idea it’s meatless.",
+        "text": "Love at first bite is no joke. I\u2019ll be dreaming of this burger for all of eternity. Brought my vegan mom here while in town and have to say it is the best vegan food I\u2019ve eaten. Cannot wait to come back in the future!!! Meat eaters, you\u2019ll have no idea it\u2019s meatless.",
         "time": 1771095455,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDdG85ocupSzYFExoQVXkw-milfTggeKDEzVWtcX_UOQHdvDvQ=s128-c0x00000000-cc-rp-mo-ba4"
       },
       {
         "author_name": "Skylar Martin",
         "rating": 5,
-        "text": "This place is AMAZING!! The atmosphere was fun, the workers were so kind and friendly, and the food was 10/10. I have a gluten allergy and was pleasantly surprised that I could have almost everything on the menu!! They even have a separate fryer and space to prepare gf items, such a rare find and much appreciated! I will definitely be back and can’t wait to try more of the menu!",
+        "text": "This place is AMAZING!! The atmosphere was fun, the workers were so kind and friendly, and the food was 10/10. I have a gluten allergy and was pleasantly surprised that I could have almost everything on the menu!! They even have a separate fryer and space to prepare gf items, such a rare find and much appreciated! I will definitely be back and can\u2019t wait to try more of the menu!",
         "time": 1769576007,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqjNoxVMTzZiJu7d0GCFFtkf4XheKLfRliJx3U5ACerwmGkvx6=s128-c0x00000000-cc-rp-mo-ba2"
       },
@@ -604,15 +548,7 @@
         "time": 1755867583,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWvZP0etLZkyMrXZoP8hhPpINqVHQ9bjmSALTfiXgDvsLGUA=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "REaYq7UDUefZEj87KrKxQw",
-      "rating": 4.2,
-      "reviewCount": 308,
-      "yelpUrl": "https://www.yelp.com/biz/modern-times-caf%C3%A9-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJX77Drvwn9ocRw5H5MQNMvig": {
     "placeId": "ChIJX77Drvwn9ocRw5H5MQNMvig",
@@ -622,13 +558,13 @@
     "rating": 4.7,
     "userRatingsTotal": 1314,
     "openingHours": [
-      "Monday: 9:00 AM – 3:00 PM",
+      "Monday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
       "Tuesday: Closed",
-      "Wednesday: 9:00 AM – 3:00 PM",
-      "Thursday: 9:00 AM – 3:00 PM",
-      "Friday: 9:00 AM – 3:00 PM",
-      "Saturday: 9:00 AM – 3:00 PM",
-      "Sunday: 9:00 AM – 3:00 PM"
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
     ],
     "openNow": false,
     "formattedPhoneNumber": "(612) 886-3882",
@@ -649,21 +585,21 @@
       {
         "author_name": "Sasha Anauo",
         "rating": 5,
-        "text": "the best breakfast in the whole twin cities ❤️ perfect options for those who are vegan or vegetarian! the chakra khan has been my favorite for a long time, but their good morning healing earth is also a favorite :-) thank you guys for everything you do for the community!! worth the wait every time!",
+        "text": "the best breakfast in the whole twin cities \u2764\ufe0f perfect options for those who are vegan or vegetarian! the chakra khan has been my favorite for a long time, but their good morning healing earth is also a favorite :-) thank you guys for everything you do for the community!! worth the wait every time!",
         "time": 1770407263,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXYOKGZ034VpbPSwwJa0ba1W2YgvrJGoI0zV-1XwmZAA-aXNU=s128-c0x00000000-cc-rp-mo"
       },
       {
         "author_name": "Justin Norman",
         "rating": 5,
-        "text": "Great vegan food - both the rice dish and burger were outstanding, and the cold brew coffee was great as well. It was great to see vegan options for nearly every dish on the menu. Definitely worth checking out if you’re looking for meat-free dishes!",
+        "text": "Great vegan food - both the rice dish and burger were outstanding, and the cold brew coffee was great as well. It was great to see vegan options for nearly every dish on the menu. Definitely worth checking out if you\u2019re looking for meat-free dishes!",
         "time": 1758760515,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOTZYX6MzMRLBLjm4VMXBxP3UlCwYDjU-xPp9Sk0EN6K9bvkts=s128-c0x00000000-cc-rp-mo-ba5"
       },
       {
         "author_name": "Christian Noyce",
         "rating": 5,
-        "text": "Been going to Modern Times for years now and have always had great service from amazing people. If you haven’t gone, I highly recommend. It is a staple of the cities that I bring those from near and far to. Great veggie and vegan options while balancing with the classic eggs and bacon for breakfast. Im a fan of the south side hash, my wife is a fan of the rancheros and my brother loves the good morning healing earth. A place for all to come together over some good food and coffee. No wonder the community is so strong when they got a place like this in it to come together.",
+        "text": "Been going to Modern Times for years now and have always had great service from amazing people. If you haven\u2019t gone, I highly recommend. It is a staple of the cities that I bring those from near and far to. Great veggie and vegan options while balancing with the classic eggs and bacon for breakfast. Im a fan of the south side hash, my wife is a fan of the rancheros and my brother loves the good morning healing earth. A place for all to come together over some good food and coffee. No wonder the community is so strong when they got a place like this in it to come together.",
         "time": 1769470244,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhIrwgBGca4qw9uB1fKG2k0D5cL1e0ON8yATBjUnR2bwwIWg=s128-c0x00000000-cc-rp-mo"
       },
@@ -681,29 +617,13 @@
         "time": 1752856731,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDxULzVtOLtKy9BvYA5LV0-FUoBGdatG1-v0jNlvQmyQHH3ShTDg=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "x2Ot4EavQ1ww-5QdjBuF1Q",
-      "rating": 4.7,
-      "reviewCount": 15,
-      "yelpUrl": "https://www.yelp.com/biz/bole-ethiopian-cuisine-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJVVVVVXkrs1IRJ8b7U_WvJDI": {
     "placeId": "ChIJVVVVVXkrs1IRJ8b7U_WvJDI",
     "restaurantId": "12",
     "restaurantName": "Everest on Grand",
-    "_fetchedAt": "2026-03-02T00:04:21.336Z",
-    "yelp": {
-      "yelpId": "RiDwchhDVVljEsFVu6dU2Q",
-      "rating": 3.8,
-      "reviewCount": 366,
-      "yelpUrl": "https://www.yelp.com/biz/everest-on-grand-saint-paul-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    "_fetchedAt": "2026-03-02T00:04:21.336Z"
   },
   "ChIJvSCu8nUq9ocRp97Mcg3maBQ": {
     "placeId": "ChIJvSCu8nUq9ocRp97Mcg3maBQ",
@@ -714,12 +634,12 @@
     "userRatingsTotal": 1370,
     "openingHours": [
       "Monday: Closed",
-      "Tuesday: 11:00 AM – 9:30 PM",
-      "Wednesday: 11:00 AM – 9:30 PM",
-      "Thursday: 11:00 AM – 9:30 PM",
-      "Friday: 11:00 AM – 9:30 PM",
-      "Saturday: 10:00 AM – 9:30 PM",
-      "Sunday: 10:00 AM – 9:00 PM"
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(651) 330-2492",
@@ -768,19 +688,11 @@
       {
         "author_name": "Time_to_Review",
         "rating": 5,
-        "text": "Such a wonderful experience! The food was incredible, and the staff was genuinely kind and welcoming, even while clearly understaffed that night and very busy. Our waitress never made us feel rushed and was excited to answer our questions, which made our first Ethiopian dining experience even more special. The pricing was perfect for the amount of food we received. We’re already looking forward to coming back!",
+        "text": "Such a wonderful experience! The food was incredible, and the staff was genuinely kind and welcoming, even while clearly understaffed that night and very busy. Our waitress never made us feel rushed and was excited to answer our questions, which made our first Ethiopian dining experience even more special. The pricing was perfect for the amount of food we received. We\u2019re already looking forward to coming back!",
         "time": 1769875656,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnZCQ03QVOJZvgdh3bZcr_D9IdMfOY2P2pPvqD5WonN1fwcap8=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "_NNDqkAE_I37bbnZBIzh3w",
-      "rating": 3.7,
-      "reviewCount": 397,
-      "yelpUrl": "https://www.yelp.com/biz/namaste-caf%C3%A9-minneapolis-3?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJQVr0SWoq9ocRjLfyCJoUzIY": {
     "placeId": "ChIJQVr0SWoq9ocRjLfyCJoUzIY",
@@ -790,13 +702,13 @@
     "rating": 4.3,
     "userRatingsTotal": 1104,
     "openingHours": [
-      "Monday: 11:00 AM – 9:00 PM",
-      "Tuesday: 11:00 AM – 9:00 PM",
-      "Wednesday: 11:00 AM – 9:00 PM",
-      "Thursday: 11:00 AM – 9:00 PM",
-      "Friday: 11:00 AM – 9:00 PM",
-      "Saturday: 11:30 AM – 9:00 PM",
-      "Sunday: 11:30 AM – 9:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(651) 231-0056",
@@ -824,14 +736,14 @@
       {
         "author_name": "Cheryllyne Vaz",
         "rating": 5,
-        "text": "Everest On Grand will always have a special place in my heart. 16 years ago, when I was in mild labor with our oldest son, my husband and I ordered food from this restaurant.\n\nTomorrow Leo turns 16 years old. So on the eve of his birthday, out of nostalgia, we ordered the exact same dishes we ate before he was born.\n\nChicken Curry (Kukhura-ko Maasu), Goat Curry (Khasiko Maasu), Tomato Achaar and Potato Achaar.\n\nIt’s so lovely that this wonderful family-owned restaurant still exists, and we can share the exact same delicious dishes with Leo and his two other siblings.",
+        "text": "Everest On Grand will always have a special place in my heart. 16 years ago, when I was in mild labor with our oldest son, my husband and I ordered food from this restaurant.\n\nTomorrow Leo turns 16 years old. So on the eve of his birthday, out of nostalgia, we ordered the exact same dishes we ate before he was born.\n\nChicken Curry (Kukhura-ko Maasu), Goat Curry (Khasiko Maasu), Tomato Achaar and Potato Achaar.\n\nIt\u2019s so lovely that this wonderful family-owned restaurant still exists, and we can share the exact same delicious dishes with Leo and his two other siblings.",
         "time": 1739933566,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLX7DkNKHsD0axUl1cIkmG_uVUxyIn_4ojTIfh7ls-87Z8C8cU=s128-c0x00000000-cc-rp-mo-ba4"
       },
       {
         "author_name": "Nisha Jacobs",
         "rating": 5,
-        "text": "We always eat here and it’s one of our favorite places in the twin cities. It has the best food, the service is really great, and we have honestly not found better in this genre of food in over a decade. Eat here, bring your family, and come hungry.  Fantastic place",
+        "text": "We always eat here and it\u2019s one of our favorite places in the twin cities. It has the best food, the service is really great, and we have honestly not found better in this genre of food in over a decade. Eat here, bring your family, and come hungry.  Fantastic place",
         "time": 1743298522,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlQWzF-04Mg0VNlS4Gq-r6-fnAcjAG0nwaRmmfNxGySiRMsiNd=s128-c0x00000000-cc-rp-mo-ba3"
       },
@@ -849,15 +761,7 @@
         "time": 1768773715,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_ACSvayczChYdZHy6UpwpD679HcciVO79g9TBvpr0Dpamvk5k=s128-c0x00000000-cc-rp-mo-ba2"
       }
-    ],
-    "yelp": {
-      "yelpId": "ZesuvK3U-6ZrMx8GK4rQGw",
-      "rating": 4.5,
-      "reviewCount": 403,
-      "yelpUrl": "https://www.yelp.com/biz/himalayan-restaurant-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJNxwjJNQys1IRYiQDwoG0XLE": {
     "placeId": "ChIJNxwjJNQys1IRYiQDwoG0XLE",
@@ -867,13 +771,13 @@
     "rating": 4.4,
     "userRatingsTotal": 957,
     "openingHours": [
-      "Monday: 11:00 AM – 9:00 PM",
-      "Tuesday: 11:00 AM – 9:00 PM",
-      "Wednesday: 11:00 AM – 9:00 PM",
-      "Thursday: 11:00 AM – 9:00 PM",
-      "Friday: 11:00 AM – 10:00 PM",
-      "Saturday: 11:00 AM – 10:00 PM",
-      "Sunday: 11:00 AM – 9:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 827-2496",
@@ -901,21 +805,21 @@
       {
         "author_name": "Phil Raskin",
         "rating": 2,
-        "text": "Service was very slow.  We were seated then waited much to long for the order to be taken.  Only half full restaurant. Not once did the server come by to ask how is the food.\nAlso, the food took an extraordinarily long time to come out.  Was about 20 minutes.\nOrdered the bone in goat.  Flavor was ok but far too many bones.  More than half the serving was bone.  I’ve had this other places and there should be some bones but more meat than just half.\nMaybe another night or different server would have been better.",
+        "text": "Service was very slow.  We were seated then waited much to long for the order to be taken.  Only half full restaurant. Not once did the server come by to ask how is the food.\nAlso, the food took an extraordinarily long time to come out.  Was about 20 minutes.\nOrdered the bone in goat.  Flavor was ok but far too many bones.  More than half the serving was bone.  I\u2019ve had this other places and there should be some bones but more meat than just half.\nMaybe another night or different server would have been better.",
         "time": 1765419592,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvquBYIFJ8JhkjiZwMOcB0BwFtlTg5wLZLtwQ34LoslE_q7cs=s128-c0x00000000-cc-rp-mo-ba2"
       },
       {
         "author_name": "Ella F",
         "rating": 5,
-        "text": "This has been one of my favorite places for years. The staff have always been wonderful and kind. They go above and beyond service wise. Making sure we had plenty of rice and even some extra raita with my to go order on the way out. Just the most thoughtful touches. They actually make their food fresh so yes, it may take awhile but I don't mind waiting. During my travels in other countries you often wait an hour for them to cook your food. Waiting for amazing food is definitely never an issue for me. 🤣 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes. Really anything on the menu you cannot go wrong with. Definitely a must visit place. ❤️",
+        "text": "This has been one of my favorite places for years. The staff have always been wonderful and kind. They go above and beyond service wise. Making sure we had plenty of rice and even some extra raita with my to go order on the way out. Just the most thoughtful touches. They actually make their food fresh so yes, it may take awhile but I don't mind waiting. During my travels in other countries you often wait an hour for them to cook your food. Waiting for amazing food is definitely never an issue for me. \ud83e\udd23 Highly recommend the creamy masala chicken, Golgappa, cauliflower peas and potatoes. Really anything on the menu you cannot go wrong with. Definitely a must visit place. \u2764\ufe0f",
         "time": 1768712526,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWX0D6-5JnjvXSXYkEKKVaqCxwr9E4j_vrsNHh4hLYRk__5PjVGvQ=s128-c0x00000000-cc-rp-mo-ba2"
       },
       {
         "author_name": "mathuraa",
         "rating": 1,
-        "text": "Worst . The only reason it has got this rating is because of the people who haven't tasted real indian food. I don’t know why people rated this much . The person who served had so much attitude . The rice was completely uncooked , chats are so less quantity and they were so cold and directly they added frozen vegetables to it . Aloo paratha was with 10percent aloo and dough, where dough was not cooked at all. We don’t ask for any refund nothing but they were not even ready to listen and showed lot of attitude to us . Worst experience ever.",
+        "text": "Worst . The only reason it has got this rating is because of the people who haven't tasted real indian food. I don\u2019t know why people rated this much . The person who served had so much attitude . The rice was completely uncooked , chats are so less quantity and they were so cold and directly they added frozen vegetables to it . Aloo paratha was with 10percent aloo and dough, where dough was not cooked at all. We don\u2019t ask for any refund nothing but they were not even ready to listen and showed lot of attitude to us . Worst experience ever.",
         "time": 1758044366,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0KuCatJUtpvZ_qVuk9D6DNY0SrwV7f--EFdddProBEsfim-ufCg=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -926,15 +830,7 @@
         "time": 1753640697,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3R__X0sIVJgfeWon2_PLUv1FpMrvuERFlZLrwcmS4DwDoOT6y_w=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "6DQYPEgzdrZtr4frU-qZRw",
-      "rating": 4.2,
-      "reviewCount": 25,
-      "yelpUrl": "https://www.yelp.com/biz/foxy-falafel-truck-saint-paul-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJA_Kxljcts1IRSZrdfx4AV3c": {
     "placeId": "ChIJA_Kxljcts1IRSZrdfx4AV3c",
@@ -945,12 +841,12 @@
     "userRatingsTotal": 3096,
     "openingHours": [
       "Monday: Closed",
-      "Tuesday: 11:00 AM – 9:30 PM",
-      "Wednesday: 11:00 AM – 9:30 PM",
-      "Thursday: 11:00 AM – 9:30 PM",
-      "Friday: 11:00 AM – 9:30 PM",
-      "Saturday: 11:00 AM – 9:30 PM",
-      "Sunday: 11:00 AM – 9:30 PM"
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 332-0880",
@@ -978,7 +874,7 @@
       {
         "author_name": "Nurana Dunyamaliyeva",
         "rating": 5,
-        "text": "10/10!!!! Amazing food, large vegetarian options, cozy atmosphere. They serve delicious garlic naan, flavorful curry, palak paneer & many more. I’m very much impressed!",
+        "text": "10/10!!!! Amazing food, large vegetarian options, cozy atmosphere. They serve delicious garlic naan, flavorful curry, palak paneer & many more. I\u2019m very much impressed!",
         "time": 1761176379,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWb_Za4iMnpbLmZc5Ig-mOZRU5KnjfxgRc1Jdi2JyCM1060Le39Iw=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -1003,15 +899,7 @@
         "time": 1770401885,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoPYCWS5mabR3HssaWuN1r94aWxnB4uWv39lkB53N979bowA=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "1VV8wL1WP28L4sZrZoueaQ",
-      "rating": 4.5,
-      "reviewCount": 761,
-      "yelpUrl": "https://www.yelp.com/biz/tongue-in-cheek-saint-paul?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJZwcfI7gss1IRUulCjVU3O9E": {
     "placeId": "ChIJZwcfI7gss1IRUulCjVU3O9E",
@@ -1038,14 +926,14 @@
       {
         "author_name": "Ruth",
         "rating": 5,
-        "text": "Amazing find! The food was SO good!!! Bonus, many options for people that are gluten free, vegetarian, or vegan. The cheese curds are the best I have ever had and I can’t believe they are gluten free. We wanted to try everything and ate WAY too much. My favorites were the cheese curds, the cauliflower steak with saffron aioli and the soup of the day which was tomato coconut bisque. The soup was so good that I was sad when I had eaten it all. My kids were so excited that they could get gluten free vegan cookie ice cream sandwiches. They were huge and one could easily be split with two people... especially if you order as much food as we did. My entire family loved the food! I wish we lived local because we would eat here all the time. I can’t recommend this place enough.",
+        "text": "Amazing find! The food was SO good!!! Bonus, many options for people that are gluten free, vegetarian, or vegan. The cheese curds are the best I have ever had and I can\u2019t believe they are gluten free. We wanted to try everything and ate WAY too much. My favorites were the cheese curds, the cauliflower steak with saffron aioli and the soup of the day which was tomato coconut bisque. The soup was so good that I was sad when I had eaten it all. My kids were so excited that they could get gluten free vegan cookie ice cream sandwiches. They were huge and one could easily be split with two people... especially if you order as much food as we did. My entire family loved the food! I wish we lived local because we would eat here all the time. I can\u2019t recommend this place enough.",
         "time": 1564024718,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1BXiQLDqppIkD5S1NNIptA3K4mR3Y85tquI79gjuZwmPPGivw=s128-c0x00000000-cc-rp-mo"
       },
       {
         "author_name": "Adriana L Green",
         "rating": 5,
-        "text": "Celiac friendly fried AND fresh food. It’s a genuine treat to be able to have a place to order from for comfort food and pick me ups. The cheese curds with honey make a fun dessert. I wish I’d choosen the harissa sauce because I like things a little spicy!",
+        "text": "Celiac friendly fried AND fresh food. It\u2019s a genuine treat to be able to have a place to order from for comfort food and pick me ups. The cheese curds with honey make a fun dessert. I wish I\u2019d choosen the harissa sauce because I like things a little spicy!",
         "time": 1676768034,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYoAoFUL60ilRqCvzaFwyfWXfESId5LcFJMPJefIEqRJuWQ2Ik=s128-c0x00000000-cc-rp-mo-ba2"
       },
@@ -1059,26 +947,18 @@
       {
         "author_name": "Peter Centner",
         "rating": 5,
-        "text": "Foxy Falafel serves up fresh, wholesome Mediterranean-inspired dishes in a cozy and causal space. The falafel is crisp and flavorful, and can be ordered in 3 flavors; the “Foxy” with traditional herbs, curry, and beet. We also ordered the baba ghanoush, which was amply portioned and had a rich, smoky flavor, and the marinated beets which were fresh and vibrant. The friendly service, ample indoor and outdoor seating, and the reasonable prices make Foxy Falafel an easy weeknight go-to spot.",
+        "text": "Foxy Falafel serves up fresh, wholesome Mediterranean-inspired dishes in a cozy and causal space. The falafel is crisp and flavorful, and can be ordered in 3 flavors; the \u201cFoxy\u201d with traditional herbs, curry, and beet. We also ordered the baba ghanoush, which was amply portioned and had a rich, smoky flavor, and the marinated beets which were fresh and vibrant. The friendly service, ample indoor and outdoor seating, and the reasonable prices make Foxy Falafel an easy weeknight go-to spot.",
         "time": 1626448349,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKk7yMmx3ng2oHW8qYaLY38-W410ZckcboI-p0uLqWr1gwA391=s128-c0x00000000-cc-rp-mo-ba4"
       },
       {
         "author_name": "Alisha Feldman",
         "rating": 5,
-        "text": "Insanely delicious cheese curds (with honey on the side—so delicious!) and great food. The pita was a little dry and thin, but everything else was so awesome.",
+        "text": "Insanely delicious cheese curds (with honey on the side\u2014so delicious!) and great food. The pita was a little dry and thin, but everything else was so awesome.",
         "time": 1557782177,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFniXXYTiKLEd7JLMkPt6bLNknrSnqg8zs3xWUhRtYeMZTfYfs=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "l5BS7mKuNQDjslY1ufGfJA",
-      "rating": 3.5,
-      "reviewCount": 615,
-      "yelpUrl": "https://www.yelp.com/biz/amazing-thailand-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ15g52DvVslIR-WJQdzPk3Ss": {
     "placeId": "ChIJ15g52DvVslIR-WJQdzPk3Ss",
@@ -1090,11 +970,11 @@
     "openingHours": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 11:00 AM – 9:00 PM",
-      "Thursday: 11:00 AM – 9:00 PM",
-      "Friday: 11:00 AM – 9:00 PM",
-      "Saturday: 11:00 AM – 9:00 PM",
-      "Sunday: 11:00 AM – 9:00 PM"
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(651) 888-6148",
@@ -1122,40 +1002,32 @@
       {
         "author_name": "Emma Jacobson",
         "rating": 5,
-        "text": "My partner and I went here to celebrate our anniversary. The staff made it very special for us! Everyone was absolutely wonderful. The food was incredible. We got the date night special, and each item was better than the next. My particular favorite was the gnocchi and the pork belly buns. The cocktails were to die for, I could have had nothing but the Erroneous Negroni-ous all night long 😅\nThis place is special and I'm not surprised it's been around as long as it has. cant wait to come back! Thank you tounge in check team for the very special experience ❤️",
+        "text": "My partner and I went here to celebrate our anniversary. The staff made it very special for us! Everyone was absolutely wonderful. The food was incredible. We got the date night special, and each item was better than the next. My particular favorite was the gnocchi and the pork belly buns. The cocktails were to die for, I could have had nothing but the Erroneous Negroni-ous all night long \ud83d\ude05\nThis place is special and I'm not surprised it's been around as long as it has. cant wait to come back! Thank you tounge in check team for the very special experience \u2764\ufe0f",
         "time": 1764023660,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfc0FMWVShVmNRtFjoYGA-2GKhSDsM_ZW0QmfPEqJaAP_bB9C_Mw=s128-c0x00000000-cc-rp-mo-ba4"
       },
       {
         "author_name": "Matthew Bolenbaugh",
         "rating": 5,
-        "text": "This place was a very unique and amazing experience. So many different flavors for the palate. From the starters to the dessert, each plate was unique and better than the last. One of the most memorable dining experiences and varied offerings for a relatively small menu that I’ve encountered in my myriad journeys across this planet. Best vegasm I ever had! (Ask your server for details ; )",
+        "text": "This place was a very unique and amazing experience. So many different flavors for the palate. From the starters to the dessert, each plate was unique and better than the last. One of the most memorable dining experiences and varied offerings for a relatively small menu that I\u2019ve encountered in my myriad journeys across this planet. Best vegasm I ever had! (Ask your server for details ; )",
         "time": 1760050513,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU13wyor7e5veVoMzGo9lZyWMGIXkzNa_IYdl9-NgFCn-3fC78=s128-c0x00000000-cc-rp-mo-ba2"
       },
       {
         "author_name": "Jessica Block",
         "rating": 5,
-        "text": "We go out to eat often. Probably too often. It takes a lot to truly stand out at this point, and this place absolutely did.\n\nEvery bite was delicious. A special shout-out to the teasers, which we almost skipped because we weren’t totally sure what they were from the menu. They’re small, perfectly crafted bites and honestly one of the highlights of our meal. Don’t sleep on them.\n\nThe cocktails were incredibly balanced, creative without being weird for the sake of it, and the flight option is a dangerously delightful idea. The atmosphere is casual, cozy, and genuinely welcoming, the kind of place that immediately makes you want to settle in and stay awhile. Food-wise, the pad thai salad was a fresh, satisfying take on a classic. The jerk cauliflower hit the ideal balance of spice and flavor.\n\nService was fantastic across the board. Our waiter was knowledgeable and gave helpful guidance. Also, every staff member who passed our table checked in and made sure we had what we needed. A small but much-appreciated touch was fresh silverware and plates between courses. It’s the kind of detail that quietly tells you they care.\n\nThis place is an absolute gem in East St. Paul. A true standout and one we won’t soon forget. I’m already looking forward to going back.",
+        "text": "We go out to eat often. Probably too often. It takes a lot to truly stand out at this point, and this place absolutely did.\n\nEvery bite was delicious. A special shout-out to the teasers, which we almost skipped because we weren\u2019t totally sure what they were from the menu. They\u2019re small, perfectly crafted bites and honestly one of the highlights of our meal. Don\u2019t sleep on them.\n\nThe cocktails were incredibly balanced, creative without being weird for the sake of it, and the flight option is a dangerously delightful idea. The atmosphere is casual, cozy, and genuinely welcoming, the kind of place that immediately makes you want to settle in and stay awhile. Food-wise, the pad thai salad was a fresh, satisfying take on a classic. The jerk cauliflower hit the ideal balance of spice and flavor.\n\nService was fantastic across the board. Our waiter was knowledgeable and gave helpful guidance. Also, every staff member who passed our table checked in and made sure we had what we needed. A small but much-appreciated touch was fresh silverware and plates between courses. It\u2019s the kind of detail that quietly tells you they care.\n\nThis place is an absolute gem in East St. Paul. A true standout and one we won\u2019t soon forget. I\u2019m already looking forward to going back.",
         "time": 1766420261,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5k9Wk8KA4PtTr8Mubjo3DZp8HIVs7Bl0ZSDS8_hejcVaRfA=s128-c0x00000000-cc-rp-mo-ba3"
       },
       {
         "author_name": "Holly Monette",
         "rating": 5,
-        "text": "Everything was excellent! The cocktail flight was creative and delicious, the pad Thai was full of flavor, and the smashed potatoes were perfectly crispy. The pork belly buns were melt-in-your-mouth good. Great food, great service — can’t wait to go back!",
+        "text": "Everything was excellent! The cocktail flight was creative and delicious, the pad Thai was full of flavor, and the smashed potatoes were perfectly crispy. The pork belly buns were melt-in-your-mouth good. Great food, great service \u2014 can\u2019t wait to go back!",
         "time": 1761846277,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrL2dBP9yhg7vgYdAcf7s574UmQOMMbxujxKrOSIO8hy6sZA=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "hC_B3tOqxkoS-qM98YilhA",
-      "rating": 3.6,
-      "reviewCount": 729,
-      "yelpUrl": "https://www.yelp.com/biz/glam-doll-donuts-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJzwHFqXgn9ocRNKJKuLayNlo": {
     "placeId": "ChIJzwHFqXgn9ocRNKJKuLayNlo",
@@ -1165,13 +1037,13 @@
     "rating": 4,
     "userRatingsTotal": 1736,
     "openingHours": [
-      "Monday: 11:00 AM – 9:00 PM",
-      "Tuesday: 11:00 AM – 9:00 PM",
-      "Wednesday: 11:00 AM – 9:00 PM",
-      "Thursday: 11:00 AM – 9:00 PM",
-      "Friday: 11:00 AM – 10:00 PM",
-      "Saturday: 11:00 AM – 10:00 PM",
-      "Sunday: 11:00 AM – 9:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 822-5588",
@@ -1206,7 +1078,7 @@
       {
         "author_name": "Lydia ThaiThai",
         "rating": 5,
-        "text": "I had an amazing meal yesterday. FYI - The restaurant does have a service charge. If you don’t like it too sweet, you can request for no sugar or less sweet. Our meal was amazing last night.\n\nShrimp & chicken spring rolls 8/10 It was delicious.\n\nSai Oua 10/10 It’s a Thai herbal sausage. You can taste all the spices and herbal such as lemongrass, ginger, galangal etc. sausage was not dry. It was great!\n\nPapaya salad (Lao style) 10/10 so good, so delicious. The fish paste that was in it is not too strong. I like it less tamarind and this was good!\n\nCrying tiger 10/10 the steak was cooked to a medium perfectly. The dipping sauce that comes with it was delicious.\n\nPricing is definitely on the higher side, but for the portion you get, the taste, service was really great. I always come back and recommend people to come eat here.",
+        "text": "I had an amazing meal yesterday. FYI - The restaurant does have a service charge. If you don\u2019t like it too sweet, you can request for no sugar or less sweet. Our meal was amazing last night.\n\nShrimp & chicken spring rolls 8/10 It was delicious.\n\nSai Oua 10/10 It\u2019s a Thai herbal sausage. You can taste all the spices and herbal such as lemongrass, ginger, galangal etc. sausage was not dry. It was great!\n\nPapaya salad (Lao style) 10/10 so good, so delicious. The fish paste that was in it is not too strong. I like it less tamarind and this was good!\n\nCrying tiger 10/10 the steak was cooked to a medium perfectly. The dipping sauce that comes with it was delicious.\n\nPricing is definitely on the higher side, but for the portion you get, the taste, service was really great. I always come back and recommend people to come eat here.",
         "time": 1712336291,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiIsfGMQpv9vCNOak0RZxkJRmHB9K-l9U0D7R35P0Gek_LDAPA=s128-c0x00000000-cc-rp-mo-ba2"
       },
@@ -1220,19 +1092,11 @@
       {
         "author_name": "Rajitha Dissanayake",
         "rating": 1,
-        "text": "worse Fried rice ever. I got a Thai style fried rice that only had onions and bokchoy . Didn’t taste anything like a fried rice . No flavor at all not even salt. Would not recommend this place to anyone.",
+        "text": "worse Fried rice ever. I got a Thai style fried rice that only had onions and bokchoy . Didn\u2019t taste anything like a fried rice . No flavor at all not even salt. Would not recommend this place to anyone.",
         "time": 1761355975,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbsbrvJN4_5lejWfNvghPg3o2i8irALpXjQoNTyQvI5r1RwrI=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "qkDlcBEJr0JZjKI7fWVzrw",
-      "rating": 4.7,
-      "reviewCount": 165,
-      "yelpUrl": "https://www.yelp.com/biz/reverie-cafe-bar-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJaRIBdLUys1IRJ9oxz9RkNdg": {
     "placeId": "ChIJaRIBdLUys1IRJ9oxz9RkNdg",
@@ -1243,12 +1107,12 @@
     "userRatingsTotal": 3316,
     "openingHours": [
       "Monday: Closed",
-      "Tuesday: 7:00 AM – 3:00 PM",
-      "Wednesday: 7:00 AM – 3:00 PM",
-      "Thursday: 7:00 AM – 3:00 PM",
-      "Friday: 7:00 AM – 3:00 PM",
-      "Saturday: 8:00 AM – 4:00 PM",
-      "Sunday: 8:00 AM – 4:00 PM"
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
     ],
     "openNow": false,
     "formattedPhoneNumber": "(612) 345-7064",
@@ -1301,15 +1165,7 @@
         "time": 1752257275,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYlwkEqWN_vAO_HWamaqi2dVMPS25gLbBJHB2uUP-mHZapIyc=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "2yGzhH_Zzo9OC1HxkJ4piw",
-      "rating": 4.3,
-      "reviewCount": 463,
-      "yelpUrl": "https://www.yelp.com/biz/j-selbys-st-paul?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJm5bPRU4n9ocRtDxZ9Ug7JiM": {
     "placeId": "ChIJm5bPRU4n9ocRtDxZ9Ug7JiM",
@@ -1350,7 +1206,7 @@
       {
         "author_name": "**",
         "rating": 5,
-        "text": "Cute plant-based food spot. Came from breakfast. The berry French toast was good, the tofu-take on 'scrambled eggs' wasn't good but worth a shot. The teas choices were great and tasty. Love any place trying to be plant based so gave an extra star, although the food was only 4/5. 🐨",
+        "text": "Cute plant-based food spot. Came from breakfast. The berry French toast was good, the tofu-take on 'scrambled eggs' wasn't good but worth a shot. The teas choices were great and tasty. Love any place trying to be plant based so gave an extra star, although the food was only 4/5. \ud83d\udc28",
         "time": 1571114061,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGfMAXntU2cbBHSOK7FXEnyN4LIv6SwSEdN3bEh6NYzVrJYBwt=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -1368,20 +1224,12 @@
         "time": 1538615180,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXL8OJ0y_nVYHmriuZZXz3ci6beoBl8vPoA4iaPvwZunpG8Q1La=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "mLhJNAjfa2NsGAqjqqrZvg",
-      "rating": 4.2,
-      "reviewCount": 108,
-      "yelpUrl": "https://www.yelp.com/biz/dream-creamery-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJlUpHwwgrs1IRENnrkghgTn0": {
     "placeId": "ChIJlUpHwwgrs1IRENnrkghgTn0",
     "restaurantId": "22",
-    "restaurantName": "Pizza Lucé",
+    "restaurantName": "Pizza Luc\u00e9",
     "_fetchedAt": "2026-03-02T00:04:32.944Z",
     "rating": 4.6,
     "userRatingsTotal": 172,
@@ -1403,7 +1251,7 @@
       {
         "author_name": "Megan Kasten",
         "rating": 5,
-        "text": "One of my favorite spots to hit up when I visit the Cities. Those croissants are DELICIOUS! The bodega is expending every time I go with amazing vegan snacks I’ve never seen anywhere else in Minnesota. Check their Instagram as the menu changes often, and they are great about updating what they have throughout the day as stuff can sell out quick.",
+        "text": "One of my favorite spots to hit up when I visit the Cities. Those croissants are DELICIOUS! The bodega is expending every time I go with amazing vegan snacks I\u2019ve never seen anywhere else in Minnesota. Check their Instagram as the menu changes often, and they are great about updating what they have throughout the day as stuff can sell out quick.",
         "time": 1540476597,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWexDby-FjrQQTvZnQYH0FaO-QPMTBI5mEZYN-En4GwoBN-4GY=s128-c0x00000000-cc-rp-mo"
       },
@@ -1424,7 +1272,7 @@
       {
         "author_name": "Nicole Pacini",
         "rating": 4,
-        "text": "I absolutely love this spot and the owner. This year marks my 2nd year attending the \"Pay What You Can\" ThanksVegan Dinner.\n\nWhen I arrived, there was a short line of folks waiting patiently as the owner Colin scooped up plate after plate. Always reminding us that he was doing his best to complete the orders. He cooked all of the food and served it as well.\n\nEureka is a small bodega located in St Paul approximately 25 minutes from my home in Maple Grove. You can find all types of plant based items in the bodega to purchase as well as daily menu specials.\n\nPay what you can Vegan Dinner at Eureka Compass hit the spot. The owner is a blessing for doing this. The food is definitely made with love.\n\nMenu:\n👉🏾Cornbread\n👉🏾Greens\n👉🏾Herbed Potatoes and Carrots\n👉🏾Garbanzo and Root Veggie Fritter\n👉🏾Squash and Black Bean Casserole\n👉🏾Pumpkin Scone",
+        "text": "I absolutely love this spot and the owner. This year marks my 2nd year attending the \"Pay What You Can\" ThanksVegan Dinner.\n\nWhen I arrived, there was a short line of folks waiting patiently as the owner Colin scooped up plate after plate. Always reminding us that he was doing his best to complete the orders. He cooked all of the food and served it as well.\n\nEureka is a small bodega located in St Paul approximately 25 minutes from my home in Maple Grove. You can find all types of plant based items in the bodega to purchase as well as daily menu specials.\n\nPay what you can Vegan Dinner at Eureka Compass hit the spot. The owner is a blessing for doing this. The food is definitely made with love.\n\nMenu:\n\ud83d\udc49\ud83c\udffeCornbread\n\ud83d\udc49\ud83c\udffeGreens\n\ud83d\udc49\ud83c\udffeHerbed Potatoes and Carrots\n\ud83d\udc49\ud83c\udffeGarbanzo and Root Veggie Fritter\n\ud83d\udc49\ud83c\udffeSquash and Black Bean Casserole\n\ud83d\udc49\ud83c\udffePumpkin Scone",
         "time": 1543555353,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXL8OJ0y_nVYHmriuZZXz3ci6beoBl8vPoA4iaPvwZunpG8Q1La=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -1435,15 +1283,7 @@
         "time": 1556245599,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTC-41-i982E5765VfE4q9-qXnNWSI55EwyFM5Uj-F8y5SUg=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "OWbRO-kjkmE9JhaQZRo8_w",
-      "rating": 3.7,
-      "reviewCount": 345,
-      "yelpUrl": "https://www.yelp.com/biz/pizza-luc%C3%A9-saint-paul-7?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ0UxSJvUts1IRBoiGrdqEnYI": {
     "placeId": "ChIJ0UxSJvUts1IRBoiGrdqEnYI",
@@ -1470,14 +1310,14 @@
       {
         "author_name": "Emily Ottinger",
         "rating": 5,
-        "text": "First time in this little shop. Atmosphere is super cute and friendly. The staff was amazing and I believe their entire menu is vegan! Huge plus for me :). I tried the vegan vanilla ice cream which was really good, and the cocoa banana crepe. So much to say about this crepe! First of all, it was served quickly and so hot and fresh I had to wait 20 min for it to cool off enough! It holds heat very well 😂. The crepe was huge and served in a pizza shaped cardboard sleeve. Absolutely delicious. Plenty of filling and overall just a lot of crepe! Would absolutely recommend and will be back to try more menu items!",
+        "text": "First time in this little shop. Atmosphere is super cute and friendly. The staff was amazing and I believe their entire menu is vegan! Huge plus for me :). I tried the vegan vanilla ice cream which was really good, and the cocoa banana crepe. So much to say about this crepe! First of all, it was served quickly and so hot and fresh I had to wait 20 min for it to cool off enough! It holds heat very well \ud83d\ude02. The crepe was huge and served in a pizza shaped cardboard sleeve. Absolutely delicious. Plenty of filling and overall just a lot of crepe! Would absolutely recommend and will be back to try more menu items!",
         "time": 1686939190,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTZfPMr72f5i3bfbFLU4AhorKOaEYoL4uAj4MWMJnC7G3iYGNpzQ=s128-c0x00000000-cc-rp-mo-ba3"
       },
       {
         "author_name": "Alane Klein",
         "rating": 5,
-        "text": "Employees were super patient and allowed me to sample several flavors before ultimately ordering a complex mix of flavors in a cone! I don’t remember the last time I had a waffle cone but this shop was entirely vegan so I went for it! We also tried a savory crepe (ham and cheese) and it was delicious!! Cold brew coffee was very reasonably priced. Indoor and outdoor seating along with bathrooms available. This place has it all! Stop in and you’ll see!",
+        "text": "Employees were super patient and allowed me to sample several flavors before ultimately ordering a complex mix of flavors in a cone! I don\u2019t remember the last time I had a waffle cone but this shop was entirely vegan so I went for it! We also tried a savory crepe (ham and cheese) and it was delicious!! Cold brew coffee was very reasonably priced. Indoor and outdoor seating along with bathrooms available. This place has it all! Stop in and you\u2019ll see!",
         "time": 1691875114,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSeOyYIw5dh1kS5HF-jBTG0XTDJAoaJP4-JaC2hj1ulvWj0cdY=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -1491,26 +1331,18 @@
       {
         "author_name": "Mollee Sheehan",
         "rating": 5,
-        "text": "Believe the hype: This is the best vegan ice cream in the metro and beyond. It’s made fresh from scratch right on site.\n\nWhether you like the classics (vanilla, chocolate, strawberry) or you have a more adventurous inclination (rose water cardamom, earl gray bergamot) — your palette will be happy.\n\nBe sure to try the crepes! This place does its savory as well as its sweet. We loved the cheeze steak and  ham-n-cheeze.",
+        "text": "Believe the hype: This is the best vegan ice cream in the metro and beyond. It\u2019s made fresh from scratch right on site.\n\nWhether you like the classics (vanilla, chocolate, strawberry) or you have a more adventurous inclination (rose water cardamom, earl gray bergamot) \u2014 your palette will be happy.\n\nBe sure to try the crepes! This place does its savory as well as its sweet. We loved the cheeze steak and  ham-n-cheeze.",
         "time": 1655596156,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXhPGHkGU4cnicbFEEbGQSMvTAChqZY_6gXBhlm4yuKero-jU7=s128-c0x00000000-cc-rp-mo"
       },
       {
         "author_name": "Lovely Thao",
         "rating": 5,
-        "text": "Love the plant based/vegan ice creams available here!  There are many creative and delicious flavors here!  There's an outdoor street patio during warmer months, but little seeding inside.  Parking is residential or next door in the semi-empty lot.\nI ordered the: Strawberry-sorbet+ Basil + Avocado-lime + Rosewater-cardamom.  My love ordered the Ube & Cookie Monster flavors.\nCheck it out and happy eating!! 😀",
+        "text": "Love the plant based/vegan ice creams available here!  There are many creative and delicious flavors here!  There's an outdoor street patio during warmer months, but little seeding inside.  Parking is residential or next door in the semi-empty lot.\nI ordered the: Strawberry-sorbet+ Basil + Avocado-lime + Rosewater-cardamom.  My love ordered the Ube & Cookie Monster flavors.\nCheck it out and happy eating!! \ud83d\ude00",
         "time": 1556978474,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbYDVkUW9KkFXNsLqyHcrPkG4kw9fd9jp6bUuu4vmsgqQOuA=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "BEFeJowe6vY9QbSkBELA2g",
-      "rating": 3.9,
-      "reviewCount": 536,
-      "yelpUrl": "https://www.yelp.com/biz/shish-saint-paul?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ4S8J0Y8ys1IRmWaq0xTwphg": {
     "placeId": "ChIJ4S8J0Y8ys1IRmWaq0xTwphg",
@@ -1520,13 +1352,13 @@
     "rating": 4.4,
     "userRatingsTotal": 3769,
     "openingHours": [
-      "Monday: 11:00 AM – 2:30 AM",
-      "Tuesday: 11:00 AM – 2:30 AM",
-      "Wednesday: 11:00 AM – 2:30 AM",
-      "Thursday: 11:00 AM – 2:30 AM",
-      "Friday: 11:00 AM – 2:30 AM",
-      "Saturday: 10:00 AM – 2:30 AM",
-      "Sunday: 10:00 AM – 2:30 AM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20092:30\u202fAM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 333-7359",
@@ -1545,9 +1377,9 @@
     ],
     "reviews": [
       {
-        "author_name": "Scar’s Perspective",
+        "author_name": "Scar\u2019s Perspective",
         "rating": 4,
-        "text": "Pizza Luce was highly recommended. I would say overall, it was okay. The Spinach Artichoke Dip was good, but a little on the salty side. We ordered the Classic Pizza and it was good. Loved the crust.\n\nOur server was just meh. I asked for recommendations on a local beer and he asked which ones on the menu I wanted. He couldn’t give a good recommendation. He was also slow. We had to track him down to get our check and again to pay. He only had 2 tables of people to serve.",
+        "text": "Pizza Luce was highly recommended. I would say overall, it was okay. The Spinach Artichoke Dip was good, but a little on the salty side. We ordered the Classic Pizza and it was good. Loved the crust.\n\nOur server was just meh. I asked for recommendations on a local beer and he asked which ones on the menu I wanted. He couldn\u2019t give a good recommendation. He was also slow. We had to track him down to get our check and again to pay. He only had 2 tables of people to serve.",
         "time": 1767486464,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpS1MOTTrTgDI8OvYNpl9ROGGLxdlQwdQYl99_nPehAIYioh8=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -1561,14 +1393,14 @@
       {
         "author_name": "Ben Mosbarger",
         "rating": 5,
-        "text": "What a great place to spend time eating delicious pizza. The atmosphere is fantastic and welcoming.\n\nOur server was so kind and helpful. She said she’s been there for 12 years because it’s such a good place to work.\n\nI was visiting from out of town, first time to Minneapolis. This place came recommended by the hotel staff and I am so grateful.",
+        "text": "What a great place to spend time eating delicious pizza. The atmosphere is fantastic and welcoming.\n\nOur server was so kind and helpful. She said she\u2019s been there for 12 years because it\u2019s such a good place to work.\n\nI was visiting from out of town, first time to Minneapolis. This place came recommended by the hotel staff and I am so grateful.",
         "time": 1762134283,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLW_WmGVKThqdY_1s7oBoRWgWQWgEJpF00oIICdTIKYy9IRlA=s128-c0x00000000-cc-rp-mo-ba4"
       },
       {
         "author_name": "L. Anderson",
         "rating": 1,
-        "text": "We ordered for the office today. I had the Ultimate Veggie vegan hoagie. Whomever made it needs to be checked. Toppings extremely sparse. Insanely huge pepper stem that could not have been missed when they made the sandwich.🤬 You knew full well that you were being funny when you made it! Just plain lazy. Not cool when the hoagie was already skinny, so it made for a VERY hard bite. Nowhere near the photo. Not that it had to be, but sheesh! At least put forth effort when you are making food for someone else when this is the job you chose. No, it was NOT busy. We placed the order right at 11:00 and it was delivered at 11:30 am, so do not say \"workload.\" Dead wrong. Period. Plus, a colleague found onions on what was supposed to be just a cheese and pepperoni pizza. Someone clearly did not want to work today. Well, you should have stayed HOME. Definitely did not deserve the tip I know was paid. Pictures have been included.",
+        "text": "We ordered for the office today. I had the Ultimate Veggie vegan hoagie. Whomever made it needs to be checked. Toppings extremely sparse. Insanely huge pepper stem that could not have been missed when they made the sandwich.\ud83e\udd2c You knew full well that you were being funny when you made it! Just plain lazy. Not cool when the hoagie was already skinny, so it made for a VERY hard bite. Nowhere near the photo. Not that it had to be, but sheesh! At least put forth effort when you are making food for someone else when this is the job you chose. No, it was NOT busy. We placed the order right at 11:00 and it was delivered at 11:30 am, so do not say \"workload.\" Dead wrong. Period. Plus, a colleague found onions on what was supposed to be just a cheese and pepperoni pizza. Someone clearly did not want to work today. Well, you should have stayed HOME. Definitely did not deserve the tip I know was paid. Pictures have been included.",
         "time": 1766194319,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaDuZ1a1taRgKpIkTZwrBL0HHvL3WaxfhUz6qrzl4B3UTnqA=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -1579,15 +1411,7 @@
         "time": 1763498173,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb7PXT8oiYknNv40JSjsiwEJerAHikuBEIk6fqaEaG6BtIArbQJg=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "3qLePfsawHLDvGhE-EepHA",
-      "rating": 5,
-      "reviewCount": 26,
-      "yelpUrl": "https://www.yelp.com/biz/the-dripping-root-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJsbkY_hgq9ocRN8kZv60pQ6M": {
     "placeId": "ChIJsbkY_hgq9ocRN8kZv60pQ6M",
@@ -1597,13 +1421,13 @@
     "rating": 4.4,
     "userRatingsTotal": 1903,
     "openingHours": [
-      "Monday: 8:00 AM – 9:00 PM",
-      "Tuesday: 8:00 AM – 9:00 PM",
-      "Wednesday: 8:00 AM – 9:00 PM",
-      "Thursday: 8:00 AM – 9:00 PM",
-      "Friday: 8:00 AM – 9:00 PM",
-      "Saturday: 8:00 AM – 9:00 PM",
-      "Sunday: 8:00 AM – 9:00 PM"
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(651) 690-2212",
@@ -1645,7 +1469,7 @@
       {
         "author_name": "Blythe Norenberg",
         "rating": 5,
-        "text": "Shish was delicious!  I loved their crispy seasoned fries to go with the Leo Burger. 😋. The chicken shawarma atop the hummus really hit the spot, and the veggies were sweet and crisp! We wish our city had a Shish!",
+        "text": "Shish was delicious!  I loved their crispy seasoned fries to go with the Leo Burger. \ud83d\ude0b. The chicken shawarma atop the hummus really hit the spot, and the veggies were sweet and crisp! We wish our city had a Shish!",
         "time": 1741561610,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSI418IukZDlmVyOkSYpJGv3RjjwEAOAbeCH0nOgx7DknFhg=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -1656,15 +1480,7 @@
         "time": 1767036359,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5Nk3j3v_yceP59IvpzCGsOQsFLaUlzQPAguWRDbVGul8JMyZUNw=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "Tll050QQPiP01ey2or72CQ",
-      "rating": 4.4,
-      "reviewCount": 274,
-      "yelpUrl": "https://www.yelp.com/biz/afro-deli-minneapolis-6?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJxf3HhgIp9ocRQVMZS_3Mzy0": {
     "placeId": "ChIJxf3HhgIp9ocRQVMZS_3Mzy0",
@@ -1677,10 +1493,10 @@
       "Monday: Closed",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 9:00 AM – 3:00 PM",
-      "Friday: 9:00 AM – 3:00 PM",
-      "Saturday: 9:00 AM – 3:00 PM",
-      "Sunday: 9:00 AM – 3:00 PM"
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
     ],
     "openNow": false,
     "googleMapsUrl": "https://maps.google.com/?cid=3301082440144606017",
@@ -1700,7 +1516,7 @@
       {
         "author_name": "Orchale McKinney",
         "rating": 5,
-        "text": "Bowls usually aren’t my thing, but my friend and I wanted to try something new for our monthly meetups. Boy, are we glad we did because it was absolutely delicious. I got the strawberry clouds and ate every last bit of it. No complaints here…I love supporting black owned businesses.",
+        "text": "Bowls usually aren\u2019t my thing, but my friend and I wanted to try something new for our monthly meetups. Boy, are we glad we did because it was absolutely delicious. I got the strawberry clouds and ate every last bit of it. No complaints here\u2026I love supporting black owned businesses.",
         "time": 1748634151,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4blNwhBkKs4PQuieNBarqNuQuqmHx2a62EVDneWcxXX3317Q=s128-c0x00000000-cc-rp-mo-ba3"
       },
@@ -1732,15 +1548,7 @@
         "time": 1695067169,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQscE3hKoUr4uquoF8il5qrh2MbyjTOIuaboR82UAOn9h0hCo=s128-c0x00000000-cc-rp-mo-ba6"
       }
-    ],
-    "yelp": {
-      "yelpId": "F2EUru-MP4qZseeN0P022Q",
-      "rating": 3.2,
-      "reviewCount": 147,
-      "yelpUrl": "https://www.yelp.com/biz/turtle-bread-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJA0QhW0Ets1IRNP8Kas5fdBY": {
     "placeId": "ChIJA0QhW0Ets1IRNP8Kas5fdBY",
@@ -1750,13 +1558,13 @@
     "rating": 4.6,
     "userRatingsTotal": 949,
     "openingHours": [
-      "Monday: 10:30 AM – 7:00 PM",
-      "Tuesday: 10:30 AM – 7:00 PM",
-      "Wednesday: 10:30 AM – 7:00 PM",
-      "Thursday: 10:30 AM – 7:00 PM",
-      "Friday: 10:30 AM – 7:00 PM",
-      "Saturday: 10:30 AM – 7:00 PM",
-      "Sunday: 10:30 AM – 7:00 PM"
+      "Monday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 871-5555",
@@ -1809,15 +1617,7 @@
         "time": 1762550459,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfbOj0Ev6-jyaPjFxMvMXvNgn75r5LdGE3nj8bDMkcOFuUfKOF=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "2ojnUvdmuqWW5EuH3Xew5g",
-      "rating": 4.3,
-      "reviewCount": 119,
-      "yelpUrl": "https://www.yelp.com/biz/hyacinth-saint-paul?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJQYmOj80ys1IRWQVWzqffD6E": {
     "placeId": "ChIJQYmOj80ys1IRWQVWzqffD6E",
@@ -1844,7 +1644,7 @@
       {
         "author_name": "jenn morrow",
         "rating": 4,
-        "text": "Love this place!\nThe food and service was excellent!\nI do wish they had more open hours, but then they are open they are a gem!\nThey are a sustainable restaurant and use produce from their own garden. The food doesn’t get fresher than that!\nThey have inside and outside dining.\nThey also have great coffee/espresso!",
+        "text": "Love this place!\nThe food and service was excellent!\nI do wish they had more open hours, but then they are open they are a gem!\nThey are a sustainable restaurant and use produce from their own garden. The food doesn\u2019t get fresher than that!\nThey have inside and outside dining.\nThey also have great coffee/espresso!",
         "time": 1661298959,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWszn7Gox8SQO-Iyhw1tBKYj77-pjIAEhk2txpbjsiHKcZMbbkq=s128-c0x00000000-cc-rp-mo-ba3"
       },
@@ -1858,7 +1658,7 @@
       {
         "author_name": "Negma Farah",
         "rating": 5,
-        "text": "We went here for weekend brunch. The food was great! My only complaint is that it’s outdoor seating and there could have been a couple of umbrellas. We did get a nice tan. :) the lavender latte is my fav!",
+        "text": "We went here for weekend brunch. The food was great! My only complaint is that it\u2019s outdoor seating and there could have been a couple of umbrellas. We did get a nice tan. :) the lavender latte is my fav!",
         "time": 1621899998,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhhvedck8HMCyLt9k9XwzbyNN2XgNYMO1QPkiuETUnreQiX2GH_w=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -1872,19 +1672,11 @@
       {
         "author_name": "Micalie Kempfert",
         "rating": 5,
-        "text": "Great local coffee shop with delicious food options! They have unique latte flavors - I tried the salted caramel which was delicious! Pictured is the broccoli and tomato frittata and the farmers breakfast- both of which were excellent! They also have delicious gluten free bread. There’s a good amount of seating and a nice outdoor patio!",
+        "text": "Great local coffee shop with delicious food options! They have unique latte flavors - I tried the salted caramel which was delicious! Pictured is the broccoli and tomato frittata and the farmers breakfast- both of which were excellent! They also have delicious gluten free bread. There\u2019s a good amount of seating and a nice outdoor patio!",
         "time": 1565461298,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOvpkckHyQAj-uC5k2cLe2veH8dQxd1DeP7IcWErKDvd2O1xR9=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "5-Qtz54THCIMfSpZhzABsA",
-      "rating": 4,
-      "reviewCount": 160,
-      "yelpUrl": "https://www.yelp.com/biz/crisp-and-green-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJJbsIDBcq9ocRhwCfMk-MFY4": {
     "placeId": "ChIJJbsIDBcq9ocRhwCfMk-MFY4",
@@ -1911,7 +1703,7 @@
       {
         "author_name": "Rachel F",
         "rating": 5,
-        "text": "Incredibly sweet staff even though we ordered takeout in the last hour they were open. Meatballs and lamb kebab were incredible, as was the hummus and pita. But the chutney is really where it’s at. Mainline that into my soul.",
+        "text": "Incredibly sweet staff even though we ordered takeout in the last hour they were open. Meatballs and lamb kebab were incredible, as was the hummus and pita. But the chutney is really where it\u2019s at. Mainline that into my soul.",
         "time": 1637421006,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCn5OzsDIRvpfUhVJsgLNF8BGlxJ6OpQzmCrXh0JQEsmfLXL7N=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -1925,7 +1717,7 @@
       {
         "author_name": "Henry Nieberg",
         "rating": 4,
-        "text": "Delicious meals, with great homemade Chai.  I appreciated​ the warm flatbreads but the chutney could have been a little better.  I loved my chicken kebab, the sauce on top was exquisite.  A little pricy.",
+        "text": "Delicious meals, with great homemade Chai.  I appreciated\u200b the warm flatbreads but the chutney could have been a little better.  I loved my chicken kebab, the sauce on top was exquisite.  A little pricy.",
         "time": 1489955753,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUFeh4QSh_48e3sXi_2F35wXnhCbD3iad2qFVnKdoky7TBpInTlA=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -1939,19 +1731,11 @@
       {
         "author_name": "Sheena N",
         "rating": 5,
-        "text": "Beautiful restaurant, yummy food. Take note they’re currently to go only. And not open for dine in. Highly recommend",
+        "text": "Beautiful restaurant, yummy food. Take note they\u2019re currently to go only. And not open for dine in. Highly recommend",
         "time": 1640134452,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx9bmIOBYiO3FLQ2WrpfnvuvrV91iPjqzRi3VSODJwptCVkYqTZg=s128-c0x00000000-cc-rp-mo-ba5"
       }
-    ],
-    "yelp": {
-      "yelpId": "j0YvcUGr9VWsbvVpdLGUJA",
-      "rating": 4.1,
-      "reviewCount": 772,
-      "yelpUrl": "https://www.yelp.com/biz/the-buttered-tin-saint-paul?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ0wJU0Ygys1IRjWSnG9DWNes": {
     "placeId": "ChIJ0wJU0Ygys1IRjWSnG9DWNes",
@@ -1961,13 +1745,13 @@
     "rating": 4.5,
     "userRatingsTotal": 746,
     "openingHours": [
-      "Monday: 10:30 AM – 9:00 PM",
-      "Tuesday: 10:30 AM – 9:00 PM",
-      "Wednesday: 10:30 AM – 9:00 PM",
-      "Thursday: 10:30 AM – 9:00 PM",
-      "Friday: 10:30 AM – 9:00 PM",
-      "Saturday: 10:30 AM – 9:00 PM",
-      "Sunday: 10:30 AM – 9:00 PM"
+      "Monday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 545-5120",
@@ -1988,7 +1772,7 @@
       {
         "author_name": "Liu Henry",
         "rating": 1,
-        "text": "I had a very disappointing experience at this restaurant. One of the staff members—a young woman with a nose ring—was quite unfriendly throughout the process. She kept giving me unpleasant looks while preparing my order, and after finishing my bowl, she slammed the mixing bowl down onto the floor. To make matters worse, the food itself wasn’t good. The black rice was barely edible. I wouldn’t recommend this place—best to avoid it if you can.",
+        "text": "I had a very disappointing experience at this restaurant. One of the staff members\u2014a young woman with a nose ring\u2014was quite unfriendly throughout the process. She kept giving me unpleasant looks while preparing my order, and after finishing my bowl, she slammed the mixing bowl down onto the floor. To make matters worse, the food itself wasn\u2019t good. The black rice was barely edible. I wouldn\u2019t recommend this place\u2014best to avoid it if you can.",
         "time": 1759113763,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaDjYkiNQBCJNJcjloDxanv150jIIH8ZmabH3xG5GX6BMZBZY=s128-c0x00000000-cc-rp-mo-ba2"
       },
@@ -2009,7 +1793,7 @@
       {
         "author_name": "Luke Mielty",
         "rating": 5,
-        "text": "This place is amazing! They had one of the best salads I ever had, (I ordered the crispy teriyaki), but everything my family ordered we loved! Superb design, very clean, great staff, very friendly manager too! Clean bathrooms, good location, I can’t even stress how amazing this place is!",
+        "text": "This place is amazing! They had one of the best salads I ever had, (I ordered the crispy teriyaki), but everything my family ordered we loved! Superb design, very clean, great staff, very friendly manager too! Clean bathrooms, good location, I can\u2019t even stress how amazing this place is!",
         "time": 1692632076,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUXRv8m8xyy48xvRmfwevqLFkkx8RdnhJZKjGreqK_8xUTAg=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -2020,15 +1804,7 @@
         "time": 1723141331,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVCa9rd3P2LNbSJleKNh9jqa0eVNGKWgpx_hi4Ec632oXCLA1Qeg=s128-c0x00000000-cc-rp-mo-ba6"
       }
-    ],
-    "yelp": {
-      "yelpId": "okrikJN73br3ZSE3pCnNXw",
-      "rating": 4.3,
-      "reviewCount": 156,
-      "yelpUrl": "https://www.yelp.com/biz/may-day-cafe-minneapolis-3?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJOcEFEbYys1IRpGYZeUh-VQY": {
     "placeId": "ChIJOcEFEbYys1IRpGYZeUh-VQY",
@@ -2087,15 +1863,7 @@
         "time": 1555246887,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd8J_d3nIVJLkWQD2EGTWDP6diD-d5i0js_Tl-p6c8a1D7lGVcnw=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "Xnsa4CJMPqyHkyISgxrzxg",
-      "rating": 3.9,
-      "reviewCount": 387,
-      "yelpUrl": "https://www.yelp.com/biz/peninsula-malaysian-cuisine-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ44k5qA4o9ocRX-OeW8FtATI": {
     "placeId": "ChIJ44k5qA4o9ocRX-OeW8FtATI",
@@ -2105,13 +1873,13 @@
     "rating": 4.6,
     "userRatingsTotal": 599,
     "openingHours": [
-      "Monday: 7:00 AM – 1:30 PM",
-      "Tuesday: 7:00 AM – 1:30 PM",
-      "Wednesday: 7:00 AM – 1:30 PM",
-      "Thursday: 7:00 AM – 1:30 PM",
-      "Friday: 7:00 AM – 1:30 PM",
-      "Saturday: 7:00 AM – 1:30 PM",
-      "Sunday: 7:00 AM – 1:30 PM"
+      "Monday: 7:00\u202fAM\u2009\u2013\u20091:30\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20091:30\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20091:30\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20091:30\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20091:30\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20091:30\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20091:30\u202fPM"
     ],
     "openNow": false,
     "formattedPhoneNumber": "(612) 729-5627",
@@ -2146,7 +1914,7 @@
       {
         "author_name": "Louis Johnson",
         "rating": 4,
-        "text": "Food was alright. The Bacon and Swiss quiche was relatively good. Didn’t really like how they didn’t tell me that it came with a salad, which I don’t like. Atmosphere is also pretty nice. Liked the paintings they had in there. Relatively convenient as it’s right along the route 14 bus line and a 6 minute walk to the 22 and 8 minute walk to the 23",
+        "text": "Food was alright. The Bacon and Swiss quiche was relatively good. Didn\u2019t really like how they didn\u2019t tell me that it came with a salad, which I don\u2019t like. Atmosphere is also pretty nice. Liked the paintings they had in there. Relatively convenient as it\u2019s right along the route 14 bus line and a 6 minute walk to the 22 and 8 minute walk to the 23",
         "time": 1744664479,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUHC67t69cu-vvVol34KEQ5G_RXTd197ONdKOoIpMtwRQsVmF7=s128-c0x00000000-cc-rp-mo-ba3"
       },
@@ -2164,15 +1932,7 @@
         "time": 1764952670,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAriavVuFL3Q6TH-tEXizD8BVPvUBBwsAuvRhid9B5lPMyXA=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "smrdXQyTcbqOHnK_OuScDw",
-      "rating": 4.6,
-      "reviewCount": 565,
-      "yelpUrl": "https://www.yelp.com/biz/my-huong-kitchen-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJHUdVd7Uys1IRPB_28ufQ93E": {
     "placeId": "ChIJHUdVd7Uys1IRPB_28ufQ93E",
@@ -2182,13 +1942,13 @@
     "rating": 4.4,
     "userRatingsTotal": 912,
     "openingHours": [
-      "Monday: 11:00 AM – 10:00 PM",
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
       "Tuesday: Closed",
-      "Wednesday: 11:00 AM – 10:00 PM",
-      "Thursday: 11:00 AM – 10:00 PM",
-      "Friday: 11:00 AM – 11:00 PM",
-      "Saturday: 11:00 AM – 11:00 PM",
-      "Sunday: 11:00 AM – 10:00 PM"
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 871-8282",
@@ -2216,14 +1976,14 @@
       {
         "author_name": "Sandra George",
         "rating": 5,
-        "text": "I wish I had known about this place when dine in was an option. I lived in Malaysia for a few years and have tried several restaurants in different states that say they are Malay. However, it wasn’t the same. I had resolved to just find “American” Malay when someone told me of this place. To my surprise my favorite Malay food was available and amazing. Chicken Satay (Malay) is different than other satay and this place nailed it!  I also tried the Roti Canai (presented slightly different than stands in Malaysia) and the flavor brought me right back to Kuala Lumpar… ❤️. I will be ordering from them again!",
+        "text": "I wish I had known about this place when dine in was an option. I lived in Malaysia for a few years and have tried several restaurants in different states that say they are Malay. However, it wasn\u2019t the same. I had resolved to just find \u201cAmerican\u201d Malay when someone told me of this place. To my surprise my favorite Malay food was available and amazing. Chicken Satay (Malay) is different than other satay and this place nailed it!  I also tried the Roti Canai (presented slightly different than stands in Malaysia) and the flavor brought me right back to Kuala Lumpar\u2026 \u2764\ufe0f. I will be ordering from them again!",
         "time": 1756058778,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwAV3yBWLZdxlRmipvlOz2B9hvIdwrNuhzlTP-MEIZwBs6pg=s128-c0x00000000-cc-rp-mo-ba3"
       },
       {
         "author_name": "Dawn Yeoh",
         "rating": 3,
-        "text": "Only takeout was available, which was a little disappointing since I’m not from Minneapolis and ended up eating in my car, LOL. The food itself wasn’t super authentic, but it still gave me a nice taste of home. The real highlight was the milk tea—it was really good and definitely worth recommending!",
+        "text": "Only takeout was available, which was a little disappointing since I\u2019m not from Minneapolis and ended up eating in my car, LOL. The food itself wasn\u2019t super authentic, but it still gave me a nice taste of home. The real highlight was the milk tea\u2014it was really good and definitely worth recommending!",
         "time": 1757196031,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBW43TVxYJO9-J1GYw72GrmvXw4LPsiFeTX4OH_cIluVQwil4=s128-c0x00000000-cc-rp-mo-ba4"
       },
@@ -2241,15 +2001,7 @@
         "time": 1763355135,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGW7m5_YYqF0w9b7_PRm835v-TH6OfOEUZtSUphb2DokHTDsR7=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "m7CPabomRbUIKAZsKsYMAw",
-      "rating": 4.2,
-      "reviewCount": 834,
-      "yelpUrl": "https://www.yelp.com/biz/cafe-latte-saint-paul-4?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJD0a5lIEq9ocR1JUA8wgB7VE": {
     "placeId": "ChIJD0a5lIEq9ocR1JUA8wgB7VE",
@@ -2276,7 +2028,7 @@
       {
         "author_name": "Tico Hernandez",
         "rating": 5,
-        "text": "While visiting St. Paul to see the Minnesota Wild play and go to see Muse in concert, I happened upon Ngon Bistro.\nFrom the moment I arrived the staff was absolutely friendly and incredible. After getting some local brew suggestions, I ordered the Chicken Pho. As a huge Pho fan, I have to say this probably is the best broth I have ever had! The chicken was absolutely incredible and portion size was right on point. I also had the wings which were incredible as well. With both things I highly recommend their house made hot sauce which was amazing!\nOverall it’s one of the best dining experiences I have ever had. Ask for Junior, Zach, or Lisa as they were very friendly and very great at their job! Incredible service and incredible food with a low key vibe. Highly recommend this place!!",
+        "text": "While visiting St. Paul to see the Minnesota Wild play and go to see Muse in concert, I happened upon Ngon Bistro.\nFrom the moment I arrived the staff was absolutely friendly and incredible. After getting some local brew suggestions, I ordered the Chicken Pho. As a huge Pho fan, I have to say this probably is the best broth I have ever had! The chicken was absolutely incredible and portion size was right on point. I also had the wings which were incredible as well. With both things I highly recommend their house made hot sauce which was amazing!\nOverall it\u2019s one of the best dining experiences I have ever had. Ask for Junior, Zach, or Lisa as they were very friendly and very great at their job! Incredible service and incredible food with a low key vibe. Highly recommend this place!!",
         "time": 1678724704,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMIr97u1zIwsiE0VEPq0YgMiqdppaHejySgdDnZmrKhQjHS3nn=s128-c0x00000000-cc-rp-mo-ba3"
       },
@@ -2308,15 +2060,7 @@
         "time": 1540133398,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlsCWYYzcYz4go7PnZkXpn3qSqOgnBs2l0nTKIfPyruLqvG6c8ug=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "-37omtS8tYbz6eMLSnfXyg",
-      "rating": 4.2,
-      "reviewCount": 33,
-      "yelpUrl": "https://www.yelp.com/biz/brasa-premium-rotisserie-hopkins?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ894-6Ioq9ocRO1KIwauCOzE": {
     "placeId": "ChIJ894-6Ioq9ocRO1KIwauCOzE",
@@ -2326,13 +2070,13 @@
     "rating": 4.6,
     "userRatingsTotal": 5149,
     "openingHours": [
-      "Monday: 9:00 AM – 10:00 PM",
-      "Tuesday: 9:00 AM – 10:00 PM",
-      "Wednesday: 9:00 AM – 10:00 PM",
-      "Thursday: 9:00 AM – 10:00 PM",
-      "Friday: 9:00 AM – 10:00 PM",
-      "Saturday: 9:00 AM – 10:00 PM",
-      "Sunday: 9:00 AM – 10:00 PM"
+      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(651) 224-5687",
@@ -2385,15 +2129,7 @@
         "time": 1770349146,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSrgZ0oQUwudGX7r_oMWwo9MyjR22fUcP5Pz0zs82OCT7cAAfQ=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "8iaDvOZUmBXO8kFuedbe8A",
-      "rating": 4.1,
-      "reviewCount": 520,
-      "yelpUrl": "https://www.yelp.com/biz/ipho-by-saigon-saint-paul-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ-SDIlncts1IRxlaSi4Kah2c": {
     "placeId": "ChIJ-SDIlncts1IRxlaSi4Kah2c",
@@ -2403,13 +2139,13 @@
     "rating": 4.6,
     "userRatingsTotal": 2419,
     "openingHours": [
-      "Monday: 11:00 AM – 8:00 PM",
-      "Tuesday: 11:00 AM – 8:00 PM",
-      "Wednesday: 11:00 AM – 8:00 PM",
-      "Thursday: 11:00 AM – 8:00 PM",
-      "Friday: 11:00 AM – 9:00 PM",
-      "Saturday: 11:00 AM – 9:00 PM",
-      "Sunday: 11:00 AM – 8:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 379-3030",
@@ -2437,7 +2173,7 @@
       {
         "author_name": "Madison",
         "rating": 5,
-        "text": "We had Brasa cater our wedding and they were absolutely incredible! From start to finish, they were efficient, easy to communicate with, and so accommodating to our needs. The food was absolutely amazing—our guests couldn’t stop talking about it. On top of that, they went above and beyond by leaving us a thoughtful to-go bag with food and champagne at the end of the night. It was the perfect touch after such a special day. Highly recommend Brasa for any wedding or event!",
+        "text": "We had Brasa cater our wedding and they were absolutely incredible! From start to finish, they were efficient, easy to communicate with, and so accommodating to our needs. The food was absolutely amazing\u2014our guests couldn\u2019t stop talking about it. On top of that, they went above and beyond by leaving us a thoughtful to-go bag with food and champagne at the end of the night. It was the perfect touch after such a special day. Highly recommend Brasa for any wedding or event!",
         "time": 1758518038,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQx3_osVIWOyGtPplfhAPNSGWRdPeBd3Ryv8-8MHL7yjdBlw=s128-c0x00000000-cc-rp-mo"
       },
@@ -2451,7 +2187,7 @@
       {
         "author_name": "Shalon Johnson",
         "rating": 5,
-        "text": "Hidden gem! I came here for the 1st time last week for a staff meeting. Upon arriving, everyone was extrmelely friendly. We were seated immediately and given menus to review. I ordered the rotisserie chicken with Yuca fries, Mac and cheese, and cornbread. Everything arrived very quickly. I’ve been to numerous restaurants, and the wait time here was almost non-existent. The food came out within 5 to 7 minutes of ordering. The waiter was extremely attentive and continuously returned to see how we were doing and checked in to see how everything tasted. The rotisserie chicken I ordered with the green sauce was phenomenal. The mac and cheese and everything else was exceptional. I would definitely return. I had a really great experience and the environment was very welcoming.",
+        "text": "Hidden gem! I came here for the 1st time last week for a staff meeting. Upon arriving, everyone was extrmelely friendly. We were seated immediately and given menus to review. I ordered the rotisserie chicken with Yuca fries, Mac and cheese, and cornbread. Everything arrived very quickly. I\u2019ve been to numerous restaurants, and the wait time here was almost non-existent. The food came out within 5 to 7 minutes of ordering. The waiter was extremely attentive and continuously returned to see how we were doing and checked in to see how everything tasted. The rotisserie chicken I ordered with the green sauce was phenomenal. The mac and cheese and everything else was exceptional. I would definitely return. I had a really great experience and the environment was very welcoming.",
         "time": 1749933215,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3mh7p6AQKS4CbI3A-MJ9CdeveZb_N2RhCyn9XemCowW_hsWqllg=s128-c0x00000000-cc-rp-mo-ba6"
       },
@@ -2462,15 +2198,7 @@
         "time": 1763773130,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTtdnolKAYtEB8GtdCAErieGpkqXfe4SqyVw3zguhScw-J8Uk=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "8jLJGrAKL90O5z98ZNQ2bQ",
-      "rating": 4,
-      "reviewCount": 701,
-      "yelpUrl": "https://www.yelp.com/biz/black-sheep-coal-fired-pizza-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ1fVft6cys1IRCuNN3MOCRU8": {
     "placeId": "ChIJ1fVft6cys1IRCuNN3MOCRU8",
@@ -2481,12 +2209,12 @@
     "userRatingsTotal": 2137,
     "openingHours": [
       "Monday: Closed",
-      "Tuesday: 10:00 AM – 7:45 PM",
-      "Wednesday: 10:00 AM – 7:45 PM",
-      "Thursday: 10:00 AM – 7:45 PM",
-      "Friday: 10:00 AM – 7:45 PM",
-      "Saturday: 10:00 AM – 7:45 PM",
-      "Sunday: 10:00 AM – 6:45 PM"
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20096:45\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(651) 225-8751",
@@ -2507,7 +2235,7 @@
       {
         "author_name": "Chrisknips",
         "rating": 5,
-        "text": "After working outside in the cold today my boss and I wanted to get something hot to eat.  I told him great spot.  The pho as usual is so good.  The large is enough for two meals so I’m excited to have it for dinner as well.  Quite easy to talk and no wait.  Easy to get some work done quick and warm up.  Can’t wait to come back",
+        "text": "After working outside in the cold today my boss and I wanted to get something hot to eat.  I told him great spot.  The pho as usual is so good.  The large is enough for two meals so I\u2019m excited to have it for dinner as well.  Quite easy to talk and no wait.  Easy to get some work done quick and warm up.  Can\u2019t wait to come back",
         "time": 1768948472,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHjIuADM1Ph8TvXPibG2_LAyrYmYxmfDWCRWLwrl-BvKP-xZE=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -2535,19 +2263,11 @@
       {
         "author_name": "Asha Watts",
         "rating": 5,
-        "text": "The food here is absolutely amazing!!, they are very quick bringing out your food, Im talking about soon when you order your food is hot and ready in front of you within 5 minutes\n\nThe staff is also very friendly and attentive, never have to wait long to get served or noticed. I absolutely love going to this place when im craving pho as it gives you great proportions and fills you up for sure 💓",
+        "text": "The food here is absolutely amazing!!, they are very quick bringing out your food, Im talking about soon when you order your food is hot and ready in front of you within 5 minutes\n\nThe staff is also very friendly and attentive, never have to wait long to get served or noticed. I absolutely love going to this place when im craving pho as it gives you great proportions and fills you up for sure \ud83d\udc93",
         "time": 1769273072,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWa5FxrPFNKCvpAD5SQ0pUeUotmz2NZ03RZqGi8pT388sTKg2DJ=s128-c0x00000000-cc-rp-mo-ba2"
       }
-    ],
-    "yelp": {
-      "yelpId": "TKIdb9xKBLltZTfkozJsGQ",
-      "rating": 4.3,
-      "reviewCount": 984,
-      "yelpUrl": "https://www.yelp.com/biz/red-cow-st-paul-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ8dlFFIkys1IRlWsLIEd2EB8": {
     "placeId": "ChIJ8dlFFIkys1IRlWsLIEd2EB8",
@@ -2557,13 +2277,13 @@
     "rating": 4.5,
     "userRatingsTotal": 2026,
     "openingHours": [
-      "Monday: 11:00 AM – 10:00 PM",
-      "Tuesday: 11:00 AM – 10:00 PM",
-      "Wednesday: 11:00 AM – 10:00 PM",
-      "Thursday: 11:00 AM – 10:00 PM",
-      "Friday: 11:00 AM – 2:30 AM",
-      "Saturday: 11:00 AM – 2:30 AM",
-      "Sunday: 11:00 AM – 10:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 342-2625",
@@ -2598,7 +2318,7 @@
       {
         "author_name": "Dr. Kim Tran",
         "rating": 5,
-        "text": "Always great food and service.  Love the crispy, bubbly crust. You won’t be disappointed with any pizza you choose.",
+        "text": "Always great food and service.  Love the crispy, bubbly crust. You won\u2019t be disappointed with any pizza you choose.",
         "time": 1757961194,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_vZo3utH2tcNgscVEE8A_0UKZ2C8_5HRODo-GSxsjZsSesdA=s128-c0x00000000-cc-rp-mo-ba2"
       },
@@ -2612,19 +2332,11 @@
       {
         "author_name": "H. Freckles",
         "rating": 5,
-        "text": "Attentive staff and excellent service. We got the hot salami pizza and it was good though not hot enough in my personal opinion. They have root beer on tap that is delicious and decent beer. We’ll be back to try more pizza!",
+        "text": "Attentive staff and excellent service. We got the hot salami pizza and it was good though not hot enough in my personal opinion. They have root beer on tap that is delicious and decent beer. We\u2019ll be back to try more pizza!",
         "time": 1765293224,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhPZYNB1qrJiaVvG2He-vkpDBm84dHBx54MerjR_Fr1YuZolU=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "eekNGyJ-yvrlxbT8xMr0Hw",
-      "rating": 5,
-      "reviewCount": 1,
-      "yelpUrl": "https://www.yelp.com/biz/masu-sushi-and-robata-back-bar-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJzxizBYUys1IRDx_NN0FVbNE": {
     "placeId": "ChIJzxizBYUys1IRDx_NN0FVbNE",
@@ -2635,12 +2347,12 @@
     "userRatingsTotal": 4684,
     "openingHours": [
       "Monday: Closed",
-      "Tuesday: 11:00 AM – 10:00 PM",
-      "Wednesday: 11:00 AM – 10:00 PM",
-      "Thursday: 11:00 AM – 10:00 PM",
-      "Friday: 11:00 AM – 11:00 PM",
-      "Saturday: 10:00 AM – 11:00 PM",
-      "Sunday: 10:00 AM – 10:00 PM"
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 238-0050",
@@ -2668,7 +2380,7 @@
       {
         "author_name": "Chris Goggin",
         "rating": 4,
-        "text": "First time visit since they refreshed the restaurant - it’s very nice.  They also refreshed the menu, better starters and more options than burgers.  Service was excellent. Very good vibe.  By the time we left, there were 15 people waiting outside to get in. Dog friendly patio.  Nice bar.  We had the shrimp tacos, guacamole dip, and chip & dip, all were good. The Expresso martini is very good. Their beer selection is unique and well crafted.",
+        "text": "First time visit since they refreshed the restaurant - it\u2019s very nice.  They also refreshed the menu, better starters and more options than burgers.  Service was excellent. Very good vibe.  By the time we left, there were 15 people waiting outside to get in. Dog friendly patio.  Nice bar.  We had the shrimp tacos, guacamole dip, and chip & dip, all were good. The Expresso martini is very good. Their beer selection is unique and well crafted.",
         "time": 1760746894,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFhsTduOeGgKDCAJJNhMaX4Zn021G8mWMWQzjsxh8tl3P3oyr6=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -2693,15 +2405,7 @@
         "time": 1767577594,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJJv3zC-4mblbBpLcNbcXt6YLRjycFFWVQiJkKyp3kKry80v1SKw=s128-c0x00000000-cc-rp-mo-ba7"
       }
-    ],
-    "yelp": {
-      "yelpId": "s1h61QgGwHgIcsLpsa44Nw",
-      "rating": 4.2,
-      "reviewCount": 552,
-      "yelpUrl": "https://www.yelp.com/biz/wok-in-the-park-saint-louis-park?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJrfiJLh8n9ocRWOaoknxhZII": {
     "placeId": "ChIJrfiJLh8n9ocRWOaoknxhZII",
@@ -2711,13 +2415,13 @@
     "rating": 4,
     "userRatingsTotal": 2,
     "openingHours": [
-      "Monday: 11:00 AM – 7:00 PM",
-      "Tuesday: 11:00 AM – 7:00 PM",
-      "Wednesday: 11:00 AM – 7:00 PM",
-      "Thursday: 11:00 AM – 7:00 PM",
-      "Friday: 11:00 AM – 7:00 PM",
-      "Saturday: 11:00 AM – 7:00 PM",
-      "Sunday: 11:00 AM – 7:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 927-8141",
@@ -2735,15 +2439,7 @@
         "time": 1749585548,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXqRo-jBwKNB_rUsN4tMKLrwesIE-QWhUfXHCwWJuR0Th2rSiR=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "63SqByBjOdZ0IJ-vFUbSMg",
-      "rating": 4.2,
-      "reviewCount": 538,
-      "yelpUrl": "https://www.yelp.com/biz/a-bakers-wife-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJjdpdcX8g9ocRxwpkI9480Y8": {
     "placeId": "ChIJjdpdcX8g9ocRxwpkI9480Y8",
@@ -2753,12 +2449,12 @@
     "rating": 4.6,
     "userRatingsTotal": 1694,
     "openingHours": [
-      "Monday: 11:00 AM – 8:00 PM",
-      "Tuesday: 11:00 AM – 8:00 PM",
-      "Wednesday: 11:00 AM – 8:00 PM",
-      "Thursday: 11:00 AM – 8:00 PM",
-      "Friday: 11:00 AM – 8:00 PM",
-      "Saturday: 4:00 – 8:00 PM",
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 4:00\u2009\u2013\u20098:00\u202fPM",
       "Sunday: Closed"
     ],
     "openNow": false,
@@ -2780,7 +2476,7 @@
       {
         "author_name": "Sandy",
         "rating": 5,
-        "text": "LOVE, love, love !!! 💖✨💖 Wok In The Park has lots of DELICIOUS gluten free and dairy free options for me!!! Some of my favorites: Summer Roles with shrimp and chicken with gf sauce, Chicken Fried Rice, ANY CURRY - this day I got Sunrise Curry (with no onions and extra pineapple), and finished it off with a Sweet Mango Sticky Rice. YUM\n\nI so appreciate delicious GF & DF options …  soooooo many options!!!!! Their team is HELPFUL , kind, and fun. I typically order take-out and share with others. THANKS Wok In The Park! 💖✨💖",
+        "text": "LOVE, love, love !!! \ud83d\udc96\u2728\ud83d\udc96 Wok In The Park has lots of DELICIOUS gluten free and dairy free options for me!!! Some of my favorites: Summer Roles with shrimp and chicken with gf sauce, Chicken Fried Rice, ANY CURRY - this day I got Sunrise Curry (with no onions and extra pineapple), and finished it off with a Sweet Mango Sticky Rice. YUM\n\nI so appreciate delicious GF & DF options \u2026  soooooo many options!!!!! Their team is HELPFUL , kind, and fun. I typically order take-out and share with others. THANKS Wok In The Park! \ud83d\udc96\u2728\ud83d\udc96",
         "time": 1763393082,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQBjFMN7Vb_RlpehkK9CNqrUh-gd44kHHnRzAQ8qxF6BpgyVdqKA=s128-c0x00000000-cc-rp-mo-ba3"
       },
@@ -2812,15 +2508,7 @@
         "time": 1766819843,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLZTkWeW0BCEC_ir9uu7MXI7rmIRovqB13ncSPiHPdfi-nbcsZ=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "zhYFc-A-5Od2SYz-iWZN7w",
-      "rating": 3.9,
-      "reviewCount": 261,
-      "yelpUrl": "https://www.yelp.com/biz/sushi-fix-wayzata?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJGZ4G0_0n9ocRvgtjhGBA9zg": {
     "placeId": "ChIJGZ4G0_0n9ocRvgtjhGBA9zg",
@@ -2853,7 +2541,7 @@
       {
         "author_name": "Charlie Field",
         "rating": 1,
-        "text": "I love living downtown St Paul to be able to walk to breakfast and was excited when Salty Tart opened. The space is beautiful but the food and service disappoint. The once delicious hot cereal has been dropped from the menu (Why? Cause the sun finally came out?) I LOVE eggs but like my eggs well done. No runny for me. (Shouldn’t there be an option in a food establishment?) Love scrambled, fried, hard boiled, quiches... Love eggs. Went item by item on the “new” menu and every offering has soft or runny eggs. Asked if they could just continue to cook one “soft boiled” egg so I could enjoy the Avocado toast, perhaps and was told “everything is made ahead of time so that would be too labor intensive”. Really. That’s a quote. There are 7 other people sitting in this entire establishment and half that many behind the counter. Just too tough. Ugh. I was offered a pastry for breakfast instead. Uh, no. I’ll take that coffee to go- back to Buttered Tin!",
+        "text": "I love living downtown St Paul to be able to walk to breakfast and was excited when Salty Tart opened. The space is beautiful but the food and service disappoint. The once delicious hot cereal has been dropped from the menu (Why? Cause the sun finally came out?) I LOVE eggs but like my eggs well done. No runny for me. (Shouldn\u2019t there be an option in a food establishment?) Love scrambled, fried, hard boiled, quiches... Love eggs. Went item by item on the \u201cnew\u201d menu and every offering has soft or runny eggs. Asked if they could just continue to cook one \u201csoft boiled\u201d egg so I could enjoy the Avocado toast, perhaps and was told \u201ceverything is made ahead of time so that would be too labor intensive\u201d. Really. That\u2019s a quote. There are 7 other people sitting in this entire establishment and half that many behind the counter. Just too tough. Ugh. I was offered a pastry for breakfast instead. Uh, no. I\u2019ll take that coffee to go- back to Buttered Tin!",
         "time": 1526317219,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_qmsf9o4mGrxOlkOZjc9Q52EeVtQptSkmgpfz4v31VYw2kg=s128-c0x00000000-cc-rp-mo"
       },
@@ -2867,7 +2555,7 @@
       {
         "author_name": "Ashley Feider",
         "rating": 2,
-        "text": "If you care to risk your order not being made, go with Salty Tart!\n\nWe've ordered their cakes for the past 3 years. Delicious cakes! However, when our cake was not ready the morning we went to pick up, it made for a sour experience. Thank goodness, this was a birthday cake and not a wedding cake. 😉\n\nAs a solution, they sold us 2 smaller cakes they had on hand - a major customer service miss to rectify their error, given the minimal discount that I had to ASK for.\n\nI'm disappointed, given how yummy their cakes are. But I would never risk them forgetting an order for a future occasion.",
+        "text": "If you care to risk your order not being made, go with Salty Tart!\n\nWe've ordered their cakes for the past 3 years. Delicious cakes! However, when our cake was not ready the morning we went to pick up, it made for a sour experience. Thank goodness, this was a birthday cake and not a wedding cake. \ud83d\ude09\n\nAs a solution, they sold us 2 smaller cakes they had on hand - a major customer service miss to rectify their error, given the minimal discount that I had to ASK for.\n\nI'm disappointed, given how yummy their cakes are. But I would never risk them forgetting an order for a future occasion.",
         "time": 1519593203,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGwVxp2juUl-3JZxy1e_isikz9a23T4zSH3zHdt-JISu2HcdDz=s128-c0x00000000-cc-rp-mo-ba3"
       },
@@ -2878,15 +2566,7 @@
         "time": 1371483497,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvXQ78WUj-4HzRWMpMqnNDDb8vbC0RbZj9edgs_fCyMcZtyA=s128-c0x00000000-cc-rp-mo"
       }
-    ],
-    "yelp": {
-      "yelpId": "TRj1IbnWC7T5pGiTw6B4-w",
-      "rating": 4.1,
-      "reviewCount": 690,
-      "yelpUrl": "https://www.yelp.com/biz/world-street-kitchen-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJz0hZnvYxs1IRCATRX6Vk6YA": {
     "placeId": "ChIJz0hZnvYxs1IRCATRX6Vk6YA",
@@ -2911,7 +2591,7 @@
     ],
     "reviews": [
       {
-        "author_name": "李Victoria",
+        "author_name": "\u674eVictoria",
         "rating": 3,
         "text": "FYI: Parking in the lot around the restaurant was plentiful but there were no visible lines for spots. We dined in for lunch. There was no wait to be seated. To order you have to scan the QR code they have at the table.\n\nI had wanted to try this place out after reading some nice reviews about the food, but to be honest, I had mixed feelings about my experience. Approaching and entering the restaurant, I will be honest, I was a little concerned as the building and seating was quite run down. The waitress was nice and told us how to order via the given link but was a bit absent after that initial conversation.\n\nWe ended up ordering the Yukayaki (vegan version), Honey Gochu Chicken wings, Salted duck ramen and \"Show you\" ramen.\n\nI was excited to try the Yukayaki based on the description and it wasn't bad. The sauce that came with it (a mango and sweet soy sauce mixture) was a little sour for my taste, but the Yukayaki itself was nice and hot and reminded me of what takoyaki would taste like (minus the octopus and something more similar to a potato texture).\n\nWe ordered the Honey Gochu Chicken wings because it sounded interesting and hear good things about it, but it was a little disappointing. They were slightly crispy but all the sauce made it a little soggy. Flavor-wise, I feel it was definitely missing something. The gochujang and honey were coming through on the outside, but the chicken itself tasted very plain even with all that sauce... which was confusing to me.\n\nAs for the ramens we ordered, the broths both tasted good, but were a little oily for my taste. The salted duck had a slightly sweet, yet savory broth and the \"show you\" was salty and savory.\nI will say I did enjoy the additional ingredients included in the salted duck ramen, particularly the veggies. I think they paired really well with the broth, duck, and the noodles. The noodles were also nice and chewy and surprisingly didn't get super soggy even after I ate some hours later ( I couldn't finish it and took the rest home).",
         "time": 1695607048,
@@ -2941,19 +2621,11 @@
       {
         "author_name": "Jael O'Hare",
         "rating": 4,
-        "text": "Great flavor with a few gripes. I got the Bali Bali. Everything tastes great flavor wise, perfectly cooked soft egg, but there was maybe a single tablespoon of the chicken and the food was ice cold. I did get it to go, but my drive was only 3 min. It was also served in bare recycled paper bowl, no coating even so it kinda felt like eating cold soup off a thick paper towel, which disintegrated during the meal. The servers were very sweet. Although I got the impression the service may be on the slower side given it took about 35-40min for my order of a single dish with only 1 couple in the restaurant (who knows if they’re mostly doing take out but it was only 5pm). Seems like a fun place for a date, but with the small portions and high price tag maybe not a regular joint, at least for me. The hungry & price conscious might come away underwhelmed but for those in search of well executed flavors it’s definitely worth a trip.",
+        "text": "Great flavor with a few gripes. I got the Bali Bali. Everything tastes great flavor wise, perfectly cooked soft egg, but there was maybe a single tablespoon of the chicken and the food was ice cold. I did get it to go, but my drive was only 3 min. It was also served in bare recycled paper bowl, no coating even so it kinda felt like eating cold soup off a thick paper towel, which disintegrated during the meal. The servers were very sweet. Although I got the impression the service may be on the slower side given it took about 35-40min for my order of a single dish with only 1 couple in the restaurant (who knows if they\u2019re mostly doing take out but it was only 5pm). Seems like a fun place for a date, but with the small portions and high price tag maybe not a regular joint, at least for me. The hungry & price conscious might come away underwhelmed but for those in search of well executed flavors it\u2019s definitely worth a trip.",
         "time": 1697327822,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrPX58VwViy8Iz5c5oUv96Os68-WdKhLjBOXRy9VIMbUqUQQ=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "h8I6U0jtsahrvdTLSoFNCQ",
-      "rating": 3.8,
-      "reviewCount": 33,
-      "yelpUrl": "https://www.yelp.com/biz/curry-in-a-hurry-minneapolis-3?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJEa33Aogn9ocRa86tLqTjRv0": {
     "placeId": "ChIJEa33Aogn9ocRa86tLqTjRv0",
@@ -2963,13 +2635,13 @@
     "rating": 4.5,
     "userRatingsTotal": 1745,
     "openingHours": [
-      "Monday: 11:00 AM – 10:00 PM",
-      "Tuesday: 11:00 AM – 10:00 PM",
-      "Wednesday: 11:00 AM – 10:00 PM",
-      "Thursday: 11:00 AM – 10:00 PM",
-      "Friday: 11:00 AM – 10:00 PM",
-      "Saturday: 11:00 AM – 10:00 PM",
-      "Sunday: 11:00 AM – 10:00 PM"
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 424-8855",
@@ -2997,14 +2669,14 @@
       {
         "author_name": "Holly Santiago",
         "rating": 5,
-        "text": "Went here for lunch today (12/5) -first time in about five years- and was blown away! The two ppl at the register were incredibly helpful and welcoming. They suggested favorites to order, engaged in convos and questions about the food, and were so so so friendly! Even though this place is somewhat self-service, both people at the register came out to drop off food/waters/napkins/etc and chat a bit about the food and ice cream (they sell milk jam pints!). The place was clean and bright… and that MFC still hits after being on their menu for over 10 years! It all just felt “above and beyond” …a genuinely friendly vibe unlike anything I’ve experienced here before! It’s always been good, but my friend and I felt so at home and comfortable today :)",
+        "text": "Went here for lunch today (12/5) -first time in about five years- and was blown away! The two ppl at the register were incredibly helpful and welcoming. They suggested favorites to order, engaged in convos and questions about the food, and were so so so friendly! Even though this place is somewhat self-service, both people at the register came out to drop off food/waters/napkins/etc and chat a bit about the food and ice cream (they sell milk jam pints!). The place was clean and bright\u2026 and that MFC still hits after being on their menu for over 10 years! It all just felt \u201cabove and beyond\u201d \u2026a genuinely friendly vibe unlike anything I\u2019ve experienced here before! It\u2019s always been good, but my friend and I felt so at home and comfortable today :)",
         "time": 1764981391,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUN8V4pkcm_pgoU-rT0tNTU2G0Q0Q8zgN-mLtfgOj9XZY7Im-mGoA=s128-c0x00000000-cc-rp-mo-ba2"
       },
       {
         "author_name": "Dean Trimble",
         "rating": 4,
-        "text": "I mentioned to my wife that I wanted authentic Korean BBQ and she found this place. I had the short rib lettuce wraps, she had the falafel burger and my sone had the Korean Short Rib Bowl. Overall I would say the food was good, but I am still in search of authentic Korean BBQ. Not to say this wasn’t authentic, but it was more of a fusion between Korean and middle eastern.",
+        "text": "I mentioned to my wife that I wanted authentic Korean BBQ and she found this place. I had the short rib lettuce wraps, she had the falafel burger and my sone had the Korean Short Rib Bowl. Overall I would say the food was good, but I am still in search of authentic Korean BBQ. Not to say this wasn\u2019t authentic, but it was more of a fusion between Korean and middle eastern.",
         "time": 1738513419,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa1rxda0sboPsHiAYRssCgJns6IfBywP29HJE1m2dt4OY5Xcg=s128-c0x00000000-cc-rp-mo-ba5"
       },
@@ -3022,15 +2694,7 @@
         "time": 1720291533,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOV66nIi0kj-vrU7o-R9Q7A2K2SQd4UHOnVpcyXgEdJ1ybAA=s128-c0x00000000-cc-rp-mo-ba3"
       }
-    ],
-    "yelp": {
-      "yelpId": "OOW9hTlyDdMUy7cr5JVg3w",
-      "rating": 5,
-      "reviewCount": 5,
-      "yelpUrl": "https://www.yelp.com/biz/vegan-east-bakery-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJ75laRBIts1IRtQseX4qXvuk": {
     "placeId": "ChIJ75laRBIts1IRtQseX4qXvuk",
@@ -3040,13 +2704,13 @@
     "rating": 4.6,
     "userRatingsTotal": 154,
     "openingHours": [
-      "Monday: 11:30 AM – 8:00 PM",
-      "Tuesday: 11:30 AM – 8:00 PM",
-      "Wednesday: 11:30 AM – 8:00 PM",
-      "Thursday: 11:30 AM – 8:00 PM",
-      "Friday: 11:30 AM – 8:00 PM",
-      "Saturday: 11:30 AM – 8:00 PM",
-      "Sunday: 11:30 AM – 8:00 PM"
+      "Monday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
     ],
     "openNow": true,
     "formattedPhoneNumber": "(612) 729-5222",
@@ -3067,7 +2731,7 @@
       {
         "author_name": "Melissa Hamilton",
         "rating": 5,
-        "text": "We saw the tik tok, and we came! The food was top tier and the service was friendly and helpful. Greeted by the TikTok creator herself! She walked us through the menu and specials. We settled on the plantain pakoras with three sauces - tamarind, mint, onion chutney-all next level, Tikka masala with its nice balance of heat and spices, tandoori wings, masala fries, and a delicious pistachio lassi! We purposefully chose many items to try. We will definitely be returning often!! 🔥💕",
+        "text": "We saw the tik tok, and we came! The food was top tier and the service was friendly and helpful. Greeted by the TikTok creator herself! She walked us through the menu and specials. We settled on the plantain pakoras with three sauces - tamarind, mint, onion chutney-all next level, Tikka masala with its nice balance of heat and spices, tandoori wings, masala fries, and a delicious pistachio lassi! We purposefully chose many items to try. We will definitely be returning often!! \ud83d\udd25\ud83d\udc95",
         "time": 1768853905,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL84R10grqxVfhy-Z86VtfhCer1QJt9eSvTtW-e593ABh5oDw=s128-c0x00000000-cc-rp-mo-ba2"
       },
@@ -3081,14 +2745,14 @@
       {
         "author_name": "J J",
         "rating": 5,
-        "text": "This was my first time here, I’ve passed by it before in traffic and I’ve always wanted to stop by. I’m glad I did. I found out it was their first week under new ownership.\n\nThe food was amazing, I ordered the extra hot Lamb Rogan Ghoshtak. The gravy was packed with flavor. The ghost peppers were noticeable. The coconut naan was really good as well.\n\nI got handed a free dessert, when I asked if it was vegan to share it with my partner they gave me a second vegan one for free.\n\nGreat food, great hospitality, and owners that seem like they care. I’ll definitely be back!",
+        "text": "This was my first time here, I\u2019ve passed by it before in traffic and I\u2019ve always wanted to stop by. I\u2019m glad I did. I found out it was their first week under new ownership.\n\nThe food was amazing, I ordered the extra hot Lamb Rogan Ghoshtak. The gravy was packed with flavor. The ghost peppers were noticeable. The coconut naan was really good as well.\n\nI got handed a free dessert, when I asked if it was vegan to share it with my partner they gave me a second vegan one for free.\n\nGreat food, great hospitality, and owners that seem like they care. I\u2019ll definitely be back!",
         "time": 1754601700,
         "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3VJ3GLw0naIv_s6Cq7PBD1JNhssrSsgBgsdWIpd4V4kQrmw=s128-c0x00000000-cc-rp-mo-ba3"
       },
       {
         "author_name": "AJ Forcier",
         "rating": 5,
-        "text": "LOVE this place, always sad to see so few people coming in, it's truly a hidden gem. Love the counter service, just order your food and take a seat. Biryani is full of flavor, and the lamb is wonderful to bite into. It will cost north of $20 after tax but it's well worth it considering the generous portion sizes which will feed you for days. I will say though, heed the warnings about the spice levels- I like spicy food but medium was too much for me. Try this place out, you'll be glad you did. If there's one thing I would recommend to the owner, maybe a lunch size or small portion for the food. But I don't mind the leftovers, so not a big deal. 😋",
+        "text": "LOVE this place, always sad to see so few people coming in, it's truly a hidden gem. Love the counter service, just order your food and take a seat. Biryani is full of flavor, and the lamb is wonderful to bite into. It will cost north of $20 after tax but it's well worth it considering the generous portion sizes which will feed you for days. I will say though, heed the warnings about the spice levels- I like spicy food but medium was too much for me. Try this place out, you'll be glad you did. If there's one thing I would recommend to the owner, maybe a lunch size or small portion for the food. But I don't mind the leftovers, so not a big deal. \ud83d\ude0b",
         "time": 1762827862,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9j1pBzOQQ1fVOvO3bKrMmrYXpmdqz66ZJVlTpjnh4sz4n6Zk=s128-c0x00000000-cc-rp-mo-ba2"
       },
@@ -3099,70 +2763,30 @@
         "time": 1722318420,
         "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpDV0gaMIfwMECgL7Ey1O1ogql_kcgjL6UFDiGXxL0K03x2m04bA=s128-c0x00000000-cc-rp-mo-ba4"
       }
-    ],
-    "yelp": {
-      "yelpId": "a69jAHZRn5RksDAbO9eQUQ",
-      "rating": 4.4,
-      "reviewCount": 102,
-      "yelpUrl": "https://www.yelp.com/biz/sift-bakery-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    ]
   },
   "ChIJNzLF8Qwts1IRFA8HCWP-vBv": {
     "placeId": "ChIJNzLF8Qwts1IRFA8HCWP-vBv",
     "restaurantId": "47",
     "restaurantName": "Pizza Karma",
-    "_fetchedAt": "2026-03-02T00:05:00.564Z",
-    "yelp": {
-      "yelpId": "_ca1_rnOslBCYla0MdGLmw",
-      "rating": 4.1,
-      "reviewCount": 141,
-      "yelpUrl": "https://www.yelp.com/biz/pizza-karma-eden-prairie-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    "_fetchedAt": "2026-03-02T00:05:00.564Z"
   },
   "ChIJVeganEast2026Placeholder": {
     "placeId": "ChIJVeganEast2026Placeholder",
     "restaurantId": "48",
     "restaurantName": "Dreamstate Cafe",
-    "_fetchedAt": "2026-03-02T00:05:02.052Z",
-    "yelp": {
-      "yelpId": "gBQtMr-GlxiD5SLRefOt_w",
-      "rating": 5,
-      "reviewCount": 10,
-      "yelpUrl": "https://www.yelp.com/biz/dreamstate-cafe-minneapolis?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    "_fetchedAt": "2026-03-02T00:05:02.052Z"
   },
   "ChIJ4591dd7a1af54617SiftGF": {
     "placeId": "ChIJ4591dd7a1af54617SiftGF",
     "restaurantId": "51",
     "restaurantName": "Heal",
-    "_fetchedAt": "2026-03-02T00:05:03.229Z",
-    "yelp": {
-      "yelpId": "ROe4Dn6h960ngL03rVS-Ew",
-      "rating": 4.8,
-      "reviewCount": 17,
-      "yelpUrl": "https://www.yelp.com/biz/heal-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    "_fetchedAt": "2026-03-02T00:05:03.229Z"
   },
   "ChIJPizzaKarmaDinkytown55414": {
     "placeId": "ChIJPizzaKarmaDinkytown55414",
     "restaurantId": "52",
     "restaurantName": "Northeast Minneapolis",
-    "_fetchedAt": "2026-03-02T00:05:04.701Z",
-    "yelp": {
-      "yelpId": "RFdLxs7xfDmHSYZQIKiEBw",
-      "rating": 4.1,
-      "reviewCount": 243,
-      "yelpUrl": "https://www.yelp.com/biz/stray-dog-minneapolis-2?adjust_creative=cfSqEhyuf4OsIXoq8Axp6A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cfSqEhyuf4OsIXoq8Axp6A",
-      "photos": [],
-      "reviews": []
-    }
+    "_fetchedAt": "2026-03-02T00:05:04.701Z"
   }
 }

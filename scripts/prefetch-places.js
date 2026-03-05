@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * prefetch-places.js
- * Fetches Google Places + Yelp data for all restaurants, saves to src/data/places-cache.json
+ * Fetches Google Places data for all restaurants, saves to src/data/places-cache.json
  * Run: node scripts/prefetch-places.js
  * Cron: Sundays, auto-deploys to Vercel after
  */
@@ -22,7 +22,6 @@ if (fs.existsSync(envPath)) {
 }
 
 const PLACES_API_KEY = process.env.GOOGLE_PLACES_API_KEY;
-const YELP_API_KEY = process.env.YELP_API_KEY;
 const OUTPUT_PATH = path.join(__dirname, '../src/data/places-cache.json');
 const RESTAURANTS_FILE = path.join(__dirname, '../src/data/restaurants.ts');
 
@@ -97,50 +96,6 @@ async function fetchGooglePlaces(placeId) {
   };
 }
 
-async function fetchYelp(name, address, city, state) {
-  if (!YELP_API_KEY) {
-    console.warn('  ⚠️  No YELP_API_KEY — skipping Yelp data');
-    return null;
-  }
-
-  try {
-    // Search for the business
-    const searchUrl = `https://api.yelp.com/v3/businesses/search?term=${encodeURIComponent(name)}&location=${encodeURIComponent(`${address}, ${city}, ${state}`)}&limit=1`;
-    const searchRes = await fetch(searchUrl, {
-      headers: { Authorization: `Bearer ${YELP_API_KEY}` },
-    });
-    const searchData = await searchRes.json();
-    const business = searchData.businesses?.[0];
-    if (!business) return null;
-
-    // Get reviews
-    const reviewsUrl = `https://api.yelp.com/v3/businesses/${business.id}/reviews?limit=3`;
-    const reviewsRes = await fetch(reviewsUrl, {
-      headers: { Authorization: `Bearer ${YELP_API_KEY}` },
-    });
-    const reviewsData = await reviewsRes.json();
-
-    return {
-      yelpId: business.id,
-      rating: business.rating,
-      reviewCount: business.review_count,
-      yelpUrl: business.url,
-      photos: business.photos || [],
-      openNow: business.hours?.[0]?.is_open_now,
-      reviews: (reviewsData.reviews || []).map(r => ({
-        author_name: r.user?.name,
-        rating: r.rating,
-        text: r.text,
-        time: r.time_created,
-        url: r.url,
-      })),
-    };
-  } catch (err) {
-    console.warn(`  ⚠️  Yelp error: ${err.message}`);
-    return null;
-  }
-}
-
 async function main() {
   console.log('🔄 MPLS Vegan Directory — Places Prefetch');
   console.log(`   Output: ${OUTPUT_PATH}`);
@@ -183,10 +138,7 @@ async function main() {
     }
 
     try {
-      const [googleData, yelpData] = await Promise.all([
-        fetchGooglePlaces(r.googlePlaceId),
-        fetchYelp(r.name, r.address, r.city, r.state),
-      ]);
+      const googleData = await fetchGooglePlaces(r.googlePlaceId);
 
       cache[r.googlePlaceId] = {
         placeId: r.googlePlaceId,
@@ -194,11 +146,10 @@ async function main() {
         restaurantName: r.name,
         _fetchedAt: new Date().toISOString(),
         ...googleData,
-        yelp: yelpData,
       };
 
-      const rating = googleData.rating || yelpData?.rating || '?';
-      const reviews = googleData.userRatingsTotal || yelpData?.reviewCount || 0;
+      const rating = googleData.rating || '?';
+      const reviews = googleData.userRatingsTotal || 0;
       console.log(`✅ ${rating}★ ${reviews} reviews`);
       fetched++;
     } catch (err) {
