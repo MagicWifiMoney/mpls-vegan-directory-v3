@@ -3,24 +3,24 @@ import Link from 'next/link';
 import { restaurants } from '@/data/restaurants';
 
 export const metadata: Metadata = {
-  title: 'Vegan Restaurants Minneapolis MN 2026 | 75+ Plant-Based Spots',
+  title: 'Twin Cities Vegan Restaurants Directory 2026 | 78+ Minneapolis & St. Paul Spots',
   description:
-    'Browse 75+ vegan restaurants in Minneapolis MN — 100% vegan menus, vegetarian, and vegan-friendly spots. Filter by neighborhood, cuisine & price. Updated 2026.',
+    'Browse 78+ vegan & plant-based restaurants across Minneapolis and St. Paul — the complete Twin Cities vegan restaurants directory. Filter by neighborhood, cuisine & price. Updated 2026.',
   alternates: {
     canonical: '/restaurants',
   },
   openGraph: {
-    title: 'Best Vegan Restaurants Minneapolis MN 2026 | 75+ Plant-Based Spots',
+    title: 'Twin Cities Vegan Restaurants Directory 2026 | 78+ Spots',
     description:
-      'Browse 75+ vegan, vegetarian, and vegan-friendly restaurants in Minneapolis and Saint Paul. Filter by neighborhood, cuisine & price. Updated 2026.',
+      'Browse 78+ vegan, vegetarian, and vegan-friendly restaurants in Minneapolis and Saint Paul. The complete Twin Cities vegan directory — filter by neighborhood, cuisine & price.',
     type: 'website',
     url: 'https://mplsvegan.com/restaurants',
     siteName: 'Minneapolis Vegan Directory',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Best Vegan Restaurants Minneapolis MN 2026 | 75+ Spots — MPLS Vegan',
-    description: 'Browse 75+ vegan & plant-based restaurants in Minneapolis MN. Filter by neighborhood, cuisine & price. Updated 2026.',
+    title: 'Twin Cities Vegan Restaurants Directory 2026 | 78+ Spots',
+    description: 'Browse 78+ vegan & plant-based restaurants in Minneapolis & St. Paul. Filter by neighborhood, cuisine & price. Updated 2026.',
   },
 };
 
