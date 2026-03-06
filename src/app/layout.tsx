@@ -5,6 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { PostHogProvider } from "@/components/PostHogProvider";
 
+
 const instrumentSerif = Instrument_Serif({ 
   weight: "400",
   subsets: ["latin"],
