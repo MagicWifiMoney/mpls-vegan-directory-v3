@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { usePostHog } from 'posthog-js/react';
 
 interface NewsletterSignupProps {
   variant?: 'full' | 'compact';
@@ -10,6 +11,7 @@ export default function NewsletterSignup({ variant = 'full' }: NewsletterSignupP
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
   const [message, setMessage] = useState('');
+  const posthog = usePostHog();
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -33,6 +35,7 @@ export default function NewsletterSignup({ variant = 'full' }: NewsletterSignupP
         setStatus('success');
         setMessage(data.message || 'Welcome to the family! 🌱');
         setEmail('');
+        posthog?.capture('newsletter_signup', { variant, source: 'mplsvegan' });
       } else {
         setStatus('error');
         setMessage(data.error || 'Something went wrong. Please try again.');

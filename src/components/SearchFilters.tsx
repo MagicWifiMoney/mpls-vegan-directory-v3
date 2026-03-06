@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { cuisineTypes, neighborhoods } from '@/data/restaurants';
+import { usePostHog } from 'posthog-js/react';
 
 interface SearchFiltersProps {
   onSearch: (query: string) => void;
@@ -23,10 +24,27 @@ export default function SearchFilters({
   activeNeighborhood,
 }: SearchFiltersProps) {
   const [searchQuery, setSearchQuery] = useState('');
+  const posthog = usePostHog();
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     onSearch(searchQuery);
+    if (searchQuery) posthog?.capture('search_performed', { query: searchQuery, site: 'mplsvegan' });
+  };
+
+  const handleVeganFilter = (value: string) => {
+    onFilterVeganStatus(value);
+    if (value) posthog?.capture('filter_used', { filter_type: 'vegan_status', value, site: 'mplsvegan' });
+  };
+
+  const handleCuisineFilter = (value: string) => {
+    onFilterCuisine(value);
+    if (value) posthog?.capture('filter_used', { filter_type: 'cuisine', value, site: 'mplsvegan' });
+  };
+
+  const handleNeighborhoodFilter = (value: string) => {
+    onFilterNeighborhood(value);
+    if (value) posthog?.capture('filter_used', { filter_type: 'neighborhood', value, site: 'mplsvegan' });
   };
 
   const veganStatuses = [
@@ -73,7 +91,7 @@ export default function SearchFilters({
           {veganStatuses.map((status) => (
             <button
               key={status.value}
-              onClick={() => onFilterVeganStatus(status.value)}
+              onClick={() => handleVeganFilter(status.value)}
               className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm transition-all duration-300 ${
                 activeVeganStatus === status.value
                   ? 'bg-[#d4a574] text-[#1a1a1a] font-medium'
@@ -94,7 +112,7 @@ export default function SearchFilters({
         <h3 className="text-xs uppercase tracking-widest text-[#d4a574] mb-3 font-medium">Cuisine</h3>
         <div className="flex flex-wrap gap-2">
           <button
-            onClick={() => onFilterCuisine('')}
+            onClick={() => handleCuisineFilter('')}
             className={`px-4 py-2 rounded-full text-sm transition-all duration-300 ${
               !activeCuisine
                 ? 'bg-[#d4a574] text-[#1a1a1a] font-medium'
@@ -106,7 +124,7 @@ export default function SearchFilters({
           {cuisineTypes.map((cuisine) => (
             <button
               key={cuisine}
-              onClick={() => onFilterCuisine(cuisine)}
+              onClick={() => handleCuisineFilter(cuisine)}
               className={`px-4 py-2 rounded-full text-sm transition-all duration-300 ${
                 activeCuisine === cuisine
                   ? 'bg-[#d4a574] text-[#1a1a1a] font-medium'
@@ -125,7 +143,7 @@ export default function SearchFilters({
         <div className="relative">
           <select
             value={activeNeighborhood}
-            onChange={(e) => onFilterNeighborhood(e.target.value)}
+            onChange={(e) => handleNeighborhoodFilter(e.target.value)}
             className="input-field w-full px-4 py-3 rounded-xl text-sm appearance-none cursor-pointer"
           >
             <option value="">All Neighborhoods</option>

@@ -6,6 +6,7 @@ import { getBlogPostBySlug } from '@/data/blog-posts';
 import RestaurantDetail from '@/components/RestaurantDetail';
 import RestaurantDetailEnhanced from '@/components/RestaurantDetailEnhanced';
 import InstagramGallery from '@/components/InstagramGallery';
+import RestaurantViewTracker from '@/components/RestaurantViewTracker';
 import sampleInstagramPosts from '@/data/sample-instagram-posts.json';
 
 interface Props {
@@ -157,6 +158,14 @@ export default async function RestaurantPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         />
       )}
+
+      <RestaurantViewTracker
+        name={restaurant.name}
+        slug={restaurant.slug}
+        neighborhood={restaurant.neighborhood}
+        cuisine={restaurant.cuisine}
+        veganStatus={restaurant.veganStatus}
+      />
 
       {/* Hero Section */}
       <div className="relative min-h-[50vh] flex items-end overflow-hidden">
