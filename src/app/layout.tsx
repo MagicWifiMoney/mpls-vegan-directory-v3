@@ -19,7 +19,7 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: "Twin Cities Vegan Restaurant Directory | Minneapolis & St. Paul 2026 | 75+ Spots",
-  description: "The Twin Cities vegan restaurant directory — 75+ plant-based spots in Minneapolis & St. Paul with real reviews, hours, must-try dishes & neighborhood maps. The best vegan food website for Minneapolis. Updated 2026.",
+  description: "75+ vegan & plant-based restaurants in Minneapolis and St. Paul — real reviews, hours, must-try dishes & neighborhood maps. The Twin Cities' most complete vegan dining guide. Updated March 2026.",
   keywords: [
     "vegan restaurants Minneapolis",
     "Twin Cities vegan restaurants directory",

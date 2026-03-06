@@ -4106,7 +4106,7 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
   {
     slug: "best-vegan-pizza-minneapolis",
     title: "Best Vegan Pizza Minneapolis 2026: 9 Spots Ranked",
-    description: "9 vegan pizza spots in Minneapolis - Pizza Lucé, Black Sheep, Galactic Pizza, Wrecktangle + more. Ranked by crust, sauce, and cheese. Order right tonight.",
+    description: "Best vegan pizza in Minneapolis 2026: Pizza Lucé (house-made cheese that actually stretches), Black Sheep (coal-fired crust), Galactic Pizza (best delivery). 9 spots ranked — find your order tonight.",
     publishedAt: "2026-02-17",
     updatedAt: "2026-03-03",
     author: "Mia & Jay",
@@ -4307,7 +4307,7 @@ For more Minneapolis vegan dining, check out our [complete restaurant guide](/bl
   {
     slug: "best-vegan-mac-and-cheese-brands-ranked",
     title: "Best Vegan Mac & Cheese Brands 2026: Blind-Tested Rankings",
-    description: "Daiya, Annie's, Back to the Roots, Banza, Goodles + 7 more - we blind-tested 12 vegan mac and cheese brands. Honest 2026 rankings, no brand deals.",
+    description: "We blind-tested 15 vegan mac and cheese brands. Goodles Cheddy Mac wins overall. Annie's is best value. Daiya Deluxe is best microwave. Ranked honestly — no brand deals, no BS.",
     publishedAt: "2026-02-17",
     updatedAt: "2026-03-03",
     author: "Mia & Jay",
