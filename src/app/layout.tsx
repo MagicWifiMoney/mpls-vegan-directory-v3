@@ -3,6 +3,7 @@ import { Instrument_Serif, DM_Sans } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { PostHogProvider } from "@/components/providers/posthog-provider";
 
 const instrumentSerif = Instrument_Serif({ 
   weight: "400",
@@ -202,9 +203,11 @@ export default function RootLayout({
         />
       </head>
       <body className="font-body bg-[#1a1a1a] text-[#f5f0e8] antialiased">
-        <Header />
-        <main className="min-h-screen">{children}</main>
-        <Footer />
+        <PostHogProvider>
+          <Header />
+          <main className="min-h-screen">{children}</main>
+          <Footer />
+        </PostHogProvider>
       </body>
     </html>
   );
