@@ -7236,15 +7236,15 @@ This guide covers the best spots to get a vegan burger in Minneapolis and St. Pa
 
 | Restaurant | Location | Price | Must-Order | Fully Vegan? |
 |---|---|---|---|---|
-| Francis Burger Joint | Northeast Mpls | $$ | Juicy Lucy | ✅ 100% |
-| J. Selby's | St. Paul (Cathedral Hill) | $$ | Dirty Double | ✅ 100% |
-| Reverie Cafe + Bar | Powderhorn | $$ | Rev Burger | ✅ 100% |
-| Hard Times Cafe | Cedar-Riverside | $ | Veggie burger + biscuits | ⚡ Mostly vegan |
+| [Francis Burger Joint](/restaurants/francis-burger-joint) | Northeast Mpls | $$ | Juicy Lucy | ✅ 100% |
+| [J. Selby's](/restaurants/j-selbys) | St. Paul (Cathedral Hill) | $$ | Dirty Double | ✅ 100% |
+| [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) | Powderhorn | $$ | Rev Burger | ✅ 100% |
+| [Hard Times Cafe](/restaurants/hard-times-cafe) | Cedar-Riverside | $ | Veggie burger + biscuits | ⚡ Mostly vegan |
 | Red Cow | Multiple locations | $$$ | Impossible Burger | 🔄 Vegan-friendly |
 
 ---
 
-## 🥇 1. Francis Burger Joint — The Best Vegan Burger in Minneapolis
+## 🥇 1. [Francis Burger Joint](/restaurants/francis-burger-joint) — The Best Vegan Burger in Minneapolis
 
 **2422 Central Ave NE, Minneapolis · 100% Vegan · Northeast Minneapolis · $$**
 
@@ -7274,7 +7274,7 @@ A second Francis location in Longfellow (southeast Minneapolis) has expanded the
 
 ---
 
-## 🥈 2. J. Selby's — The Dirty Double in St. Paul
+## 🥈 2. [J. Selby's](/restaurants/j-selbys) — The Dirty Double in St. Paul
 
 **169 Victoria St N, Saint Paul, MN 55104 · 100% Vegan · Cathedral Hill · $$**
 
@@ -7298,7 +7298,7 @@ Casual, colorful, fast-casual counter service with a full dining room. Popular w
 
 ---
 
-## 🥉 3. Reverie Cafe + Bar — The Rev Burger
+## 🥉 3. [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) — The Rev Burger
 
 **1517 E 35th St, Minneapolis, MN 55407 · 100% Vegan · Powderhorn · $$**
 
@@ -7318,7 +7318,7 @@ Intimate neighborhood bar with mural-lined walls and warm lighting. More dinner-
 
 ---
 
-## 4. Hard Times Cafe — The Classic
+## 4. [Hard Times Cafe](/restaurants/hard-times-cafe) — The Classic
 
 **1821 Riverside Ave, Minneapolis, MN 55454 · Vegetarian/Mostly Vegan · Cedar-Riverside · $ · Cash Only**
 
