@@ -163,7 +163,7 @@ export default async function RestaurantPage({ params }: Props) {
         name={restaurant.name}
         slug={restaurant.slug}
         neighborhood={restaurant.neighborhood}
-        cuisine={restaurant.cuisine}
+        cuisine={restaurant.cuisineType?.[0]}
         veganStatus={restaurant.veganStatus}
       />
 
