@@ -4307,18 +4307,18 @@ For more Minneapolis vegan dining, check out our [complete restaurant guide](/bl
   {
     slug: "best-vegan-mac-and-cheese-brands-ranked",
     title: "Best Vegan Mac & Cheese Brands 2026: Blind-Tested Rankings",
-    description: "We blind-tested 15 vegan mac and cheese brands. Goodles Cheddy Mac wins overall. Annie's is best value. Daiya Deluxe is best microwave. Ranked honestly — no brand deals, no BS.",
+    description: "We blind-tested 15 vegan mac and cheese brands. Goodles Vegan Is Believin' wins overall. Annie's is best value. Daiya Deluxe is best microwave. Ranked honestly — no brand deals, no BS.",
     publishedAt: "2026-02-17",
     updatedAt: "2026-03-03",
     author: "Mia & Jay",
     category: "Reviews",
     tags: ["vegan mac and cheese", "product reviews", "plant-based", "rankings", "grocery", "2026"],
     readingTime: "11 min read",
-    tldr: "We tested 15+ vegan mac and cheese brands. Top picks: Goodles Cheddy Mac (best boxed overall), Annie's Vegan Shells (best value), Banza Vegan Mac (best high-protein), Daiya Deluxe (best frozen/microwave), and for restaurant mac, Reverie Cafe in Minneapolis is untouchable. Avoid: generic store brands and anything with coconut-heavy cheese sauces that taste like a luau.",
+    tldr: "We tested 15+ vegan mac and cheese brands. Top picks: Goodles Vegan Is Believin' (best boxed overall), Annie's Vegan Shells (best value), Banza Vegan Mac (best high-protein), Daiya Deluxe (best frozen/microwave), and for restaurant mac, Reverie Cafe in Minneapolis is untouchable. Avoid: generic store brands and anything with coconut-heavy cheese sauces that taste like a luau.",
     faqs: [
       {
         question: "What is the best vegan mac and cheese brand?",
-        answer: "Goodles Cheddy Mac is our top pick for boxed vegan mac and cheese in 2026. It has the most 'real cheese' taste with a creamy sauce that coats the noodles perfectly. For frozen/microwave, Daiya Deluxe Cheddar Style is the most convenient and consistent option."
+        answer: "Goodles Vegan Is Believin' is our top pick for boxed vegan mac and cheese in 2026. It has the most 'real cheese' taste with a creamy sauce that coats the noodles perfectly. For frozen/microwave, Daiya Deluxe Cheddar Style is the most convenient and consistent option."
       },
       {
         question: "Does Annie's make vegan mac and cheese?",
@@ -4326,7 +4326,7 @@ For more Minneapolis vegan dining, check out our [complete restaurant guide](/bl
       },
       {
         question: "What vegan mac and cheese tastes most like real mac and cheese?",
-        answer: "Goodles Cheddy Mac and Annie's Vegan Shells are the closest to traditional mac and cheese flavor. For a from-scratch option, making mac with Miyoko's butter and nutritional yeast-based sauce beats any boxed version."
+        answer: "Goodles Vegan Is Believin' and Annie's Vegan Shells are the closest to traditional mac and cheese flavor. For a from-scratch option, making mac with Miyoko's butter and nutritional yeast-based sauce beats any boxed version."
       },
       {
         question: "Is Kraft making vegan mac and cheese?",
@@ -4352,7 +4352,7 @@ Let's do this.
 
 ## 🏆 The Final Rankings: Boxed Vegan Mac & Cheese
 
-### #1: Goodles Cheddy Mac
+### #1: [Goodles Vegan Is Believin'](https://www.amazon.com/dp/B0B1SQ2WSY?tag=fifti00-20)
 
 **Overall Score: 9.2/10**
 
@@ -4368,12 +4368,12 @@ Let's do this.
 
 **What sets it apart:** The sauce has this slight sharpness that mimics aged cheddar. Most vegan mac sauces either taste like nothing or taste aggressively of nutritional yeast. Goodles found the sweet spot.
 
-**Where to buy:** Target, Whole Foods, Thrive Market, Amazon
+**Where to buy:** Target, Whole Foods, Thrive Market, [Amazon](https://www.amazon.com/dp/B0B1SQ2WSY?tag=fifti00-20)
 **Price:** ~$4-5/box
 
 ---
 
-### #2: Annie's Organic Vegan Shells & Creamy Sauce
+### #2: [Annie's Organic Vegan Shells & Creamy Sauce](https://www.amazon.com/dp/B073WF53RR?tag=fifti00-20)
 
 **Overall Score: 8.8/10**
 
@@ -4391,12 +4391,12 @@ Let's do this.
 
 **Pro tip:** Add a tablespoon of Miyoko's butter and a splash of oat milk while cooking. Takes it from 8.8 to about 9.5.
 
-**Where to buy:** Target, Walmart, every grocery store, Amazon
+**Where to buy:** Target, Walmart, every grocery store, [Amazon](https://www.amazon.com/dp/B073WF53RR?tag=fifti00-20)
 **Price:** ~$3-4/box
 
 ---
 
-### #3: Banza Vegan Mac & Cheese
+### #3: [Banza Vegan Mac & Cheese](https://www.amazon.com/dp/B081D4BWGV?tag=fifti00-20)
 
 **Overall Score: 8.5/10**
 
@@ -4414,12 +4414,12 @@ Let's do this.
 
 **Caveat:** The chickpea pasta releases starch differently, so the sauce can be a bit thicker. Add extra liquid.
 
-**Where to buy:** Target, Whole Foods, most grocery stores
+**Where to buy:** Target, Whole Foods, most grocery stores, [Amazon](https://www.amazon.com/dp/B081D4BWGV?tag=fifti00-20)
 **Price:** ~$4-5/box
 
 ---
 
-### #4: Modern Table Mac & Cheese
+### #4: [Modern Table Mac & Cheese](https://www.amazon.com/dp/B07RR68M1G?tag=fifti00-20)
 
 **Overall Score: 8.2/10**
 
@@ -4435,12 +4435,12 @@ Let's do this.
 
 **What sets it apart:** The lentil pasta gives it extra protein and fiber without the chickpea flavor of Banza.
 
-**Where to buy:** Whole Foods, Target, co-ops
+**Where to buy:** Whole Foods, Target, co-ops, [Amazon](https://www.amazon.com/dp/B07RR68M1G?tag=fifti00-20)
 **Price:** ~$4-5/box
 
 ---
 
-### #5: Daiya Deluxe Cheddar Style
+### #5: [Daiya Deluxe Cheddar Style](https://www.amazon.com/dp/B01GUPABIO?tag=fifti00-20)
 
 **Overall Score: 7.9/10**
 
@@ -4456,7 +4456,7 @@ Let's do this.
 
 **What sets it apart:** Easiest prep of any option. Boil noodles, stir in sauce, done. No butter, no milk substitute required.
 
-**Where to buy:** Literally everywhere — Target, Walmart, every grocery store
+**Where to buy:** Literally everywhere — Target, Walmart, every grocery store, [Amazon](https://www.amazon.com/dp/B01GUPABIO?tag=fifti00-20)
 **Price:** ~$4-5/box
 
 ---
@@ -4465,11 +4465,11 @@ Let's do this.
 
 | Brand | Score | Protein | Best For | Price |
 |-------|-------|---------|----------|-------|
-| **Goodles** | 9.2 | 17g | Best overall taste | $4-5 |
-| **Annie's** | 8.8 | 8g | Best value | $3-4 |
-| **Banza** | 8.5 | 25g | Highest protein | $4-5 |
-| **Modern Table** | 8.2 | 14g | Gluten-conscious | $4-5 |
-| **Daiya Deluxe** | 7.9 | 7g | Easiest prep | $4-5 |
+| [**Goodles**](https://www.amazon.com/dp/B0B1SQ2WSY?tag=fifti00-20) | 9.2 | 17g | Best overall taste | $4-5 |
+| [**Annie's**](https://www.amazon.com/dp/B073WF53RR?tag=fifti00-20) | 8.8 | 8g | Best value | $3-4 |
+| [**Banza**](https://www.amazon.com/dp/B081D4BWGV?tag=fifti00-20) | 8.5 | 25g | Highest protein | $4-5 |
+| [**Modern Table**](https://www.amazon.com/dp/B07RR68M1G?tag=fifti00-20) | 8.2 | 14g | Gluten-conscious | $4-5 |
+| [**Daiya Deluxe**](https://www.amazon.com/dp/B01GUPABIO?tag=fifti00-20) | 7.9 | 7g | Easiest prep | $4-5 |
 
 ---
 
@@ -4509,8 +4509,8 @@ If you're feeling ambitious, here's the secret formula that beats every boxed br
 
 **Ingredients:**
 - 12oz pasta (your choice of shape)
-- 1 cup raw cashews (soaked 2 hours or boiled 15 min)
-- 1/4 cup nutritional yeast
+- 1 cup [raw cashews](https://www.amazon.com/dp/B00IH89ZM6?tag=fifti00-20) (soaked 2 hours or boiled 15 min)
+- 1/4 cup [nutritional yeast](https://www.amazon.com/dp/B00DBBRHCC?tag=fifti00-20)
 - 2 tbsp Miyoko's butter
 - 1 tbsp lemon juice
 - 1 tsp smoked paprika
@@ -7181,6 +7181,192 @@ Coal-fired pizza at 900+ degrees, vegan cheese on any pie, and a full bar with h
 ---
 
 For the full Minneapolis vegan dining picture, check our [complete vegan restaurant directory](/restaurants) or the [Best Vegan Restaurants in Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) guide.
+`,
+  },
+
+  {
+    slug: "best-vegan-burgers-minneapolis",
+    title: "Best Vegan Burgers in Minneapolis (2026 Guide)",
+    description: "Where to get the best vegan burgers in Minneapolis and St. Paul — from Francis Burger Joint's fully vegan sports bar smash burgers to J. Selby's Dirty Double, Reverie's Rev Burger, and Hard Times Cafe's classic veggie burger. Every spot reviewed.",
+    publishedAt: "2026-03-08",
+    updatedAt: "2026-03-08",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan burgers minneapolis", "best vegan burger minneapolis", "vegan burger restaurants minneapolis", "plant based burgers minneapolis", "francis burger joint minneapolis"],
+    featuredImage: "/images/blog/best-vegan-burgers-minneapolis.jpg",
+    readingTime: "8 min read",
+    tldr: "Best vegan burgers in Minneapolis: Francis Burger Joint (Northeast Mpls, 100% vegan sports bar — smash burgers, Juicy Lucy, craft beer, TVs, the #1 pick), J. Selby's (St. Paul Cathedral Hill, Dirty Double with secret sauce, fully vegan), Reverie Cafe + Bar (Powderhorn, Rev Burger with tempeh, tomato jam, and kimchi aioli). Hard Times Cafe rounds it out for budget comfort food in Cedar-Riverside.",
+    faqs: [
+      {
+        question: "Where can I get the best vegan burger in Minneapolis?",
+        answer: "Francis Burger Joint at 2422 Central Ave NE is the top pick — 100% vegan sports bar with smash burgers, a plant-based Juicy Lucy stuffed with vegan cheese, and a full craft beer bar. J. Selby's in St. Paul (169 Victoria St N) runs a close second with the Dirty Double and secret sauce. Both are fully vegan restaurants, so you never have to ask what's safe."
+      },
+      {
+        question: "Is Francis Burger Joint fully vegan?",
+        answer: "Yes — Francis Burger Joint is 100% vegan, including the bar. Every burger, every drink, every condiment is entirely plant-based. No animal-derived fining agents in the beer or wine, no honey in the cocktails, no dairy in anything. The Northeast Minneapolis location at 2422 Central Ave NE is the original; a second location in Longfellow also operates."
+      },
+      {
+        question: "What is the Dirty Double at J. Selby's?",
+        answer: "The Dirty Double is J. Selby's signature burger — a double-stack smash-style plant-based patty with their secret sauce, lettuce, tomato, onion, and pickles on a toasted bun. It's the kind of indulgent, saucy, stacked burger that makes skeptical omnivores question their choices. J. Selby's is located at 169 Victoria St N in St. Paul's Cathedral Hill neighborhood."
+      },
+      {
+        question: "Are there vegan burgers at non-vegan restaurants in Minneapolis?",
+        answer: "Yes. Red Cow (multiple Metro locations) does an excellent Impossible Burger cooked and served with the same care as their beef burgers. Hard Times Cafe (1821 Riverside Ave, Cedar-Riverside) has a classic veggie burger on a cash-only punk cafe menu. For fully vegan guarantees with zero cross-contamination worry, stick to Francis Burger Joint, J. Selby's, or Reverie."
+      },
+      {
+        question: "What should I order at Francis Burger Joint?",
+        answer: "Start with the Juicy Lucy — a smash burger stuffed with melted vegan cheese inside the patty, a Minneapolis tradition gone fully plant-based. The taco-seasoned Impossible burger is also excellent. Add a side of fries and order a beer from the fully vegan bar. If you're there on a game day, grab a spot near the TVs."
+      },
+      {
+        question: "Is J. Selby's in Minneapolis or St. Paul?",
+        answer: "J. Selby's is in St. Paul — specifically in the Cathedral Hill neighborhood at 169 Victoria St N, St. Paul, MN 55104. It's about a 15-minute drive from downtown Minneapolis, or a short ride on the 21 bus. Worth the trip: it's one of the best fully vegan restaurants in the Twin Cities metro."
+      }
+    ],
+    relatedRestaurants: ["francis-burger-joint", "j-selbys", "hard-times-cafe", "reverie-cafe-bar"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-bars-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-comfort-food-minneapolis", "j-selbys-review-saint-paul-vegan"],
+    content: `# Best Vegan Burgers in Minneapolis (2026 Guide)
+
+Minneapolis doesn't mess around with burgers — and the vegan burger scene here is legitimately one of the best in the Midwest. We're not talking sad dry patties or afterthought menu add-ons. We're talking smash burgers with proper sear, Juicy Lucys stuffed with melted vegan cheese, double-stacks with secret sauce, and full sports bars where everything — including the craft beer — is 100% plant-based.
+
+This guide covers the best spots to get a vegan burger in Minneapolis and St. Paul, ranked by quality and ranked by vibe.
+
+---
+
+## 🏆 Quick Comparison
+
+| Restaurant | Location | Price | Must-Order | Fully Vegan? |
+|---|---|---|---|---|
+| Francis Burger Joint | Northeast Mpls | $$ | Juicy Lucy | ✅ 100% |
+| J. Selby's | St. Paul (Cathedral Hill) | $$ | Dirty Double | ✅ 100% |
+| Reverie Cafe + Bar | Powderhorn | $$ | Rev Burger | ✅ 100% |
+| Hard Times Cafe | Cedar-Riverside | $ | Veggie burger + biscuits | ⚡ Mostly vegan |
+| Red Cow | Multiple locations | $$$ | Impossible Burger | 🔄 Vegan-friendly |
+
+---
+
+## 🥇 1. Francis Burger Joint — The Best Vegan Burger in Minneapolis
+
+**2422 Central Ave NE, Minneapolis · 100% Vegan · Northeast Minneapolis · $$**
+
+If you only go to one place on this list, make it Francis. What started as a plant-based burger joint in Northeast Minneapolis has become the definitive destination for vegan burgers in the Twin Cities — and honestly competes with any burger spot in the city, vegan or not.
+
+The concept is simple and perfect: a fully vegan sports bar. TVs on the walls, craft beer on tap, smash burgers on the table. Nothing on the menu — not a single drink, not a single sauce — comes from an animal. And somehow it manages to feel like a completely normal, casual, "let's watch the game and eat something good" kind of place. That's the real flex.
+
+### What to Order at Francis
+
+**The Juicy Lucy** — this is the one. Francis took Minneapolis's most iconic burger (a beef patty stuffed with molten cheese) and made it entirely plant-based without losing a single bit of what makes a Juicy Lucy worth eating. The vegan cheese melts inside the smash patty, creating that steam-release moment when you bite in. Order it. Don't question it.
+
+**The Taco Burger** — seasoned Impossible patty with taco spice, lettuce, tomato, pickles, and creamy sauce. The seasoning hits differently — this isn't a plain Impossible patty, it's been worked. A close second to the Juicy Lucy.
+
+**The Black Bean Burger** — for those who want something that tastes less like meat. Garlicky, textured, not dry, actually good. Often overlooked because the smash burgers get all the attention.
+
+**Fries** — get them. They're fried in vegan oil and crispy in the right way.
+
+**The Bar** — fully vegan. No isinglass (fish bladder) in the beer, no honey in the cocktails, no carmine dye in anything. Order confidently.
+
+### The Vibe
+
+Industrial-chic Northeast bar. Exposed brick, high ceilings, TVs showing whatever game is on. Loud on game nights, manageable on weeknights. The crowd is a mix of committed vegans and curious omnivores who got dragged in and are now regulars. 
+
+A second Francis location in Longfellow (southeast Minneapolis) has expanded their reach. The Northeast original has the sports bar energy; both are equally worth your time.
+
+**Hours:** Check [francisburgerjoint.com](https://www.francisburgerjoint.com) for current hours — typically lunch through late evening daily.
+
+---
+
+## 🥈 2. J. Selby's — The Dirty Double in St. Paul
+
+**169 Victoria St N, Saint Paul, MN 55104 · 100% Vegan · Cathedral Hill · $$**
+
+Technically in St. Paul, but close enough that any Minneapolis vegan who hasn't made the trip is missing out. J. Selby's is a fully vegan fast-casual restaurant doing serious things with American comfort food — and the Dirty Double is the reason burger people show up.
+
+### What to Order at J. Selby's
+
+**The Dirty Double** — a double-stack plant-based smash burger with J. Selby's secret sauce, shredded lettuce, tomato, onion, and pickles. The secret sauce is the star: tangy, creamy, slightly sweet, and applied generously. The patties have a proper sear and hold up structurally in a way that cheaper plant-based burgers don't. This is a sloppy, satisfying, legitimately great burger.
+
+**The Crunchwrap** — technically not a burger, but worth mentioning because it's become J. Selby's cult item: vegan taco meat wrapped in a grilled flour tortilla with all the fixings. Bring someone who says they don't like vegan food.
+
+**The Frostbite** — extra-thick dairy-free shake with mix-ins. Cookie dough is the move. Order one to share if you're not confident, then regret not getting your own.
+
+**Lion's Mane Wings** — crispy fried lion's mane mushroom with your choice of sauce. The texture is genuinely remarkable.
+
+### The Vibe
+
+Casual, colorful, fast-casual counter service with a full dining room. Popular with Cathedral Hill locals, college students, and anyone who knows. Brunch service with bottomless mimosas on weekends. Very much a spot where you linger, not just grab and go.
+
+**Also see:** [Full J. Selby's Review](/blog/j-selbys-review-saint-paul-vegan)
+
+---
+
+## 🥉 3. Reverie Cafe + Bar — The Rev Burger
+
+**1517 E 35th St, Minneapolis, MN 55407 · 100% Vegan · Powderhorn · $$**
+
+Reverie is better known as Minneapolis's premier fully vegan bar — 20 craft beers, cocktails, the dark chocolate beignets that people talk about — but the Rev Burger deserves its own spotlight in any serious vegan burger conversation.
+
+### What to Order at Reverie
+
+**The Rev Burger** — tempeh patty with house-made tomato jam, smoked onions, and kimchi aioli on a toasted bun. This is not a smash burger; it's a more composed, chef-driven approach. The kimchi aioli is the hook — tangy, slightly funky, and exactly what a good burger sauce should be. The smoked onions add sweetness that balances the acidity. It's a different animal (figuratively) from the Francis smash, and worth trying for that reason.
+
+**Dark Chocolate Beignets** — not a burger, but you need them after.
+
+**Craft Beer** — 20+ rotating taps, all vegan-verified. Lean into it.
+
+### The Vibe
+
+Intimate neighborhood bar with mural-lined walls and warm lighting. More dinner-restaurant energy than sports bar, but fully equipped as a bar. The crowd skews slightly older than Francis, more neighborhood-regular than destination. Great for a date night where you also want excellent food.
+
+---
+
+## 4. Hard Times Cafe — The Classic
+
+**1821 Riverside Ave, Minneapolis, MN 55454 · Vegetarian/Mostly Vegan · Cedar-Riverside · $ · Cash Only**
+
+Hard Times has been feeding Minneapolis's vegan and punk community since 1992. The bright green facade on Riverside Ave is a landmark. The vibes are deliberately unglamorous: community bulletin boards, mismatched furniture, hand-painted menus, cash only.
+
+The veggie burger here isn't trying to be an Impossible patty or a smash burger phenomenon. It's a house-made grain-and-vegetable patty, served simply, at a price that makes everything else on this list look expensive. It works. It's been working for three decades.
+
+### What to Order at Hard Times
+
+**The Veggie Burger** — ask your server to confirm the day's version is vegan (some preparations include egg or cheese; ask for vegan spec). Simple, satisfying, cheap.
+
+**Vegan Biscuits and Gravy** — the real reason to show up. Mushroom gravy over fluffy scratch-made biscuits. One of the best vegan comfort food dishes in Minneapolis at any price point.
+
+**The Helter Skelter** — hash browns with scrambled tofu, peppers, and onions. Served all day. Order it.
+
+**The Big Fat Pancake** — not a burger context obviously, but Hard Times is an all-day breakfast spot. The vegan pancake is enormous and actually good.
+
+### The Vibe
+
+Collectively-owned, worker-run punk cafe. This is not a polished dining experience. It's a community institution with community pricing ($8–$12 for most dishes) and community energy. Bring cash (ATM on site), be patient, embrace it. Hard Times is irreplaceable in the Minneapolis vegan landscape precisely because it's not trying to be anything other than what it is.
+
+---
+
+## 5. Red Cow — The Best Vegan Burger at a Non-Vegan Restaurant
+
+**Multiple Metro Locations · Vegan-Friendly · $$$**
+
+Red Cow is a burger-focused restaurant that takes its vegan option seriously. The Impossible Burger is cooked properly — same care as their beef burgers — and served with the same attention to toppings, bun, and presentation. If you're dining with omnivores who want a classic upscale burger bar, Red Cow is the answer.
+
+The North Loop location (with its sleek industrial design and strong cocktail list) is the best spot for after-work drinks and a burger with mixed groups. Multiple locations across the metro maintain consistent quality.
+
+**Note:** Red Cow is not vegan-friendly across the full menu, and cross-contamination is possible. For 100% certainty, stick to Francis, J. Selby's, or Reverie. Red Cow is the pick when you're compromising for the group.
+
+---
+
+## The Bottom Line
+
+Minneapolis has a real vegan burger scene — not a "this city has one decent option" scene. **Francis Burger Joint** is the clear #1: a fully vegan sports bar where the Juicy Lucy is legitimately one of the best burgers in the city, full stop. **J. Selby's** gives you the Dirty Double and a complete vegan comfort food experience across the river. **Reverie's Rev Burger** brings a more composed, chef-driven approach if that's your vibe. And **Hard Times** remains the soul of Minneapolis's vegan community — cheap, unpretentious, open, and irreplaceable.
+
+There has never been a better time to eat vegan burgers in Minneapolis. Go prove it.
+
+---
+
+**More Minneapolis vegan guides:**
+- [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026)
+- [Best Vegan Bars Minneapolis](/blog/vegan-bars-minneapolis)
+- [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide)
+- [J. Selby's Full Review](/blog/j-selbys-review-saint-paul-vegan)
 `,
   },
 
