@@ -7370,6 +7370,1023 @@ There has never been a better time to eat vegan burgers in Minneapolis. Go prove
 `,
   },
 
+  {
+    slug: 'vegan-tacos-minneapolis',
+    title: 'Best Vegan Tacos in Minneapolis (2026 Guide)',
+    description: 'Looking for the best vegan tacos in Minneapolis? From Reverie\'s Korean BBQ mock-duck tacos to Heal\'s Tinga Cabbage Tacos and Dreamstate\'s late-night options, here\'s where to eat.',
+    publishedAt: '2026-03-10',
+    updatedAt: '2026-03-10',
+    author: 'Mia & Jay',
+    category: 'Guide',
+    tags: ['vegan tacos minneapolis', 'best vegan tacos minneapolis', 'plant based tacos minneapolis', 'vegan mexican food minneapolis', 'vegan restaurants minneapolis'],
+    featuredImage: '/images/blog/vegan-tacos-minneapolis.jpg',
+    readingTime: '7 min read',
+    tldr: 'Best vegan tacos in Minneapolis: Reverie Cafe + Bar (Powderhorn, Korean BBQ mock-duck and lemongrass tofu tacos, 100% vegan), Heal (North Minneapolis, Tinga Cabbage Tacos, Black-owned, 100% vegan), Dreamstate Cafe (Lyn-Lake, creative late-night taco options, 100% vegan), and World Street Kitchen (Lyn-Lake, globally-inspired vegan-friendly tacos). Minneapolis has a growing plant-based taco scene built around local, creative ingredients.',
+    faqs: [
+      {
+        question: 'Where can I get vegan tacos in Minneapolis?',
+        answer: 'Reverie Cafe + Bar in Powderhorn is the top pick for 100% vegan tacos — they serve lemongrass tofu tacos and Korean BBQ mock-duck tacos from a fully plant-based kitchen. Heal in North Minneapolis does excellent Tinga Cabbage Tacos with African-diasporic flavors. Dreamstate Cafe in Lyn-Lake also has creative vegan taco options as part of their all-day menu.'
+      },
+      {
+        question: 'Are there fully vegan taco restaurants in Minneapolis?',
+        answer: 'Yes. Reverie Cafe + Bar (1517 E 35th St, Powderhorn), Heal (4171 N Lyndale Ave, North Minneapolis), and Dreamstate Cafe (2558 Lyndale Ave S, Lyn-Lake) are all 100% vegan restaurants that serve tacos. None of these spots carry any animal products, so you can order anything on the menu without asking.'
+      },
+      {
+        question: 'What are the best vegan tacos to order in Minneapolis?',
+        answer: 'The Korean BBQ Mock-Duck Tacos at Reverie Cafe + Bar are a fan favorite — smoky, saucy, and fully plant-based. Heal\'s Tinga Cabbage Tacos use seasoned cabbage and plant-based protein with real depth of flavor. Dreamstate Cafe rotates creative taco specials. For a vegan-friendly (not fully vegan) option, World Street Kitchen on Lyndale has a Thai-inspired tofu bowl that captures similar flavors.'
+      },
+      {
+        question: 'Is there vegan Mexican food in Minneapolis beyond tacos?',
+        answer: 'Yes — see our full guide to vegan Mexican food in Minneapolis. Reverie Cafe + Bar also serves burritos and other Mexican-inspired dishes. Hard Times Cafe in Cedar-Riverside has a seitan-based Korean BBQ tofu bun and Mexican-adjacent plates. Many Minneapolis restaurants with Latin-inspired menus can adapt dishes to be vegan on request.'
+      },
+      {
+        question: 'Are tacos from Reverie Cafe vegan?',
+        answer: 'Yes — Reverie Cafe + Bar is 100% vegan, which means every taco, sauce, and topping is entirely plant-based. They serve lemongrass tofu tacos and Korean BBQ mock-duck tacos regularly, with rotating specials. Located at 1517 E 35th St in Powderhorn, Minneapolis.'
+      },
+      {
+        question: 'What is the Tinga Cabbage Taco at Heal Minneapolis?',
+        answer: 'The Tinga Cabbage Taco at Heal is a plant-based taco built on seasoned cabbage with tinga-style spicing — smoky, slightly tangy, and deeply savory. Heal is a 100% vegan, Black-owned cafe in North Minneapolis at 4171 N Lyndale Ave. The menu draws on African diasporic and Southern food traditions.'
+      }
+    ],
+    relatedRestaurants: ['reverie-cafe-bar', 'heal-mpls', 'dreamstate-cafe', 'world-street-kitchen', 'hard-times-cafe'],
+    relatedPosts: ['vegan-mexican-food-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-happy-hour-minneapolis', 'vegan-bars-minneapolis'],
+    content: `# Best Vegan Tacos in Minneapolis (2026 Guide)
+
+Minneapolis has a genuinely strong vegan taco scene — not just one spot with a token plant-based option, but multiple fully vegan restaurants making creative, thoughtful tacos from scratch. Whether you want Korean BBQ mock-duck, Tinga-spiced cabbage, or lemongrass tofu, there's a plate of vegan tacos in this city with your name on it.
+
+This guide covers the best places to get vegan tacos in Minneapolis in 2026, ranked by quality and organized by neighborhood.
+
+---
+
+## 🏆 Quick Comparison
+
+| Restaurant | Location | Price | Must-Order Taco | Fully Vegan? |
+|---|---|---|---|---|
+| [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) | Powderhorn | $$ | Korean BBQ Mock-Duck | ✅ 100% |
+| [Heal](/restaurants/heal-mpls) | North Minneapolis | $ | Tinga Cabbage Tacos | ✅ 100% |
+| [Dreamstate Cafe](/restaurants/dreamstate-cafe) | Lyn-Lake | $$ | Rotating taco specials | ✅ 100% |
+| [World Street Kitchen](/restaurants/world-street-kitchen) | Lyn-Lake | $$ | Yum Yum Bowl (taco-adjacent) | 🔄 Vegan-Friendly |
+| [Hard Times Cafe](/restaurants/hard-times-cafe) | Cedar-Riverside | $ | Korean BBQ Tofu Bun | ⚡ Mostly Vegan |
+
+---
+
+## 🥇 1. [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) — Best Vegan Tacos in Minneapolis
+
+**1517 E 35th St, Minneapolis · 100% Vegan · Powderhorn · $$**
+
+Reverie is the undisputed home of the best vegan tacos in Minneapolis. This 100% plant-based bar and restaurant in Powderhorn serves two standout taco options that have become staples of the Minneapolis vegan dining conversation — and both punch well above their weight.
+
+### What to Order at Reverie
+
+**Lemongrass Tofu Tacos** — firm tofu marinated in lemongrass, lime, and chili, served in corn tortillas with fresh slaw and a coconut-lime sauce. Clean, bright flavors with enough heat to keep things interesting. This is the lighter of the two taco options and works perfectly as a starter or a full plate with two or three.
+
+**Korean BBQ Mock-Duck Tacos** — the star. Seitan-based mock duck with a gochujang-soy glaze, pickled daikon, sesame, and scallions. The mock duck has actual texture and chew — it's not trying to be "vegan duck," it's just a genuinely excellent protein that happens to be plant-based. The Korean BBQ sauce is house-made and properly seasoned.
+
+**Dark Chocolate Beignets** — not a taco, but you should order them anyway.
+
+### The Vibe
+
+Reverie is a neighborhood bar first — 20+ craft beers on tap, cocktails, murals on every wall, and a crowd that ranges from longtime Powderhorn locals to people who drove across the city because someone told them about the mock-duck tacos. Weekday happy hour (4–6pm) takes $2 off taps and starters, making the tacos an even better deal.
+
+**Hours:** Check their website — typically lunch through late evening. Happy hour weekdays 4–6pm.
+
+---
+
+## 🥈 2. [Heal](/restaurants/heal-mpls) — Tinga Cabbage Tacos, North Minneapolis
+
+**4171 N Lyndale Ave, Minneapolis · 100% Vegan · North Minneapolis · $**
+
+Heal is one of the most distinctive restaurants in the Twin Cities — a 100% vegan cafe, juice bar, apothecary, and community space in a striking red-brick former bank building in North Minneapolis. Owner Sierra Carter opened it as a pop-up during the 2020 uprisings; it became a permanent neighborhood institution. The name is an acronym: herbs, eats, all love.
+
+The Tinga Cabbage Tacos here are rooted in African diasporic and Southern food traditions — seasoned cabbage with tinga-style spicing (smoky, slightly tangy, deeply savory) served in corn tortillas. The menu changes seasonally, but tacos have been a consistent anchor. Everything is 100% vegan.
+
+### What to Order at Heal
+
+**Tinga Cabbage Tacos** — smoky, layered, plant-based. The seasoning has real depth — not just chili powder but actual tinga flavor built from tomatoes, chipotle, and aromatics. Worth visiting for these alone.
+
+**Mississippi Bae Bowl** — pan-fried plant-based catfish cakes with Southern sides. One of the more creative dishes in the Minneapolis vegan scene.
+
+**Fresh-Pressed Juices** — Heal takes its juice bar seriously. Order one alongside the tacos.
+
+### The Vibe
+
+Community space energy: tropical rainforest mural floor-to-ceiling, plants dripping from the ceiling, an in-house apothecary with 130+ herbs, books on wellness and self-help, goods from local Black makers. Black-owned, women-owned, and community-rooted. One of the most intentional spaces in Minneapolis dining.
+
+---
+
+## 🥉 3. [Dreamstate Cafe](/restaurants/dreamstate-cafe) — Late-Night Vegan Tacos, Lyn-Lake
+
+**2558 Lyndale Ave S, Minneapolis · 100% Vegan · Lyn-Lake · $$**
+
+Opened in December 2025 at the corner of 26th and Lyndale, Dreamstate is the newest fully vegan restaurant on this list — and already one of the most talked-about. Run by the same duo behind [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar), it's Reverie's more urban, late-night sibling.
+
+The dinner menu rotates and features creative plant-based plates, with taco offerings appearing as specials. The key differentiator: Dreamstate runs a late-night menu until 10–11pm, making it one of the only fully vegan spots in Minneapolis where you can get a creative plant-based meal after 9pm.
+
+### What to Order at Dreamstate
+
+**Rotating Taco Specials** — check their Instagram for what's current. Previous specials have featured mushroom-based and jackfruit fillings.
+
+**Mushroom Dashi Ramen** — one of the best bowls in the city. Not a taco, but reason enough to visit.
+
+**Lion's Mane Steak** — the dinner showstopper. Order it if you're doing a full meal.
+
+### The Vibe
+
+More urban and bar-forward than Reverie. Happy hour daily 3–5pm. The space is next to Boneshaker Books and a cluster of independent shops on Lyndale — a block with real scene energy.
+
+---
+
+## 4. [World Street Kitchen](/restaurants/world-street-kitchen) — Global Vegan-Friendly
+
+**2743 Lyndale Ave S, Minneapolis · Vegan-Friendly · Lyn-Lake · $$**
+
+[World Street Kitchen](/restaurants/world-street-kitchen) is not a taco restaurant, but its globally-inspired fast-casual menu has strong vegan options that overlap with taco territory. The Yum Yum Bowl with crispy tofu brings Thai-inspired flavors, and the falafel plates offer Mediterranean comfort. WSK is the pick when you're with a mixed vegan/omnivore group and want somewhere that works for everyone.
+
+---
+
+## 5. [Hard Times Cafe](/restaurants/hard-times-cafe) — Cedar-Riverside Classic
+
+**1821 Riverside Ave, Minneapolis · Mostly Vegan · Cedar-Riverside · $ · Cash Only**
+
+[Hard Times Cafe](/restaurants/hard-times-cafe) has been feeding Minneapolis's vegan and punk community since 1992. The menu isn't taco-focused, but the Korean BBQ Tofu Bun brings similar flavors. Ask about any rotating taco specials — the kitchen does occasional Mexican-adjacent plates. Cash only, affordable, and irreplaceable in the Minneapolis vegan landscape.
+
+---
+
+## Tips for Ordering Vegan Tacos in Minneapolis
+
+**1. Corn tortillas are almost always vegan.** Flour tortillas sometimes contain lard at non-vegan restaurants — corn is the safer call at spots that aren't fully plant-based.
+
+**2. Ask about the protein.** At non-vegan Mexican restaurants, ask about lard in beans and dairy in rice. At fully vegan spots (Reverie, Heal, Dreamstate), you never need to ask.
+
+**3. Check Instagram before you go.** Dreamstate and Heal both rotate their menus. Following them on Instagram is the easiest way to see what's available before you make the trip.
+
+**4. Happy hour at Reverie is the move.** Weekdays 4–6pm, $2 off starters including the tacos. Same quality, better price.
+
+---
+
+For the full Minneapolis vegan scene, browse the [complete restaurant directory](/restaurants) or check our [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) guide. Also see: [Best Vegan Mexican Food in Minneapolis](/blog/vegan-mexican-food-minneapolis).
+`,
+  },
+
+  {
+    slug: 'vegan-ramen-minneapolis',
+    title: 'Best Vegan Ramen in Minneapolis (2026 Guide)',
+    description: 'Where to find the best vegan ramen in Minneapolis — from Dreamstate Cafe\'s mushroom dashi ramen to iPho Saigon\'s vegetarian pho and Peninsula Malaysian\'s curry laksa. Every bowl reviewed.',
+    publishedAt: '2026-03-13',
+    updatedAt: '2026-03-13',
+    author: 'Mia & Jay',
+    category: 'Guide',
+    tags: ['vegan ramen minneapolis', 'best vegan ramen minneapolis', 'plant based ramen minneapolis', 'vegan noodles minneapolis', 'vegan asian food minneapolis'],
+    featuredImage: '/images/blog/vegan-ramen-minneapolis.jpg',
+    readingTime: '7 min read',
+    tldr: 'Best vegan ramen in Minneapolis: Dreamstate Cafe (Lyn-Lake, mushroom dashi ramen, 100% vegan, late-night), Ngon Vietnamese Bistro (St. Paul, vegetarian tofu pho with rich broth), Peninsula Malaysian (Nicollet, vegetable curry laksa with coconut broth), and iPho by Saigon (St. Paul Frogtown, budget vegetarian pho under $15). The ramen scene for vegans in Minneapolis has grown significantly with Dreamstate\'s 2025 opening.',
+    faqs: [
+      {
+        question: 'Where can I get vegan ramen in Minneapolis?',
+        answer: 'Dreamstate Cafe (2558 Lyndale Ave S, Lyn-Lake) is the top pick for vegan ramen in Minneapolis — their mushroom dashi ramen has a deep umami broth and is 100% plant-based. For a broader definition of "noodle bowls," Ngon Vietnamese Bistro in St. Paul does excellent vegetarian tofu pho, and Peninsula Malaysian on Nicollet serves a vegetable curry laksa that rivals any ramen broth for richness.'
+      },
+      {
+        question: 'Is Tori Ramen in Minneapolis still open?',
+        answer: 'No — Tori Ramen & Yakitori in the North Loop has permanently closed. It was previously one of the best spots for vegan-friendly ramen in Minneapolis with their Veggie Ramen featuring a mushroom broth. Dreamstate Cafe (opened December 2025) has stepped up to fill this gap with their mushroom dashi ramen.'
+      },
+      {
+        question: 'What is mushroom dashi ramen at Dreamstate Cafe?',
+        answer: 'Dreamstate Cafe\'s mushroom dashi ramen features a broth built from kombu and multiple mushroom varieties, creating a deep umami base without any animal products. Served with chewy ramen noodles, seasonal vegetables, and toppings that vary by season. Dreamstate is 100% vegan at 2558 Lyndale Ave S in Minneapolis\'s Lyn-Lake neighborhood.'
+      },
+      {
+        question: 'Where can I get vegan pho in Minneapolis or St. Paul?',
+        answer: 'Ngon Vietnamese Bistro (783 University Ave W, St. Paul) serves excellent vegetarian tofu pho with a rich mushroom-vegetable broth. iPho by Saigon (696 University Ave W, St. Paul Frogtown) also offers vegetarian pho with a flavorful mushroom base under $15. Both are in St. Paul\'s University Avenue corridor.'
+      },
+      {
+        question: 'Are there vegan noodle soups in Minneapolis beyond ramen?',
+        answer: 'Yes — Peninsula Malaysian Restaurant (2608 Nicollet Ave) serves a vegetable curry laksa with coconut curry broth and rice noodles that is deeply satisfying. Ngon Vietnamese does a lemongrass tofu clay pot and vegetarian soups. World Street Kitchen on Lyndale has Asian-inspired bowl options. The Twin Cities\' diverse Asian food scene means plenty of vegan noodle options.'
+      }
+    ],
+    relatedRestaurants: ['dreamstate-cafe', 'ngon-vietnamese', 'peninsula-malaysian', 'ipho-saigon', 'tori-ramen'],
+    relatedPosts: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'late-night-vegan-food-minneapolis', 'vegan-thai-food-minneapolis'],
+    content: `# Best Vegan Ramen in Minneapolis (2026 Guide)
+
+Finding vegan ramen in Minneapolis requires knowing where to look. The city doesn't have a dozen dedicated ramen shops, but it does have a handful of spots doing genuinely excellent plant-based noodle bowls — and one 100% vegan restaurant that serves what many regulars consider the best ramen bowl in the Twin Cities, vegan or not.
+
+This guide covers the best vegan ramen and ramen-adjacent noodle soups in Minneapolis and St. Paul in 2026.
+
+---
+
+## 🏆 Quick Comparison
+
+| Restaurant | Location | Price | Must-Order Bowl | Fully Vegan? |
+|---|---|---|---|---|
+| [Dreamstate Cafe](/restaurants/dreamstate-cafe) | Lyn-Lake, Mpls | $$ | Mushroom Dashi Ramen | ✅ 100% |
+| [Ngon Vietnamese Bistro](/restaurants/ngon-vietnamese) | St. Paul | $$ | Vegetarian Tofu Pho | 🔄 Vegan-Friendly |
+| [Peninsula Malaysian](/restaurants/peninsula-malaysian) | Nicollet, Mpls | $$ | Vegetable Curry Laksa | 🔄 Vegan-Friendly |
+| [iPho by Saigon](/restaurants/ipho-saigon) | St. Paul Frogtown | $ | Vegetarian Pho | 🔄 Vegan-Friendly |
+
+---
+
+## 🥇 1. [Dreamstate Cafe](/restaurants/dreamstate-cafe) — Best Vegan Ramen in Minneapolis
+
+**2558 Lyndale Ave S, Minneapolis · 100% Vegan · Lyn-Lake · $$**
+
+Dreamstate Cafe opened in December 2025 at the corner of 26th and Lyndale, and it immediately became the answer to "where do I get vegan ramen in Minneapolis?" The cafe is run by Kristin Wiegmann and Jeff Therkelsen — the same duo behind [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) in Powderhorn — and the mushroom dashi ramen is already one of the most talked-about plant-based dishes in the city.
+
+### The Mushroom Dashi Ramen
+
+The broth is the story. Dreamstate builds their dashi from kombu and multiple mushroom varieties — shiitake, king oyster, and seasonal additions — simmered long enough to create a broth with genuine depth and umami complexity. No animal bones, no chicken stock: this is what mushroom broth can be when someone takes it seriously.
+
+The ramen is served with chewy noodles, roasted vegetables, and rotating toppings that follow the season. It's a serious bowl — not a novelty vegan option, but a considered dish that would hold its own on any ramen menu in the city.
+
+### Why Dreamstate Matters for Vegan Ramen
+
+Until Dreamstate opened, [Tori Ramen & Yakitori](/restaurants/tori-ramen) in the North Loop was the go-to for vegan-friendly ramen in Minneapolis. Tori Ramen has since closed. Dreamstate filled the gap — and then some, because Dreamstate is 100% plant-based. There's no cross-contamination risk, no "ask your server if the broth has chicken stock," no asterisks. Everything in the kitchen is vegan.
+
+### What Else to Order at Dreamstate
+
+**Lion's Mane Steak** — the dinner showstopper. Rich, meaty texture, and genuinely excellent.
+
+**Roasted Delicata Sandwich** — lunch pick. Sweet squash, hearty, ideal with the soup.
+
+**Bar Program** — cocktails and mocktails both get serious attention. Happy hour daily 3–5pm.
+
+### The Vibe
+
+More urban and bar-forward than Reverie. The space sits next to Boneshaker Books on Lyndale — a corner with real neighborhood energy. Late-night menu runs until 10–11pm, which makes Dreamstate one of the very few fully vegan options in Minneapolis for late dinner.
+
+---
+
+## 🥈 2. [Ngon Vietnamese Bistro](/restaurants/ngon-vietnamese) — Vegetarian Pho, St. Paul
+
+**783 University Ave W, Saint Paul · Vegan-Friendly · University Ave · $$**
+
+Pho and ramen are different dishes with different traditions, but if you're looking for a deeply satisfying vegan noodle soup in the Twin Cities, Ngon's vegetarian tofu pho belongs in the conversation. The broth is built on mushrooms and vegetables — not bone-based — and the result is a bowl with genuine richness that stands apart from lesser vegetarian pho attempts.
+
+### What to Order at Ngon
+
+**Vegetarian Tofu Pho** — the broth is the star. Order it with extra basil and squeeze in the lime at the table. The tofu absorbs the broth well.
+
+**Lemongrass Tofu Clay Pot** — if you want something more substantial than soup, this is the move.
+
+**Vegetable Curry with Coconut Rice** — for cold Minneapolis evenings when you want something warming and filling.
+
+**Banh Mi with Marinated Tofu** — a solid lunch pick. Crusty baguette, pickled vegetables, jalapeño, cilantro.
+
+### The Vibe
+
+Modern Vietnamese bistro on University Avenue's Asian food corridor. Sleek, contemporary space with reasonable prices for the quality. A good option for a date or group dinner where not everyone is vegan — the menu is extensive and accessible.
+
+---
+
+## 🥉 3. [Peninsula Malaysian](/restaurants/peninsula-malaysian) — Vegetable Curry Laksa
+
+**2608 Nicollet Ave, Minneapolis · Vegan-Friendly · Whittier · $$**
+
+Laksa is Malaysian coconut curry soup with rice noodles — and when it's done right, it's one of the most satisfying noodle soups you can eat. [Peninsula Malaysian](/restaurants/peninsula-malaysian) on Nicollet does a vegetable curry laksa with tofu puffs and vegetables that is warming, complex, and genuinely excellent.
+
+This is not ramen. But if you're hunting for a vegan noodle soup in Minneapolis that delivers on broth depth and noodle satisfaction, Peninsula's laksa belongs on this list.
+
+### What to Order at Peninsula
+
+**Vegetable Curry Laksa** — coconut curry broth, rice noodles, tofu puffs, vegetables. The coconut base is rich without being heavy. Order it.
+
+**Roti Canai with Curry Dipping Sauce** — flaky flatbread, naturally vegan, the right starter.
+
+**Mock Duck Rendang** — bold, complex flavors. One of the standout dishes on the menu.
+
+**Malaysian Teh Tarik** — frothy pulled tea, sweet and warming. A classic accompaniment.
+
+### The Vibe
+
+Casual, family-friendly, patient staff happy to guide newcomers through Malaysian cuisine. The Nicollet Avenue location is easy to reach from most Minneapolis neighborhoods. A neighborhood gem that gets overlooked because Malaysian food is less familiar — don't sleep on it.
+
+---
+
+## 4. [iPho by Saigon](/restaurants/ipho-saigon) — Budget Vegetarian Pho, St. Paul
+
+**696 University Ave W, Saint Paul · Vegan-Friendly · Frogtown · $**
+
+No-frills, affordable, and genuinely good. iPho by Saigon in St. Paul's Frogtown neighborhood serves vegetarian pho with a mushroom-based broth that rivals spots charging twice the price. A bowl of vegetarian pho is still under $15, portions are generous, and the space is unpretentious in the best way.
+
+### What to Order at iPho
+
+**Vegetarian Pho** — mushroom-based broth, rice noodles, vegetable toppings, fresh herbs on the side. Ask for tofu to be added.
+
+**Vegetable Banh Mi** — pickled daikon, jalapeño, cilantro, tofu. A classic.
+
+**Summer Rolls with Tofu** — fresh and light, a good starter.
+
+### The Vibe
+
+No-frills Vietnamese pho shop. Fast, affordable, reliable. The go-to when you want a warming bowl without spending much. Budget-friendly pick for vegan noodle soup in the Twin Cities.
+
+---
+
+## A Note on Tori Ramen
+
+[Tori Ramen & Yakitori](/restaurants/tori-ramen) in the North Loop was previously one of the best vegan-friendly ramen options in Minneapolis, with their Veggie Ramen featuring a rich mushroom broth and proper chewy noodles. The restaurant has since permanently closed. If you see it mentioned on older lists, it is no longer operating.
+
+---
+
+## Tips for Finding Vegan Ramen in Minneapolis
+
+**1. Ask about the broth.** At non-vegan ramen shops, broth is almost always animal-based (pork, chicken, or beef). Always ask if a vegetable broth is available — and whether it shares a pot with meat broth. At Dreamstate, this question is irrelevant: everything is plant-based.
+
+**2. Pho broth at Vietnamese restaurants is often beef-based.** Request "sinh to rau" (vegetable broth) or look for the vegetarian pho on the menu explicitly. Ngon and iPho by Saigon both have proper vegetarian broth options listed.
+
+**3. Laksa coconut broth is often naturally vegan.** Malaysian laksa at spots like Peninsula Malaysian is built on a coconut-chili base — confirm there's no shrimp paste (sambal belacan) in the curry paste, and you're usually good.
+
+**4. Late-night ramen in Minneapolis means Dreamstate.** If you want vegan ramen after 9pm, Dreamstate is your only real option in the city. Worth bookmarking for late-work or post-show dinners.
+
+---
+
+Browse the full Minneapolis vegan scene: [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) · [Vegan Asian Restaurants Minneapolis](/blog/vegan-asian-restaurants-minneapolis) · [Late-Night Vegan Food Minneapolis](/blog/late-night-vegan-food-minneapolis)
+`,
+  },
+
+  {
+    slug: 'vegan-thai-food-minneapolis',
+    title: 'Best Vegan Thai Food in Minneapolis (2026 Guide)',
+    description: 'The best vegan Thai restaurants in Minneapolis — Amazing Thailand\'s mock duck curry, World Street Kitchen\'s Thai-inspired bowls, and how to order vegan at any Thai restaurant in the Twin Cities.',
+    publishedAt: '2026-03-17',
+    updatedAt: '2026-03-17',
+    author: 'Mia & Jay',
+    category: 'Guide',
+    tags: ['vegan thai minneapolis', 'best vegan thai food minneapolis', 'plant based thai minneapolis', 'vegan thai restaurants minneapolis', 'mock duck curry minneapolis'],
+    featuredImage: '/images/blog/vegan-thai-food-minneapolis.jpg',
+    readingTime: '7 min read',
+    tldr: 'Best vegan Thai food in Minneapolis: Amazing Thailand (Uptown/Hennepin Ave, mock duck curry and papaya salad, decades-long reputation), World Street Kitchen (Lyn-Lake, Thai-inspired Yum Yum Bowl with crispy tofu), and Namaste Cafe (Uptown, Indian-Nepali with mango curry tofu). Thai food is naturally vegan-friendly when you know what to order — mock duck, tofu curries, papaya salad, and basil stir-fries are your friends.',
+    faqs: [
+      {
+        question: 'Where is the best vegan Thai food in Minneapolis?',
+        answer: 'Amazing Thailand at 3024 Hennepin Ave in Uptown is the top pick — consistently rated among the best Thai restaurants in the Twin Cities, with extensive vegan options including mock duck preparations, tofu curries, papaya salad, and pad Thai. They\'ve been serving Minneapolis for decades and the vegan-friendly track record is solid.'
+      },
+      {
+        question: 'What should I order at Amazing Thailand to eat vegan?',
+        answer: 'At Amazing Thailand, the papaya salad (made vegan, no fish sauce, no dried shrimp) is exceptional. The mock duck curry is the standout protein — rich, aromatic, and rivals any meat preparation. Pad Thai with tofu, basil stir-fries with tofu, and coconut soups (ask for no fish sauce) are all reliable vegan orders. Always confirm "no fish sauce, no oyster sauce" with your server.'
+      },
+      {
+        question: 'Is Thai food vegan-friendly in Minneapolis?',
+        answer: 'Thai cuisine is naturally vegan-leaning — many dishes are built around tofu, vegetables, coconut milk, and rice. The main watch-outs are fish sauce (nam pla) and oyster sauce, which appear in most non-vegan Thai kitchens. At any Twin Cities Thai restaurant, ask for "no fish sauce, no oyster sauce, no shrimp paste" and most dishes can be made fully vegan. Amazing Thailand and World Street Kitchen are the most reliable picks for hassle-free vegan Thai in Minneapolis.'
+      },
+      {
+        question: 'What is mock duck and where can I get it in Minneapolis?',
+        answer: 'Mock duck is a seitan (vital wheat gluten) preparation shaped to mimic duck meat — it has a chewy, meaty texture and absorbs flavors beautifully. It\'s a staple in Asian Buddhist cuisine and common at Thai restaurants as a vegan protein option. Amazing Thailand in Uptown serves mock duck preparations, including in their curries. It\'s 100% plant-based.'
+      },
+      {
+        question: 'Is the Yum Yum Bowl at World Street Kitchen vegan?',
+        answer: 'The Yum Yum Bowl at World Street Kitchen can be ordered vegan with crispy tofu. It features Thai-inspired flavors — peanut sauce, fresh herbs, and rice — and is one of the most popular vegan-friendly dishes at WSK. World Street Kitchen is not a vegan restaurant, but they handle vegan customizations well. Located at 2743 Lyndale Ave S in Lyn-Lake.'
+      },
+      {
+        question: 'Are Thai curries vegan in Minneapolis?',
+        answer: 'Thai curries can be made vegan with tofu or mock duck when you request no fish sauce and no shrimp paste in the curry paste. Green, red, yellow, and panang curry bases vary by restaurant — some curry pastes contain shrimp paste (kapi). At Amazing Thailand, ask your server which curries can be made fully vegan. Most can be accommodated with advance notice.'
+      }
+    ],
+    relatedRestaurants: ['amazing-thailand', 'world-street-kitchen', 'namaste-cafe', 'peninsula-malaysian'],
+    relatedPosts: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-ramen-minneapolis', 'vegan-restaurants-uptown-minneapolis'],
+    content: `# Best Vegan Thai Food in Minneapolis (2026 Guide)
+
+Thai cuisine is one of the most naturally vegan-adaptable food traditions in the world. Coconut milk curries, rice noodles, stir-fried vegetables, papaya salad, and tofu dishes form the backbone of Thai cooking — and Minneapolis has at least one Thai restaurant that's been doing right by vegans for decades.
+
+This guide covers the best places to get vegan Thai food in Minneapolis in 2026, including how to order vegan at any Thai restaurant in the Twin Cities.
+
+---
+
+## 🏆 Quick Comparison
+
+| Restaurant | Location | Price | Must-Order | Fully Vegan? |
+|---|---|---|---|---|
+| [Amazing Thailand](/restaurants/amazing-thailand) | Uptown | $$ | Mock Duck Curry, Papaya Salad | 🔄 Vegan-Friendly |
+| [World Street Kitchen](/restaurants/world-street-kitchen) | Lyn-Lake | $$ | Yum Yum Bowl (crispy tofu) | 🔄 Vegan-Friendly |
+| [Namaste Cafe](/restaurants/namaste-cafe) | Uptown | $$ | Mango Curry with Tofu | 🔄 Vegan-Friendly |
+| [Peninsula Malaysian](/restaurants/peninsula-malaysian) | Nicollet/Whittier | $$ | Vegetable Curry Laksa | 🔄 Vegan-Friendly |
+
+---
+
+## 🥇 1. [Amazing Thailand](/restaurants/amazing-thailand) — Best Vegan Thai in Minneapolis
+
+**3024 Hennepin Ave, Minneapolis · Vegan-Friendly · Uptown · $$**
+
+Amazing Thailand has been one of the most reliable Thai restaurants in the Twin Cities for decades — and for vegans, it's the gold standard. The menu has extensive vegan options, the kitchen accommodates requests without attitude, and the mock duck preparations are some of the best you'll find in Minneapolis.
+
+### What to Order at Amazing Thailand
+
+**Mock Duck Curry** — the standout. Seitan-based mock duck in a rich, aromatic curry with coconut milk, Thai basil, and vegetables. The mock duck absorbs the curry sauce deeply and has real texture. Specify which curry base you want (red, green, or panang) and ask for no fish sauce — the kitchen handles this regularly.
+
+**Papaya Salad (Vegan)** — request it made without fish sauce or dried shrimp. The vegan version with crisp green papaya, carrots, tomatoes, lime, and chili is exceptional — one of the best papaya salads in the city.
+
+**Pad Thai with Tofu** — a classic, executed well. Ask for no fish sauce. The tamarind-based sauce with crispy tofu, bean sprouts, and crushed peanuts is deeply satisfying.
+
+**Basil Stir-Fry with Tofu** — holy basil, garlic, chili, and tofu over jasmine rice. Ask for no oyster sauce. One of the simpler dishes on the menu and one of the best.
+
+**Tom Kha (Coconut Soup) with Tofu** — coconut milk broth with galangal, lemongrass, lime leaves, and mushrooms. Request no fish sauce. Rich, aromatic, and warming.
+
+### The Vegan Ordering Protocol at Amazing Thailand
+
+The magic phrase at any Thai restaurant is: **"No fish sauce, no oyster sauce, no shrimp paste."** Most dishes at Amazing Thailand can accommodate this request. The kitchen has been handling vegan requests for years — you will not get pushback.
+
+Proteins to specify: tofu or mock duck. Both are fully plant-based.
+
+### The Vibe
+
+Established neighborhood Thai restaurant. Warm, welcoming service, consistent quality, friendly to regulars and newcomers alike. Not a trendy new opening — a place that's earned its reputation one dish at a time over many years. The Hennepin Ave Uptown location is easy to reach from most Minneapolis neighborhoods.
+
+---
+
+## 🥈 2. [World Street Kitchen](/restaurants/world-street-kitchen) — Thai-Inspired Fast Casual
+
+**2743 Lyndale Ave S, Minneapolis · Vegan-Friendly · Lyn-Lake · $$**
+
+[World Street Kitchen](/restaurants/world-street-kitchen) is not a Thai restaurant — it's a globally-inspired fast-casual spot on Lyndale — but the Yum Yum Bowl is a Thai-influenced dish that has become one of the most popular vegan orders in Minneapolis. Crispy tofu, Thai flavors, rice base, peanut sauce. It works.
+
+### What to Order at WSK for Thai Flavors
+
+**Yum Yum Bowl with Crispy Tofu** — the flagship vegan dish. Thai-inspired flavors, fresh herbs, peanut sauce. Order it.
+
+**Falafel Plate** — not Thai, but worth noting for when you want something different from the same visit.
+
+### The Vibe
+
+Fast-casual counter service, quick, affordable. Multiple locations around the metro. A reliable option when you want Thai-adjacent flavors without sitting down for a full restaurant meal.
+
+---
+
+## 🥉 3. [Namaste Cafe](/restaurants/namaste-cafe) — Indian-Nepali with Mango Curry Tofu
+
+**2928 Hennepin Ave S, Minneapolis · Vegan-Friendly · Uptown · $$**
+
+[Namaste Cafe](/restaurants/namaste-cafe) serves Indian and Nepali cuisine — not Thai — but the mango curry with tofu and the range of plant-based curry options fill a similar role for vegan diners looking for rich, spiced, coconut-forward dishes. If you love Thai curries and want to explore neighboring cuisine traditions, Namaste is the move.
+
+### What to Order at Namaste
+
+**Mango Curry with Tofu** — sweet, sour, spicy, and tangy in the right balance. One of the most interesting curry dishes in Minneapolis.
+
+**Bhel Puri / Golgappa** — light, crispy snacks. A great starter.
+
+**Aloo Bodi** — potato and black-eyed pea curry. Simple, satisfying, and naturally vegan.
+
+### The Vibe
+
+Former Victorian home in Uptown, cozy, charming patio for warm months. Organic ingredients, unhurried atmosphere, excellent chai. The Hennepin Ave location is steps from Amazing Thailand — a Thai-followed-by-Indian restaurant neighborhood crawl is a legitimate Minneapolis activity.
+
+---
+
+## 4. [Peninsula Malaysian](/restaurants/peninsula-malaysian) — Curry Laksa, Related Territory
+
+**2608 Nicollet Ave, Minneapolis · Vegan-Friendly · Whittier · $$**
+
+Malaysian cuisine overlaps significantly with Thai food — both traditions use coconut milk, lemongrass, galangal, and chili-based curry pastes. [Peninsula Malaysian](/restaurants/peninsula-malaysian) on Nicollet serves a vegetable curry laksa and mock duck rendang that will satisfy the same craving a great Thai curry does. Worth including here for that reason.
+
+**What to Order:** Vegetable Curry Laksa, Mock Duck Rendang, Roti Canai.
+
+---
+
+## How to Order Vegan at Any Thai Restaurant in Minneapolis
+
+Thai food is highly adaptable for vegans when you know the right requests:
+
+### The Vegan Thai Order Cheat Sheet
+
+**Always say:** "No fish sauce (nam pla), no oyster sauce, no shrimp paste."
+
+**Safe proteins:** Tofu, mock duck (seitan), or extra vegetables.
+
+**Naturally vegan dishes (verify):**
+- Papaya salad (request no fish sauce, no dried shrimp)
+- Spring rolls (vegetable, not shrimp)
+- Edamame
+- Steamed jasmine rice
+- Stir-fried morning glory / water spinach (verify no oyster sauce)
+
+**Usually adaptable with modification:**
+- Pad Thai (request no fish sauce — use soy sauce instead)
+- Green, red, yellow, panang curries (ask about shrimp paste in the curry paste)
+- Tom Kha and Tom Yum soups (request no fish sauce, no shrimp)
+- Basil stir-fries (request no oyster sauce)
+
+**Watch out for:** Certain curry pastes contain shrimp paste (kapi). At authentic Thai restaurants, ask specifically about the curry paste, not just the broth.
+
+---
+
+## Why Minneapolis Has Strong Vegan Thai Options
+
+Minneapolis's Thai food scene benefits from the large Hmong and Southeast Asian communities in the Twin Cities metro, which support a range of authentic Thai and Lao restaurants. That community also overlaps with Buddhist food traditions — many Thai restaurants in the metro are comfortable with vegan requests because plant-based cooking is already part of the cultural context.
+
+Amazing Thailand's decades-long track record with vegan diners is not an accident — it reflects a genuine familiarity with plant-based cooking that runs through Thai culinary tradition.
+
+---
+
+Browse more Minneapolis vegan dining: [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) · [Vegan Asian Restaurants Minneapolis](/blog/vegan-asian-restaurants-minneapolis) · [Vegan Ramen Minneapolis](/blog/vegan-ramen-minneapolis)
+`,
+  },
+
+  {
+    slug: 'vegan-sushi-minneapolis',
+    title: 'Best Vegan Sushi in Minneapolis (2026 Guide)',
+    description: 'Where to find the best vegan sushi in Minneapolis — from Masu Sushi\'s vegetable rolls and robata-grilled vegetables to how to order vegan at any sushi restaurant in the Twin Cities.',
+    publishedAt: '2026-03-20',
+    updatedAt: '2026-03-20',
+    author: 'Mia & Jay',
+    category: 'Guide',
+    tags: ['vegan sushi minneapolis', 'best vegan sushi minneapolis', 'plant based sushi minneapolis', 'vegetable sushi rolls minneapolis', 'vegan japanese food minneapolis'],
+    featuredImage: '/images/blog/vegan-sushi-minneapolis.jpg',
+    readingTime: '7 min read',
+    tldr: 'Best vegan sushi in Minneapolis: Masu Sushi & Robata (Northeast Minneapolis, avocado caterpillar roll, vegetable rainbow roll, robata-grilled vegetables, sake menu — the top pick for vegan Japanese dining). Sushi is surprisingly vegan-adaptable: inari, cucumber rolls, avocado rolls, oshinko, vegetable tempura, and edamame are all typically vegan. The key is knowing what to order.',
+    faqs: [
+      {
+        question: 'Where can I get vegan sushi in Minneapolis?',
+        answer: 'Masu Sushi & Robata at 330 E Hennepin Ave in Northeast Minneapolis is the top pick for vegan sushi in the Twin Cities. They offer expertly crafted vegetable rolls including avocado caterpillar and vegetable rainbow rolls, plus robata-grilled vegetables (shishito peppers, asparagus, mushrooms), edamame, and seaweed salad. The kitchen handles vegan sushi requests with care.'
+      },
+      {
+        question: 'What sushi is vegan?',
+        answer: 'Vegan sushi options at most restaurants include: inari (tofu pockets filled with seasoned rice), cucumber rolls (kappa maki), avocado rolls, oshinko rolls (pickled daikon), sweet potato rolls, asparagus rolls, and vegetable tempura rolls. Edamame, seaweed salad (wakame), and miso soup (ask if the broth is dashi-based) round out a vegan sushi meal. Soy sauce is vegan. Wasabi is typically vegan. Some spicy mayonnaise contains eggs — ask before using.'
+      },
+      {
+        question: 'Is Masu Sushi good for vegans?',
+        answer: 'Yes — Masu Sushi & Robata in Northeast Minneapolis handles vegan requests well. They offer multiple vegetable sushi rolls, robata-grilled vegetables from their charcoal grill, and a sake menu that\'s vegan-compatible. The kitchen is attentive to customization requests. For a fully vegan dinner, start with edamame and seaweed salad, order a few vegetable rolls, and add robata vegetables on the side.'
+      },
+      {
+        question: 'What is inari sushi and is it vegan?',
+        answer: 'Inari sushi is a pocket of seasoned fried tofu (aburaage) filled with seasoned sushi rice. It is 100% vegan. The tofu pocket is sweet and savory, the rice inside is seasoned with rice vinegar and sometimes sesame. Inari is one of the most reliable vegan sushi options at any Japanese restaurant and is often underrated. Ask for it at Masu Sushi or any Japanese restaurant in Minneapolis.'
+      },
+      {
+        question: 'Is soy sauce vegan?',
+        answer: 'Yes — soy sauce (shoyu) is vegan. It\'s made from fermented soybeans, wheat, water, and salt. No animal products. Tamari (wheat-free soy sauce) is also vegan. Both are fine for vegans to use freely at sushi restaurants.'
+      }
+    ],
+    relatedRestaurants: ['masu-sushi', 'ngon-vietnamese', 'peninsula-malaysian', 'world-street-kitchen'],
+    relatedPosts: ['vegan-asian-restaurants-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'vegan-ramen-minneapolis'],
+    content: `# Best Vegan Sushi in Minneapolis (2026 Guide)
+
+Sushi is more vegan-friendly than most people realize. The challenge isn't finding a sushi restaurant willing to accommodate you — it's knowing what to order and how to ask. Minneapolis has at least one excellent sushi destination that handles vegan requests with genuine care, and the broader Japanese-inspired dining scene offers more plant-based options than you'd expect.
+
+This guide covers the best vegan sushi in Minneapolis, plus a complete guide to ordering vegan at any sushi restaurant in the Twin Cities.
+
+---
+
+## 🏆 Quick Comparison
+
+| Restaurant | Location | Price | Best Vegan Options | Fully Vegan? |
+|---|---|---|---|---|
+| [Masu Sushi & Robata](/restaurants/masu-sushi) | Northeast Mpls | $$$ | Avocado caterpillar, vegetable rainbow roll, robata veg | 🔄 Vegan-Friendly |
+
+---
+
+## 🥇 1. [Masu Sushi & Robata](/restaurants/masu-sushi) — Best Vegan Sushi in Minneapolis
+
+**330 E Hennepin Ave, Minneapolis · Vegan-Friendly · Northeast Minneapolis · $$$**
+
+Masu Sushi & Robata is the best destination for vegan sushi in Minneapolis. Located on Hennepin Ave in Northeast, Masu is an upscale Japanese restaurant with a thoughtful approach to both traditional sushi and robata (charcoal grill) cooking — and the vegetable options on both menus are genuinely excellent.
+
+This isn't an afterthought situation. Masu's vegetable rolls are crafted with the same attention as their fish-forward rolls, and the robata grill produces charred vegetables that are smoky, properly seasoned, and worth ordering alongside any sushi selection.
+
+### What to Order at Masu (Vegan)
+
+**Avocado Caterpillar Roll** — avocado draped over cucumber and rice in the caterpillar style. Visually striking, delicate, and one of the better avocado rolls you'll find in Minneapolis. Confirm no mayo in the roll.
+
+**Vegetable Rainbow Roll** — a rainbow roll built entirely from vegetables rather than fish. Colorful, well-constructed, and a showstopper for the table. Ask your server to confirm current ingredients and any non-vegan elements to avoid.
+
+**Robata-Grilled Shishito Peppers** — the robata grill at Masu runs on charcoal, and the shishito peppers come out blistered and lightly salted with a char that you can't replicate at home. Order these.
+
+**Robata-Grilled Asparagus** — same treatment as the shishito peppers. The high heat of the charcoal grill makes ordinary asparagus taste exceptional.
+
+**Robata-Grilled Mushrooms** — king oyster or shiitake depending on availability. The smoke, the char, the earthiness of the mushroom. One of the best things on the menu, vegan or not.
+
+**Edamame** — start here. Simple, perfectly salted, vegan without asking.
+
+**Seaweed Salad (Wakame)** — the standard wakame seaweed salad is vegan. Confirm no bonito flakes in the dressing.
+
+**Vegetable Tempura** — light batter, properly fried vegetables. Confirm the batter doesn't include egg (some tempura batters do — ask).
+
+**Inari** — tofu pockets filled with seasoned rice. Ask if they have it available. Inari is 100% vegan and one of the most underrated sushi options at any Japanese restaurant.
+
+### The Vegan Ordering Protocol at Masu
+
+Tell your server upfront that you're vegan. Masu's servers are knowledgeable and will guide you through what's fully plant-based versus what can be modified. The robata grill vegetables and most vegetable rolls are reliably vegan. The main watch-outs are spicy mayonnaise (contains eggs), certain sauces, and dashi-based miso soup (often made with fish broth — ask for vegetable-based or skip it).
+
+The sake menu is extensive and all sake is vegan.
+
+### The Vibe
+
+Upscale Northeast Minneapolis. Sleek, modern, dark wood and warm lighting. Great for a date night or a special occasion where you want to eat well without going downtown. The bar program is strong — sake, Japanese whisky, cocktails. The crowd is food-focused and the energy is sophisticated without being stiff.
+
+**Reservations recommended,** especially on weekends.
+
+---
+
+## How to Order Vegan at Any Sushi Restaurant in Minneapolis
+
+Even without a specific "vegan sushi" restaurant in Minneapolis, you can eat well at almost any Japanese restaurant if you know what to order.
+
+### The Vegan Sushi Cheat Sheet
+
+**Always vegan (no modification needed):**
+- Inari sushi (seasoned tofu pockets with rice)
+- Cucumber rolls (kappa maki)
+- Avocado rolls (confirm no mayo)
+- Oshinko rolls (pickled daikon radish)
+- Sweet potato rolls
+- Asparagus rolls
+- Edamame
+- Seaweed salad / wakame (confirm no bonito)
+- Pickled ginger (gari)
+- Wasabi (typically plant-based)
+- Soy sauce / tamari
+
+**Usually adaptable:**
+- Vegetable tempura (ask if the batter contains egg)
+- Miso soup (traditional dashi is fish-based — ask for vegetable dashi or skip)
+- Vegetable rainbow rolls (ask about any mayo or non-vegan sauces)
+- Spicy rolls without spicy mayo (egg-based) — ask for it "without spicy mayo"
+
+**Always avoid:**
+- Any roll with fish, shrimp, crab, or eel
+- Spicy mayonnaise (contains egg)
+- Unagi (eel) sauce — some versions contain fish
+- Tempura flakes in rolls (the tempura itself is usually fine; tempura flakes may vary)
+
+### Tips for the Table
+
+**Order your own soy sauce vessel.** Sharing soy sauce dishes works fine — soy sauce is vegan.
+
+**Inari is your secret weapon.** Most people don't order it; it's usually underpriced and excellent.
+
+**Robata grilled vegetables beat vegetable rolls** as a standalone dish. If a Japanese restaurant has a grill, use it.
+
+**Sake is vegan.** All sake. Order confidently.
+
+---
+
+## Beyond Sushi: Vegan Japanese-Adjacent Food in Minneapolis
+
+The Twin Cities' Japanese restaurant scene is smaller than cities with larger Japanese communities, but a few spots worth noting:
+
+**[Ngon Vietnamese Bistro](/restaurants/ngon-vietnamese)** in St. Paul serves vegetarian pho and other Asian noodle dishes that satisfy similar cravings. **[Peninsula Malaysian](/restaurants/peninsula-malaysian)** on Nicollet has Asian-adjacent dishes with strong plant-based options. **[Dreamstate Cafe](/restaurants/dreamstate-cafe)** serves mushroom dashi ramen that draws on Japanese technique in a fully vegan kitchen.
+
+For the full picture: [Vegan Asian Restaurants Minneapolis](/blog/vegan-asian-restaurants-minneapolis).
+
+---
+
+Browse more Minneapolis vegan dining: [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) · [Vegan Date Night Minneapolis](/blog/vegan-date-night-minneapolis) · [Vegan Ramen Minneapolis](/blog/vegan-ramen-minneapolis)
+`,
+  },
+
+  {
+    slug: 'cheap-vegan-food-minneapolis',
+    title: 'Best Cheap Vegan Food in Minneapolis — Under $15 Guide (2026)',
+    description: 'The best cheap vegan food in Minneapolis — under $15 meals at Hard Times Cafe, Seward Cafe, Himalayan Restaurant, Foxy Falafel, and more. Eat well without spending much.',
+    publishedAt: '2026-03-24',
+    updatedAt: '2026-03-24',
+    author: 'Mia & Jay',
+    category: 'Guide',
+    tags: ['cheap vegan food minneapolis', 'affordable vegan minneapolis', 'vegan food under 15 minneapolis', 'budget vegan minneapolis', 'cheap plant based food minneapolis'],
+    featuredImage: '/images/blog/cheap-vegan-food-minneapolis.jpg',
+    readingTime: '7 min read',
+    tldr: 'Best cheap vegan food in Minneapolis (under $15): Hard Times Cafe (Cedar-Riverside, biscuits and gravy + Helter Skelter, $6–$10, cash only), Seward Cafe (Seward, breakfast bowls and pancakes, $8–$12), Himalayan Restaurant (Lake St, chana masala + momos, $10–$14), Foxy Falafel (Stadium Village, falafel wrap, $10–$13), and Heal (North Minneapolis, Tinga Tacos, $). Minneapolis has a strong tradition of affordable community-run vegan and vegetarian cafes.',
+    faqs: [
+      {
+        question: 'Where can I get cheap vegan food in Minneapolis?',
+        answer: 'Hard Times Cafe at 1821 Riverside Ave (Cedar-Riverside) is the cheapest fully vegan-friendly restaurant in Minneapolis — cash only, $6–$10 per dish, open all day for breakfast. Seward Cafe (2129 E Franklin Ave) is another community-owned spot with vegan options under $12. Foxy Falafel near the U of M campus at 791 Raymond Ave serves falafel wraps under $13. Himalayan Restaurant on Lake Street has generous vegan portions for $10–$14.'
+      },
+      {
+        question: 'Is Hard Times Cafe vegan?',
+        answer: 'Hard Times Cafe is vegetarian with many vegan items — but not 100% vegan. The menu includes dairy and eggs alongside vegan dishes. The vegan biscuits and gravy (mushroom gravy, scratch-made biscuits), the Helter Skelter (hash browns with scrambled tofu, peppers, onions), and the Korean BBQ tofu bun are reliably vegan. Always confirm with your server. Cash only — ATM on site. Located at 1821 Riverside Ave in Cedar-Riverside.'
+      },
+      {
+        question: 'What is the cheapest fully vegan restaurant in Minneapolis?',
+        answer: 'Heal in North Minneapolis (4171 N Lyndale Ave) is 100% vegan with affordable pricing — Tinga Cabbage Tacos and bowls typically fall in the $10–$14 range. Hard Times Cafe is cheaper overall ($6–$10) but is not 100% vegan. Seward Cafe is collectively-owned with affordable pricing and many vegan options. For fully vegan under $15 in Minneapolis, Heal and Hard Times (with server confirmation) are your best bets.'
+      },
+      {
+        question: 'Is Foxy Falafel vegan-friendly in Minneapolis?',
+        answer: 'Yes — Foxy Falafel at 791 Raymond Ave in Stadium Village is highly vegan-friendly. Falafel is naturally vegan (chickpeas, herbs, spices), and Foxy Falafel serves it in wraps, bowls, and platters. The tahini sauce, hummus, and pickled vegetables are all vegan. Some dairy-based sauces are on the menu — ask for the vegan options. Typically under $13 for a full wrap or bowl.'
+      },
+      {
+        question: 'Where can I get vegan food under $10 in Minneapolis?',
+        answer: 'Hard Times Cafe in Cedar-Riverside has dishes in the $6–$10 range, making it the most affordable vegan-friendly dining in Minneapolis. The vegan Helter Skelter (hash browns, scrambled tofu, peppers, onions) and vegan biscuits and gravy are both under $10. Seward Cafe also has some items under $10. Cash-only spots like Hard Times and Seward keep prices low by operating with minimal overhead.'
+      }
+    ],
+    relatedRestaurants: ['hard-times-cafe', 'seward-cafe', 'himalayan-restaurant', 'foxy-falafel', 'heal-mpls'],
+    relatedPosts: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis', 'vegan-comfort-food-minneapolis', 'vegan-tacos-minneapolis'],
+    content: `# Best Cheap Vegan Food in Minneapolis — Under $15 Guide (2026)
+
+Minneapolis has always had a strong tradition of affordable, community-run cafes and restaurants that take plant-based food seriously. Long before vegan food became expensive and Instagrammable, collectively-owned spots in Cedar-Riverside, Seward, and Lake Street were feeding Minneapolis's vegan community on real budgets.
+
+This guide is for people who want to eat well and plant-based without spending $18 on a bowl. Every spot here serves solid vegan food for under $15.
+
+---
+
+## 🏆 Quick Comparison
+
+| Restaurant | Location | Price Range | Must-Order | Fully Vegan? |
+|---|---|---|---|---|
+| [Hard Times Cafe](/restaurants/hard-times-cafe) | Cedar-Riverside | $6–$10 | Vegan Biscuits & Gravy, Helter Skelter | ⚡ Mostly Vegan |
+| [Seward Cafe](/restaurants/seward-cafe) | Seward | $8–$12 | Earth Bowl, Vegan Pancakes | ⚡ Mostly Vegan |
+| [Foxy Falafel](/restaurants/foxy-falafel) | Stadium Village | $10–$13 | Falafel Wrap | 🔄 Vegan-Friendly |
+| [Himalayan Restaurant](/restaurants/himalayan-restaurant) | Longfellow/Lake St | $10–$14 | Chana Masala, Momos | 🔄 Vegan-Friendly |
+| [Heal](/restaurants/heal-mpls) | North Minneapolis | $10–$14 | Tinga Cabbage Tacos | ✅ 100% Vegan |
+
+---
+
+## 🥇 1. [Hard Times Cafe](/restaurants/hard-times-cafe) — Cheapest Vegan Food in Minneapolis
+
+**1821 Riverside Ave, Minneapolis · Mostly Vegan · Cedar-Riverside · $ · Cash Only**
+
+Hard Times has been feeding Minneapolis's vegan and punk community since 1992. The bright green facade on Riverside Ave is a landmark. The collectively-owned cafe operates on a different philosophy than most restaurants: keep overhead low, keep prices lower, keep the food honest.
+
+At $6–$10 per dish — all-day breakfast, no tipping pressure — Hard Times is the most affordable vegan-friendly dining in Minneapolis, period.
+
+### What to Order at Hard Times (Vegan)
+
+**Vegan Biscuits and Gravy** — scratch-made biscuits, mushroom gravy, fully plant-based. One of the best vegan comfort food dishes in Minneapolis at any price point. This is the reason people come back.
+
+**The Helter Skelter** — hash browns with scrambled tofu, peppers, and onions. Served all day. Filling, cheap, genuinely satisfying. Confirm the vegan prep with your server.
+
+**The Big Fat Pancake** — enormous vegan pancake, one to an order. Fruit and syrup on the side. Under $8.
+
+**Korean BBQ Tofu Bun** — for lunch. Saucy, messy, and worth the napkins.
+
+### The Vibe
+
+Punk cafe energy. Community bulletin boards, mismatched furniture, hand-painted menus, no tipping culture. Cash only (ATM on site). The space is deliberately unglamorous and completely genuine. Collectively owned and worker-run. A Minneapolis institution.
+
+**Note:** Hard Times is vegetarian, not fully vegan. Some items contain dairy or eggs. Always ask your server to specify which version of a dish is vegan. The kitchen accommodates without drama.
+
+---
+
+## 🥈 2. [Seward Cafe](/restaurants/seward-cafe) — Community-Owned Brunch
+
+**2129 E Franklin Ave, Minneapolis · Vegetarian/Mostly Vegan · Seward · $**
+
+[Seward Cafe](/restaurants/seward-cafe) is another collectively-owned Minneapolis institution, this time in the Seward neighborhood. The emphasis is on local, organic ingredients and community space — regulars are greeted by name, newcomers feel welcome, and the food is honest and fairly priced.
+
+The vegan options are solid: scrambled tofu with hash browns, vegan pancakes with fruit toppings, and the Earth Breakfast bowl. Nothing here is trying to be trendy — it's just good community cafe food made with care.
+
+### What to Order at Seward Cafe (Vegan)
+
+**Scrambled Tofu / Earth Breakfast** — hash brown base with scrambled tofu, vegetables. Specify vegan when ordering.
+
+**Vegan Pancakes** — fluffy, diner-style, with options to add blueberries, chocolate chips, tahini, or jam. The standard plate is under $10.
+
+**Fair Trade Coffee** — the cafe takes its coffee sourcing seriously.
+
+### The Vibe
+
+Cozy, neighborhood brunch spot. The Seward neighborhood has a long progressive food culture — co-ops, community gardens, collectively-run businesses. Seward Cafe fits naturally. The space is unhurried and inviting.
+
+---
+
+## 🥉 3. [Foxy Falafel](/restaurants/foxy-falafel) — Best Cheap Falafel in Minneapolis
+
+**791 Raymond Ave W, St. Paul · Vegan-Friendly · Stadium Village / St. Paul · $**
+
+Foxy Falafel is near the University of Minnesota campus and serves exactly what students and budget-conscious diners want: good falafel, fast, at a price that doesn't require planning ahead. The falafel wrap or bowl comes in under $13, and the tahini sauce and pickled vegetables are genuinely good.
+
+Falafel is inherently vegan (chickpeas, herbs, spices, fried in vegetable oil). The tahini is vegan. Hummus is vegan. The pickled turnips and vegetables are vegan. Ask about specific sauces if you're unsure — some dairy-based options exist on the menu.
+
+### What to Order at Foxy Falafel
+
+**Falafel Wrap** — the classic. Falafel in a pita or flatbread with hummus, tahini, pickled vegetables, and fresh toppings. Under $13.
+
+**Falafel Bowl** — same fillings over rice instead of bread. The rice bowl format holds up better for eating at the table.
+
+**Hummus Plate** — as a starter or light meal. Chickpeas, olive oil, za'atar, pita.
+
+### The Vibe
+
+Fast-casual counter service, quick turnaround, great for a lunch break or a meal before a U of M event. The Stadium Village location makes it one of the most accessible cheap vegan options near the University of Minnesota campus.
+
+---
+
+## 4. [Himalayan Restaurant](/restaurants/himalayan-restaurant) — Indian-Nepali on Lake Street
+
+**2910 E Lake St, Minneapolis · Vegan-Friendly · Longfellow · $$**
+
+[Himalayan Restaurant](/restaurants/himalayan-restaurant) on Lake Street is a family-run spot with generous portions and accessible prices for Indian, Nepalese, and Tibetan food. The chana masala (chickpea curry) is deeply spiced and satisfying; the momos (dumplings) are a standout starter; and the Kathmandu curry with tofu is a full meal under $14.
+
+Vegetarian and vegan options run through the entire menu — this is the cuisine. Ask about ghee (clarified butter) in certain dishes and specify "no ghee, vegan" when ordering curries and sides.
+
+### What to Order at Himalayan (Vegan)
+
+**Chana Masala** — chickpeas in a tangy, spiced tomato base. Specify vegan (no ghee). Served with rice.
+
+**Kothe Momos** — steamed dumplings pan-fried and served with tomato-cilantro chutney. Ask for the vegetable filling without dairy.
+
+**Kathmandu Curry with Tofu** — creamy, aromatic, rich. Ask for no ghee.
+
+**Aloo Paratha** — flatbread stuffed with spiced potatoes. Ask about ghee in the bread — some versions use it, some don't.
+
+### The Vibe
+
+Warm, family-run atmosphere. Generous portions, patient service. A neighborhood gem on Lake Street that's been feeding the Longfellow community for years.
+
+---
+
+## 5. [Heal](/restaurants/heal-mpls) — 100% Vegan, North Minneapolis
+
+**4171 N Lyndale Ave, Minneapolis · 100% Vegan · North Minneapolis · $**
+
+[Heal](/restaurants/heal-mpls) is the only fully vegan restaurant on this budget list — everything on the menu is plant-based, so you never need to ask. Prices run $10–$14 for most dishes. The Tinga Cabbage Tacos are the standout.
+
+Run by owner Sierra Carter, Heal is a community cafe, juice bar, and apothecary in North Minneapolis. Black-owned, women-owned, and rooted in African diasporic and Southern food traditions. Worth the trip from anywhere in the city.
+
+---
+
+## Tips for Eating Cheap Vegan in Minneapolis
+
+**1. Collectively-owned cafes are the budget move.** Hard Times, Seward Cafe, and similar community-run spots keep prices low deliberately. The ethos is accessibility, not profit maximization.
+
+**2. Indian and Nepali food is naturally affordable and vegan-adaptable.** Himalayan Restaurant, [Everest on Grand](/restaurants/everest-on-grand) in St. Paul, and similar spots offer extensive vegetarian menus at prices well under comparable restaurants in other cuisines. Specify "vegan, no ghee" and you're set.
+
+**3. Falafel is the most underrated cheap vegan food.** A falafel wrap from [Foxy Falafel](/restaurants/foxy-falafel) is filling, flavorful, and almost always under $13.
+
+**4. Cash-only spots are often the cheapest.** Hard Times is cash only. Keep an ATM card handy.
+
+**5. All-day breakfast beats lunch pricing at budget cafes.** At Hard Times and Seward Cafe, breakfast-menu items are typically cheaper than lunch plates. Order the Helter Skelter at 3pm — they won't blink.
+
+---
+
+Browse more Minneapolis vegan dining: [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) · [Vegan Brunch Minneapolis](/blog/vegan-brunch-minneapolis) · [Vegan Comfort Food Minneapolis](/blog/vegan-comfort-food-minneapolis)
+`,
+  },
+
+  {
+    slug: 'vegan-mexican-food-minneapolis',
+    title: 'Best Vegan Mexican Food in Minneapolis (2026 Guide)',
+    description: 'The best vegan Mexican food in Minneapolis — from Reverie Cafe\'s Korean BBQ mock-duck tacos and Heal\'s Tinga Cabbage Tacos to how to order vegan at Mexican restaurants in the Twin Cities.',
+    publishedAt: '2026-03-27',
+    updatedAt: '2026-03-27',
+    author: 'Mia & Jay',
+    category: 'Guide',
+    tags: ['vegan mexican food minneapolis', 'vegan tacos minneapolis', 'vegan burritos minneapolis', 'plant based mexican minneapolis', 'vegan latin food minneapolis'],
+    featuredImage: '/images/blog/vegan-mexican-food-minneapolis.jpg',
+    readingTime: '7 min read',
+    tldr: 'Best vegan Mexican food in Minneapolis: Reverie Cafe + Bar (Powderhorn, Korean BBQ mock-duck tacos + lemongrass tofu tacos, 100% vegan), Heal (North Minneapolis, Tinga Cabbage Tacos, 100% vegan, Black-owned), Hard Times Cafe (Cedar-Riverside, rotating Mexican-adjacent plates, affordable). For traditional Mexican with vegan options, Minneapolis\'s Lake Street corridor has several spots where corn tortillas, rice, and beans can be adapted vegan on request — just ask about lard and dairy.',
+    faqs: [
+      {
+        question: 'Where can I get vegan Mexican food in Minneapolis?',
+        answer: 'Reverie Cafe + Bar (1517 E 35th St, Powderhorn) is the top fully vegan pick for Mexican-style food in Minneapolis — their lemongrass tofu tacos and Korean BBQ mock-duck tacos are standouts. Heal (4171 N Lyndale Ave, North Minneapolis) serves Tinga Cabbage Tacos from a 100% vegan kitchen. For traditional Mexican with vegan adaptation, Lake Street has several Mexican restaurants where you can request no lard in beans, no dairy in sauces, and corn tortillas.'
+      },
+      {
+        question: 'Is there fully vegan Mexican food in Minneapolis?',
+        answer: 'Yes — Reverie Cafe + Bar and Heal both serve Mexican-inspired dishes from 100% vegan kitchens. Reverie\'s taco menu features mock-duck and tofu fillings. Heal\'s Tinga Cabbage Tacos are a standout. Neither restaurant has any animal products on the menu, so you can order freely without asking about ingredients.'
+      },
+      {
+        question: 'How do I order vegan at a Mexican restaurant in Minneapolis?',
+        answer: 'The key requests at any Mexican restaurant: ask for no lard in the beans (many refried beans are made with lard), no dairy in rice (some rice is cooked in chicken broth), and specify corn tortillas over flour (some flour tortillas contain lard). Guacamole, fresh salsa, pico de gallo, and most corn-based dishes are naturally vegan. Ask about crema and cheese — skip both. Tofu or bean fillings work at most restaurants.'
+      },
+      {
+        question: 'Are corn tortillas vegan at Mexican restaurants?',
+        answer: 'Yes — corn tortillas are made from masa (ground corn), water, and sometimes lime (cal). No animal products. Corn tortillas are the safe vegan choice at any Mexican restaurant. Flour tortillas sometimes contain lard (pork fat) — always ask or skip flour tortillas when eating vegan at traditional Mexican restaurants.'
+      },
+      {
+        question: 'What is Tinga and is it vegan?',
+        answer: 'Tinga is a Mexican preparation of shredded protein (traditionally chicken) cooked in a chipotle-tomato sauce with onions. Vegan tinga replaces the meat with jackfruit, mushrooms, or seasoned cabbage — as at Heal Minneapolis, where the Tinga Cabbage Tacos use the tinga spicing on plant-based cabbage and vegetables. The tinga sauce itself (chipotle, tomato, onion) is 100% vegan.'
+      }
+    ],
+    relatedRestaurants: ['reverie-cafe-bar', 'heal-mpls', 'hard-times-cafe', 'dreamstate-cafe'],
+    relatedPosts: ['vegan-tacos-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-happy-hour-minneapolis', 'vegan-comfort-food-minneapolis'],
+    content: `# Best Vegan Mexican Food in Minneapolis (2026 Guide)
+
+Mexican cuisine is among the most naturally vegan-adaptable food traditions in the world. Corn tortillas, black beans, rice, guacamole, salsa, and chili-based sauces are all plant-based at their core. The challenge in Minneapolis is finding Mexican restaurants that don't use lard in the beans, chicken broth in the rice, or dairy in every sauce — and finding fully vegan restaurants that do Mexican food justice.
+
+This guide covers the best spots for vegan Mexican food in Minneapolis in 2026, plus a complete guide to ordering vegan at any Mexican restaurant in the Twin Cities.
+
+---
+
+## 🏆 Quick Comparison
+
+| Restaurant | Location | Price | Must-Order | Fully Vegan? |
+|---|---|---|---|---|
+| [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) | Powderhorn | $$ | Korean BBQ Mock-Duck Tacos | ✅ 100% |
+| [Heal](/restaurants/heal-mpls) | North Minneapolis | $ | Tinga Cabbage Tacos | ✅ 100% |
+| [Dreamstate Cafe](/restaurants/dreamstate-cafe) | Lyn-Lake | $$ | Rotating taco specials | ✅ 100% |
+| [Hard Times Cafe](/restaurants/hard-times-cafe) | Cedar-Riverside | $ | Korean BBQ Tofu Bun | ⚡ Mostly Vegan |
+
+---
+
+## 🥇 1. [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) — Best Vegan Mexican Food in Minneapolis
+
+**1517 E 35th St, Minneapolis · 100% Vegan · Powderhorn · $$**
+
+Reverie doesn't call itself a Mexican restaurant — it's a fully vegan bar and scratch kitchen in Powderhorn that draws from global food traditions. But the taco menu is where Reverie consistently wins over anyone looking for plant-based Mexican food in Minneapolis.
+
+Both taco options are rooted in Mexican tradition while making creative use of fully vegan ingredients. The kitchen is 100% plant-based, which means no hidden dairy in the sauces, no lard in the tortillas, and no asking your server to double-check the guac.
+
+### What to Order at Reverie
+
+**Korean BBQ Mock-Duck Tacos** — the signature. Seitan-based mock duck with a gochujang-soy glaze, pickled daikon, sesame, and scallions in a corn tortilla. The Korean BBQ flavors are a creative spin on the Mexican taco format — it works completely, and the mock duck's texture is genuinely excellent.
+
+**Lemongrass Tofu Tacos** — lighter and brighter. Lemongrass-marinated tofu with fresh slaw, coconut-lime sauce, and chili in corn tortillas. Clean flavors, excellent heat level, and a good counterpoint to the richness of the mock-duck version.
+
+**The Rev Burger** — not Mexican, but while you're here.
+
+**Dark Chocolate Beignets** — same.
+
+**Happy Hour:** Weekdays 4–6pm, $2 off starters including tacos.
+
+### The Vibe
+
+Neighborhood bar energy. Murals, craft beer on tap, a crowd that ranges from Powderhorn locals to people who drove across the city for the mock-duck tacos. Warm, community-focused, loud on weekends and manageable on weeknights.
+
+---
+
+## 🥈 2. [Heal](/restaurants/heal-mpls) — Tinga Cabbage Tacos, North Minneapolis
+
+**4171 N Lyndale Ave, Minneapolis · 100% Vegan · North Minneapolis · $**
+
+[Heal](/restaurants/heal-mpls) is one of the most distinctive dining spaces in Minneapolis — a 100% vegan cafe, juice bar, and community apothecary in a red-brick former bank building in North Minneapolis. Owner Sierra Carter opened it as a pop-up during the 2020 uprisings; it became a permanent neighborhood institution. Black-owned, women-owned, rooted in African diasporic and Southern food traditions.
+
+The Tinga Cabbage Tacos are the standout — and they represent exactly what great vegan Mexican food looks like: building the tinga spice profile (chipotle, tomato, aromatics) onto plant-based cabbage with real care and depth of flavor.
+
+### What to Order at Heal
+
+**Tinga Cabbage Tacos** — smoky, layered, genuinely flavorful. The tinga seasoning is applied with real understanding of the flavor profile. Corn tortillas.
+
+**Mississippi Bae Bowl** — pan-fried plant-based catfish cakes with Southern sides. One of the more creative dishes in the Minneapolis vegan scene.
+
+**Fresh-Pressed Juices** — the juice bar is serious. Order one.
+
+**Banana Chia Seed Pudding** — if it's on the menu, get it.
+
+### The Vibe
+
+The space is immersive — a floor-to-ceiling tropical rainforest mural, plants dripping from the ceiling, an in-house apothecary with 130+ herbs, books on wellness and self-help, goods from local Black makers. A community gathering space as much as a restaurant. One of the most intentional dining spaces in the Twin Cities.
+
+---
+
+## 🥉 3. [Dreamstate Cafe](/restaurants/dreamstate-cafe) — Late-Night Vegan Options
+
+**2558 Lyndale Ave S, Minneapolis · 100% Vegan · Lyn-Lake · $$**
+
+[Dreamstate Cafe](/restaurants/dreamstate-cafe) is the newest fully vegan restaurant in this guide, opened December 2025 by the team behind [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar). The dinner menu rotates and includes creative taco specials alongside dishes like mushroom dashi ramen and lion's mane steak.
+
+Dreamstate is worth knowing for two reasons: it's 100% vegan, and it serves food until 10–11pm — making it one of the only fully plant-based late-night options in Minneapolis for Mexican-inspired dishes.
+
+Check their Instagram for current taco specials before visiting.
+
+---
+
+## 4. [Hard Times Cafe](/restaurants/hard-times-cafe) — Budget Pick
+
+**1821 Riverside Ave, Minneapolis · Mostly Vegan · Cedar-Riverside · $ · Cash Only**
+
+[Hard Times Cafe](/restaurants/hard-times-cafe) has been a Minneapolis institution since 1992. The Korean BBQ Tofu Bun and rotating seasonal plates sometimes include Mexican-adjacent preparations. Cash only, affordable, and irreplaceable in the Minneapolis vegan-community landscape.
+
+The vibe is punk cafe, not Mexican restaurant — but the budget-friendly, plant-focused menu consistently delivers for vegans who want something satisfying and cheap.
+
+---
+
+## How to Order Vegan at Mexican Restaurants in Minneapolis
+
+Minneapolis's Lake Street corridor has a concentration of authentic Mexican restaurants — and many of them can accommodate vegan orders if you know what to ask.
+
+### The Vegan Mexican Ordering Guide
+
+**Always request:**
+- **"No lard in the beans"** — traditional refried beans are often made with lard (pork fat). Ask for black beans or pinto beans cooked without lard, or whole beans instead of refried.
+- **"No dairy in the rice"** — some Mexican rice is cooked in chicken broth. Ask for vegetable broth or water-based rice, or skip the rice.
+- **"Corn tortillas, please"** — flour tortillas sometimes contain lard. Corn tortillas are made from masa and water, naturally vegan.
+
+**Naturally vegan at most Mexican restaurants:**
+- Guacamole (avocado, lime, cilantro, onion)
+- Fresh salsa and pico de gallo
+- Corn chips
+- Black beans (whole, not refried — confirm no lard)
+- Grilled or roasted vegetables
+- Rice (confirm vegetable broth)
+- Most salsas verde and roja
+
+**Skip or modify:**
+- Crema (dairy-based sour cream) — skip
+- Queso / melted cheese — skip
+- Sour cream — skip
+- Chipotle mayo — often contains dairy or egg
+- Some chile sauces may contain chicken broth
+
+**Best vegan proteins at Mexican restaurants:**
+- Black beans (confirm no lard)
+- Grilled tofu or tempeh if available
+- Mushroom fillings
+- Jackfruit carnitas (at vegan-friendly or progressive Mexican spots)
+- Nopales (cactus) — naturally vegan and common at authentic Mexican restaurants
+
+### Ask About Lard Specifically
+
+Lard is the hidden issue in traditional Mexican cooking. It shows up in refried beans, flour tortillas, tamale masa, and some rice preparations. At any traditional Mexican restaurant on Lake Street, ask specifically about lard in the items you're ordering. Most kitchens are happy to accommodate the request — it's a familiar ask in Minneapolis's diverse dining scene.
+
+---
+
+## Minneapolis's Mexican Food Geography
+
+The highest concentration of Mexican restaurants in Minneapolis is on **Lake Street** (East Lake Street between Hiawatha and Chicago avenues) and in the **Midtown** area. This is where the city's Mexican and Central American immigrant communities have built a genuine dining corridor with authentic food.
+
+For fully vegan Mexican food: [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) in Powderhorn and [Heal](/restaurants/heal-mpls) in North Minneapolis are the two spots doing it best right now.
+
+Also see our companion guide: [Best Vegan Tacos in Minneapolis](/blog/vegan-tacos-minneapolis).
+
+---
+
+Browse the full Minneapolis vegan scene: [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) · [Vegan Comfort Food Minneapolis](/blog/vegan-comfort-food-minneapolis) · [Cheap Vegan Food Minneapolis](/blog/cheap-vegan-food-minneapolis)
+`,
+  },
+
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
