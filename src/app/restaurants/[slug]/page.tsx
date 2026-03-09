@@ -81,6 +81,15 @@ function generateRestaurantSchema(restaurant: ReturnType<typeof getRestaurantByS
       ratingValue: restaurant.rating,
       reviewCount: restaurant.reviewCount || 0,
     }}),
+    ...(restaurant.hours && restaurant.hours.length > 0 && {
+      openingHours: restaurant.hours,
+    }),
+    ...(restaurant.website && {
+      hasMap: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name + ' ' + (restaurant.address || '') + ' Minneapolis MN')}`,
+    }),
+    sameAs: [
+      ...(restaurant.website ? [restaurant.website] : []),
+    ].filter(Boolean),
   };
 }
 
