@@ -20,9 +20,39 @@ export const metadata: Metadata = {
   },
 };
 
+const blogCollectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Blog',
+  name: 'MPLS Vegan Blog',
+  description: 'Expert reviews, neighborhood guides & insider picks for vegan dining in Minneapolis. Updated 2026.',
+  url: 'https://mplsvegan.com/blog',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Minneapolis Vegan Directory',
+    url: 'https://mplsvegan.com',
+    logo: 'https://mplsvegan.com/logo.png',
+  },
+  blogPost: blogPosts.slice(0, 10).map((post) => ({
+    '@type': 'BlogPosting',
+    headline: post.title,
+    description: post.description,
+    url: `https://mplsvegan.com/blog/${post.slug}`,
+    datePublished: post.publishedAt,
+    dateModified: post.updatedAt,
+    author: {
+      '@type': 'Person',
+      name: post.author,
+    },
+  })),
+};
+
 export default function BlogPage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogCollectionSchema) }}
+      />
       {/* Hero Section */}
       <div className="relative min-h-[40vh] flex items-end overflow-hidden">
         <div className="absolute inset-0">
