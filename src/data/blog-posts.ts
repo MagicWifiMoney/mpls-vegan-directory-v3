@@ -4105,10 +4105,10 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
   },
   {
     slug: "best-vegan-pizza-minneapolis",
-    title: "Best Vegan Pizza Minneapolis 2026: 9 Spots Ranked",
-    description: "Best vegan pizza in Minneapolis 2026: Pizza Lucé (house-made cheese that actually stretches), Black Sheep (coal-fired crust), Galactic Pizza (best delivery). 9 spots ranked — find your order tonight.",
+    title: "Best Vegan Pizza in Minneapolis (2026): Every Spot with Dairy-Free Cheese, Ranked",
+    description: "The complete guide to vegan pizza in Minneapolis. Pizza Lucé has house-made vegan cheese that actually melts. Black Sheep has the best coal-fired crust. Plus delivery options, late-night picks, and which places to skip. Updated March 2026.",
     publishedAt: "2026-02-17",
-    updatedAt: "2026-03-03",
+    updatedAt: "2026-03-25",
     author: "Mia & Jay",
     category: "Guide",
     tags: ["vegan pizza", "minneapolis", "dairy-free", "pizza", "plant-based", "2026"],
@@ -4116,34 +4116,59 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
     tldr: "Best vegan pizza in Minneapolis: Pizza Lucé (best overall—house-made vegan cheese that actually stretches, late-night delivery), Black Sheep Pizza (best coal-fired crust), Galactic Pizza (best delivery + eco-friendly), and Herbivorous Butcher pepperoni on homemade pies. Don't sleep on the Baked Potato Pizza at Pizza Lucé—it's a local legend.",
     faqs: [
       {
-        question: "Which Minneapolis pizza places have vegan cheese?",
-        answer: "Pizza Lucé, Black Sheep Pizza, and Galactic Pizza all offer vegan cheese on their pizzas. Pizza Lucé has the best house-made vegan cheese that actually melts and stretches. Black Sheep uses Daiya, and Galactic Pizza also uses Daiya to good effect."
+        question: "What is the best vegan pizza in Minneapolis?",
+        answer: "Pizza Lucé is the best vegan pizza in Minneapolis. Their house-made vegan mozzarella and ricotta actually melt and stretch (unlike most dairy-free cheese), and their Baked Potato Pizza with vegan sour cream is a local legend. With multiple locations and late-night delivery, it's the most reliable choice in the Twin Cities."
       },
       {
-        question: "What is the best vegan pizza in Minneapolis?",
-        answer: "Pizza Lucé is widely considered the best vegan pizza in Minneapolis. Their house-made vegan cheese actually melts and stretches, and their Baked Potato Pizza with vegan sour cream is a local legend. For coal-fired crust, Black Sheep Pizza is excellent."
+        question: "Which Minneapolis pizza places have vegan cheese?",
+        answer: "Pizza Lucé, Black Sheep Pizza, and Pizza Karma all offer vegan cheese. Pizza Lucé makes their own vegan mozzarella and ricotta in-house (the best in the city). Black Sheep and Pizza Karma use Daiya or other dairy-free cheese brands. All three clearly label vegan options on their menus."
       },
       {
         question: "Can I get vegan pizza delivered in Minneapolis?",
-        answer: "Yes! Pizza Lucé offers late-night delivery with vegan options across multiple locations. They have dedicated vegan menu items that travel well, including their house-made vegan cheese pizzas. Pizza Karma in Dinkytown is also open until 3am on weekends."
+        answer: "Yes! Pizza Lucé delivers late-night across multiple Minneapolis locations with their house-made vegan cheese pizzas. Their vegan options travel well and they're open until 2am most nights. Pizza Karma in Dinkytown also delivers and stays open until 3am on weekends."
       },
       {
-        question: "Does Pizza Lucé have vegan options?",
-        answer: "Yes! Pizza Lucé has extensive vegan options including house-made vegan cheese (their best feature), multiple vegan pizzas, vegan hoagies, pasta, and appetizers. They offer two types of vegan cheese—mozzarella and ricotta—and will veganize many menu items on request."
+        question: "Does Pizza Lucé have dairy-free cheese?",
+        answer: "Yes! Pizza Lucé makes their own vegan mozzarella and vegan ricotta in-house. It's the best dairy-free cheese in Minneapolis—it actually melts, stretches, and tastes like real cheese. They'll put it on any pizza, hoagie, or pasta dish. Just ask for vegan cheese when ordering."
       },
       {
-        question: "Where can I get gluten-free vegan pizza in Minneapolis?",
-        answer: "Pizza Lucé has a gluten-free crust that pairs with their house-made vegan cheese and is the most reliable option in the city. Black Sheep can accommodate some gluten-free needs as well. Ask your server about current options."
+        question: "Where can I get vegan pizza near me in Minneapolis?",
+        answer: "Pizza Lucé has 7 locations across Minneapolis and the Twin Cities (downtown, Uptown, Seward, Northeast, Duluth, St. Louis Park, and Rochester). Black Sheep Pizza is in North Loop and Northeast. Pizza Karma is in Dinkytown near the U of M campus. All three have vegan cheese options."
+      },
+      {
+        question: "Is there gluten-free vegan pizza in Minneapolis?",
+        answer: "Yes! Pizza Lucé offers a gluten-free crust that pairs with their house-made vegan cheese—the most reliable gluten-free and dairy-free combo in the city. Black Sheep Pizza can also accommodate gluten-free requests. Always call ahead to confirm current gluten-free protocols."
+      },
+      {
+        question: "What vegan pizza toppings are available in Minneapolis?",
+        answer: "Minneapolis pizza places offer extensive vegan toppings: artichokes, sun-dried tomatoes, kalamata olives, roasted red peppers, mushrooms, roasted garlic, arugula, cherry tomatoes, potatoes, and seasonal vegetables. Pizza Lucé also has vegan pepperoni and sausage available. The Herbivorous Butcher sells vegan pepperoni you can use at home."
+      },
+      {
+        question: "Can I order vegan pizza late at night in Minneapolis?",
+        answer: "Yes! Pizza Lucé is open until 2am most nights and delivers late with their full vegan menu including house-made vegan cheese. Pizza Karma in Dinkytown is open until 3am Thursday through Saturday. Both have full vegan options available during late-night hours."
       }
     ],
     relatedRestaurants: ["pizza-luce", "black-sheep-pizza", "herbivorous-butcher", "pizza-karma"],
     relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-pizza-minneapolis"],
     content: `
-## Best Vegan Pizza in Minneapolis: Every Slice, Ranked
+## Best Vegan Pizza in Minneapolis: Complete Guide (March 2026)
 
-Let's be honest: pizza is the thing vegans miss most. Not because it's hard to make vegan pizza—it isn't—but because *bad* vegan pizza is really, tragically bad. Plasticky cheese that doesn't melt. Sad vegetables on cardboard crust. We've all been there.
+**Looking for vegan pizza in Minneapolis?** You're in the right city. Minneapolis has some of the best dairy-free pizza in the Midwest—and we're not talking about sad, plasticky cheese that doesn't melt.
 
-Good news: Minneapolis actually has several places that get vegan pizza right. I've eaten my way through all of them and ranked every slice so you can skip the disappointment and go straight to the good stuff.
+Pizza Lucé makes their own vegan mozzarella and ricotta in-house (it actually stretches). Black Sheep fires their pies in a coal oven with perfectly charred crust. And you can get both delivered late-night.
+
+I've tried every vegan pizza spot in the Twin Cities. Here's where to order tonight.
+
+---
+
+## Quick Answer: Best Vegan Pizza Minneapolis
+
+**Best Overall:** [Pizza Lucé](/restaurants/pizza-luce) — house-made vegan cheese that melts, 7 Twin Cities locations, late-night delivery until 2am  
+**Best Crust:** [Black Sheep Pizza](/restaurants/black-sheep-pizza) — coal-fired, perfectly charred, North Loop + Northeast locations  
+**Best Late-Night:** Pizza Karma — open until 3am weekends, fire-roasted crust, Dinkytown  
+**Best DIY:** [Herbivorous Butcher](/restaurants/herbivorous-butcher) pepperoni on homemade pies
+
+**All three spots have clearly labeled vegan options. Pizza Lucé's house-made cheese is the best dairy-free cheese in the Midwest.**
 
 ---
 
