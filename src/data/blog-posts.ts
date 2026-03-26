@@ -8412,6 +8412,122 @@ Browse the full Minneapolis vegan scene: [Best Vegan Restaurants Minneapolis 202
 `,
   },
 
+  {
+    slug: "new-vegan-restaurants-minneapolis-2026",
+    title: "New Vegan Restaurants Opening in Minneapolis in 2026",
+    description: "Two major openings are putting Minneapolis on the national vegan map in 2026: Owamni relocates to the Guthrie Theater riverfront, and Šhotá Indigenous BBQ opens at 2601 Franklin Ave. Here is what to know before they open.",
+    publishedAt: "2026-03-26",
+    updatedAt: "2026-03-26",
+    author: "Mia & Jay",
+    category: "News",
+    tags: ["new vegan restaurants minneapolis 2026", "owamni guthrie theater", "shota indigenous bbq minneapolis", "minneapolis vegan news", "sean sherman vegan", "indigenous food minneapolis"],
+    featuredImage: "/images/blog/new-vegan-restaurants-minneapolis-2026.jpg",
+    readingTime: "6 min read",
+    tldr: "Two big 2026 openings for Minneapolis plant-forward dining: Owamni by The Sioux Chef moves from its Mill District location to the Guthrie Theater riverfront space (summer 2026), and Šhotá Indigenous BBQ by Owamni opens at 2601 Franklin Ave as a counter-service spot with smoked meats, fish, and vegetables plus vegan-heavy sides. Both are from chef Sean Sherman and NATIFS. Neither is open yet but both are worth tracking.",
+    faqs: [
+      {
+        question: "Where is Owamni moving in 2026?",
+        answer: "Owamni by The Sioux Chef is relocating from its original location at 420 S 1st Street in the Mill District to the restaurant space on the main floor of the Guthrie Theater along the Mississippi riverfront in downtown Minneapolis. The move is expected in summer 2026."
+      },
+      {
+        question: "What is Šhotá Indigenous BBQ?",
+        answer: "Šhotá Indigenous BBQ by Owamni is a new counter-service restaurant opening in 2026 at 2601 Franklin Avenue in Minneapolis. From chef Sean Sherman and the NATIFS nonprofit, it will serve smoked meats, fish, and vegetables alongside Indigenous sides like dirty wild rice, maple-baked beans, braised greens, and house-made hominy. Takeout, delivery, and catering will be available. Multiple vegan options are on the menu."
+      },
+      {
+        question: "Is Owamni vegan-friendly?",
+        answer: "Yes. Owamni uses no colonizer ingredients -- no dairy, no wheat, no cane sugar -- which means its menu is naturally plant-forward and mostly dairy-free. All vegetable dishes are vegan. The restaurant focuses on Indigenous North American ingredients: wild rice, corn, squash, berries, cedar, sumac, and Native proteins. It is one of the most vegan-accessible fine dining experiences in Minneapolis."
+      },
+      {
+        question: "When does Šhotá open?",
+        answer: "Šhotá Indigenous BBQ is expected to open in 2026 at 2601 Franklin Avenue (the Wóyute Thipi Indigenous food building, formerly the Seward Co-op Creamery Cafe space on East Franklin). No official opening date has been announced as of March 2026."
+      },
+      {
+        question: "What other new vegan restaurants are opening in Minneapolis in 2026?",
+        answer: "The two biggest plant-forward openings in Minneapolis for 2026 are Owamni at the Guthrie Theater and Šhotá Indigenous BBQ on Franklin Ave. Both are from Sean Sherman and NATIFS. The current Minneapolis vegan restaurant scene is already strong -- see our full guide to the best vegan restaurants in Minneapolis for what is open now."
+      }
+    ],
+    relatedRestaurants: ["lulu-ethiovegan", "j-selbys", "reverie-cafe-bar"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis", "vegan-restaurants-uptown-minneapolis", "vegan-date-night-minneapolis"],
+    content: `
+## The Two Biggest Plant-Forward Restaurant Openings in Minneapolis This Year
+
+Minneapolis already has one of the strongest vegan dining scenes in the Midwest. In 2026, two major openings are about to make it stronger -- and both come from the same source: chef Sean Sherman, founder of The Sioux Chef and the NATIFS nonprofit, the force behind the James Beard Award-winning Owamni.
+
+Neither restaurant is open yet as of March 2026. But if you care about plant-based food in this city, you should know what is coming.
+
+---
+
+## 1. Owamni at the Guthrie Theater
+
+**Opening:** Summer 2026
+**New location:** Guthrie Theater, main floor restaurant space, downtown Minneapolis riverfront
+
+Owamni has operated since 2021 at 420 S 1st Street in the Mill District, becoming one of the most acclaimed restaurants in the country -- not just for vegans, but for anyone interested in serious, thoughtful cooking. It won the James Beard Award for Best New Restaurant in 2022. Its premise is simple and radical at once: a fine dining restaurant that uses no colonizer ingredients.
+
+No dairy. No wheat. No cane sugar. No pork. The pantry is entirely Indigenous North American: wild rice, corn, squash, tepary beans, sumac, cedar, berries, maple, sunflower, Native proteins. What sounds like a constraint becomes one of the most creative menus in the city.
+
+For vegans, Owamni is one of the best restaurant experiences in Minneapolis. Every vegetable dish is vegan. The kitchen knows how to build depth and richness without dairy or meat. A meal here is not "vegan food" -- it is simply very good food that happens to be plant-based.
+
+The Guthrie Theater move brings Owamni to a new space along the Mississippi riverfront in a landmark cultural venue. The riverfront setting fits the restaurant's connection to Indigenous place -- the original Owamni site was the Dakota name for St. Anthony Falls, just upstream.
+
+**What to expect:** The same tasting-forward menu philosophy, now in a larger and more prominent downtown space. Sherman has described the move as a chance to serve more people and build on the NATIFS mission.
+
+**Track the opening:** [owamni.com](https://owamni.com)
+
+---
+
+## 2. Šhotá Indigenous BBQ by Owamni
+
+**Opening:** 2026
+**Location:** 2601 Franklin Avenue, Minneapolis (East Franklin Ave, South Minneapolis)
+
+Šhotá (pronounced "shoh-tah") is a counter-service spin-off from the Owamni team, housed at the Wóyute Thipi -- an Indigenous food building at 2601 Franklin Avenue that also includes a commissary kitchen, NATIFS operational headquarters, and coworking space for Indigenous and BIPOC businesses.
+
+The concept: Indigenous barbecue. Smoked meats, fish, and vegetables, served counter-service with sides rooted in Indigenous foodways. The menu is designed to be more accessible price-wise than Owamni's fine dining format, with takeout, delivery, and catering available from day one.
+
+**The vegan-friendly side of the menu includes:**
+- Dirty wild rice
+- Maple-baked beans
+- Braised greens
+- House-made hominy
+- Corn mush
+- Smoked salmon with huckleberries (not vegan, but a signal of menu range)
+- Three sisters bison stew (not vegan)
+- Walleye stew (not vegan)
+
+The drinks menu will mirror Owamni's approach: beers and wines from BIPOC producers, teas, and Indigenous beverages.
+
+For vegans, Šhotá is worth watching. The vegetable and grain sides are the draw -- dirty wild rice and maple-baked beans made with actual care for Indigenous flavor profiles are a different thing entirely from the versions at chain restaurants. And the commitment to smoked vegetables means there will be real plant-based options on the main menu, not just sides.
+
+**Track the opening:** [shotabbq.com](https://shotabbq.com)
+
+---
+
+## Why These Openings Matter for Minneapolis Vegan Dining
+
+Minneapolis has had a strong vegan restaurant scene for years -- led by places like [J. Selby's](/restaurants/j-selbys), [Herbivorous Butcher](/restaurants/herbivorous-butcher), and [Reverie Cafe + Bar](/restaurants/reverie-cafe-bar). What Owamni and Šhotá add is something different: a plant-forward culinary tradition that predates the modern vegan movement by centuries.
+
+Indigenous North American cuisine, at its core, is built on plants, grains, and minimal processing. Wild rice, corn, beans, squash, berries, and foraged greens have fed this region for thousands of years. Sherman's restaurants bring those ingredients into a contemporary dining context that happens to align naturally with how many plant-based eaters want to eat.
+
+That connection is not marketing. It is the actual history of this land.
+
+Both restaurants are also part of NATIFS, a nonprofit working to address food sovereignty and economic health in Indigenous communities. Eating there supports that mission directly.
+
+---
+
+## What Is Open Now
+
+While you wait for these openings, the Minneapolis vegan scene is already strong. Start here:
+
+- [Best Vegan Restaurants in Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) -- the full guide
+- [Vegan Date Night Minneapolis](/blog/vegan-date-night-minneapolis) -- for a special occasion before Owamni reopens
+- [Ethiopian Vegan Food Minneapolis](/blog/ethiopian-vegan-food-minneapolis) -- another cuisine tradition where plants come first
+- [Vegan Restaurants in Uptown Minneapolis](/blog/vegan-restaurants-uptown-minneapolis) -- the neighborhood with the highest concentration of vegan options
+
+We will update this post when Owamni and Šhotá announce opening dates.
+`,
+  },
+
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
