@@ -22,6 +22,17 @@ const nextConfig: NextConfig = {
     NEXT_PUBLIC_SITE_URL: process.env.NEXT_PUBLIC_SITE_URL || 'https://mplsvegan.com',
   },
   
+  // Redirects for canonical consolidation
+  async redirects() {
+    return [
+      {
+        source: '/blog/vegan-pizza-minneapolis',
+        destination: '/blog/best-vegan-pizza-minneapolis',
+        permanent: true,
+      },
+    ];
+  },
+
   // Headers for security and caching
   async headers() {
     return [

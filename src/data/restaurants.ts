@@ -842,7 +842,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '42',
     slug: 'wok-in-the-park',
-    name: 'Wok in the Park (Closed)',
+    name: 'Wok in the Park',
     address: '3005 Utah Ave S',
     city: 'Saint Louis Park',
     state: 'MN',
@@ -858,8 +858,8 @@ export const restaurants: Restaurant[] = [
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Delivery', 'Family-Style'],
     coordinates: { lat: 44.9490, lng: -93.3480 },
-    seoTitle: 'Wok in the Park Minneapolis (Permanently Closed) — Best Vegan Chinese Alternatives',
-    seoDescription: 'Wok in the Park in Saint Louis Park is permanently closed. Looking for the best vegan Chinese food in Minneapolis? See our top picks for Buddhist\'s Delight, crispy tofu & more.',
+    seoTitle: 'Wok in the Park — Best Vegan Chinese Food in Saint Louis Park, MN',
+    seoDescription: 'Wok in the Park serves some of the best vegetarian Chinese food in the Twin Cities. Buddhist\'s Delight, crispy orange tofu, mapo tofu & more. Saint Louis Park, MN.',
   },
   {
     id: '43',
