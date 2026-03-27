@@ -4106,7 +4106,7 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
   {
     slug: "best-vegan-pizza-minneapolis",
     title: "Best Vegan Pizza in Minneapolis (2026): Every Spot with Dairy-Free Cheese, Ranked",
-    description: "The complete guide to vegan pizza in Minneapolis. Pizza Lucé has house-made vegan cheese that actually melts. Black Sheep has the best coal-fired crust. Plus delivery options, late-night picks, and which places to skip. Updated March 2026.",
+    description: "Pizza Lucé makes house-made vegan mozzarella that actually melts and stretches — the best dairy-free cheese in the Midwest. Plus coal-fired Black Sheep, late-night delivery until 3am, and 7 spots ranked. Minneapolis vegan pizza guide, updated 2026.",
     publishedAt: "2026-02-17",
     updatedAt: "2026-03-25",
     author: "Mia & Jay",
@@ -4324,7 +4324,27 @@ You don't have to sacrifice pizza to be vegan in Minneapolis. [Pizza Lucé](/res
 
 And when all else fails, [Herbivorous Butcher](/restaurants/herbivorous-butcher) pepperoni on a homemade pie might be the best vegan pizza of all.
 
-Now stop reading and order a pizza. 🍕🌱
+Now stop reading and order a pizza.
+
+---
+
+## Vegan Pizza by Minneapolis Neighborhood
+
+**Uptown / Lyn-Lake:** Pizza Lucé has a location on Hennepin Ave in Uptown. Easy walk from the Midtown Greenway.
+
+**Downtown Minneapolis:** Pizza Lucé downtown is the go-to for after-show pizza and late-night delivery. Open until 2am most nights.
+
+**North Loop / Warehouse District:** Black Sheep Pizza in North Loop is the pick. Coal-fired, excellent vibe, steps from Target Field.
+
+**Northeast Minneapolis:** Black Sheep has a Northeast location too. Great spot after a gallery crawl on Northeast Minneapolis Art District Saturdays.
+
+**Dinkytown / Stadium Village:** Pizza Karma is the answer — 3am on weekends, South Asian-spiced crust, student prices.
+
+**Seward / South Minneapolis:** Pizza Lucé Seward location covers this corridor. Same house-made vegan cheese, more neighborhood feels.
+
+**St. Paul:** Pizza Lucé has a Highland Park location. For vegan pizza in St. Paul, that's your best bet.
+
+---
 
 For more Minneapolis vegan dining, check out our [complete restaurant guide](/blog/best-vegan-restaurants-minneapolis-2026), [comfort food roundup](/blog/vegan-comfort-food-minneapolis), or [date night recommendations](/blog/vegan-date-night-minneapolis).
     `
@@ -5676,7 +5696,7 @@ Browse the [full restaurant directory](/restaurants) to filter by neighborhood, 
   {
     slug: "vegan-coffee-shops-minneapolis",
     title: "Best Vegan Coffee Shops in Minneapolis: Oat Milk, Plant-Based Lattes & More",
-    description: "The best vegan-friendly coffee shops in Minneapolis — from 100% plant-based cafes to oat milk lattes and fair trade brews. Find your perfect spot in the Twin Cities.",
+    description: "Seed Plant-Based Cafe and Reverie are 100% vegan — stellar oat milk lattes, seasonal drinks, and zero compromises. Plus 7 more Minneapolis coffee shops that take plant milks seriously. Updated 2026.",
     publishedAt: "2026-02-24",
     updatedAt: "2026-02-24",
     author: "Mia & Jay",

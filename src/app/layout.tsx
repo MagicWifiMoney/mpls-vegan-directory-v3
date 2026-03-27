@@ -20,8 +20,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Twin Cities Vegan Restaurant Directory | Minneapolis & St. Paul 2026 | 75+ Spots",
-  description: "75+ vegan & plant-based restaurants in Minneapolis and St. Paul — real reviews, hours, must-try dishes & neighborhood maps. The Twin Cities' most complete vegan dining guide. Updated March 2026.",
+  title: "Minneapolis Vegan Restaurants 2026 | 75+ Spots, Real Reviews, Hours & Maps",
+  description: "Find the best vegan restaurants in Minneapolis right now — 75+ spots with real reviews, current hours, must-try dishes, and neighborhood maps. The Twin Cities' most complete plant-based dining guide. Updated March 2026.",
   keywords: [
     "vegan restaurants Minneapolis",
     "Twin Cities vegan restaurants directory",
@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Twin Cities Vegan Restaurant Directory | Minneapolis & St. Paul 2026 | 75+ Spots",
-    description: "The Twin Cities vegan restaurant directory — 75+ plant-based spots in Minneapolis & St. Paul with real reviews, hours & neighborhood maps. Updated 2026.",
+    title: "Minneapolis Vegan Restaurants 2026 | 75+ Spots, Real Reviews, Hours & Maps",
+    description: "Find the best vegan restaurants in Minneapolis — 75+ spots with real reviews, current hours, must-try dishes, and neighborhood maps. Updated March 2026.",
     url: 'https://mplsvegan.com',
     siteName: "Minneapolis Vegan Directory",
     locale: 'en_US',
@@ -66,8 +66,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Minneapolis Vegan Restaurants Local Guide 2026 | 75+ Spots",
-    description: "The #1 local guide to 75+ vegan & plant-based restaurants in Minneapolis. Real reviews, hours & neighborhood maps. Updated 2026.",
+    title: "Minneapolis Vegan Restaurants 2026 | 75+ Spots, Real Reviews & Hours",
+    description: "Find the best vegan restaurants in Minneapolis — 75+ spots with real reviews, current hours, must-try dishes, and neighborhood maps. Updated March 2026.",
     images: ['/og-image.png'],
   },
   robots: {
