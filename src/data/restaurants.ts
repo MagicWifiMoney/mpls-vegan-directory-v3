@@ -230,6 +230,15 @@ export const restaurants: Restaurant[] = [
     description: "Francis serves incredible vegan burgers: a taco-seasoned Impossible burger, a garlicky black bean burger, even a Juicy Lucy stuffed with vegan cheese. But what truly sets Francis apart is their fully vegan bar program—no animal-derived dyes, additives, or fining agents in any drink. No crushed beetle dyes in Negronis, no fish bladder-filtered wines. The industrial-chic Northeast space is perfect for a casual night out. A second location in Longfellow expands their reach across the city.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Full Bar', 'Late Night'],
+    hours: [
+      'Monday: 11:00 AM - 9:00 PM',
+      'Tuesday: 11:00 AM - 9:00 PM',
+      'Wednesday: 11:00 AM - 9:00 PM',
+      'Thursday: 11:00 AM - 9:00 PM',
+      'Friday: 11:00 AM - 9:00 PM',
+      'Saturday: 11:00 AM - 9:00 PM',
+      'Sunday: 11:00 AM - 9:00 PM',
+    ],
     coordinates: { lat: 45.0123, lng: -93.2473 },
     relatedBlogs: ['late-night-vegan-food-minneapolis', 'best-vegan-restaurants-minneapolis-2026', 'vegan-date-night-minneapolis', 'northeast-minneapolis-vegan-guide']
   },
@@ -251,6 +260,15 @@ export const restaurants: Restaurant[] = [
     description: "A staple in Minneapolis's progressive cafe scene with a cozy vibe described as 'for punks and their parents.' Modern Times serves veggie bowls, sandwiches, breakfast burritos, and pancakes made with organic, local ingredients. Most items are vegetarian-friendly, and many can be made vegan by swapping in tofu or tempeh. In January 2026, the cafe temporarily rebranded as 'Post Modern Times Cafe' and shifted to a pay-what-you-can model in solidarity with immigration advocacy efforts. The space continues to operate as a community gathering spot. Fair trade coffee and a laid-back atmosphere make it ideal for working remotely or catching up with friends.",
     priceRange: '$',
     features: ['Dine-In', 'Takeout', 'Coffee', 'Brunch', 'WiFi'],
+    hours: [
+      'Monday: 9:00 AM - 3:00 PM',
+      'Tuesday: Closed',
+      'Wednesday: 9:00 AM - 3:00 PM',
+      'Thursday: 9:00 AM - 3:00 PM',
+      'Friday: 9:00 AM - 3:00 PM',
+      'Saturday: 9:00 AM - 3:00 PM',
+      'Sunday: 9:00 AM - 3:00 PM',
+    ],
     coordinates: { lat: 44.9372, lng: -93.2615 },
     relatedBlogs: ['best-vegan-restaurants-minneapolis-2026', 'vegan-brunch-minneapolis', 'vegan-coffee-shops-minneapolis']
   },
@@ -631,6 +649,15 @@ export const restaurants: Restaurant[] = [
     description: "A healthier fast-casual option challenging the big chains, Crisp & Green offers build-your-own salads and grain bowls with an impressive selection of proteins, vegetables, and house-made dressings. The signature bowls are well-designed—try the Baja with black beans, corn, avocado, and chipotle vinaigrette. Everything is made fresh, and the portions are generous. Multiple locations across the metro make healthy eating convenient. Perfect for a quick lunch that won't leave you feeling sluggish.",
     priceRange: '$$',
     features: ['Dine-In', 'Takeout', 'Delivery', 'Build Your Own'],
+    hours: [
+      'Monday: 10:30 AM - 9:00 PM',
+      'Tuesday: 10:30 AM - 9:00 PM',
+      'Wednesday: 10:30 AM - 9:00 PM',
+      'Thursday: 10:30 AM - 9:00 PM',
+      'Friday: 10:30 AM - 9:00 PM',
+      'Saturday: 10:30 AM - 9:00 PM',
+      'Sunday: 10:30 AM - 9:00 PM',
+    ],
     coordinates: { lat: 44.9762, lng: -93.2714 }
   },
   {
@@ -1136,7 +1163,7 @@ export const restaurants: Restaurant[] = [
   {
     id: '55',
     slug: 'trio-plant-based',
-    name: 'Trio Plant-Based',
+    name: 'Trio Plant-Based (Closed)',
     address: '610 W Lake St',
     city: 'Minneapolis',
     state: 'MN',
