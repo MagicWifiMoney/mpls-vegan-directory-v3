@@ -20,8 +20,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Minneapolis Vegan Restaurants 2026 | 75+ Spots, Real Reviews, Hours & Maps",
-  description: "Find the best vegan restaurants in Minneapolis right now — 75+ spots with real reviews, current hours, must-try dishes, and neighborhood maps. The Twin Cities' most complete plant-based dining guide. Updated March 2026.",
+  title: "Minneapolis Vegan Restaurants | 70+ Plant-Based Spots to Eat Now",
+  description: "Looking for vegan food in Minneapolis? Browse 70+ restaurants with real reviews, hours, photos, and maps. From The Herbivorous Butcher to Ethiopian cuisine. Find your next meal.",
   keywords: [
     "vegan restaurants Minneapolis",
     "Twin Cities vegan restaurants directory",
@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Minneapolis Vegan Restaurants 2026 | 75+ Spots, Real Reviews, Hours & Maps",
-    description: "Find the best vegan restaurants in Minneapolis — 75+ spots with real reviews, current hours, must-try dishes, and neighborhood maps. Updated March 2026.",
+    title: "Minneapolis Vegan Restaurants | 70+ Plant-Based Spots to Eat Now",
+    description: "Looking for vegan food in Minneapolis? Browse 70+ restaurants with real reviews, hours, photos, and maps. From The Herbivorous Butcher to Ethiopian cuisine.",
     url: 'https://mplsvegan.com',
     siteName: "Minneapolis Vegan Directory",
     locale: 'en_US',
@@ -66,8 +66,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Minneapolis Vegan Restaurants 2026 | 75+ Spots, Real Reviews & Hours",
-    description: "Find the best vegan restaurants in Minneapolis — 75+ spots with real reviews, current hours, must-try dishes, and neighborhood maps. Updated March 2026.",
+    title: "Minneapolis Vegan Restaurants | 70+ Plant-Based Spots to Eat Now",
+    description: "Looking for vegan food in Minneapolis? Browse 70+ restaurants with real reviews, hours, photos, and maps. Find your next meal.",
     images: ['/og-image.png'],
   },
   robots: {
