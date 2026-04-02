@@ -3330,8 +3330,8 @@ Now stop reading and go prep some food. 🌱
   },
   {
     slug: "vegan-comfort-food-minneapolis",
-    title: "Best Vegan Comfort Food in Minneapolis: Mac & Cheese, Burgers, Pizza & More",
-    description: "Craving indulgent vegan comfort food in Minneapolis? This guide covers the best spots for mac and cheese, burgers, fried food, pizza, and ice cream that'll satisfy any craving.",
+    title: "Best Vegan Comfort Food in Minneapolis 2026: Mac & Cheese, Burgers & Pizza",
+    description: "Minneapolis vegan comfort food done right: J. Selby's mac and cheese, Francis Burger Joint's vegan Juicy Lucy, Pizza Luce's vegan pies, and more. The indulgent spots locals actually go to.",
     publishedAt: "2026-02-12",
     updatedAt: "2026-02-12",
     author: "Mia & Jay",
@@ -5932,8 +5932,8 @@ French Meadow has been Minneapolis's organic food standard since 1985. The baker
   },
   {
     slug: "vegan-bars-minneapolis",
-    title: "Best Vegan Bars & Happy Hour Spots in Minneapolis (2026 Guide) 🍺",
-    description: "The best vegan-friendly bars and happy hour spots in Minneapolis — from 100% vegan cocktail bars to craft breweries with plant-based snacks. Where to drink in Minneapolis without compromising.",
+    title: "Best Vegan Bars & Happy Hour Spots in Minneapolis 2026",
+    description: "Best vegan-friendly bars in Minneapolis: Modern Times (fully vegan), Black Stack Brewing, and craft spots with plant-based snacks and cocktails. Where to drink without compromising.",
     publishedAt: "2026-02-24",
     updatedAt: "2026-02-24",
     author: "Mia & Jay",
@@ -7748,8 +7748,8 @@ Browse the full Minneapolis vegan scene: [Best Vegan Restaurants Minneapolis 202
 
   {
     slug: 'vegan-thai-food-minneapolis',
-    title: 'Best Vegan Thai Food in Minneapolis (2026 Guide)',
-    description: 'The best vegan Thai restaurants in Minneapolis — Amazing Thailand\'s mock duck curry, World Street Kitchen\'s Thai-inspired bowls, and how to order vegan at any Thai restaurant in the Twin Cities.',
+    title: 'Best Vegan Thai Food in Minneapolis 2026: Mock Duck, Tofu Curries & More',
+    description: 'Where to get vegan Thai food in Minneapolis: Amazing Thailand\'s legendary mock duck curry, WSK\'s Yum Yum Bowl, and how to order vegan at any Twin Cities Thai restaurant.',
     publishedAt: '2026-03-17',
     updatedAt: '2026-03-17',
     author: 'Mia & Jay',
@@ -7924,8 +7924,8 @@ Browse more Minneapolis vegan dining: [Best Vegan Restaurants Minneapolis 2026](
 
   {
     slug: 'vegan-sushi-minneapolis',
-    title: 'Best Vegan Sushi in Minneapolis (2026 Guide)',
-    description: 'Where to find the best vegan sushi in Minneapolis — from Masu Sushi\'s vegetable rolls and robata-grilled vegetables to how to order vegan at any sushi restaurant in the Twin Cities.',
+    title: 'Best Vegan Sushi in Minneapolis 2026: Rolls, Sashimi & Plant-Based Picks',
+    description: 'The best vegan sushi in Minneapolis: Masu Sushi\'s vegetable rolls, Origami\'s plant-based options, and exactly how to order vegan at Twin Cities sushi restaurants.',
     publishedAt: '2026-03-20',
     updatedAt: '2026-03-20',
     author: 'Mia & Jay',
