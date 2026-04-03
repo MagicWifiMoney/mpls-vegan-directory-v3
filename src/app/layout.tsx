@@ -3,6 +3,7 @@ import { Instrument_Serif, DM_Sans } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import NewsletterPopup from "@/components/NewsletterPopup";
 import { PostHogProvider } from "@/components/providers/posthog-provider";
 
 
@@ -208,6 +209,7 @@ export default function RootLayout({
           <Header />
           <main className="min-h-screen">{children}</main>
           <Footer />
+          <NewsletterPopup />
         </PostHogProvider>
       </body>
     </html>
