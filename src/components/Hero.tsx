@@ -1,3 +1,6 @@
+'use client';
+
+import { useState } from 'react';
 import Link from 'next/link';
 
 export default function Hero() {
@@ -68,50 +71,22 @@ export default function Hero() {
                 Browse by Area
               </Link>
             </div>
+
+            {/* Newsletter inline CTA */}
+            <HeroNewsletterInline />
           </div>
 
-          {/* Right column - Stats & visual element */}
+          {/* Right column - Newsletter capture */}
           <div className="lg:col-span-5 relative">
-            {/* Decorative card stack */}
             <div className="relative h-[400px] lg:h-[500px]">
               {/* Background cards */}
               <div className="absolute top-8 left-8 right-0 bottom-0 rounded-3xl bg-[#3d4a3d]/30 transform rotate-3" />
               <div className="absolute top-4 left-4 right-4 bottom-4 rounded-3xl bg-[#2a2a2a] transform -rotate-2" />
               
-              {/* Main card */}
+              {/* Main card - Newsletter */}
               <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-[#2a2a2a] to-[#1a1a1a] border border-[#f5f0e8]/10 overflow-hidden">
-                {/* Card content */}
-                <div className="absolute inset-0 flex flex-col justify-between p-8">
-                  {/* Top section */}
-                  <div className="space-y-6">
-                    <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#3d4a3d]/50 text-[#d4a574] text-sm">
-                      <span className="w-2 h-2 rounded-full bg-[#d4a574] animate-pulse" />
-                      Now Exploring
-                    </div>
-                    
-                    {/* Featured stat */}
-                    <div>
-                      <span className="font-display text-7xl lg:text-8xl text-gradient">70+</span>
-                      <p className="text-[#f5f0e8]/50 mt-2">Curated restaurants across<br />Minneapolis & Saint Paul</p>
-                    </div>
-                  </div>
-
-                  {/* Bottom stats grid */}
-                  <div className="grid grid-cols-3 gap-4 pt-6 border-t border-[#f5f0e8]/10">
-                    <div>
-                      <span className="font-display text-2xl text-[#f5f0e8]">25</span>
-                      <p className="text-xs text-[#f5f0e8]/40 mt-1">Neighborhoods</p>
-                    </div>
-                    <div>
-                      <span className="font-display text-2xl text-[#f5f0e8]">15+</span>
-                      <p className="text-xs text-[#f5f0e8]/40 mt-1">Cuisines</p>
-                    </div>
-                    <div>
-                      <span className="font-display text-2xl text-[#f5f0e8]">100%</span>
-                      <p className="text-xs text-[#f5f0e8]/40 mt-1">Plant-Forward</p>
-                    </div>
-                  </div>
-                </div>
+                {/* Card content - Newsletter */}
+                <HeroNewsletterCard />
 
                 {/* Decorative elements */}
                 <div className="absolute -top-20 -right-20 w-40 h-40 rounded-full bg-[#d4a574]/10 blur-3xl" />
@@ -141,5 +116,128 @@ export default function Hero() {
         }
       `}</style>
     </section>
+  );
+}
+
+// Inline newsletter form in hero left column
+function HeroNewsletterInline() {
+  const [email, setEmail] = useState('');
+  const [status, setStatus] = useState<'idle' | 'loading' | 'success'>('idle');
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email) return;
+    setStatus('loading');
+    try {
+      const res = await fetch('/api/newsletter/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      if (res.ok) { setStatus('success'); setEmail(''); }
+      else setStatus('idle');
+    } catch { setStatus('idle'); }
+  };
+
+  if (status === 'success') {
+    return (
+      <div className="animate-fade-in-up stagger-5 mt-2">
+        <p className="text-[#4ade80] text-sm font-medium">🌱 You&apos;re in! Welcome to the community.</p>
+      </div>
+    );
+  }
+
+  return (
+    <form onSubmit={handleSubmit} className="animate-fade-in-up stagger-5 mt-2 flex flex-col sm:flex-row gap-3 max-w-md">
+      <div className="flex flex-1 items-center gap-2 px-4 py-3 bg-[#2a2a2a]/80 border border-[#f5f0e8]/10 rounded-full backdrop-blur-sm">
+        <svg className="w-4 h-4 text-[#d4a574] shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+          <path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+        </svg>
+        <input
+          type="email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          placeholder="Get the weekly vegan digest"
+          className="flex-1 bg-transparent text-sm text-[#f5f0e8] placeholder:text-[#f5f0e8]/40 focus:outline-none"
+          required
+          disabled={status === 'loading'}
+        />
+      </div>
+      <button
+        type="submit"
+        disabled={status === 'loading'}
+        className="px-6 py-3 bg-gradient-to-r from-[#d4a574] to-[#c49464] text-[#1a1a1a] font-semibold rounded-full text-sm hover:from-[#e4b584] hover:to-[#d4a574] transition-all disabled:opacity-50 whitespace-nowrap"
+      >
+        {status === 'loading' ? 'Joining...' : 'Subscribe Free'}
+      </button>
+    </form>
+  );
+}
+
+// Newsletter card in hero right column
+function HeroNewsletterCard() {
+  const [email, setEmail] = useState('');
+  const [status, setStatus] = useState<'idle' | 'loading' | 'success'>('idle');
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email) return;
+    setStatus('loading');
+    try {
+      const res = await fetch('/api/newsletter/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      if (res.ok) { setStatus('success'); setEmail(''); }
+      else setStatus('idle');
+    } catch { setStatus('idle'); }
+  };
+
+  return (
+    <div className="absolute inset-0 flex flex-col justify-between p-8">
+      <div className="space-y-4">
+        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#3d4a3d]/50 text-[#d4a574] text-sm">
+          <span className="w-2 h-2 rounded-full bg-[#d4a574] animate-pulse" />
+          Weekly Newsletter
+        </div>
+        <div>
+          <h3 className="font-display text-3xl lg:text-4xl text-[#f5f0e8] leading-tight">Stay in the<br /><span className="text-gradient">Plant Loop</span></h3>
+          <p className="text-[#f5f0e8]/50 mt-3 text-sm leading-relaxed">New vegan spots, deals, and Minneapolis plant-based news — every week.</p>
+        </div>
+        <ul className="space-y-2">
+          {['🌱 New restaurant openings', '🔥 Exclusive deals & specials', '🗺️ Neighborhood guides'].map(item => (
+            <li key={item} className="flex items-center gap-2 text-sm text-[#f5f0e8]/60">{item}</li>
+          ))}
+        </ul>
+      </div>
+
+      {status === 'success' ? (
+        <div className="bg-[#3d4a3d]/40 border border-[#4ade80]/30 rounded-2xl p-4 text-center">
+          <p className="text-[#4ade80] font-medium">🎉 You&apos;re subscribed!</p>
+          <p className="text-[#f5f0e8]/50 text-xs mt-1">Check your inbox for a welcome email</p>
+        </div>
+      ) : (
+        <form onSubmit={handleSubmit} className="space-y-3">
+          <input
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            placeholder="your@email.com"
+            className="w-full px-4 py-3 bg-[#1a1a1a]/60 border border-[#f5f0e8]/15 rounded-xl text-[#f5f0e8] placeholder:text-[#f5f0e8]/30 focus:outline-none focus:border-[#d4a574]/60 transition-all text-sm"
+            required
+            disabled={status === 'loading'}
+          />
+          <button
+            type="submit"
+            disabled={status === 'loading'}
+            className="w-full py-3 bg-gradient-to-r from-[#d4a574] to-[#c49464] text-[#1a1a1a] font-semibold rounded-xl hover:from-[#e4b584] hover:to-[#d4a574] transition-all disabled:opacity-50 text-sm"
+          >
+            {status === 'loading' ? 'Subscribing...' : 'Get the Newsletter →'}
+          </button>
+          <p className="text-center text-[#f5f0e8]/25 text-xs">Free forever. Unsubscribe anytime.</p>
+        </form>
+      )}
+    </div>
   );
 }

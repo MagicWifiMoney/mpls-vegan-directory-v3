@@ -135,6 +135,20 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Mid-scroll Newsletter Banner */}
+      <section className="py-10 px-6 lg:px-8 bg-[#1a1a1a]">
+        <div className="max-w-4xl mx-auto">
+          <div className="rounded-2xl bg-gradient-to-r from-[#2a2a2a] to-[#2f3a2f] border border-[#d4a574]/20 p-6 md:p-8 flex flex-col md:flex-row items-center gap-6">
+            <div className="flex-1">
+              <p className="text-xs uppercase tracking-widest text-[#d4a574] mb-1">Free Weekly Newsletter</p>
+              <h3 className="font-display text-xl md:text-2xl text-[#f5f0e8]">New vegan spots. Every week.</h3>
+              <p className="text-[#f5f0e8]/50 text-sm mt-1">Join Minneapolis plant-based food lovers in the loop.</p>
+            </div>
+            <NewsletterSignup variant="compact" />
+          </div>
+        </div>
+      </section>
+
       {/* Instagram Feed */}
       <InstagramFeed />
 

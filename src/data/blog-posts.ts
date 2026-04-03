@@ -8548,6 +8548,178 @@ We will update this post when Owamni and Šhotá announce opening dates.
 `,
   },
 
+  {
+    slug: "vegan-patio-dining-minneapolis",
+    title: "Best Vegan Patio Dining in Minneapolis (2026 Spring & Summer Guide)",
+    description: "Minneapolis patios are open. Find the best outdoor vegan dining spots across Uptown, Seward, Northeast, and beyond for spring and summer 2026.",
+    publishedAt: "2026-04-03",
+    updatedAt: "2026-04-03",
+    author: "MPLS Vegan",
+    category: "Guides",
+    readingTime: "7 min read",
+    tldr: "Best vegan patio dining in Minneapolis: French Meadow (Lyn-Lake, full bar, free parking), Namaste Cafe (Uptown, organic Indian, charming Victorian patio), Seward Cafe (Seward, garden patio, affordable vegan brunch), and Modern Times (Powderhorn, worker-owned, outdoor seating).",
+    faqs: [
+      {
+        question: "What is the best vegan patio restaurant in Minneapolis?",
+        answer: "French Meadow Bakery in Lyn-Lake is the most consistent choice -- large patio, full bar, wide vegan menu, and free parking. Namaste Cafe in Uptown is the pick for a more relaxed, organic dining experience with a beautiful Victorian setting.",
+      },
+      {
+        question: "Which Minneapolis neighborhoods have the best outdoor vegan dining?",
+        answer: "Uptown and Lyn-Lake have the highest concentration of patio restaurants with strong vegan options. Northeast Minneapolis is strong for casual outdoor dining. Seward and Powderhorn have excellent worker-owned spots with garden patios.",
+      },
+      {
+        question: "When do Minneapolis restaurant patios open for the season?",
+        answer: "Most patios open in April when weather allows, with full operations typically running from May through September or October. Some spots with heat lamps extend into November.",
+      },
+    ],
+    relatedRestaurants: [
+      "french-meadow",
+      "namaste-cafe",
+      "seward-cafe",
+      "modern-times",
+      "reverie-cafe-bar",
+      "francis-burger-joint",
+      "victors-1959",
+    ],
+    featuredImage: "/images/blog/vegan-patio-dining-minneapolis.jpg",
+    tags: ["patio", "outdoor dining", "spring", "summer", "Minneapolis"],
+    relatedPosts: [
+      "vegan-brunch-minneapolis",
+      "vegan-date-night-minneapolis",
+      "vegan-restaurants-uptown-minneapolis",
+      "northeast-minneapolis-vegan-guide",
+      "best-vegan-restaurants-minneapolis-2026",
+    ],
+    content: `
+# Best Vegan Patio Dining in Minneapolis (2026 Spring and Summer Guide)
+
+Minnesota winters are long. When the weather finally breaks and patios open up across Minneapolis, the whole city migrates outside. If you eat plant-based, the good news is that some of the best outdoor dining spots in town are also the best for vegan and vegan-friendly food.
+
+Here is where to sit outside, eat well, and not compromise on what you care about.
+
+---
+
+## Why Patio Season Matters in Minneapolis
+
+Minneapolis has a compressed outdoor dining window -- roughly April through October, with the sweet spot being May through September. Restaurants know this and invest in their outdoor spaces accordingly. Patios here range from small sidewalk tables to full garden setups to rooftop decks.
+
+For plant-based diners, spring and summer menus also tend to be the strongest of the year. Local vegetables are at their peak, chefs get creative with seasonal produce, and the general energy around eating well goes up across the city.
+
+---
+
+## The Best Vegan Patio Spots in Minneapolis
+
+### French Meadow Bakery and Cafe -- Lyn-Lake
+
+[French Meadow](/restaurants/french-meadow) has one of the best patios in Uptown. It sits off Lyndale Avenue with enough space to feel like an actual outdoor restaurant rather than a few folding chairs on concrete. The menu is fully labeled for vegan and gluten-free options, and the range is wide: grain bowls, sandwiches, wraps, brunch items, and desserts. They also have a full bar, which makes this one of the better spots for a longer, leisurely outdoor meal.
+
+Bonus: free parking lot behind the restaurant, which is legitimately rare in this neighborhood.
+
+**Best for:** Brunch, lunch, or an early dinner with drinks. Great for groups.
+
+---
+
+### Namaste Cafe -- Uptown
+
+[Namaste Cafe](/restaurants/namaste-cafe) occupies a converted Victorian house on Hennepin Avenue, and the patio takes full advantage of the setting. It is one of Uptown's nicer outdoor dining experiences -- shaded, unhurried, and well-maintained. The menu is organic Indian and Nepali cuisine with clear vegan labeling throughout. Dishes like aloo bodi, tofu mango curry, and the various daal preparations are excellent.
+
+The chai here is also worth the trip on its own.
+
+**Best for:** A relaxed afternoon or weeknight dinner. Organic ingredients, thoughtful preparation.
+
+---
+
+### Seward Cafe -- Seward
+
+[Seward Cafe](/restaurants/seward-cafe) has a garden patio that is genuinely one of the most pleasant outdoor dining spots in South Minneapolis. The cafe is worker-owned, and the patio reflects the same cooperative, community-focused ethos as the interior -- it feels like a neighborhood gathering spot rather than a commercial dining space.
+
+The menu is heavily plant-based: tofu scrambles, biscuits and gravy made vegan, grain bowls, and rotating specials. Prices are affordable, portions are generous, and the patio fills up fast on weekend mornings.
+
+**Best for:** Vegan brunch. Affordable, casual, deeply Minneapolis.
+
+---
+
+### Modern Times Cafe -- Powderhorn
+
+[Modern Times Cafe](/restaurants/modern-times) in Powderhorn is a worker-owned cooperative with outdoor seating in the warmer months. The menu is almost entirely vegan and vegetarian, built around affordable comfort food with a community-focused approach. If you want to eat outside and feel like you are part of the neighborhood rather than just visiting it, Modern Times delivers that.
+
+**Best for:** Casual outdoor dining, community atmosphere, budget-friendly meals.
+
+---
+
+### Reverie Cafe + Bar -- Powderhorn
+
+[Reverie Cafe + Bar](/restaurants/reverie-cafe-bar) offers outdoor seating and a menu that works well for plant-based diners. The bar program is strong, which makes this a good pick for an afternoon drink alongside food. The Powderhorn location is walkable from several South Minneapolis neighborhoods.
+
+**Best for:** Afternoon drinks and snacks, casual outdoor hangs.
+
+---
+
+### Francis Burger Joint -- Northeast Minneapolis
+
+[Francis Burger Joint](/restaurants/francis-burger-joint) in Northeast has outdoor seating and one of the best vegan burger options in the city. The full bar makes this a natural choice for a summer evening in NE. The energy is casual and fun without feeling like a scene.
+
+**Best for:** Outdoor burgers and drinks in Northeast. Great for groups who mix plant-based and omnivore eaters.
+
+---
+
+### Victor's 1959 Cafe -- Kingfield
+
+[Victor's 1959 Cafe](/restaurants/victors-1959) is a Cuban restaurant in Kingfield with a charming patio and an extensive vegetarian and vegan menu. The black beans, plantains, and rice dishes are all excellent. It is one of those restaurants where the outdoor seating matches the warmth of the food.
+
+**Best for:** Cuban plant-based food outdoors. A slightly more neighborhood, less tourist-facing experience.
+
+---
+
+### World Street Kitchen -- Lyn-Lake
+
+[World Street Kitchen](/restaurants/world-street-kitchen) in Lyn-Lake has outdoor seating and a globe-spanning menu with strong vegetarian and vegan options. The rotating international-inspired bowls and wraps translate well to outdoor eating. The location on Lyn-Lake puts it in the middle of one of Minneapolis's most active dining and nightlife corridors.
+
+**Best for:** Casual outdoor lunch or early dinner, eclectic menu, solid vegan options.
+
+---
+
+## Tips for Patio Dining in Minneapolis
+
+**Go early or make a reservation.** Minneapolis patio season is short. On a warm weekend afternoon or evening, most outdoor seating fills up fast. Arrive early or call ahead.
+
+**Check the weather window.** Minneapolis weather in April and May can swing from 70 degrees to a cold rain in the same afternoon. The most reliable outdoor dining months are June through August. September is usually solid too.
+
+**Weekday patios are underrated.** If you can swing a weekday lunch or early dinner, you will often get better service, more space, and the same food. Weekends are the most crowded.
+
+**Ask about heat lamps and wind coverage.** Some patios extend their season with heaters and partial enclosures. French Meadow and a few NE spots can handle cooler evenings better than fully open garden patios.
+
+---
+
+## Frequently Asked Questions
+
+**What is the best vegan patio restaurant in Minneapolis?**
+French Meadow Bakery in Lyn-Lake is the most consistent choice -- large patio, full bar, wide vegan menu, and free parking. Namaste Cafe in Uptown is the pick for a more relaxed, organic dining experience with a beautiful Victorian setting.
+
+**Which Minneapolis neighborhoods have the best outdoor vegan dining?**
+Uptown and Lyn-Lake have the highest concentration of patio restaurants with strong vegan options. Northeast Minneapolis is strong for casual outdoor dining. Seward and Powderhorn have excellent worker-owned spots with garden patios.
+
+**When do Minneapolis restaurant patios open for the season?**
+Most patios open in April when weather allows, with full operations typically running from May through September or October. Some spots with heat lamps extend into November.
+
+**Are there vegan-friendly patios with full bars in Minneapolis?**
+Yes. French Meadow Bakery, Reverie Cafe + Bar, and Francis Burger Joint all offer outdoor seating with full bar service and strong vegan food options.
+
+**What is the best neighborhood for outdoor vegan brunch in Minneapolis?**
+Seward is the answer for affordable, genuinely vegan outdoor brunch (Seward Cafe). Uptown is the answer for a wider range of options and a full bar (French Meadow, Namaste Cafe).
+
+---
+
+## More Minneapolis Vegan Guides
+
+- [Best Vegan Brunch in Minneapolis](/blog/vegan-brunch-minneapolis) -- weekend morning options across the city
+- [Vegan Date Night Minneapolis](/blog/vegan-date-night-minneapolis) -- where to take someone you actually like
+- [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide) -- a neighborhood deep-dive
+- [Best Vegan Restaurants in Uptown Minneapolis](/blog/vegan-restaurants-uptown-minneapolis) -- the most plant-based neighborhood in the city
+- [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) -- the full guide
+`,
+  },
+
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
