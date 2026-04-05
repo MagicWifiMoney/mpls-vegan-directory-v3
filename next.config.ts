@@ -22,7 +22,7 @@ const nextConfig: NextConfig = {
     NEXT_PUBLIC_SITE_URL: process.env.NEXT_PUBLIC_SITE_URL || 'https://mplsvegan.com',
   },
   
-  // Redirects for canonical consolidation
+// Redirects for canonical consolidation
   async redirects() {
     return [
       {
@@ -30,6 +30,30 @@ const nextConfig: NextConfig = {
         destination: '/blog/best-vegan-pizza-minneapolis',
         permanent: true,
       },
+      // 301 redirects for old URL structure → new /restaurants/slug paths
+      {
+        source: '/wok-in-the-park-minneapolis',
+        destination: '/restaurants/wok-in-the-park',
+        permanent: true
+      },
+      {
+        source: '/world-street-kitchen-minneapolis',
+        destination: '/restaurants/world-street-kitchen',
+        permanent: true
+      },
+      {
+        source: '/common-roots-cafe-minneapolis',
+        destination: '/restaurants/common-roots-cafe',
+        permanent: true
+      },
+      // Dead blog URL → closest live equivalent (vegan comfort food covers mac & cheese)
+      {
+        source: '/best-vegan-mac-and-cheese-minneapolis',
+        destination: '/blog/vegan-comfort-food-minneapolis',
+        permanent: true
+      }
+    ];
+  }
     ];
   },
 
