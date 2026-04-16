@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { Restaurant } from '@/data/restaurants';
+import FavoriteButton from './FavoriteButton';
 
 interface RestaurantCardProps {
   restaurant: Restaurant;
@@ -83,6 +84,11 @@ export default function RestaurantCard({ restaurant, index = 0 }: RestaurantCard
             <span className="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-medium bg-[#1a1a1a]/80 text-[#f5f0e8]/80 backdrop-blur-sm">
               {restaurant.priceRange}
             </span>
+          </div>
+
+          {/* Favorite button */}
+          <div className="absolute bottom-4 right-4">
+            <FavoriteButton slug={restaurant.slug} size="sm" />
           </div>
         </div>
 
