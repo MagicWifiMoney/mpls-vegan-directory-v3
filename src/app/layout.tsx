@@ -131,6 +131,26 @@ const organizationSchema = {
   ]
 };
 
+const localBusinessSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: 'MPLS Vegan',
+  description: 'Minneapolis vegan restaurant directory — 70+ plant-based spots with reviews, hours, and maps.',
+  url: 'https://mplsvegan.com',
+  logo: 'https://mplsvegan.com/logo.png',
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: 'Minneapolis',
+    addressRegion: 'MN',
+    addressCountry: 'US',
+  },
+  areaServed: [
+    { '@type': 'City', name: 'Minneapolis' },
+    { '@type': 'City', name: 'Saint Paul' },
+  ],
+  priceRange: 'Free',
+};
+
 const localBusinessListSchema = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
@@ -198,6 +218,10 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }}
         />
         <script
           type="application/ld+json"

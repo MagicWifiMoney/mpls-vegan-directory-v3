@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     : `${restaurant.name} — ${truncated}`.slice(0, 160);
 
   return {
-    title: restaurant.seoTitle || `${restaurant.name} | Vegan Restaurant Minneapolis 2026`,
+    title: restaurant.seoTitle || `${restaurant.name} | Vegan ${restaurant.neighborhood} ${restaurant.city === 'Saint Paul' ? 'Saint Paul' : 'Minneapolis'} 2026`,
     description: metaDesc,
     alternates: {
       canonical: `/restaurants/${slug}`,
@@ -80,6 +80,8 @@ function generateRestaurantSchema(restaurant: ReturnType<typeof getRestaurantByS
       '@type': 'AggregateRating',
       ratingValue: restaurant.rating,
       reviewCount: restaurant.reviewCount || 0,
+      bestRating: '5',
+      worstRating: '1',
     }}),
     ...(restaurant.hours && restaurant.hours.length > 0 && {
       openingHours: restaurant.hours,
