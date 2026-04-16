@@ -27,10 +27,10 @@ export const blogPosts: BlogPost[] = [
     title: "Best Vegan Restaurants in Uptown & Lyn-Lake Minneapolis (2026 Guide)",
     description: "The best vegan and plant-based food in Minneapolis's most plant-forward neighborhoods — Uptown, Lyn-Lake, and Whittier. From Amazing Thailand's mock duck curry to Peninsula Malaysian's laksa, World Street Kitchen's Yum Yum bowl, and a 100% vegan bar in Powderhorn.",
     publishedAt: "2026-02-24",
-    updatedAt: "2026-02-24",
+    updatedAt: "2026-04-15",
     author: "Mia & Jay",
     category: "Guide",
-    tags: ["vegan restaurants uptown minneapolis", "uptown minneapolis vegan", "vegan food uptown minneapolis", "lyn-lake vegan restaurants", "vegan restaurants lyn-lake", "best vegan uptown minneapolis"],
+    tags: ["vegan restaurants uptown minneapolis", "uptown minneapolis vegan", "vegan food uptown minneapolis", "lyn-lake vegan restaurants", "vegan restaurants lyn-lake", "best vegan uptown minneapolis", "vegan uptown minneapolis", "vegan lunch uptown minneapolis"],
     readingTime: "9 min read",
     tldr: "Best vegan food in Uptown & Lyn-Lake Minneapolis: Amazing Thailand (Uptown, mock duck curry + papaya salad, the go-to vegan Thai), Peninsula Malaysian (Lyn-Lake, curry laksa that ruins all other soups), World Street Kitchen (Lyn-Lake, crispy tofu Yum Yum bowl), French Meadow Bakery (Lyn-Lake, vegan pastries + breakfast), Glam Doll Donuts (Lyn-Lake, rotating punk-rock vegan flavors), Bryant Lake Bowl (Lyn-Lake, plant-based theater dining), and Reverie Cafe + Bar (Powderhorn, fully vegan bar with craft beer and dark chocolate beignets).",
     faqs: [
@@ -59,7 +59,7 @@ export const blogPosts: BlogPost[] = [
         answer: "Lyn-Lake (directly east of Uptown along Lake Street and Nicollet Ave) has Peninsula Malaysian, Glam Doll Donuts, French Meadow, and World Street Kitchen. Powderhorn (just south) has Reverie Cafe + Bar, the fully vegan bar and restaurant. Whittier (between Uptown and downtown) has additional plant-forward spots. All are walkable or a short bike ride from Uptown proper."
       }
     ],
-    relatedRestaurants: ["amazing-thailand", "peninsula-malaysian-cuisine", "world-street-kitchen", "glam-doll-donuts", "french-meadow", "reverie-cafe-bar", "bryant-lake-bowl"],
+    relatedRestaurants: ["amazing-thailand", "namaste-cafe", "peninsula-malaysian-cuisine", "world-street-kitchen", "glam-doll-donuts", "french-meadow", "reverie-cafe-bar", "bryant-lake-bowl"],
     relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-restaurants-downtown-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-bakeries-minneapolis", "vegan-brunch-minneapolis", "vegan-asian-restaurants-minneapolis"],
     content: `
 ## Uptown & Lyn-Lake: Minneapolis's Vegan Heartland
@@ -214,6 +214,22 @@ This corridor covers about 1.5 miles of walkable Minneapolis — all of it deepl
 
 ---
 
+## 🍛 Namaste Cafe — Organic Indian & Nepali in Uptown
+
+**Uptown | 2512 Hennepin Ave | $$**
+
+A former Victorian home turned restaurant on Hennepin Ave, Namaste Cafe serves organic Indian and Nepali cuisine with plenty of vegan options. The mango curry with tofu hits the right balance of sweet, sour, and heat. The bhel puri starter is light and crispy. The patio is one of the better ones in Uptown for a slow afternoon.
+
+**What to order vegan:**
+- **Mango Curry with Tofu** — Tangy, well-balanced, fragrant
+- **Aloo Bodi** — Potato and black-eyed pea curry, hearty and well-spiced
+- **Bhel Puri** — Crispy starter with puffed rice and chutneys
+- **Chai** — Sit on the patio with one after your meal
+
+All ingredients are organic. The pace here is unhurried — this is not a quick lunch stop, it's a proper sit.
+
+---
+
 ## What About Grocery and Takeout?
 
 **Seward Community Co-op** (2823 E Franklin Ave, nearby Seward neighborhood) has one of the best vegan prepared food sections in the Twin Cities — hot bar, salad bar, and packaged grab-and-go items. Worth adding to a Lyn-Lake day if you're heading home with dinner.
@@ -231,13 +247,13 @@ For the full Minneapolis picture, see our [Best Vegan Restaurants in Minneapolis
   },
   {
     slug: "vegan-restaurants-downtown-minneapolis",
-    title: "Best Vegan Restaurants Near Downtown Minneapolis (2026 Guide)",
-    description: "The best vegan and plant-based restaurants in and around downtown Minneapolis — from 100% vegan Ethiopian at Lulu EthioVegan to coal-fired pizza at Black Sheep, Crisp & Green on Nicollet Mall, and vegan ramen at Tori in the North Loop.",
+    title: "Vegan Lunch Downtown Minneapolis: Best Plant-Based Options Near the CBD (2026)",
+    description: "Best vegan lunch spots in downtown Minneapolis — Crisp & Green on Nicollet Mall for quick weekday bowls, Lulu EthioVegan for 100% vegan Ethiopian (5 min from Convention Center), Life Juices for cold-pressed fuel, and PLNT BSD for fully plant-based dining. Updated April 2026.",
     publishedAt: "2026-02-24",
-    updatedAt: "2026-02-24",
+    updatedAt: "2026-04-15",
     author: "Mia & Jay",
     category: "Guide",
-    tags: ["vegan restaurants downtown minneapolis", "downtown minneapolis vegan", "vegan lunch minneapolis", "plant-based downtown minneapolis", "vegan food downtown"],
+    tags: ["vegan lunch downtown minneapolis", "vegan restaurants downtown minneapolis", "downtown minneapolis vegan", "plant-based lunch downtown minneapolis", "vegan food near convention center minneapolis", "vegan nicollet mall", "vegan north loop minneapolis"],
     readingTime: "8 min read",
     tldr: "Best vegan options near downtown Minneapolis: Lulu EthioVegan (Elliot Park, 100% vegan Ethiopian), Crisp & Green (Nicollet Mall, healthy bowls), Pizza Lucé (N 4th St, vegan-friendly pizza), Black Sheep Pizza (North Loop, coal-fired with vegan cheese), Tori Ramen (North Loop, excellent veggie ramen), and Hard Times Cafe (Cedar-Riverside, collectively-owned all-day diner).",
     faqs: [
@@ -266,14 +282,16 @@ For the full Minneapolis picture, see our [Best Vegan Restaurants in Minneapolis
         answer: "Lulu EthioVegan (12 E Franklin Ave, Elliot Park) is about 5 minutes from the Convention Center and is fully vegan — the injera and berbere-spiced dishes are unlike anything else downtown. Crisp & Green on Nicollet Mall is also very close for a quick healthy lunch."
       }
     ],
-    relatedRestaurants: ["lulu-ethiovegan", "crisp-and-green", "pizza-luce", "black-sheep-pizza", "tori-ramen", "hard-times-cafe", "afro-deli", "red-cow"],
+    relatedRestaurants: ["lulu-ethiovegan", "crisp-and-green", "pizza-luce", "black-sheep-pizza", "tori-ramen", "hard-times-cafe", "plnt-bsd", "life-juices"],
     relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "northeast-minneapolis-vegan-guide", "ethiopian-vegan-food-minneapolis", "vegan-brunch-minneapolis", "late-night-vegan-food-minneapolis", "vegan-date-night-minneapolis"],
     content: `
-## Vegan Eating Near Downtown Minneapolis: The Real Guide
+## Vegan Lunch Downtown Minneapolis: The Real Guide
 
-Downtown Minneapolis is underrated as a vegan destination. Yes, it lacks the concentrated plant-based culture of Uptown or the eclectic dining of Northeast — but within a mile or two of the CBD you'll find a fully vegan Ethiopian restaurant that rivals anything in the city, coal-fired pizza in the North Loop, and a ramen shop that takes its veggie broth as seriously as the chicken version.
+Downtown Minneapolis is underrated for plant-based eating. It lacks the concentrated vegan culture of Uptown — but if you're working in the CBD, staying near the Convention Center, or doing a North Loop evening, there are genuinely good options scattered across the area.
 
-Here's where to eat if you're working downtown, staying at a hotel near the Convention Center, or exploring the North Loop on a weekend.
+The best vegan lunch in downtown Minneapolis starts with Crisp & Green on Nicollet Mall for a fast, high-quality grain bowl, or Lulu EthioVegan in Elliot Park (10 minutes on foot) if you have time for a proper sit-down. On the newer side, Life Juices has cold-pressed fuel and PLNT BSD is a fully plant-based spot worth knowing about.
+
+Here's the full breakdown — lunch spots, dinner options, and everything in between.
 
 ---
 
@@ -393,31 +411,56 @@ Afro Deli sits at the edge of Cedar-Riverside's East African community and serve
 
 ---
 
+---
+
+## 🥤 Life Juices — 100% Vegan Juice Bar
+
+**Downtown Minneapolis | $**
+
+Life Juices is an all-vegan juice bar in Minneapolis focused on cold-pressed juices, smoothies, and plant-based bites. Clean, fast, no dairy anywhere on the menu. Solid pick for a quick post-workout refuel or a light lunch when you want something fresh and not heavy. The focus on whole, unprocessed ingredients means you're not eating a bowl of seitan disguised as healthy — just actual cold-pressed juice and real food.
+
+**Good for:** Quick weekday lunch, pre-meeting fuel, grabbing something genuinely healthy near downtown.
+
+---
+
+## 🌱 PLNT BSD — 100% Vegan
+
+**Downtown Minneapolis | $$**
+
+PLNT BSD is a fully plant-based restaurant in Minneapolis that's been earning mentions on local vegan guides and directories. The all-vegan menu is the draw — no navigating around meat dishes, no asking servers what's safe, no substitutions. Just plant-based food across the board.
+
+Worth knowing about if you're eating vegan downtown and want a full restaurant experience rather than fast-casual. Check their current location and hours directly.
+
+---
+
 ## 📍 Map: Downtown Vegan Spots at a Glance
 
 | Restaurant | Neighborhood | Best Vegan Pick | Price |
 |---|---|---|---|
 | Lulu EthioVegan | Elliot Park | Full combination plate | $$ |
 | Crisp & Green | Downtown (Nicollet Mall) | Build-your-own grain bowl | $$ |
+| Life Juices | Downtown | Cold-pressed juice + plant-based bites | $ |
+| PLNT BSD | Downtown | 100% vegan full menu | $$ |
 | Pizza Lucé | Downtown | Veg Out pizza w/ vegan cheese | $$ |
 | Black Sheep Pizza | North Loop | Coal-fired margherita | $$ |
 | Tori Ramen | North Loop | Veggie Ramen | $$ |
 | Hard Times Cafe | Cedar-Riverside | Hash browns + biscuits & gravy | $ |
-| Afro Deli | Cedar-Riverside | Falafel plate | $ |
 
 ---
 
-## Tips for Vegan Dining Downtown
+## Tips for Vegan Lunch and Dining Downtown
 
-**1. Lulu EthioVegan is the gem most people miss.** It's not on Nicollet Mall or in the North Loop — it's in Elliot Park, one neighborhood away. Worth the extra 5 minutes. Fully vegan, genuinely outstanding food.
+**1. Crisp & Green is the best vegan lunch on Nicollet Mall.** Fast, healthy, right on the mall. Not a special occasion — it's your reliable weekday quick fix that actually tastes good and won't crater your afternoon energy.
 
-**2. The North Loop cluster (Black Sheep + Tori Ramen) makes a great evening out.** Walk between them, drinks at a bar in between. The neighborhood has more life than downtown proper after 6pm.
+**2. Lulu EthioVegan is the gem most people miss.** It's in Elliot Park, not on Nicollet Mall — but it's 10 minutes on foot and fully vegan. If you have an hour for lunch or dinner, this is the one.
 
-**3. Crisp & Green is your weekday lunch move.** Fast, healthy, genuinely good. Not Instagram-worthy, but your future self thanks you.
+**3. Life Juices for when you want actual clean fuel.** Sometimes you need cold-pressed juice and a light plant-based bite, not a full meal. Life Juices is that option downtown.
 
-**4. Hard Times for late night.** If you're out past midnight, it's Hard Times or nothing — and Hard Times is actually good. Cash only.
+**4. The North Loop cluster (Black Sheep + Tori Ramen) makes a great evening out.** Walk between them, drinks at a bar in between. The neighborhood has more life than downtown proper after 6pm.
 
-**5. Ask about vegan cheese at any pizza spot.** Both Pizza Lucé and Black Sheep have it, and both actually use decent vegan cheese. Just ask.
+**5. Hard Times for late night.** If you're out past midnight, it's Hard Times or nothing — and Hard Times is actually good. Cash only.
+
+**6. Ask about vegan cheese at any pizza spot.** Both Pizza Lucé and Black Sheep have it, and both use decent vegan cheese. Just ask.
 
 ---
 
@@ -2619,45 +2662,51 @@ Happy dating. 🌱💚
   },
   {
     slug: "northeast-minneapolis-vegan-guide",
-    title: "Northeast Minneapolis Vegan Guide: A Walking Tour of NE's Best Plant-Based Spots",
-    description: "Explore Northeast Minneapolis' thriving vegan scene. From the Herbivorous Butcher to Francis Burger Joint, here's your guide to eating plant-based in NE.",
+    title: "Vegan Food in Northeast Minneapolis: NE's Best Plant-Based Restaurants (2026)",
+    description: "The complete guide to vegan food in NE Minneapolis — from America's first vegan butcher shop to a fully vegan burger bar and fried chicken spot. Covers the brewery district, Arts Quarter, and Central Ave corridor. Updated April 2026.",
     publishedAt: "2026-02-06",
-    updatedAt: "2026-02-06",
+    updatedAt: "2026-04-15",
     author: "Mia & Jay",
     category: "Neighborhood Guide",
-    tags: ["northeast", "walking tour", "vegan", "minneapolis", "neighborhood"],
-    readingTime: "9 min read",
-    tldr: "Northeast Minneapolis is the best neighborhood for vegan food in MPLS. Must-hit spots: The Herbivorous Butcher (America's first vegan butcher—start here!), Francis Burger Joint (incredible Juicy Lucy and fully vegan bar), and Masu Sushi for upscale veggie rolls. The whole tour is walkable, and you can hit breweries between stops. Best strategy: arrive at Herbivorous Butcher in the morning (weekend lines are brutal), lunch at Francis, brewery break, then Masu for dinner.",
+    tags: ["vegan NE minneapolis", "northeast minneapolis vegan restaurants", "vegan food northeast minneapolis", "herbivorous butcher northeast", "vegan brewery district minneapolis", "vegan restaurants NE minneapolis", "northeast minneapolis vegan food", "vegan arts quarter minneapolis"],
+    readingTime: "10 min read",
+    tldr: "Best vegan food in NE Minneapolis: The Herbivorous Butcher (America's first vegan butcher, 507 1st Ave NE — start here), Herbie Butcher's Fried Chicken (100% vegan fried chicken next door, new from the same team), Francis Burger Joint (fully vegan burger bar, 2422 Central Ave NE, Juicy Lucy is the move), Brasa Premium Rotisserie (the vegetable sides are destination-worthy on their own), and Masu Sushi & Robata (robata-grilled veg + sake, good date night option on Hennepin). Walk the Central Ave corridor between stops and duck into a brewery. NE has the highest density of 100% vegan spots in the city.",
     faqs: [
       {
         question: "What vegan restaurants are in Northeast Minneapolis?",
-        answer: "Northeast Minneapolis has several excellent vegan options: The Herbivorous Butcher (America's first vegan butcher shop), Francis Burger Joint (100% vegan burgers and bar), Masu Sushi & Robata (upscale Japanese with vegan options), and Brasa Premium Rotisserie (exceptional vegetable sides)."
+        answer: "Northeast Minneapolis has the highest concentration of fully vegan spots in Minneapolis. The Herbivorous Butcher (507 1st Ave NE) is America's first vegan butcher shop. Right next door, Herbie Butcher's Fried Chicken serves 100% vegan crispy fried chicken sandwiches and tenders. Francis Burger Joint (2422 Central Ave NE) is a fully vegan burger bar with a 100% vegan drinks program. Brasa Premium Rotisserie (NE location) has outstanding plant-based sides. Masu Sushi & Robata (330 E Hennepin Ave) offers upscale Japanese with robata-grilled vegetables."
       },
       {
         question: "Is The Herbivorous Butcher worth visiting?",
-        answer: "Absolutely! The Herbivorous Butcher is America's first vegan butcher shop and offers house-made vegan meats and cheeses that have fooled countless meat-eaters. The Korean BBQ Ribs and Italian Cold Cut sandwich are must-tries. Go on weekday mornings to avoid lines."
+        answer: "Absolutely. The Herbivorous Butcher is America's first vegan butcher shop and one of the genuinely must-visit food destinations in the Twin Cities. The house-made Korean BBQ Ribs, pastrami, and aged cheddar have converted plenty of skeptics. The Italian Cold Cut sandwich from the deli counter was featured on Diners, Drive-Ins and Dives. Go weekday mornings — weekend lines go out the door and popular items sell out."
       },
       {
         question: "Can I walk between vegan restaurants in Northeast Minneapolis?",
-        answer: "Yes! NE Minneapolis is very walkable. The Herbivorous Butcher, Francis Burger Joint, and Masu are all within reasonable walking distance of each other, making it perfect for a vegan food tour."
+        answer: "Yes — NE is one of the most walkable neighborhoods in Minneapolis for vegan food. The Herbivorous Butcher and Herbie Butcher's Fried Chicken are next to each other on 1st Ave NE. Francis Burger Joint is 0.8 miles north on Central Ave. Masu Sushi is on Hennepin Ave, roughly central to both. The entire loop is about 2 miles on foot through the brewery district and Arts Quarter."
       },
       {
         question: "Are there vegan options at Northeast Minneapolis breweries?",
-        answer: "Most NE breweries don't have their own food but allow outside food. Grab takeout from Herbivorous Butcher or Francis and bring it to Indeed Brewing, Bauhaus Brew Labs, or Dangerous Man Brewing for a perfect pairing."
+        answer: "Most NE breweries don't have their own kitchen but welcome outside food. Pick up takeout from The Herbivorous Butcher or Francis Burger Joint and bring it to Indeed Brewing (711 NE Quincy St), Bauhaus Brew Labs (1315 Tyler St NE), or Dangerous Man Brewing (1300 NE 2nd St). All three have excellent patios and outdoor seating in warm weather."
       },
       {
         question: "What's the best time to visit Herbivorous Butcher?",
-        answer: "Weekday mornings or early afternoons are best. Weekend lines can stretch out the door, and popular items like Korean BBQ Ribs and certain cheeses sell out. Call ahead if you need something specific."
+        answer: "Weekday mornings or early afternoons. Weekend lines stretch out the door, and popular items — Korean BBQ Ribs, aged cheddar, the Italian Cold Cut — sell out by early afternoon. Call ahead if you need something specific. They also ship nationwide if you can't make the trip."
+      },
+      {
+        question: "Is there a vegan fried chicken restaurant in Northeast Minneapolis?",
+        answer: "Yes — Herbie Butcher's Fried Chicken, located right next to The Herbivorous Butcher on 1st Ave NE, is 100% vegan and serves crispy fried chicken sandwiches, tenders, and classic sides like coleslaw, mac and cheese, and biscuits. All plant-based. The breading is well-seasoned and the crunch is real."
       }
     ],
-    relatedRestaurants: ["herbivorous-butcher", "francis-burger-joint", "masu-sushi", "brasa-premium-rotisserie"],
+    relatedRestaurants: ["herbivorous-butcher", "herbie-butcher", "francis-burger-joint", "masu-sushi", "brasa-premium-rotisserie"],
     relatedPosts: ["north-loop-vegan-guide", "vegan-food-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-date-night-minneapolis", "vegan-bars-minneapolis"],
     content: `
-## A Walking Tour of Northeast Minneapolis' Best Vegan Spots
+## Vegan Food in Northeast Minneapolis: The Complete NE Guide
 
-Northeast Minneapolis is where Minneapolis gets weird in the best way. Old warehouses turned into breweries, artists' studios next to meat markets, and somehow—right in the middle of it all—the best vegan food scene in the city.
+Northeast Minneapolis is where Minneapolis gets weird in the best way. Old warehouses turned into breweries, artists' studios next to meat markets, and somehow—right in the middle of it all—the best concentration of fully vegan spots in the city.
 
-This is your complete guide to eating vegan in NE, organized as a walking tour for maximum efficiency (and maximum eating).
+NE has something most Minneapolis neighborhoods don't: multiple 100% vegan restaurants within walking distance of each other. Not vegan-friendly. Not "we can make that vegan." Actually, fully plant-based. Three of them are in this guide.
+
+This is your complete guide to vegan food in NE, organized as a walking tour through the brewery district and Arts Quarter corridor.
 
 ---
 
@@ -2705,6 +2754,26 @@ Don't sleep on the deli counter. These are some of the best sandwiches in the ci
 *"I ordered so much stuff including a steak, pepperoni, jerky and deli meat and I was shocked to find out the total was only $48."* — Philip
 
 This spot is also featured in our [best Minneapolis vegan restaurants guide](/blog/best-vegan-restaurants-minneapolis-2026) and makes a great [unique date idea](/blog/vegan-date-night-minneapolis).
+
+---
+
+---
+
+## Stop 1b: Herbie Butcher's Fried Chicken — 100% Vegan Fried Chicken
+
+**507 1st Ave NE (next door to Herbivorous Butcher) | $ | 100% Vegan**
+
+From the same team as The Herbivorous Butcher comes this spin-off: a dedicated plant-based fried chicken counter that's been making NE regulars very happy. The concept is focused and unapologetic — crispy fried chicken sandwiches, tenders, and classic sides like coleslaw, mac and cheese, and biscuits, all 100% plant-based.
+
+The breading is properly seasoned, the crunch is real, and the portions aren't skimpy. This is vegan comfort food that doesn't compromise to get there.
+
+**What to order:**
+- **Fried Chicken Sandwich** — The main event. Crispy, well-seasoned, served on a toasted bun.
+- **Tenders** — Better dipping vehicle than the sandwich if you like variety.
+- **Mac and Cheese** — The plant-based mac here is one of the better versions in the city.
+- **Biscuit** — Get one. Just get one.
+
+Since it's right next to Herbivorous Butcher, most visitors do both — browse the butcher shop, pick up something ready-to-eat from the fried chicken counter.
 
 ---
 
@@ -2800,16 +2869,18 @@ Most NE breweries don't have food, so grab takeout from [Herbivorous Butcher](/r
 | Time | Stop | What to Get |
 |------|------|-------------|
 | 10am | [Herbivorous Butcher](/restaurants/herbivorous-butcher) | Italian Cold Cut, meats/cheeses to take home |
-| 12pm | [Francis Burger Joint](/restaurants/francis-burger-joint) | Juicy Lucy, fries, milkshake |
+| 11am | [Herbie Butcher's Fried Chicken](/restaurants/herbie-butcher) | Fried chicken sandwich, mac and cheese |
+| 1pm | [Francis Burger Joint](/restaurants/francis-burger-joint) | Juicy Lucy, fries, milkshake |
 | 3pm | Brewery break | Indeed or Bauhaus |
 | 6pm | [Masu](/restaurants/masu-sushi) | Robata vegetables, veggie rolls, sake |
 
 ---
 
-## Why NE is the Best Vegan Neighborhood in MPLS
+## Why NE Has the Best Vegan Food in Minneapolis
 
-Let's be real: most Minneapolis neighborhoods have maybe one or two vegan options. NE has:
+Most Minneapolis neighborhoods have one or two vegan options. NE has:
 - The literal best vegan butcher shop in America
+- A plant-based fried chicken counter right next door
 - A burger joint that makes carnivores question their life choices
 - Walkable streets full of character
 - Breweries everywhere (most are vegan-friendly)
@@ -3668,7 +3739,7 @@ For more Minneapolis vegan dining, check out our [complete restaurant guide](/bl
     `
   },
   {
-    slug: "vegan-bakeries-minneapolis",
+    slug: "minneapolis-vegan-bakery-guide",
     title: "Best Vegan Bakeries in Minneapolis: Cakes, Donuts, Pastries & More",
     description: "Your complete guide to vegan bakeries in Minneapolis. From custom cakes to gourmet donuts, these bakeries prove that vegan desserts are just as indulgent as traditional ones.",
     publishedAt: "2026-02-12",
@@ -8717,6 +8788,213 @@ Seward is the answer for affordable, genuinely vegan outdoor brunch (Seward Cafe
 - [Northeast Minneapolis Vegan Guide](/blog/northeast-minneapolis-vegan-guide) -- a neighborhood deep-dive
 - [Best Vegan Restaurants in Uptown Minneapolis](/blog/vegan-restaurants-uptown-minneapolis) -- the most plant-based neighborhood in the city
 - [Best Vegan Restaurants Minneapolis 2026](/blog/best-vegan-restaurants-minneapolis-2026) -- the full guide
+`,
+  },
+
+  {
+    slug: "best-vegan-brunch-spots-minneapolis",
+    title: "Best Vegan Brunch Spots in Minneapolis 2026 (Local Guide)",
+    description: "The best vegan brunch in Minneapolis — from Reverie's full vegan bar in Powderhorn to Hard Times' legendary biscuits and gravy in Seward. 10 spots, neighborhood by neighborhood, with what to order at each.",
+    publishedAt: "2026-04-15",
+    updatedAt: "2026-04-15",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan brunch Minneapolis", "vegan breakfast Minneapolis", "best vegan brunch Minneapolis", "Minneapolis vegan brunch 2026", "plant based brunch Minneapolis"],
+    readingTime: "10 min read",
+    tldr: "Best vegan brunch in Minneapolis: Reverie Cafe + Bar (Powderhorn, 100% vegan, best overall), Hard Times Cafe (Seward, legendary biscuits & gravy, cash only), Modern Times Cafe (Powderhorn, tofu scrambles + hangover cure), Seward Cafe (Seward, collectively run since 1974), Francis Burger Joint (NE Mpls, 100% vegan bar & grill), French Meadow Bakery (Lyn-Lake, vegan pastries + grain bowls), J. Selby's (St. Paul, 100% vegan upscale brunch), Birchwood Cafe (Seward, farm-to-table vegan options).",
+    faqs: [
+      {
+        question: "What is the best vegan brunch in Minneapolis?",
+        answer: "Reverie Cafe + Bar in Powderhorn is the top pick for a fully vegan brunch experience — 100% plant-based menu, full bar with 20+ craft beers on tap, and food that stands on its own merits (the dark chocolate beignets and breakfast burritos are genuinely excellent). For a more casual, no-frills experience, Hard Times Cafe in Seward has legendary vegan biscuits and gravy that locals have been coming back to for years."
+      },
+      {
+        question: "Is there a 100% vegan brunch restaurant in Minneapolis?",
+        answer: "Yes — several. Reverie Cafe + Bar (Powderhorn), Modern Times Cafe (Powderhorn), Francis Burger Joint (Northeast Minneapolis), and J. Selby's in St. Paul are all 100% vegan menus. Hard Times Cafe (Seward) and Seward Cafe are vegetarian with extensive vegan options."
+      },
+      {
+        question: "Where is the best vegan biscuits and gravy in Minneapolis?",
+        answer: "Hard Times Cafe at 2129 E Franklin Ave in Seward is the answer. Their mushroom gravy over fresh biscuits has been the gold standard for vegan biscuits and gravy in Minneapolis for years. It's a cash-only, punk-rock diner with no frills — but the food is the reason people drive across the city."
+      },
+      {
+        question: "Do you need a reservation for vegan brunch in Minneapolis?",
+        answer: "Most Minneapolis vegan brunch spots don't take reservations — Hard Times, Modern Times, and Seward Cafe are all walk-in. Reverie Cafe + Bar can get busy on weekend mornings and doesn't take reservations either. J. Selby's in St. Paul does accept reservations for larger parties, especially for holidays."
+      },
+      {
+        question: "What neighborhoods have the best vegan brunch in Minneapolis?",
+        answer: "Seward and Powderhorn have the highest concentration of dedicated vegan brunch spots — Reverie, Modern Times, Hard Times, Seward Cafe, and Birchwood Cafe are all in this corridor. Lyn-Lake adds French Meadow and Bryant Lake Bowl. Northeast Minneapolis has Francis Burger Joint. If you're willing to cross the river, J. Selby's in St. Paul's Cathedral Hill is worth the drive."
+      }
+    ],
+    relatedRestaurants: ["reverie-cafe-bar", "hard-times-cafe", "modern-times-cafe", "seward-cafe", "francis-burger-joint", "french-meadow", "birchwood-cafe", "j-selbys"],
+    relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-restaurants-uptown-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-date-night-minneapolis", "vegan-comfort-food-minneapolis"],
+    content: `
+## Minneapolis Takes Weekend Brunch Seriously
+
+Minneapolis has built one of the best plant-based dining scenes in the Midwest, and nowhere is that more evident than weekend brunch. You're not hunting for the one restaurant that "can probably make something vegan" — you're choosing between fully vegan menus, legendary neighborhood diners, and spots that have been anchoring their communities for decades.
+
+This guide covers the 10 best options by neighborhood, with what to order at each.
+
+---
+
+## Powderhorn & Seward: The Vegan Brunch Heartland
+
+This south Minneapolis corridor — roughly Franklin Avenue to 38th Street, between Hiawatha and Cedar-Riverside — has the highest density of dedicated vegan brunch options in the city.
+
+### 🌟 Reverie Cafe + Bar — Best Overall
+
+**Powderhorn | 2506 Minnehaha Ave S | $$**
+
+Reverie is what the rest of the country thinks vegan restaurants can't be: a full-service bar and cafe with a menu that's genuinely delicious on its own merits, not "for vegan food." The space is beautiful — exposed brick, good natural light, the kind of room where you want to stay through a second round of coffee.
+
+The brunch menu is 100% plant-based. Everything.
+
+**What to order:**
+- **Breakfast Burrito** — scrambled tofu, roasted potatoes, black beans, peppers, house salsa. One of the best burritos in Minneapolis regardless of dietary category
+- **Dark Chocolate Beignets** — the dessert you're ordering as a starter
+- **Oat Milk Latte** — house-roasted beans, good technique
+- Full bar: 20+ craft beers on tap, cocktails, and a genuinely good bloody mary with house-pickled garnishes
+
+**The catch:** No reservations, and weekend mornings can mean a short wait. Get there early or plan to hover.
+
+**Hours:** Sat-Sun 9am–3pm (brunch), open weekday evenings too
+
+---
+
+### Hard Times Cafe — Legendary Status
+
+**Seward | 2129 E Franklin Ave | $**
+
+Hard Times opened in 1989. It's cash only. The vibe is punk-rock diner meets community space. The menu is vegetarian with extensive vegan options clearly marked. And the vegan biscuits and gravy is the dish that people drive across the city for.
+
+Don't overthink it. The biscuits are house-made. The mushroom gravy is deeply savory in a way that takes some cognitive dissonance to accept isn't made with butter. Get a large coffee and the full biscuits and gravy plate.
+
+**What to order:**
+- **Vegan Biscuits & Gravy** — mushroom-based gravy over fresh biscuits, a Minneapolis institution
+- **Tofu Scramble** — loaded with vegetables, a perfect companion to the biscuits
+- **Super Red Earth Bowl** — brown rice, roasted vegetables, tahini sauce
+
+**Important:** CASH ONLY. There's an ATM nearby but bring cash. Weekend hours fill up fast with regulars — you may wait.
+
+**Hours:** Daily 7am–10pm (kitchen hours vary)
+
+---
+
+### Modern Times Cafe — The Hangover Cure
+
+**Powderhorn | Minnehaha Ave | $$**
+
+Modern Times is the neighborhood brunch spot that has become a Powderhorn fixture — all-vegan menu, unpretentious atmosphere, and portions that are genuinely generous. The "hangover brunch cure" reputation is well-earned: greasy, satisfying, made from scratch.
+
+**What to order:**
+- **Tofu Scramble** — loaded with peppers, onions, nutritional yeast, house spice blend
+- **Hash Browns** — better than they have any right to be
+- **Cinnamon French Toast** — thick-cut bread, coconut milk custard, real maple syrup
+
+---
+
+### Seward Cafe — Collectively Run Since 1974
+
+**Seward | 2129 E Franklin Ave | $**
+
+Seward Cafe is one of the longest-running collectively operated restaurants in the country. The menu is vegetarian and extensively vegan-labeled. The prices are some of the lowest you'll find for made-from-scratch food. The atmosphere is eclectic in the way that only a place running since 1974 can be.
+
+**What to order:**
+- **Vegan Breakfast Plate** — tofu scramble, toast, seasonal vegetables
+- **Super Burrito** — enormous, vegan option available
+- **Fresh-squeezed juice** — rotating seasonal options
+
+**Hours:** Thu–Sun 8am–3pm (kitchen closes at 3pm), Thu–Sun only
+
+---
+
+### Birchwood Cafe — Farm-to-Table Standard
+
+**Seward | 3311 E 25th St | $$$**
+
+Birchwood sources from Minnesota and Wisconsin farms and has done so since before "farm-to-table" was a marketing term. The menu changes seasonally and always has strong vegan options clearly labeled. It's more expensive than its neighbors on this list but the ingredient quality justifies it.
+
+**What to order (seasonal — check current menu):**
+- **Tofu Hash** — marinated tofu, roasted mushrooms, pickled potato, hearty greens, nutritional yeast. A regular rotation item.
+- **Grain Bowl** — rotating grains with roasted seasonal vegetables and house dressing
+- **Vegan baked goods** — the case at the counter changes daily; whatever is vegan-labeled is worth trying
+
+---
+
+## Lyn-Lake & Uptown
+
+### French Meadow Bakery — Vegan Classics
+
+**Lyn-Lake | 2610 Lyndale Ave S | $$**
+
+French Meadow has been a Minneapolis institution for decades — one of the first major bakeries in the country to focus on organic and plant-based ingredients. The vegan options are clearly labeled throughout the menu, from pastries to full breakfast plates.
+
+**What to order:**
+- **Vegan Pastries** — check the case; the vegan-labeled options are clearly marked and genuinely good
+- **Tempeh Hash** — a hearty plant-based take on a breakfast staple
+- **Green smoothies** — house-pressed juices and smoothies are consistent and solid
+- **Oat or almond milk lattes** — organic beans, good technique
+
+**Location note:** The Lyn-Lake location (2610 Lyndale) is the original. There's also a St. Paul location.
+
+---
+
+### Bryant Lake Bowl — Theater Diner Brunch
+
+**Lyn-Lake | 810 W Lake St | $$**
+
+Bryant Lake Bowl is Minneapolis's only bowling alley that also happens to serve excellent food in a theater space. The brunch menu has strong vegan options alongside meat dishes, and the setting — wood-lane bowling, vintage diner counter, theater in the back — is unlike anywhere else in the city.
+
+**What to order:**
+- **Veggie Hash** — roasted potatoes, seasonal vegetables, house hot sauce
+- **Tofu Scramble** — customizable with additional vegetables
+- **Pancakes** — vegan version available, made to order
+
+---
+
+## Northeast Minneapolis
+
+### Francis Burger Joint — 100% Vegan Bar Brunch
+
+**Northeast Minneapolis | 15 NE 4th St | $$**
+
+Francis Burger Joint is one of the newer entries on this list and one of the most surprising — a 100% vegan sports bar and grill in Northeast Minneapolis where the default customer isn't necessarily coming for the vegan menu; they're coming because the food is good and the bar is solid.
+
+**What to order:**
+- **Breakfast Sandwich** — house-made vegan sausage patty, egg-free scramble, on a toasted bun
+- **Breakfast Burrito** — rotating fillings, always vegan
+- **House-made vegan sausage** — on the side or in anything
+
+**The pitch:** If you're going to brunch with people who are skeptical of vegan food, this is the place. The bar menu, sports atmosphere, and food quality neutralize the "but is it actually good?" hesitation most non-vegans bring to vegan restaurants.
+
+---
+
+## Across the River: St. Paul
+
+### J. Selby's — Best Upscale Vegan Brunch in the Twin Cities
+
+**St. Paul Cathedral Hill | 169 Western Ave N | $$$**
+
+J. Selby's is the answer when you want vegan brunch to be a real occasion — full vegan menu, upscale atmosphere, the kind of place you bring your non-vegan parents and they leave without making any complaints. It's in St. Paul's Cathedral Hill neighborhood, a 15-minute drive from South Minneapolis.
+
+**What to order:**
+- **Eggs Benedict** — poached tofu with house hollandaise, the showpiece brunch item
+- **Blueberry Pancakes** — house-made, thick, with real maple syrup
+- **Bloody Mary** — a genuinely good brunch cocktail
+- **Avocado Toast** — elevated and worth the price
+
+**Worth noting:** This is the spot for special occasions — Mother's Day, graduation brunch, a celebration meal. The price reflects the ambiance and ingredient quality.
+
+---
+
+## The Quick Answer
+
+If you're new to Minneapolis vegan brunch, start here:
+- **Best first impression:** Reverie Cafe + Bar (Powderhorn)
+- **Best cheap eat:** Hard Times Cafe (Seward, cash only)
+- **Best for a celebration:** J. Selby's (St. Paul)
+- **Best for skeptical non-vegans:** Francis Burger Joint (NE Mpls)
+- **Best neighborhood staple:** Seward Cafe (Seward, Thu-Sun only)
+
+The Seward-Powderhorn corridor is the epicenter — five of the ten spots on this list are within a mile of each other on the south side. A morning that starts at Reverie and ends at the Mississippi riverbank is a very good Minneapolis morning.
 `,
   },
 
