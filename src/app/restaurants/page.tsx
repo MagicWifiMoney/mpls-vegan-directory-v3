@@ -1,6 +1,8 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import { Suspense } from 'react';
 import { restaurants } from '@/data/restaurants';
+import RestaurantDirectory from '@/components/RestaurantDirectory';
 
 export const metadata: Metadata = {
   title: 'Twin Cities Vegan Restaurants Directory 2026 | 78+ Minneapolis & St. Paul Spots',
@@ -24,35 +26,7 @@ export const metadata: Metadata = {
   },
 };
 
-const statusConfig: Record<string, { label: string; badgeClass: string; dotClass: string }> = {
-  '100% Vegan': {
-    label: '100% Vegan',
-    badgeClass: 'badge-vegan',
-    dotClass: 'bg-[#6db36d]',
-  },
-  Vegetarian: {
-    label: 'Vegetarian',
-    badgeClass: 'badge-vegetarian',
-    dotClass: 'bg-[#7ec8e3]',
-  },
-  'Vegan-Friendly': {
-    label: 'Vegan-Friendly',
-    badgeClass: 'badge-friendly',
-    dotClass: 'bg-[#d4a574]',
-  },
-};
-
 export default function RestaurantsPage() {
-  const veganOnly = restaurants.filter((r) => r.veganStatus === '100% Vegan');
-  const vegetarian = restaurants.filter((r) => r.veganStatus === 'Vegetarian');
-  const veganFriendly = restaurants.filter((r) => r.veganStatus === 'Vegan-Friendly');
-
-  const groups = [
-    { key: '100% Vegan', label: '100% Vegan Restaurants', items: veganOnly },
-    { key: 'Vegetarian', label: 'Vegetarian Restaurants', items: vegetarian },
-    { key: 'Vegan-Friendly', label: 'Vegan-Friendly Restaurants', items: veganFriendly },
-  ];
-
   return (
     <div className="relative min-h-screen">
       {/* Background elements */}
@@ -94,81 +68,13 @@ export default function RestaurantsPage() {
           </p>
         </div>
 
-        {/* Quick nav */}
-        <div className="flex flex-wrap gap-3 mb-16">
-          {groups.map((group) => (
-            <a
-              key={group.key}
-              href={`#${group.key.toLowerCase().replace(/[^a-z]/g, '-').replace(/-+/g, '-')}`}
-              className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-[#f5f0e8]/10 text-sm text-[#f5f0e8]/60 hover:text-[#d4a574] hover:border-[#d4a574]/30 transition-all"
-            >
-              <span
-                className={`w-2 h-2 rounded-full ${statusConfig[group.key]?.dotClass ?? 'bg-[#d4a574]'}`}
-              />
-              {group.label}
-              <span className="text-[#f5f0e8]/30">({group.items.length})</span>
-            </a>
-          ))}
-        </div>
-
-        {/* Groups */}
-        {groups.map((group) =>
-          group.items.length === 0 ? null : (
-            <section
-              key={group.key}
-              id={group.key.toLowerCase().replace(/[^a-z]/g, '-').replace(/-+/g, '-')}
-              className="mb-20 scroll-mt-24"
-            >
-              <div className="flex items-center gap-4 mb-8">
-                <div className="w-3 h-3 rounded-full" style={{ background: group.key === '100% Vegan' ? '#6db36d' : group.key === 'Vegetarian' ? '#7ec8e3' : '#d4a574' }} />
-                <h2 className="font-display text-3xl text-[#f5f0e8]">{group.label}</h2>
-                <span className="text-[#f5f0e8]/30 text-lg">({group.items.length})</span>
-              </div>
-
-              <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                {group.items.map((restaurant, index) => (
-                  <Link
-                    key={restaurant.slug}
-                    href={`/restaurants/${restaurant.slug}`}
-                    className="group card-elevated rounded-2xl p-6 transition-all duration-500 hover:ring-2 hover:ring-[#d4a574]/20"
-                    style={{ animationDelay: `${index * 30}ms` }}
-                  >
-                    <div className="flex items-start justify-between mb-3">
-                      <h3 className="font-display text-lg text-[#f5f0e8] group-hover:text-[#d4a574] transition-colors leading-tight pr-2">
-                        {restaurant.name}
-                      </h3>
-                      <svg
-                        className="w-5 h-5 flex-shrink-0 text-[#f5f0e8]/20 group-hover:text-[#d4a574] group-hover:translate-x-1 transition-all"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="1.5"
-                      >
-                        <path d="M7 17L17 7M17 7H7M17 7V17" />
-                      </svg>
-                    </div>
-
-                    <p className="text-sm text-[#f5f0e8]/40 mb-3">
-                      {restaurant.cuisineType.join(' · ')}
-                    </p>
-
-                    <div className="flex items-center gap-3 text-xs text-[#f5f0e8]/30">
-                      <span>{restaurant.neighborhood}</span>
-                      <span>·</span>
-                      <span>{restaurant.priceRange}</span>
-                    </div>
-
-                    {/* Hover bar */}
-                    <div className="mt-4 h-0.5 bg-gradient-to-r from-[#d4a574] to-[#c17f59] scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
-                  </Link>
-                ))}
-              </div>
-            </section>
-          )
-        )}
+        {/* Directory with search, filter, sort */}
+        <Suspense fallback={<div className="text-[#f5f0e8]/30 py-8">Loading...</div>}>
+          <RestaurantDirectory restaurants={restaurants} />
+        </Suspense>
 
         {/* CTA */}
-        <section className="card-elevated rounded-2xl p-10 text-center">
+        <section className="card-elevated rounded-2xl p-10 text-center mt-20">
           <h2 className="font-display text-2xl text-[#f5f0e8] mb-4">
             Know a great vegan spot we&apos;re missing?
           </h2>
