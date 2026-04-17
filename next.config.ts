@@ -53,8 +53,6 @@ const nextConfig: NextConfig = {
         permanent: true
       }
     ];
-  }
-    ];
   },
 
   // Headers for security and caching
