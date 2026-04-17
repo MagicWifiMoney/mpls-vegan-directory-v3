@@ -10048,6 +10048,295 @@ Instagram is where event discovery actually happens in Minneapolis food culture.
 `,
   },
 
+  {
+    slug: "best-vegan-brunch-minneapolis",
+    title: "Best Vegan Brunch in Minneapolis (2026 Guide)",
+    description: "The best vegan brunch spots in Minneapolis — from uptown staples to new Northeast finds. Updated for 2026 with hours, must-orders, and honest takes.",
+    publishedAt: "2026-04-17",
+    updatedAt: "2026-04-17",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan brunch minneapolis", "best vegan brunch minneapolis", "vegan breakfast minneapolis", "plant based brunch minneapolis", "vegan brunch spots minneapolis", "vegan brunch uptown minneapolis", "vegan brunch northeast minneapolis"],
+    readingTime: "7 min read",
+    tldr: "Best vegan brunch in Minneapolis: Reverie Café (Northeast, best overall — chorizo tofu scramble + cashew hollandaise Benedict), French Meadow Bakery (Uptown, most reliable, great for groups), The Herbivorous Butcher Café (North Mpls, best mock meat breakfast sandwich), Birchwood Cafe (Seward, best seasonal farm-to-table brunch), Black Coffee & Waffle Bar (Uptown/North Loop, best vegan waffles in the city).",
+    faqs: [
+      {
+        question: "Is there a fully vegan restaurant for brunch in Minneapolis?",
+        answer: "Yes — Herbivorous Butcher Café and Reverie Café are fully or predominantly plant-based. French Meadow and Birchwood are omnivore restaurants with strong vegan menus."
+      },
+      {
+        question: "What's the best vegan brunch spot for a group?",
+        answer: "French Meadow handles groups best — larger space, clearly labeled menu, servers who know ingredients cold."
+      },
+      {
+        question: "Are Minneapolis vegan brunch spots expensive?",
+        answer: "Prices are in line with any brunch restaurant. Expect $12-18 per entrée at most places."
+      },
+      {
+        question: "Do any Minneapolis vegan brunch spots have outdoor seating?",
+        answer: "Birchwood has a large patio from May through September. French Meadow has some outdoor seating in Uptown."
+      }
+    ],
+    relatedRestaurants: ["reverie-cafe-bar", "french-meadow", "herbivorous-butcher", "birchwood-cafe"],
+    relatedPosts: ["minneapolis-vegan-food-trucks", "vegan-restaurants-northeast-minneapolis", "vegan-brunch-minneapolis", "best-vegan-brunch-spots-minneapolis", "northeast-minneapolis-vegan-guide"],
+    content: `
+Minneapolis has a vegan brunch scene that punches well above its weight. You don't need to settle for sad avocado toast and cold coffee. The spots below actually nail it — scrambles that taste like scrambles, pancakes that don't crumble, hollandaise that you'd swear has eggs in it.
+
+I've eaten at all of these. I'll tell you what's worth it.
+
+## The Short List
+
+If you just need a quick answer:
+
+- **Reverie Café** (Northeast) — best overall, especially the chorizo scramble
+- **French Meadow Bakery** (Uptown) — most reliable, good for groups
+- **The Herbivorous Butcher Café** — best if you want mock meats done right
+- **Birchwood Cafe** — best for seasonal, farm-to-table brunch
+- **Black Coffee & Waffle Bar** — best waffles in the city, vegan options clearly marked
+
+## Reverie Café (Northeast Minneapolis)
+
+Reverie does something most vegan brunch spots fail at: it makes food for people who eat actual food, not people managing guilt.
+
+The chorizo tofu scramble has been on the menu for three years for good reason. It's well-seasoned, has heat, and doesn't fall apart into watery mush — a common failure mode for tofu scrambles. The green chile sauce on the side is essential.
+
+The Benedict situation at Reverie uses cashew hollandaise. Skeptics (including me, initially) are usually converted. It has the richness and slight tang you expect. They run it on a house-made English muffin, not the rubbery grocery store version.
+
+Weekend waits run 20-40 minutes from 10am onward. Go early or go late.
+
+**Hours:** Sat-Sun 8am–2pm | **Location:** Northeast Minneapolis | **Price:** $$
+
+## French Meadow Bakery (Uptown)
+
+French Meadow is the safest bet in Minneapolis if you're bringing non-vegans who are skeptical. The menu is clearly labeled, the servers know the ingredients, and the pastry case is legitimately excellent.
+
+The vegan cinnamon roll is the best I've found in the city. Dense where it should be dense, not poured in frosting. Get one regardless of what else you order.
+
+For a full brunch, the Southwest scramble with black beans and roasted peppers is solid. Nothing here will blow your mind, but nothing will disappoint either.
+
+**Hours:** Mon-Fri 8am–8pm, Sat-Sun 8am–3pm | **Location:** Uptown | **Price:** $$
+
+## The Herbivorous Butcher Café
+
+If you want mock meats and you want them done correctly, Herbivorous Butcher is your answer. They're famous for their retail products, but the café brunch on weekends is worth the trip.
+
+The breakfast sandwich uses their house sausage and a cashew cheese spread. It's the sandwich you think of when you think "I just want a normal breakfast sandwich." No compromises, no explaining to the table why it doesn't taste like cardboard.
+
+Their Bloody Mary also uses house-made ingredients and holds up against non-vegan versions.
+
+**Hours:** Sat-Sun 10am–2pm | **Location:** North Minneapolis | **Price:** $$
+
+## Birchwood Cafe (Seward/Midtown)
+
+Birchwood is the answer when you want brunch that feels like an event rather than a quick meal. The kitchen changes its menu seasonally — you will always see careful sourcing and actual cooking technique.
+
+The coffee program is serious here. If you care about pour-overs or espresso drinks made by people who've actually been trained, Birchwood is the move.
+
+One honest note: Birchwood is slower than most places. It's the spot if brunch is the plan for the morning.
+
+**Hours:** Mon-Fri 7am–9pm, Sat-Sun 8am–2:30pm | **Location:** Seward | **Price:** $$$
+
+## Black Coffee & Waffle Bar (multiple locations)
+
+Waffles are the thing here and the waffles are good. The vegan batter (available at all locations, just ask) produces a crisp exterior without the crunch disappearing in the first two minutes.
+
+Toppings are customizable. The strawberry-basil combination sounds precious but works. If you go savory, the avocado-jalapeño situation is worth the slight upcharge.
+
+**Hours:** Daily 7am–3pm | **Locations:** Uptown, North Loop | **Price:** $
+
+## What to Know Before You Go
+
+**Reservations:** Most of these spots don't take them for brunch. French Meadow is the exception.
+
+**Best timing:** Arriving before 10am or after 1pm cuts your wait significantly at the popular spots.
+
+**Parking:** Uptown is the worst for parking on weekends. Northeast and Seward are easier.
+
+---
+
+Also worth exploring: the [Minneapolis vegan food trucks guide](/blog/minneapolis-vegan-food-trucks) for weekend outdoor brunch options, and the [Northeast Minneapolis vegan dining guide](/blog/vegan-restaurants-northeast-minneapolis) for more NE spots. See [happy hour vegan deals](/happy-hour) for evening options after brunch.
+`,
+  },
+
+  {
+    slug: "minneapolis-vegan-food-trucks",
+    title: "Minneapolis Vegan Food Trucks Guide (2026)",
+    description: "The best vegan food trucks in Minneapolis — where to find them, what to order, and which markets they rotate through. Updated for 2026 season.",
+    publishedAt: "2026-04-17",
+    updatedAt: "2026-04-17",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: ["vegan food truck minneapolis", "minneapolis vegan food trucks", "plant based food trucks minneapolis", "vegan trucks twin cities", "vegan food trucks near me minneapolis", "best vegan food trucks minneapolis"],
+    readingTime: "6 min read",
+    tldr: "Best vegan food trucks in Minneapolis: Sticky's Vegan Kitchen (Korean-inspired bowls + wings, most consistent on the rotation, follow their Instagram), Plant Power Eats (Mexican street food, jackfruit carnitas done right, Mill City Farmers Market Saturdays), Green Wheel Organics (grain bowls + smoothies, lighter fare, quality ingredients). Best market: Mill City Farmers Market on Saturdays.",
+    faqs: [
+      {
+        question: "Are there any fully vegan food trucks in Minneapolis?",
+        answer: "Yes — Sticky's Vegan Kitchen and Plant Power Eats are fully plant-based. Green Wheel Organics is predominantly vegan with some honey-based items."
+      },
+      {
+        question: "When do Minneapolis food trucks run?",
+        answer: "Most run from May through October. Some operate year-round at markets or office parks with indoor seating. The outdoor season peaks from June through August."
+      },
+      {
+        question: "How do I find where vegan food trucks are today?",
+        answer: "Check the truck's own Instagram — most post their daily or weekly location. The Minneapolis Food Truck tracker at the city website also lists registered truck locations."
+      },
+      {
+        question: "Are vegan food trucks more expensive than regular trucks?",
+        answer: "Prices are comparable. Most vegan entrées run $10-15, which is standard for the Minneapolis food truck scene."
+      }
+    ],
+    relatedRestaurants: [],
+    relatedPosts: ["best-vegan-brunch-minneapolis", "vegan-restaurants-northeast-minneapolis", "best-vegan-restaurants-minneapolis-2026", "vegan-events-minneapolis"],
+    content: `
+Minneapolis food truck culture is real and the vegan options are better than most cities twice its size. Part of this is the Midwest work ethic: if you're going to run a truck, you're going to run it right. Part of it is the local food community, which has been supportive of plant-based operations since before it was trendy.
+
+Here's what's actually worth tracking down.
+
+## The Permanent Fixtures
+
+### Sticky's Vegan Kitchen
+
+The most consistent vegan truck on the Minneapolis rotation. Sticky's runs a tight menu — Korean-inspired bowls, "wings" with housemade sauces, rice plates. The bibimbap bowl is a legitimate meal: properly seasoned, portioned like a truck that knows its customers are actually hungry.
+
+The sauce situation is the reason people follow this truck. They make several in-house and they're not just bottled hot sauce with a label change. The gochujang-based wing sauce in particular has the fermented depth that most fast-casual places fake with added sweeteners.
+
+**Where to find them:** Northeast Minneapolis, Eat Street, various markets — check their Instagram for the weekly rotation
+
+### Plant Power Eats
+
+A newer operation that's earned its spot. Plant Power focuses on Mexican-leaning street food: tacos, burritos, elotes. The jackfruit carnitas are done correctly — braised long enough to have actual texture variation, not just shredded jackfruit dumped on a tortilla.
+
+Honest assessment: the first time I had the al pastor tacos I expected to be underwhelmed. I wasn't. The achiote marinade is real and they let it do its job.
+
+Look for them at the Mill City Farmers Market on Saturdays and at Northeast markets throughout summer.
+
+### Green Wheel Organics
+
+More health-focused than the others — grain bowls, smoothies, lighter fare. This is the truck for the 11am crowd who wants food that won't make them regret it at 2pm. Nothing here is particularly bold, but the quality of ingredients is consistently high.
+
+The seasonal grain bowl changes monthly. Worth ordering whatever they're currently doing if you don't know where to start.
+
+## The Markets (Where Multiple Trucks Congregate)
+
+**Mill City Farmers Market** — Saturdays, 8am-1pm, June through October. Multiple vegan-friendly trucks rotate here, plus produce and prepared foods vendors. This is the best single stop for vegan food in Minneapolis during the summer.
+
+**Northeast Farmers Market** — Sundays, summer season. Northeast's food culture in mobile form. Sticky's rotates here regularly.
+
+**Twin Cities Veg Fest** — Annual event, usually in September. Concentrated vegan food trucks plus local restaurants. Worth planning around.
+
+**Nicollet Mall food truck rally** — Weekday lunch, rotating trucks. Fewer vegan options but some of the trucks above appear here during peak season.
+
+## What Changes Year to Year
+
+Food trucks are inherently unstable. New ones launch, existing ones go brick-and-mortar, schedules shift.
+
+The most reliable way to track current vegan trucks: follow local vegan food accounts on Instagram, check the Twin Cities Mobile Food Vendors Association website, and follow trucks you like directly. Most post weekly schedules.
+
+Don't plan a trip around a specific truck without confirming they're running that day.
+
+---
+
+For sit-down options, see our [vegan brunch guide](/blog/best-vegan-brunch-minneapolis) or the full [Minneapolis vegan restaurant directory](/vegan-restaurants). The [Northeast Minneapolis dining guide](/blog/vegan-restaurants-northeast-minneapolis) covers the NE market territory in more detail.
+`,
+  },
+
+  {
+    slug: "vegan-restaurants-northeast-minneapolis",
+    title: "Vegan Restaurants in Northeast Minneapolis: The Brewery District Dining Guide (2026)",
+    description: "The best vegan restaurants in Northeast Minneapolis — covering the brewery district, Arts District, and everything in between. Real picks, no padding.",
+    publishedAt: "2026-04-17",
+    updatedAt: "2026-04-17",
+    author: "Mia & Jay",
+    category: "Neighborhood Guide",
+    tags: ["vegan NE Minneapolis", "vegan restaurants northeast minneapolis", "northeast minneapolis vegan food", "vegan brewery district minneapolis", "vegan restaurants NE minneapolis", "plant based northeast minneapolis", "vegan dining northeast minneapolis 2026"],
+    readingTime: "8 min read",
+    tldr: "Best vegan eats in Northeast Minneapolis: Reverie Café (neighborhood flagship, smoked beet + walnut bowl, all-day breakfast/lunch), Fig + Farro (fully plant-based, best dinner in NE, cashew ricotta lasagna), Gandhi Mahal (best Indian vegan options in the city, dal makhani), The Sample Room (bar food done right, jackfruit sandwich), Dangerous Man Brewing (beer + rotating vegan food). The NE brewery circuit has more plant-based options than anywhere else in the city.",
+    faqs: [
+      {
+        question: "Is Northeast Minneapolis a good neighborhood for vegans?",
+        answer: "Yes — it's one of the better neighborhoods in the Twin Cities for plant-based dining. The mix of independent restaurants, breweries with food programs, and a food-curious demographic means more legitimate vegan options than most comparable urban neighborhoods."
+      },
+      {
+        question: "Are the NE breweries vegan-friendly?",
+        answer: "Most craft beer is vegan, and the food programs at NE breweries increasingly include plant-based options, especially in summer when food trucks are present."
+      },
+      {
+        question: "What's the best full-service vegan restaurant in Northeast Minneapolis?",
+        answer: "Fig + Farro is the most complete experience for dinner. For casual all-day dining, Reverie Café is the consistent choice."
+      },
+      {
+        question: "Is parking hard in Northeast Minneapolis?",
+        answer: "Less so than Uptown. Street parking is generally available, especially if you go slightly off the main strips."
+      }
+    ],
+    relatedRestaurants: ["reverie-cafe-bar", "gandhi-mahal", "dangerous-man-brewing"],
+    relatedPosts: ["best-vegan-brunch-minneapolis", "minneapolis-vegan-food-trucks", "northeast-minneapolis-vegan-guide", "vegan-bars-breweries-minneapolis"],
+    content: `
+Northeast Minneapolis is having a moment that's been building for about a decade. The brewery district brought foot traffic. The artists brought culture. The food scene caught up.
+
+For vegans, Northeast is now one of the better neighborhoods to eat in the Twin Cities. This isn't a coincidence — the demographic that moved into NE over the past ten years skews younger, food-curious, and often plant-based. Restaurants responded.
+
+Here's what's worth your time.
+
+## The Standouts
+
+### Reverie Café
+
+The neighborhood's closest thing to a flagship vegan spot. The menu runs through breakfast and lunch with tofu scrambles, veggie bowls, and rotating specials that use what's local and seasonal.
+
+The space itself is the right kind of café: not trying too hard, genuinely functional, staffed by people who actually know the menu.
+
+The best thing I've had here is the smoked beet and walnut bowl — it sounds fussy but it eats simply. The components work together.
+
+### The Sample Room
+
+Not a vegan restaurant. Predominantly bar food. But the kitchen here has genuinely invested in plant-based options that aren't afterthoughts. The jackfruit sandwich has been on the menu long enough that they've figured out how to do it well. The mushroom tacos are better than they need to be for a place this focused on beer.
+
+Sample Room is the answer when you're with a mixed group and you need a place where the non-vegans won't complain.
+
+### Dangerous Man Brewing
+
+The food program at Dangerous Man is limited and it rotates. But when they have a vegan option (usually a sandwich, sometimes a bowl), it's good. More importantly, this is where you go for the beer. The atmosphere — converted industrial space, community tables, no TVs — is the best in NE for just sitting and being somewhere.
+
+Call ahead or check Instagram for current food availability before making this the plan.
+
+### Fig + Farro
+
+This is the most intentional vegan restaurant experience in Northeast. The menu is entirely plant-based, the presentation is serious without being fussy, and the kitchen clearly has access to quality ingredients.
+
+The pasta dishes are the menu anchor — made in-house, sauced properly, not underseasoned like a lot of vegan Italian. The cashew ricotta lasagna is the dish that keeps regulars coming back.
+
+Prices are higher than casual NE spots. This is dinner-out money, not lunch money. Worth it for a full meal.
+
+### Gandhi Mahal
+
+Indian food and vegan food have natural alignment — a huge portion of traditional Indian cooking is plant-based. Gandhi Mahal in NE takes this seriously. The menu clearly identifies vegan options, the staff understands vegan dietary needs, and the food is very good.
+
+The dal makhani here (made traditionally, with lentils and not butter/cream in the vegan preparation) is the best in the city. The samosa chaat is a strong opener.
+
+## The Brewery Circuit
+
+If you're doing the NE brewery crawl — which, if you haven't done it, you should — here's how to eat vegan along the way:
+
+1. **Dangerous Man** — food if available, otherwise just the beer
+2. **Bauhaus Brew Labs** — food truck rotation outside, several are vegan-friendly in season
+3. **Fair State Brewing Cooperative** — rotating food trucks, cooperative ethos means they tend to work with local/ethical vendors
+4. **Indeed Brewing** — check current food program, has improved significantly
+
+## Neighborhood Spots Worth Knowing
+
+**Pizza Nea** — Neapolitan pizza, vegan cheese available on request. The dough here is made correctly. Get the Marinara (no cheese) or ask for vegan cheese on a build-your-own.
+
+**Anchor Coffee House** — Best coffee in NE, plant milks are standard. More café than restaurant, but worth knowing as a between-meals stop.
+
+---
+
+For weekend morning options, the [vegan brunch guide](/blog/best-vegan-brunch-minneapolis) covers NE and the rest of the city. The [food truck guide](/blog/minneapolis-vegan-food-trucks) covers summer truck options at NE markets. Browse the full [Minneapolis vegan restaurant directory](/vegan-restaurants) for more options across the city.
+`,
+  },
+
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
