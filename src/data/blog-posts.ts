@@ -8996,6 +8996,8 @@ If you're new to Minneapolis vegan brunch, start here:
 
 The Seward-Powderhorn corridor is the epicenter — five of the ten spots on this list are within a mile of each other on the south side. A morning that starts at Reverie and ends at the Mississippi riverbank is a very good Minneapolis morning.
 `,
+  },
+  {
     slug: "best-vegan-brunch-minneapolis",
     title: "Best Vegan Brunch in Minneapolis (2026 Guide)",
     description: "The best vegan brunch spots in Minneapolis — from uptown staples to new Northeast finds. Updated for 2026 with hours, must-orders, and honest takes.",
