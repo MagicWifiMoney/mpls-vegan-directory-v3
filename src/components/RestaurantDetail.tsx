@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { Restaurant } from '@/data/restaurants';
 import Image from 'next/image';
 import ReviewTabs from './ReviewTabs';
+import FavoriteButton from './FavoriteButton';
 import dynamic from 'next/dynamic';
 
 // Lazy load NearbyRestaurants (it's below the fold)
@@ -57,6 +58,11 @@ export default function RestaurantDetail({ restaurant }: { restaurant: Restauran
 
   return (
     <div className="space-y-12">
+      {/* Save to My List */}
+      <div className="flex justify-end">
+        <FavoriteButton slug={restaurant.slug} size="lg" />
+      </div>
+
       {/* The Vibe */}
       {restaurant.theVibe && (
         <div className="card-elevated p-6 rounded-2xl border-l-4 border-[#d4a574]">
