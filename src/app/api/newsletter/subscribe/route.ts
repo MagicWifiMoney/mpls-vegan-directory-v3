@@ -70,8 +70,6 @@ export async function POST(request: NextRequest) {
     const data = await response.json();
     console.log(`[Newsletter] Successfully subscribed: ${email}`);
 
-    return NextResponse.json(
-
     // Discord notification (fire-and-forget)
     const _dw = process.env.DISCORD_WEBHOOK_URL;
     if (_dw) {
@@ -90,6 +88,8 @@ export async function POST(request: NextRequest) {
         }),
       }).catch(() => {});
     }
+
+    return NextResponse.json(
       { 
         message: 'Welcome to the family! Check your inbox for confirmation. 🌱',
         subscribed: true,
