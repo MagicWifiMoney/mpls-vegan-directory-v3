@@ -38,3 +38,4 @@ test-*.mjs
 test-*.js
 *-test.mjs
 *-test.js
+data/suggestions.json

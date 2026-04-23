@@ -36,6 +36,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? rawDesc.slice(0, 160)
     : `${restaurant.name} — ${truncated}`.slice(0, 160);
 
+  const isClosed = restaurant.name.includes('(Closed)');
+
   return {
     title: restaurant.seoTitle || `${restaurant.name} | Vegan ${restaurant.neighborhood} ${restaurant.city === 'Saint Paul' ? 'Saint Paul' : 'Minneapolis'} 2026`,
     description: metaDesc,
@@ -48,6 +50,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'website',
       url: `https://mplsvegan.com/restaurants/${slug}`,
     },
+    ...(isClosed && {
+      robots: {
+        index: false,
+        follow: false,
+      },
+    }),
   };
 }
 

@@ -51,9 +51,17 @@ const nextConfig: NextConfig = {
         source: '/best-vegan-mac-and-cheese-minneapolis',
         destination: '/blog/vegan-comfort-food-minneapolis',
         permanent: true
-      }
-    ];
-  }
+      },
+      // 301 redirects for closed restaurants → main directory
+      { source: '/restaurants/foxy-falafel', destination: '/restaurants', permanent: true },
+      { source: '/restaurants/seed-cafe', destination: '/restaurants', permanent: true },
+      { source: '/restaurants/crepe-and-spoon', destination: '/restaurants', permanent: true },
+      { source: '/restaurants/the-dripping-root', destination: '/restaurants', permanent: true },
+      { source: '/restaurants/peninsula-malaysian', destination: '/restaurants', permanent: true },
+      { source: '/restaurants/red-cow', destination: '/restaurants', permanent: true },
+      { source: '/restaurants/tori-ramen', destination: '/restaurants', permanent: true },
+      { source: '/restaurants/gandhi-mahal', destination: '/restaurants', permanent: true },
+      { source: '/restaurants/trio-plant-based', destination: '/restaurants', permanent: true },
     ];
   },
 

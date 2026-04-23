@@ -6,7 +6,7 @@ import SearchFiltersHorizontal from '@/components/SearchFiltersHorizontal';
 import RestaurantCardWithData from '@/components/RestaurantCardWithData';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import InstagramFeed from '@/components/InstagramFeed';
-import { restaurants, Restaurant } from '@/data/restaurants';
+import { activeRestaurants as restaurants, Restaurant } from '@/data/restaurants';
 
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState('');

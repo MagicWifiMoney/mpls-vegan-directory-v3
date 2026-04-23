@@ -21,8 +21,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Minneapolis Vegan Restaurants | 70+ Plant-Based Spots to Eat Now",
-  description: "Looking for vegan food in Minneapolis? Browse 70+ restaurants with real reviews, hours, photos, and maps. From The Herbivorous Butcher to Ethiopian cuisine. Find your next meal.",
+  title: "Minneapolis Vegan Restaurants | 50+ Plant-Based Spots to Eat Now",
+  description: "Looking for vegan food in Minneapolis? Browse 50+ restaurants with real reviews, hours, photos, and maps. From The Herbivorous Butcher to Ethiopian cuisine. Find your next meal.",
   keywords: [
     "vegan restaurants Minneapolis",
     "Twin Cities vegan restaurants directory",
@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Minneapolis Vegan Restaurants | 70+ Plant-Based Spots to Eat Now",
-    description: "Looking for vegan food in Minneapolis? Browse 70+ restaurants with real reviews, hours, photos, and maps. From The Herbivorous Butcher to Ethiopian cuisine.",
+    title: "Minneapolis Vegan Restaurants | 50+ Plant-Based Spots to Eat Now",
+    description: "Looking for vegan food in Minneapolis? Browse 50+ restaurants with real reviews, hours, photos, and maps. From The Herbivorous Butcher to Ethiopian cuisine.",
     url: 'https://mplsvegan.com',
     siteName: "Minneapolis Vegan Directory",
     locale: 'en_US',
@@ -67,8 +67,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Minneapolis Vegan Restaurants | 70+ Plant-Based Spots to Eat Now",
-    description: "Looking for vegan food in Minneapolis? Browse 70+ restaurants with real reviews, hours, photos, and maps. Find your next meal.",
+    title: "Minneapolis Vegan Restaurants | 50+ Plant-Based Spots to Eat Now",
+    description: "Looking for vegan food in Minneapolis? Browse 50+ restaurants with real reviews, hours, photos, and maps. Find your next meal.",
     images: ['/og-image.png'],
   },
   robots: {

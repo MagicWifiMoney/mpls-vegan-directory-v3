@@ -71,6 +71,25 @@ export async function POST(request: NextRequest) {
     console.log(`[Newsletter] Successfully subscribed: ${email}`);
 
     return NextResponse.json(
+
+    // Discord notification (fire-and-forget)
+    const _dw = process.env.DISCORD_WEBHOOK_URL;
+    if (_dw) {
+      fetch(_dw, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          embeds: [{
+            title: '🌱 New MPLSVegan Subscriber',
+            color: 3978097,
+            fields: [
+              { name: 'Email', value: email.replace(/(.{2}).*(@.*)/, '***$2'), inline: true },
+            ],
+            footer: { text: new Date().toLocaleString('en-US', { timeZone: 'America/Chicago' }) + ' CT' }
+          }]
+        }),
+      }).catch(() => {});
+    }
       { 
         message: 'Welcome to the family! Check your inbox for confirmation. 🌱',
         subscribed: true,

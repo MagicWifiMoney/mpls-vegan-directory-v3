@@ -1283,6 +1283,12 @@ export const restaurants: Restaurant[] = [
 ];
 
 // Helper functions
+export function isClosedRestaurant(r: Restaurant): boolean {
+  return r.name.includes('(Closed)');
+}
+
+export const activeRestaurants: Restaurant[] = restaurants.filter(r => !isClosedRestaurant(r));
+
 export function getRestaurantBySlug(slug: string): Restaurant | undefined {
   return restaurants.find(r => r.slug === slug);
 }
