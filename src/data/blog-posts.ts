@@ -10702,6 +10702,523 @@ For weekend morning options, the [vegan brunch guide](/blog/best-vegan-brunch-mi
 `,
   },
 
+  {
+    slug: "best-vegan-brunch-minneapolis-2026",
+    title: "Best Vegan Brunch in Minneapolis 2026 — 8 Spots Worth the Wait",
+    description: "The definitive guide to vegan brunch in Minneapolis for 2026. From Dreamstate's new Lyn-Lake café to Reverie's full plant-based bar in Powderhorn — with what to order and what to skip.",
+    publishedAt: "2026-04-24",
+    updatedAt: "2026-04-24",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: [
+      "vegan brunch minneapolis",
+      "vegan brunch minneapolis 2026",
+      "best vegan brunch minneapolis",
+      "plant based brunch minneapolis",
+      "vegan breakfast minneapolis",
+      "vegan brunch spots minneapolis",
+      "minneapolis vegan brunch spots",
+    ],
+    readingTime: "8 min read",
+    tldr: "Best vegan brunch in Minneapolis 2026: Dreamstate Cafe (NEW — Lyn-Lake, all-day plant-based bar, yucca hash + avocado tomatillo toast), Reverie Cafe + Bar (Powderhorn, 100% vegan, best chorizo scramble in the city), Hard Times Cafe (Seward, legendary biscuits & gravy, cash only, no-frills), Seward Cafe (Seward, collectively owned, vegan pancakes + tofu scramble), French Meadow Bakery (Lyn-Lake, vegan-labeled pastries, best for groups), May Day Cafe (Powderhorn, neighborhood gem, rotating seasonal menu).",
+    faqs: [
+      {
+        question: "What is the best vegan brunch restaurant in Minneapolis in 2026?",
+        answer: "Reverie Cafe + Bar in Powderhorn remains the top pick for a fully vegan brunch experience — 100% plant-based menu, 20+ craft beers on tap, and food that holds its own without caveats. The chorizo scramble and cashew hollandaise are the dishes to order. For a newer option, Dreamstate Cafe on Lyndale Ave S in Lyn-Lake opened in December 2025 and is already one of the best all-day vegan spots in the city."
+      },
+      {
+        question: "Are there new vegan brunch spots in Minneapolis for 2026?",
+        answer: "Yes — Dreamstate Cafe (2558 Lyndale Ave S, Lyn-Lake) is the major new addition for 2026. Run by the same team behind Reverie Cafe, it opened in December 2025 and brings an all-day plant-based cafe and bar to the Lyn-Lake corridor. Weekend brunch includes yucca hash, avocado tomatillo toast, and a serious cocktail/mocktail program."
+      },
+      {
+        question: "What is the best vegan biscuits and gravy in Minneapolis?",
+        answer: "Hard Times Cafe at 2129 E Franklin Ave in Seward is the answer — mushroom gravy over fresh biscuits that has been the neighborhood standard for years. It's cash only, no frills, and absolutely worth it."
+      },
+      {
+        question: "Which vegan brunch spots in Minneapolis are best for groups?",
+        answer: "French Meadow Bakery in Lyn-Lake handles groups best — larger space, clearly labeled vegan menu, full bar, and free parking. Reverie Cafe + Bar in Powderhorn is good for medium-sized groups; it does get busy on weekend mornings."
+      },
+      {
+        question: "Do Minneapolis vegan brunch spots take reservations?",
+        answer: "Most don't — Hard Times, Seward Cafe, Modern Times, and Dreamstate are all walk-in. Reverie does not take reservations. J. Selby's in St. Paul accepts reservations for larger parties."
+      },
+    ],
+    relatedRestaurants: [
+      "dreamstate-cafe",
+      "reverie-cafe-bar",
+      "hard-times-cafe",
+      "seward-cafe",
+      "french-meadow",
+      "modern-times",
+      "may-day-cafe",
+      "j-selbys",
+    ],
+    relatedPosts: [
+      "best-vegan-restaurants-minneapolis-2026",
+      "vegan-restaurants-uptown-minneapolis",
+      "vegan-patio-dining-minneapolis",
+      "vegan-date-night-minneapolis",
+      "northeast-minneapolis-vegan-guide",
+    ],
+    content: `
+## Vegan Brunch in Minneapolis Has Never Been Better
+
+Minneapolis takes weekend brunch seriously, and in 2026 the plant-based side of that equation has genuinely caught up. You are no longer searching for the one restaurant that "can probably do something." You are choosing between fully vegan menus, collectively owned neighborhood institutions, and a brand-new café from the team that already runs one of the city's best plant-based spots.
+
+Here are the eight brunch spots worth your time this year — organized by neighborhood, with honest takes on what to order and what to skip.
+
+---
+
+## Lyn-Lake
+
+### Dreamstate Cafe — The Best New Vegan Brunch Spot in Minneapolis
+
+**2558 Lyndale Ave S | $$**
+
+Dreamstate opened in December 2025 at the corner of 26th Street and Lyndale Avenue, and it has already become one of the most talked-about plant-based openings in recent Minneapolis memory. The team behind it — Kristin Wiegmann and Jeff Therkelsen — also run Reverie Cafe in Powderhorn, which tells you exactly what to expect: serious food, a real bar program, and a staff that knows the menu cold.
+
+Weekend brunch at Dreamstate is the kind you linger over. The **yucca hash** is crispy and satisfying in a way that cheap hash browns never are. The **avocado tomatillo toast** takes the tired category and makes it interesting again — the tomatillo brings brightness that cuts through the richness. The cocktail and mocktail program is worth exploring; the bar team treats non-alcoholic drinks with the same attention as the boozy ones.
+
+The space itself — moody, neighborhood-cool, plant-filled — fits Lyn-Lake perfectly. Arrive early on weekends; the word is out.
+
+**What to order:** Yucca Hash, Avocado Tomatillo Toast, House Cocktails (or mocktails)
+
+---
+
+### French Meadow Bakery — Most Reliable for Groups
+
+**2610 Lyndale Ave S | $$**
+
+French Meadow is the neighborhood's all-day anchor and the easiest pick when you're feeding a mixed crowd. The vegan options are extensive and clearly labeled — grain bowls, wraps, pastries, smoothies — and the patio is one of the larger outdoor setups in Uptown/Lyn-Lake. Free parking behind the building, which is genuinely rare in this neighborhood.
+
+This isn't a destination brunch spot in the way Reverie or Dreamstate is. But it is extremely reliable, and reliability matters when you're coordinating brunch for seven people with different dietary needs.
+
+**What to order:** Grain bowls, vegan pastries from the case, oat milk latte
+
+---
+
+## Powderhorn
+
+### Reverie Cafe + Bar — Best Overall
+
+**2506 Minnehaha Ave | $$**
+
+Reverie is still the flagship. The fully vegan menu runs from breakfast through late afternoon, the bar has 20+ craft beers on tap, and the food has the kind of confidence that only comes from not hedging. The **chorizo scramble** is the dish — spiced, properly textured plant-based chorizo with scrambled tofu, peppers, and salsa verde. The **cashew hollandaise** on their breakfast dishes is better than most egg-based versions.
+
+Weekend mornings get busy. Plan for a wait or arrive before 10am.
+
+**What to order:** Chorizo Scramble, Dark Chocolate Beignets, anything with Cashew Hollandaise
+
+---
+
+### Modern Times Cafe — Worker-Owned, Consistent
+
+**3200 Chicago Ave | $**
+
+Modern Times is a worker-owned cooperative with a vegetarian menu and strong vegan options throughout. The vibe is unpretentious and community-focused — regulars get greeted by name, the coffee is good, and the tofu scrambles are honest. Not the most exciting brunch in the city, but consistently good and always affordable.
+
+**What to order:** Tofu Scramble, Pancakes, Strong drip coffee
+
+---
+
+## Seward
+
+### Hard Times Cafe — The Legend
+
+**2129 E Franklin Ave | $**
+
+Hard Times does not have a welcoming website or a polished Instagram presence. What it has is the best vegan biscuits and gravy in Minneapolis, and a reputation built over decades of feeding the Seward neighborhood without pretense. Cash only. Punk-rock diner energy. The mushroom gravy over fresh biscuits is the order and it has been the order for years.
+
+Come hungry. Bring cash. That's the whole playbook.
+
+**What to order:** Biscuits and Gravy (vegan), Hash Browns
+
+---
+
+### Seward Cafe — Collectively Owned Since 1974
+
+**2129 E Franklin Ave | $**
+
+Seward Cafe has been collectively run for over fifty years and it shows — in the community bulletin boards, the mismatched furniture, the regulars who treat it like a second living room. The vegan pancakes are fluffy and can be loaded with blueberries, chocolate chips, or tahini. The Earth breakfast (hash browns base with scrambled tofu) is the workhorse order. Everything is affordable.
+
+**What to order:** Vegan Pancakes, Earth Breakfast with tofu scramble
+
+---
+
+## May Day Cafe — Powderhorn Gem
+
+**3440 Bloomington Ave | $**
+
+May Day Cafe is the neighborhood cafe that Powderhorn deserves — relaxed, community-rooted, and genuinely good. The menu is seasonal and changes regularly, but there are always strong vegan options for brunch. The coffee is excellent. The space is quiet enough to actually have a conversation.
+
+Worth knowing if you're in the neighborhood or want to avoid the weekend rush at Reverie.
+
+---
+
+## Saint Paul (Worth the Drive)
+
+### J. Selby's — 100% Vegan Upscale Brunch
+
+**169 Victoria St N, Saint Paul | $$**
+
+Technically across the river, but J. Selby's is worth mentioning because the vegan brunch here — Crunchwrap, fried mushroom wings, bottomless mimosas, and dairy-free shakes — is the most indulgent plant-based brunch experience in the metro. If you want a full-production weekend event rather than a neighborhood diner situation, this is your spot.
+
+**What to order:** Dirty Double Burger, Crunchwrap, Bottomless Mimosas (weekends)
+
+---
+
+## Practical Notes
+
+**Getting there:** Seward and Powderhorn are easy to park in on weekends. Lyn-Lake and Uptown are harder — use the French Meadow lot or plan to walk from a side street.
+
+**Best timing:** Before 10am or after 1pm cuts waits at the popular spots. Hard Times and Seward Cafe move faster than you'd expect even when busy.
+
+**New in 2026:** Dreamstate Cafe is the biggest addition to the Minneapolis vegan brunch scene this year. If you haven't been, make it a priority.
+
+Browse the full [Minneapolis vegan restaurant directory](/restaurants) or check our [guide to vegan date night dining](/blog/vegan-date-night-minneapolis) for evening options.
+    `,
+  },
+
+  {
+    slug: "vegan-restaurants-with-patio-minneapolis",
+    title: "Best Vegan Restaurants with a Patio in Minneapolis (2026)",
+    description: "Minneapolis patio season is here. Find the best vegan restaurants with outdoor seating across Uptown, Lyn-Lake, Seward, and Northeast for spring and summer 2026.",
+    publishedAt: "2026-04-24",
+    updatedAt: "2026-04-24",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: [
+      "vegan restaurants with patio minneapolis",
+      "vegan restaurants with patio mpls",
+      "vegan patio dining minneapolis",
+      "outdoor vegan dining minneapolis",
+      "vegan restaurants outdoor seating minneapolis",
+      "best vegan patio minneapolis",
+      "minneapolis vegan patio 2026",
+    ],
+    readingTime: "7 min read",
+    tldr: "Best vegan restaurants with a patio in Minneapolis: French Meadow Bakery (Lyn-Lake, biggest patio, full bar, free parking), Namaste Cafe (Uptown, Victorian house patio, organic Indian), Seward Cafe (Seward, garden patio, affordable brunch), Reverie Cafe + Bar (Powderhorn, 100% vegan, small but quality outdoor seating), Victors 1959 Cafe (South Mpls, colorful Cuban patio, tropical juices), Pizza Luce (multiple locations, large patios, excellent vegan cheese).",
+    faqs: [
+      {
+        question: "Which vegan restaurants in Minneapolis have the best patios?",
+        answer: "French Meadow Bakery in Lyn-Lake has the largest and most reliable patio — it's spacious, has a full bar, and the vegan menu is extensive. Namaste Cafe in Uptown has the most charming outdoor setting, occupying a converted Victorian house with a shaded patio on Hennepin Avenue."
+      },
+      {
+        question: "When do Minneapolis restaurant patios open?",
+        answer: "Most patios open in April when weather allows, with consistent operations from May through September. Some spots with heat lamps or covered areas extend into October or November. Always check current conditions — Minnesota spring weather is unpredictable."
+      },
+      {
+        question: "Are there 100% vegan restaurants with patios in Minneapolis?",
+        answer: "Yes — Reverie Cafe + Bar in Powderhorn is fully vegan and has outdoor seating during warm months. Seward Cafe (vegetarian, extensive vegan options) has a garden patio. For casual outdoor dining, Francis Burger Joint in Northeast Minneapolis is plant-based with summer outdoor seating."
+      },
+      {
+        question: "Which Minneapolis neighborhoods have the best vegan patio dining?",
+        answer: "Uptown and Lyn-Lake have the highest concentration of patio restaurants with strong vegan options. Seward and Powderhorn have excellent worker-owned and community-focused spots with garden patios. Northeast Minneapolis has casual outdoor options near the brewery district."
+      },
+      {
+        question: "Is there vegan patio dining in Northeast Minneapolis?",
+        answer: "Yes — Francis Burger Joint is fully plant-based with outdoor seating in the summer. Several NE breweries (Bauhaus, Fair State) also have outdoor areas where food trucks, some of which are vegan, rotate during the season."
+      },
+    ],
+    relatedRestaurants: [
+      "french-meadow",
+      "namaste-cafe",
+      "seward-cafe",
+      "reverie-cafe-bar",
+      "victors-1959",
+      "pizza-luce",
+      "francis-burger-joint",
+    ],
+    relatedPosts: [
+      "best-vegan-brunch-minneapolis-2026",
+      "vegan-date-night-minneapolis",
+      "vegan-restaurants-uptown-minneapolis",
+      "northeast-minneapolis-vegan-guide",
+      "best-vegan-restaurants-minneapolis-2026",
+    ],
+    content: `
+## Minneapolis Patio Season Is Here — Where to Eat Vegan Outside
+
+After months of cold, Minneapolis patio season is the collective exhale the city earns every spring. When the patios open, the whole city migrates outside — and if you eat plant-based, you don't have to compromise to be part of it.
+
+These are the best vegan restaurants with outdoor seating in Minneapolis for 2026, organized by neighborhood.
+
+---
+
+## Lyn-Lake
+
+### French Meadow Bakery — Best Patio for Groups
+
+**2610 Lyndale Ave S | $$**
+
+French Meadow has the best setup for a long outdoor meal in Uptown/Lyn-Lake. The patio is spacious — actual outdoor restaurant territory, not a few folding chairs on concrete — and it gets sun most of the afternoon. The menu is completely labeled for vegan and gluten-free options, with strong choices at every point in the day: grain bowls and granola in the morning, hummus plates and wraps at lunch, pastries and smoothies whenever.
+
+The full bar makes this a natural destination for weekend outdoor dining that extends into early evening. Organic wine and beer selections pair well with the food.
+
+Free parking in the lot behind the restaurant. In this neighborhood, that's not nothing.
+
+**Best for:** Brunch, weekend lunch, or an early outdoor dinner with drinks
+**Patio details:** Large, partially shaded, open from spring through fall
+
+---
+
+### Namaste Cafe — Most Beautiful Outdoor Setting
+
+**1210 W Lake St, Uptown | $$**
+
+Namaste Cafe occupies a converted Victorian house on Lake Street in Uptown, and the patio is one of the most charming outdoor dining experiences in the city. It's shaded, well-maintained, and genuinely unhurried in a neighborhood that can feel frenetic on summer weekends.
+
+The menu is organic Indian and Nepali cuisine with clear vegan labeling throughout. The aloo bodi — spiced potatoes and black-eyed peas — is a perfect outdoor lunch dish. The tofu mango curry is consistently excellent. The chai alone is worth stopping in for on a warm afternoon.
+
+This is not a loud, crowded patio. It's the right place for a long lunch with good conversation.
+
+**Best for:** Relaxed weekend lunch, date afternoon, solo dining
+**Patio details:** Shaded, medium-sized, Victorian house garden setting
+
+---
+
+## Seward
+
+### Seward Cafe — Garden Patio, Affordable Brunch
+
+**2129 E Franklin Ave | $**
+
+Seward Cafe has been collectively owned and run for over fifty years, and the garden patio reflects the same ethos as the café itself — unpretentious, community-oriented, and genuinely good. It's a neighborhood patio rather than a destination patio, which is exactly what it should be.
+
+The vegan brunch options are strong — pancakes, tofu scrambles, hash browns, grain dishes — and the prices are some of the most affordable in the city. The patio fills up on sunny weekend mornings, but it moves quickly.
+
+If you live in Seward or Powderhorn and want outdoor brunch without the wait times and parking stress of Uptown, this is your spot.
+
+**Best for:** Vegan brunch, casual weekend morning, neighborhood regulars
+**Patio details:** Garden setting, moderate size, opens with weather
+
+---
+
+## Powderhorn
+
+### Reverie Cafe + Bar — 100% Vegan, Outdoor Seating
+
+**2506 Minnehaha Ave | $$**
+
+Reverie is the best fully vegan restaurant in Minneapolis, and it has outdoor seating in warm months. The patio is smaller than French Meadow or Seward — more intimate than expansive — but the food and bar program are strong enough that you'll want to stay for a while regardless of the square footage.
+
+The chorizo scramble and cashew hollandaise are the brunch anchors. The craft beer selection is one of the best in the neighborhood. Everything on the menu is 100% plant-based.
+
+Weekend mornings get busy. If you want outdoor seating specifically, arrive early or plan for a short wait.
+
+**Best for:** Weekend brunch, afternoon drinks with food, fully vegan experience
+**Patio details:** Small to medium, intimate, seasonal
+
+---
+
+## South Minneapolis
+
+### Victor's 1959 Cafe — Cuban Patio Vibes
+
+**3756 Grand Ave S | $$**
+
+Victor's is a Cuban cafe that has been a South Minneapolis institution for over twenty years, and the colorful outdoor seating area matches the energy of the interior — warm, festive, and genuinely distinctive. Several dishes are vegetarian or vegan by default: black beans and rice, plantain dishes, vegetable empanadas, and the pressed Cuban sandwich made with portobello mushroom.
+
+The fresh tropical juices — mango, guava, papaya — are the best in this part of the city. Weekend brunch brings Cuban-inspired breakfast dishes, and the casual outdoor setting makes it an easy, low-stress option.
+
+**Best for:** Weekend brunch, casual outdoor lunch, tropical juice and people-watching
+**Patio details:** Colorful, street-facing, casual seating
+
+---
+
+## Northeast Minneapolis
+
+### Francis Burger Joint — Plant-Based Bar Patio
+
+**1304 NE 4th St | $$**
+
+Francis Burger Joint is fully plant-based — burgers, wings, loaded fries, and a full bar — and has outdoor seating during the summer months. It's more casual bar-patio than garden-dining, which is exactly the right setting for what they're doing.
+
+The burgers are the reason to come. The loaded fries are worth adding. The bar program is solid. For a summer afternoon of outdoor plant-based eating in Northeast with a group, this is the most fun option in the neighborhood.
+
+**Best for:** Casual lunch or dinner, groups, Northeast bar crawl starting point
+**Patio details:** Bar patio, summer season, casual
+
+---
+
+## The Big Picture: Patio Season Planning
+
+Minneapolis patio season officially runs from roughly **May through September**, with the sweet spot being June through August. April and October are variable — some spots open when it's warm enough, others wait for consistent temperatures.
+
+**Practical tips:**
+- Check Instagram before you go — most restaurants post when patios open for the season
+- Seward and Powderhorn are easiest for parking on weekends; Uptown and Lyn-Lake are harder
+- Heat lamps extend the season at some spots into October — ask when you call
+
+For more outdoor-friendly options, see our [full restaurant directory](/restaurants) and filter by neighborhood. Our [vegan brunch guide](/blog/best-vegan-brunch-minneapolis-2026) covers many of these same spots from a morning dining angle.
+    `,
+  },
+
+  {
+    slug: "vegan-food-trucks-minneapolis-2026",
+    title: "Vegan Food Trucks in Minneapolis: 2026 Season Guide",
+    description: "The best vegan food trucks in Minneapolis for the 2026 season — where to find them, what to order, and which markets they rotate through. Updated for the new season.",
+    publishedAt: "2026-04-24",
+    updatedAt: "2026-04-24",
+    author: "Mia & Jay",
+    category: "Guide",
+    tags: [
+      "vegan food trucks minneapolis",
+      "vegan food truck minneapolis 2026",
+      "vegan food trucks twin cities",
+      "plant-based food trucks minneapolis",
+      "minneapolis food trucks vegan",
+      "vegan street food minneapolis",
+      "twin cities vegan food trucks 2026",
+    ],
+    readingTime: "7 min read",
+    tldr: "Best vegan food trucks Minneapolis 2026: Sticky's Vegan Kitchen (Korean-inspired bowls and wings, gochujang sauce, Northeast and markets rotation), Plant Power Eats (Mexican street food, jackfruit carnitas, Mill City Farmers Market Saturdays), Green Wheel Organics (seasonal grain bowls, health-focused). Best markets: Mill City Farmers Market (Saturdays June–Oct), Northeast Farmers Market (Sundays). Best truck event: Twin Cities Veg Fest (September).",
+    faqs: [
+      {
+        question: "Are there any fully vegan food trucks in Minneapolis?",
+        answer: "Yes — Sticky's Vegan Kitchen and Plant Power Eats are fully plant-based. Green Wheel Organics is predominantly vegan with some honey-based items. The truck landscape changes each season, so follow individual trucks on Instagram for the most current information."
+      },
+      {
+        question: "Where can I find vegan food trucks in Minneapolis?",
+        answer: "The best consistent spots are the Mill City Farmers Market (Saturdays, 8am–1pm, June through October) and the Northeast Farmers Market (Sundays, summer season). Several trucks also rotate through Northeast Minneapolis and office parks near downtown during weekday lunch."
+      },
+      {
+        question: "When does the Minneapolis food truck season start in 2026?",
+        answer: "Most trucks begin operations in May, with consistent outdoor schedules running from June through August. Some operate year-round at indoor markets or have brick-and-mortar locations that supplement their truck schedule."
+      },
+      {
+        question: "What is the best vegan food truck event in Minneapolis?",
+        answer: "Twin Cities Veg Fest, held annually in September, is the biggest concentration of vegan food trucks and vendors in the region — plus local restaurants, samples, and programming. Worth planning around if you're in the area."
+      },
+      {
+        question: "How do I track where vegan food trucks are in Minneapolis?",
+        answer: "Follow the trucks directly on Instagram — most post weekly or daily schedules there. The Twin Cities Mobile Food Vendors Association website also tracks registered truck locations. For major markets, check the market's own website or social media for the rotating vendor list."
+      },
+    ],
+    relatedRestaurants: [
+      "herbivorous-butcher",
+      "reverie-cafe-bar",
+      "francis-burger-joint",
+      "foxy-falafel",
+    ],
+    relatedPosts: [
+      "best-vegan-brunch-minneapolis-2026",
+      "vegan-restaurants-with-patio-minneapolis",
+      "northeast-minneapolis-vegan-guide",
+      "best-vegan-restaurants-minneapolis-2026",
+    ],
+    content: `
+## Minneapolis Vegan Food Trucks: 2026 Season
+
+Minneapolis food truck culture is real and the vegan options have gotten legitimately good. Part of this is the Midwest work ethic — if you're going to run a truck, you run it right. Part of it is the local food community, which has been supportive of plant-based operations for well over a decade.
+
+The outdoor season officially runs from May through October, with the best window being June through August. Here's what's worth tracking down in 2026.
+
+---
+
+## The Trucks to Know
+
+### Sticky's Vegan Kitchen — Best Overall
+
+The most consistent vegan truck on the Minneapolis rotation. Sticky's runs a tight, focused menu: Korean-inspired bowls, "wings" with housemade sauces, and rice plates built for people who are actually hungry.
+
+The bibimbap bowl is the flagship order — properly seasoned, generously portioned, with components that work together rather than just coexisting on the plate. The gochujang-based wing sauce is the reason regulars follow this truck across the city. It's made in-house with fermented depth that most fast-casual places fake with added sweeteners.
+
+**What to order:** Bibimbap Bowl, Gochujang Wings, Seasonal Rice Plate
+
+**Where to find them:** Northeast Minneapolis, Eat Street corridor, rotating markets — check their Instagram for weekly schedule
+
+---
+
+### Plant Power Eats — Best Mexican Vegan Street Food
+
+A newer operation that has earned its spot. Plant Power runs Mexican-leaning street food: tacos, burritos, elotes. The jackfruit carnitas are done correctly — braised long enough to have actual texture variation, not just shredded jackfruit dropped on a tortilla.
+
+The al pastor tacos use real achiote marinade and they let it do its job. The elotes (Mexican street corn) are one of the better side dishes on any truck in the city.
+
+Look for them at the Mill City Farmers Market on Saturdays and at Northeast markets throughout the summer.
+
+**What to order:** Al Pastor Tacos, Jackfruit Carnitas Burrito, Elotes
+
+**Where to find them:** Mill City Farmers Market (Saturdays), Northeast markets, rotating locations
+
+---
+
+### Green Wheel Organics — Best for Health-Focused Eating
+
+More intentional than indulgent — grain bowls, smoothies, lighter fare. This is the truck for the 11am crowd who wants food that won't make them regret it later. Nothing on the menu is particularly bold, but the ingredient quality is consistently high.
+
+The seasonal grain bowl changes monthly and is worth ordering wherever you start. They source locally when possible and it shows in the produce.
+
+**What to order:** Seasonal Grain Bowl, Build-Your-Own Smoothie
+
+**Where to find them:** Northeast markets, various office park locations weekday lunch — check Instagram
+
+---
+
+## The Farmers Markets (Where Multiple Trucks Congregate)
+
+### Mill City Farmers Market
+
+**Location:** 704 S 2nd St, Minneapolis (along the river)
+**When:** Saturdays, 8am–1pm, June through October
+
+The best single stop for plant-based eating in Minneapolis during the summer. Multiple vegan-friendly trucks rotate here each week alongside produce vendors, prepared food booths, and local makers. Plant Power Eats is a consistent Saturday fixture. Check the market's website for the current week's truck lineup before you go.
+
+Bonus: the riverfront setting is worth the trip even without a specific truck in mind.
+
+---
+
+### Northeast Farmers Market
+
+**Location:** 2nd Street NE
+**When:** Sundays, summer season
+
+Northeast's food culture in mobile form. Sticky's rotates here regularly, and several other plant-friendly trucks appear throughout the season. More casual than Mill City — arrive early for the best selection.
+
+---
+
+### Midtown Farmers Market
+
+**Location:** 2225 E Lake St (Elliot Park)
+**When:** Tuesdays and Saturdays, June through October
+
+Midtown is the market closest to the heart of South Minneapolis. Fewer trucks than Mill City, but the produce selection is outstanding and several vendors have vegan prepared foods. Worth combining with a walk through the neighborhood.
+
+---
+
+## The Annual Event: Twin Cities Veg Fest
+
+If you're serious about vegan food in the Twin Cities, **Twin Cities Veg Fest** in September is the one event to know. It brings together the highest concentration of vegan food trucks and local restaurant pop-ups in the region, plus samples, local makers, and programming.
+
+The exact date and location shift year to year — check Twin Cities Veg Fest's website or Instagram for 2026 details as the summer approaches. It's worth planning around.
+
+---
+
+## Weekday Lunch: The Downtown and Office Park Circuit
+
+During weekday lunch hours, several vegan-friendly trucks rotate through the Nicollet Mall area and office parks near downtown. The selection changes daily and tends to be lighter on fully vegan options than the markets — but it's worth checking if you work near downtown and want a plant-based truck lunch.
+
+Most trucks post their weekly schedule on Instagram. If there's a specific truck you want to catch on a weekday, that's the most reliable way to track them.
+
+---
+
+## Practical Notes for Truck Hunting
+
+**Follow before you go.** Every truck worth tracking posts its weekly or daily schedule on Instagram. Following the truck is the single most reliable way to know where they'll be. Don't show up at a market expecting a specific truck without confirming first.
+
+**Arrive early at markets.** The best trucks at Mill City and Northeast sell out of popular items by noon. Before 10am is ideal.
+
+**Trucks change year to year.** The food truck landscape is inherently unstable. New ones launch, existing ones go brick-and-mortar, schedules shift. What's listed here is current for spring 2026 — verify before planning around a specific truck.
+
+**Check the Twin Cities Mobile Food Vendors Association** website for a current directory of registered trucks and their typical locations.
+
+---
+
+For sit-down plant-based options when the trucks are between locations, our [vegan restaurant directory](/restaurants) covers the full Minneapolis scene. Our [patio dining guide](/blog/vegan-restaurants-with-patio-minneapolis) covers the best outdoor vegan restaurant options for summer.
+    `,
+  },
+
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
