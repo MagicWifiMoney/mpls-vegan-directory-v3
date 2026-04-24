@@ -4177,14 +4177,14 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
   {
     slug: "best-vegan-pizza-minneapolis",
     title: "Best Vegan Pizza in Minneapolis (2026): Every Spot with Dairy-Free Cheese, Ranked",
-    description: "Pizza Lucé makes house-made vegan mozzarella that actually melts and stretches — the best dairy-free cheese in the Midwest. Plus coal-fired Black Sheep, late-night delivery until 3am, and 7 spots ranked. Minneapolis vegan pizza guide, updated 2026.",
+    description: "6 Minneapolis pizza spots with real vegan cheese—ranked. Pizza Lucé's house-made vegan mozzarella melts and stretches. Parkway Pizza has a full dedicated vegan menu with Herbivorous Butcher meats. Coal-fired Black Sheep. Late-night until 3am. Updated April 2026.",
     publishedAt: "2026-02-17",
-    updatedAt: "2026-03-25",
+    updatedAt: "2026-04-23",
     author: "Mia & Jay",
     category: "Guide",
     tags: ["vegan pizza", "minneapolis", "dairy-free", "pizza", "plant-based", "2026"],
-    readingTime: "8 min read",
-    tldr: "Best vegan pizza in Minneapolis: Pizza Lucé (best overall—house-made vegan cheese that actually stretches, late-night delivery), Black Sheep Pizza (best coal-fired crust), Galactic Pizza (best delivery + eco-friendly), and Herbivorous Butcher pepperoni on homemade pies. Don't sleep on the Baked Potato Pizza at Pizza Lucé—it's a local legend.",
+    readingTime: "10 min read",
+    tldr: "Best vegan pizza in Minneapolis: Pizza Lucé (best overall — house-made vegan cheese that actually stretches, late-night delivery), Black Sheep Pizza (best crust, coal-fired), Parkway Pizza (best dedicated vegan menu — Herbivorous Butcher meats + full vegan toppings list, Longfellow + NE locations), Pizza Karma (best late-night, open until 3am in Dinkytown), Red Wagon Pizza (best wood-fired, HB collab), Wrecktangle Pizza (best Roman-style, Uptown). Don't sleep on the Baked Potato Pizza at Pizza Lucé — it's a local legend.",
     faqs: [
       {
         question: "What is the best vegan pizza in Minneapolis?",
@@ -4192,7 +4192,7 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
       },
       {
         question: "Which Minneapolis pizza places have vegan cheese?",
-        answer: "Pizza Lucé, Black Sheep Pizza, and Pizza Karma all offer vegan cheese. Pizza Lucé makes their own vegan mozzarella and ricotta in-house (the best in the city). Black Sheep and Pizza Karma use Daiya or other dairy-free cheese brands. All three clearly label vegan options on their menus."
+        answer: "Six Minneapolis spots offer vegan cheese: Pizza Lucé (house-made vegan mozzarella + ricotta, the best in the city), Parkway Pizza (full dedicated vegan menu with Follow Your Heart cheese and Herbivorous Butcher meats), Black Sheep Pizza (vegan cheese on any pie), Pizza Karma (dairy-free cheese clearly labeled), Red Wagon Pizza (vegan cheese available, Herbivorous Butcher collab), and Wrecktangle Pizza (vegan options including Phony 'Roni). All clearly label vegan options on their menus."
       },
       {
         question: "Can I get vegan pizza delivered in Minneapolis?",
@@ -4204,7 +4204,7 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
       },
       {
         question: "Where can I get vegan pizza near me in Minneapolis?",
-        answer: "Pizza Lucé has 7 locations across Minneapolis and the Twin Cities (downtown, Uptown, Seward, Northeast, Duluth, St. Louis Park, and Rochester). Black Sheep Pizza is in North Loop and Northeast. Pizza Karma is in Dinkytown near the U of M campus. All three have vegan cheese options."
+        answer: "Minneapolis has vegan pizza all across the city. Pizza Lucé has 7 metro locations (downtown, Uptown, Seward, Northeast, St. Louis Park, Rochester, Duluth). Parkway Pizza is in Longfellow (4359 Minnehaha Ave) and Northeast (2851 Johnson St NE). Black Sheep Pizza is in North Loop and Northeast. Pizza Karma is in Dinkytown near the U of M. Wrecktangle Pizza is in Uptown (703 W Lake St). Red Wagon Pizza is in Southwest Minneapolis (Penn Ave S)."
       },
       {
         question: "Is there gluten-free vegan pizza in Minneapolis?",
@@ -4212,34 +4212,35 @@ For more sweet spots, check our [vegan bakeries guide](/blog/vegan-bakeries-minn
       },
       {
         question: "What vegan pizza toppings are available in Minneapolis?",
-        answer: "Minneapolis pizza places offer extensive vegan toppings: artichokes, sun-dried tomatoes, kalamata olives, roasted red peppers, mushrooms, roasted garlic, arugula, cherry tomatoes, potatoes, and seasonal vegetables. Pizza Lucé also has vegan pepperoni and sausage available. The Herbivorous Butcher sells vegan pepperoni you can use at home."
+        answer: "Minneapolis pizza places offer extensive vegan toppings: artichokes, sun-dried tomatoes, kalamata olives, roasted red peppers, mushrooms, roasted garlic, arugula, cherry tomatoes, potatoes, and seasonal vegetables. Pizza Lucé has vegan pepperoni, sausage, and ricotta. Parkway Pizza carries a full lineup of Herbivorous Butcher meats — vegan pepperoni, sausage, hamburger, and chicken. The Herbivorous Butcher also sells meats retail so you can build at home."
       },
       {
         question: "Can I order vegan pizza late at night in Minneapolis?",
         answer: "Yes! Pizza Lucé is open until 2am most nights and delivers late with their full vegan menu including house-made vegan cheese. Pizza Karma in Dinkytown is open until 3am Thursday through Saturday. Both have full vegan options available during late-night hours."
       }
     ],
-    relatedRestaurants: ["pizza-luce", "black-sheep-pizza", "herbivorous-butcher", "pizza-karma"],
+    relatedRestaurants: ["pizza-luce", "black-sheep-pizza", "herbivorous-butcher", "pizza-karma", "parkway-pizza", "red-wagon-pizza"],
     relatedPosts: ["best-vegan-restaurants-minneapolis-2026", "vegan-comfort-food-minneapolis", "vegan-date-night-minneapolis", "northeast-minneapolis-vegan-guide", "vegan-pizza-minneapolis"],
     content: `
-## Best Vegan Pizza in Minneapolis: Complete Guide (March 2026)
+## Best Vegan Pizza in Minneapolis: Complete Guide (April 2026)
 
 **Looking for vegan pizza in Minneapolis?** You're in the right city. Minneapolis has some of the best dairy-free pizza in the Midwest—and we're not talking about sad, plasticky cheese that doesn't melt.
 
-Pizza Lucé makes their own vegan mozzarella and ricotta in-house (it actually stretches). Black Sheep fires their pies in a coal oven with perfectly charred crust. And you can get both delivered late-night.
+Pizza Lucé makes their own vegan mozzarella and ricotta in-house (it actually stretches). Black Sheep fires their pies in a coal oven with perfectly charred crust. Parkway Pizza runs a full dedicated vegan menu loaded with Herbivorous Butcher meats. And you can get all of it delivered late-night.
 
-I've tried every vegan pizza spot in the Twin Cities. Here's where to order tonight.
+I've eaten at every vegan pizza spot in the Twin Cities. Here's where to order tonight.
 
 ---
 
 ## Quick Answer: Best Vegan Pizza Minneapolis
 
-**Best Overall:** [Pizza Lucé](/restaurants/pizza-luce) — house-made vegan cheese that melts, 7 Twin Cities locations, late-night delivery until 2am  
-**Best Crust:** [Black Sheep Pizza](/restaurants/black-sheep-pizza) — coal-fired, perfectly charred, North Loop + Northeast locations  
-**Best Late-Night:** Pizza Karma — open until 3am weekends, fire-roasted crust, Dinkytown  
+**Best Overall:** [Pizza Lucé](/restaurants/pizza-luce) — house-made vegan cheese that melts, 7 Twin Cities locations, late-night delivery until 2am
+**Best Crust:** [Black Sheep Pizza](/restaurants/black-sheep-pizza) — coal-fired, perfectly charred, North Loop + Northeast locations
+**Best Dedicated Vegan Menu:** Parkway Pizza — full vegan toppings list, Herbivorous Butcher meats, Longfellow + NE Minneapolis
+**Best Late-Night:** Pizza Karma — open until 3am weekends, fire-roasted crust, Dinkytown
+**Best Wood-Fired:** Red Wagon Pizza — Herbivorous Butcher collab, Southwest Minneapolis
+**Best Roman-Style:** Wrecktangle Pizza — Detroit/Roman-style, Uptown
 **Best DIY:** [Herbivorous Butcher](/restaurants/herbivorous-butcher) pepperoni on homemade pies
-
-**All three spots have clearly labeled vegan options. Pizza Lucé's house-made cheese is the best dairy-free cheese in the Midwest.**
 
 ---
 
@@ -4289,53 +4290,92 @@ If Pizza Lucé wins on cheese, [Black Sheep](/restaurants/black-sheep-pizza) win
 - **Build your own with vegan cheese** — Mushrooms + roasted garlic + cherry tomatoes + arugula (added after baking)
 - **Margherita-style** with vegan mozz — Lets the crust be the star
 
-**The vibe:** North Loop industrial-chic. Great for groups where not everyone is vegan—the regular pizzas are excellent too, so nobody feels like they're at a "vegan place."
+**The vibe:** North Loop industrial-chic. Great for groups where not everyone is vegan — the regular pizzas are excellent too, so nobody feels like they're at a "vegan place."
 
 ---
 
-### #3: Pizza Karma — Best Budget and Late-Night Pick
+### #3: Parkway Pizza — Best Dedicated Vegan Menu
 
-**Dinkytown | $ | ⭐ 4.3**
+**Longfellow (4359 Minnehaha Ave) + NE Minneapolis (2851 Johnson St NE) | $$ | ⭐ 4.5**
 
-[Pizza Karma](/restaurants/pizza-karma) earns the third spot for doing something no other place on this list does: fire-roasted pizza with South Asian flavor influences, open until 3am on weekends, at student-friendly prices.
+Parkway Pizza is the most underrated vegan pizza in Minneapolis, and it's not close. While every other spot on this list treats vegan as an add-on, Parkway has built a *dedicated vegan menu* — not just "we have vegan cheese." We're talking full vegan meat lineup, vegan hoagies, vegan artichoke dip, and an entire section of the menu engineered for plant-based eaters.
+
+**Why they're a must-visit:**
+- **Follow Your Heart vegan cheese** — melts cleanly, better than most chain alternatives
+- **Full Herbivorous Butcher meat lineup** — vegan pepperoni, sausage, hamburger, and chicken on any pizza. This is the only Minneapolis pizza joint where you can load up a pie with multiple vegan meats.
+- Dedicated vegan artichoke dip (not just a dipping sauce — an actual appetizer)
+- Vegan hoagies on the menu
+- Two Minneapolis locations: Longfellow and Northeast
+- Gluten-free crust available (note: HB meats contain gluten)
+
+**The must-order:**
+
+🥇 **"The Vegevore"** — Their signature vegan pizza, stacked with Herbivorous Butcher meats. Get it if you want to understand what vegan pizza can be when a kitchen actually tries.
+
+🥈 **Build your own with all four HB meats** — Pepperoni + sausage + chicken + the artichoke dip base. This is a pizza that makes non-vegans confused about their life choices.
+
+**Who should go here:** Any vegan who has ever been disappointed by "vegan-friendly" pizza. This is the cure. Also: great for mixed groups because the regular pizza is genuinely excellent too.
+
+---
+
+### #4: Pizza Karma — Best Late-Night Pick
+
+**Dinkytown (409 14th Ave SE) | $ | ⭐ 4.3**
+
+[Pizza Karma](/restaurants/pizza-karma) earns its spot for doing something no other place on this list does: fire-roasted pizza with South Asian flavor influences, open until 3am on weekends, at student-friendly prices.
 
 **What makes them unique:**
-- **Dairy-free cheese** clearly labeled on the menu
+- **Dairy-free cheese** clearly labeled on the menu — no guessing required
 - Fire-roasted crust with notes of chili, cumin, and garam masala
-- Open until 3am Thursday through Saturday
+- **Open until 3am Thursday–Saturday** — the only late-night vegan pizza near the University
 - Most pies under $15
 - Vegan toppings called out across the board
 
 **Best vegan orders:**
-- Any pizza with dairy-free cheese (the fire-roast brings out great flavor on plant-based versions)
+- Any pizza with dairy-free cheese (the fire-roast brings out incredible flavor on plant-based versions)
 - Veggie-heavy pies where the South Asian spice profiles shine
 
-**Who should go here:** Anyone near the University of Minnesota, night owls, and fans of adventurous pizza flavor profiles that you won't find anywhere else in the city.
+**Who should go here:** University of Minnesota students, night owls, anyone who wants adventurous flavor profiles you won't find anywhere else in the city. This is not a place for a quiet date night — it's for a group of friends at 1am who want something cheap, delicious, and genuinely fun.
 
 *Note: Galactic Pizza, a longtime Lyn-Lake institution beloved for eco-friendly delivery by electric car, permanently closed in March 2024 after 20 years in business.*
 
 ---
 
-### Bonus: Pizza Karma — Best Late-Night Option (Dinkytown)
+### #5: Red Wagon Pizza — Best Wood-Fired
 
-**409 14th Ave SE, Dinkytown | $ | ⭐ 4.3**
+**Southwest Minneapolis (5416 Penn Ave S) | $$ | ⭐ 4.4**
 
-[Pizza Karma](/restaurants/pizza-karma) is a Dinkytown institution that doesn't fit neatly into any category — it's fire-roasted pizza with South Asian influences, and it's one of the most vegan-friendly pizza places in the city.
+Red Wagon Pizza doesn't shout about its vegan options, but it's quietly one of the best vegan pizza experiences in Southwest Minneapolis. They've done a dedicated collaboration with [The Herbivorous Butcher](/restaurants/herbivorous-butcher), putting HB's vegan meats on a wood-fired pizza that rivals anything in this guide.
 
-**Why they're worth knowing:**
-- **Dairy-free cheese** clearly labeled on the menu — no guessing required
-- **Vegan toppings** called out across the board
-- Fire-roasted crust with Indian-inspired flavor profiles (chili, cumin, garam masala notes)
-- **Open until 3am Thursday–Saturday** — the only late-night vegan pizza in the University area
-- Student prices: most pizzas under $15
+**What makes them worth the trip:**
+- **Wood-fired oven** — the same char you get at Black Sheep, applied to a more classically American thin-crust style
+- **Herbivorous Butcher collab pizza** — vegan "sausage," "pepperoni," cashew ricotta, roasted tomatoes, kalamata olives, basil, chili agave. This is a serious pizza.
+- Seasonal vegan salad on the menu (carrot-ginger vinaigrette, crispy chickpeas, fresh herbs)
+- Neighborhood restaurant vibe — this is where Southwest Minneapolis locals go
 
-**Best vegan orders:**
-- Any pizza with dairy-free cheese substitution (they nail the fire-roast on plant-based versions)
-- Veggie-heavy pies where the South Asian spices shine most
+**Best vegan order:**
+The HB collab pizza, full stop. Ask your server if it's currently on the menu — it's been a regular feature but confirm when you visit.
 
-**Who should go here:** University of Minnesota students, anyone in Dinkytown past midnight, fans of adventurous flavor profiles. This is not a place for a quiet date night — it's for a group of friends at 1am who want something cheap, delicious, and genuinely fun.
+**The vibe:** Cozy neighborhood pizzeria. Better for a date night or a calm dinner than a loud night out. Wine list is solid.
 
-Not in the top 3 for daytime artisan pizza, but it holds a unique position in the Minneapolis vegan pizza scene that no other place fills.
+---
+
+### #6: Wrecktangle Pizza — Best Roman-Style
+
+**Uptown (703 W Lake St) | $$ | ⭐ 4.3**
+
+Wrecktangle serves Detroit/Roman-style rectangular pizza — thick, airy crust, crispy edges, generous toppings. The Uptown location is open and running a strong vegan menu. (Note: their original North Loop location is closed — go to Uptown or check their Malcolm Yards outpost.)
+
+**What makes them different:**
+- **Roman/Detroit-style crust** — thick and pillowy inside, crunchy outside. Different from every other spot on this list.
+- Vegan options including the crowd-favorite **"Phony 'Roni"** — vegan pepperoni style pizza that gets rave reviews
+- One of the most-reviewed vegan pizza spots on abillion (Minneapolis-specific vegan community ratings)
+- Also at Malcolm Yards food hall if you want the full market experience
+
+**Best vegan order:**
+Phony 'Roni. It's their signature vegan pizza and it delivers.
+
+**The vibe:** Casual, fun, great for groups. The thick crust is very filling — order one fewer pizza than you think you need.
 
 ---
 
@@ -4344,7 +4384,7 @@ Not in the top 3 for daytime artisan pizza, but it holds a unique position in th
 Here's a move that most people don't think of: buy pepperoni from [The Herbivorous Butcher](/restaurants/herbivorous-butcher) and put it on your own pizza at home.
 
 **Why this works:**
-- Their pepperoni is *spicy, charred-edge, pizza perfection* (real quote from their menu)
+- Their pepperoni is *spicy, charred-edge, pizza perfection*
 - Pair it with store-bought vegan mozzarella (Miyoko's is the best for melting)
 - Use a cast iron skillet or pizza stone
 - Total cost: ~$8-10 for a pizza that rivals anything in this guide
@@ -4361,28 +4401,35 @@ Here's a move that most people don't think of: buy pepperoni from [The Herbivoro
 
 ## 📊 The Comparison Chart
 
-| Factor | Pizza Lucé | Black Sheep | Pizza Karma | DIY (HB Pepperoni) |
-|--------|-----------|-------------|-------------|-------------------|
-| **Cheese** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ (Miyoko's) |
-| **Crust** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **Delivery** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | N/A |
-| **Price** | $$ | $$ | $ | $ |
-| **Late Night** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **GF Option** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **Vibe** | Loud, fun | Industrial cool | Late-night casual | Your couch |
+| Factor | Pizza Lucé | Black Sheep | Parkway Pizza | Pizza Karma | Red Wagon | Wrecktangle |
+|--------|-----------|-------------|--------------|-------------|-----------|-------------|
+| **Cheese** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| **Crust** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Vegan Meat Options** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Delivery** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
+| **Price** | $$ | $$ | $$ | $ | $$ | $$ |
+| **Late Night** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
+| **GF Option** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ |
+| **Vibe** | Loud, fun | Industrial cool | Neighborhood gem | Late-night casual | Cozy date night | Casual groups |
 
 ---
 
 ## 🍕 Pizza Night Playbook
 
 ### Friday Night with Friends
-**Go to:** Pizza Lucé downtown → order 3-4 pizzas for the table → vegan ranch on the side → don't forget the Baked Potato Pizza
+**Go to:** Pizza Lucé downtown → order 3-4 pizzas → vegan ranch on the side → don't forget the Baked Potato Pizza
 
 ### Date Night Pizza
-**Go to:** Black Sheep North Loop → sit at the bar → watch the coal oven → share a bottle of wine + seasonal vegetable pizza
+**Go to:** Black Sheep North Loop → sit at the bar → watch the coal oven → share wine + seasonal vegetable pizza. Or: Red Wagon Pizza for a quieter Southwest vibe.
+
+### The Vegan Meat Lover Experience
+**Go to:** Parkway Pizza → order The Vegevore → add every Herbivorous Butcher meat available → bring a non-vegan and watch their brain reboot.
 
 ### Lazy Sunday Delivery
 **Order from:** Pizza Lucé → Baked Potato Pizza + any build-your-own with house-made vegan cheese → fastest vegan pizza delivery in the city
+
+### Thick Crust Night
+**Go to:** Wrecktangle Uptown → Phony 'Roni → be ready to be full after two slices
 
 ### Impress-Your-Non-Vegan-Friends Pizza
 **Make at home:** Herbivorous Butcher pepperoni + Miyoko's mozz on homemade dough → watch their minds explode
@@ -4391,29 +4438,33 @@ Here's a move that most people don't think of: buy pepperoni from [The Herbivoro
 
 ## The Bottom Line
 
-You don't have to sacrifice pizza to be vegan in Minneapolis. [Pizza Lucé](/restaurants/pizza-luce) is the best overall (that cheese!), [Black Sheep](/restaurants/black-sheep-pizza) has the best crust, and [Pizza Karma](/restaurants/pizza-karma) is the move when you're out late in Dinkytown and need something good and cheap.
+You don't have to sacrifice pizza to be vegan in Minneapolis. [Pizza Lucé](/restaurants/pizza-luce) is the best overall (that house-made cheese!), [Black Sheep](/restaurants/black-sheep-pizza) has the best crust, Parkway Pizza is the move if you want a dedicated vegan menu stacked with Herbivorous Butcher meats, and [Pizza Karma](/restaurants/pizza-karma) is your late-night Dinkytown answer at 1am.
 
-And when all else fails, [Herbivorous Butcher](/restaurants/herbivorous-butcher) pepperoni on a homemade pie might be the best vegan pizza of all.
+For wood-fired, Red Wagon. For thick Roman-style, Wrecktangle Uptown.
 
-Now stop reading and order a pizza.
+Minneapolis is not a city where vegans have to compromise on pizza. Now stop reading and order.
 
 ---
 
 ## Vegan Pizza by Minneapolis Neighborhood
 
-**Uptown / Lyn-Lake:** Pizza Lucé has a location on Hennepin Ave in Uptown. Easy walk from the Midtown Greenway.
+**Uptown / Lyn-Lake:** Pizza Lucé (Hennepin Ave location) or Wrecktangle Pizza (703 W Lake St). Both easy from the Midtown Greenway.
 
 **Downtown Minneapolis:** Pizza Lucé downtown is the go-to for after-show pizza and late-night delivery. Open until 2am most nights.
 
-**North Loop / Warehouse District:** Black Sheep Pizza in North Loop is the pick. Coal-fired, excellent vibe, steps from Target Field.
+**North Loop / Warehouse District:** Black Sheep Pizza — coal-fired, excellent vibe, steps from Target Field.
 
-**Northeast Minneapolis:** Black Sheep has a Northeast location too. Great spot after a gallery crawl on Northeast Minneapolis Art District Saturdays.
+**Northeast Minneapolis:** Black Sheep NE or Parkway Pizza NE (2851 Johnson St NE) — Parkway is the better pick if you want vegan meats.
 
-**Dinkytown / Stadium Village:** Pizza Karma is the answer — 3am on weekends, South Asian-spiced crust, student prices.
+**Dinkytown / Stadium Village:** Pizza Karma — 3am on weekends, South Asian-spiced crust, student prices. Nowhere else comes close for late-night.
 
-**Seward / South Minneapolis:** Pizza Lucé Seward location covers this corridor. Same house-made vegan cheese, more neighborhood feels.
+**Longfellow / Minnehaha:** Parkway Pizza at 4359 Minnehaha Ave — the best dedicated vegan menu in South Minneapolis.
 
-**St. Paul:** Pizza Lucé has a Highland Park location. For vegan pizza in St. Paul, that's your best bet.
+**Southwest Minneapolis / Linden Hills:** Red Wagon Pizza (5416 Penn Ave S) — wood-fired, the HB collab pizza is worth the trip.
+
+**Seward / South Minneapolis:** Pizza Lucé Seward location — same house-made vegan cheese, more neighborhood feels.
+
+**St. Paul:** Pizza Lucé Highland Park. Parkway Pizza also has a St. Paul location.
 
 ---
 
