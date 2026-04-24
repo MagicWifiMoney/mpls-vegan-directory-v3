@@ -9933,121 +9933,269 @@ For more on where to eat and drink in Minneapolis as a vegan, explore the [MPLS 
 
   {
     slug: "best-vegan-bakeries-minneapolis",
-    title: "Best Vegan Bakeries in Minneapolis (2026 Guide)",
-    description: "The best vegan bakeries in Minneapolis — fully vegan spots and places where vegan pastries are actually good. Hark Bakery, Vegan East, French Meadow, and more.",
+    title: "Best Vegan Bakeries in Minneapolis (2026): From Sourdough to Donuts",
+    description: "The best vegan bakeries in Minneapolis — fully vegan spots, gluten-free options, and places where vegan pastries are actually great. Hark Bakery, Vegan East, Salty Tart, Lutunji's Palate, French Meadow, Sift, Glam Doll Donuts, and more.",
     publishedAt: "2026-04-16",
-    updatedAt: "2026-04-16",
+    updatedAt: "2026-04-24",
     author: "Mia & Jay",
     category: "Guide",
-    tags: ["vegan bakery minneapolis", "best vegan bakeries minneapolis", "vegan pastries minneapolis", "vegan gluten free bakery minneapolis", "plant based bakery minneapolis"],
-    readingTime: "5 min read",
-    tldr: "Best vegan bakeries in Minneapolis: Hark Bakery (fully vegan + gluten-free, NE Minneapolis, outstanding cookies and seasonal cakes), Vegan East Bakery (fully plant-based, St. Paul, the best vegan croissants and cinnamon rolls in the metro), French Meadow Bakery (not 100% vegan but extensive labeled vegan options, excellent sourdough), Sift Gluten Free (GF-focused with strong vegan overlap, best for cakes and cupcakes).",
+    tags: ["vegan bakery minneapolis", "best vegan bakeries minneapolis", "vegan pastries minneapolis", "vegan gluten free bakery minneapolis", "plant based bakery minneapolis", "vegan donuts minneapolis", "vegan cakes minneapolis", "vegan cinnamon rolls minneapolis"],
+    readingTime: "9 min read",
+    tldr: "Best vegan bakeries in Minneapolis: Hark! Cafe (North Loop — fully vegan AND gluten-free, Minneapolis's only dual-certified bakery), Vegan East Bakery (Longfellow — 100% vegan, legendary cinnamon rolls + custom cakes), Lutunji's Palate (Elliot Park — 100% vegan soul food bakery, peach cobbler + cashew cheezecake), Salty Tart (Midtown Global Market — vegan-friendly, rotating scones + seasonal galettes), Glam Doll Donuts (Lyn-Lake — punk-rock donuts with daily vegan flavors), French Meadow Bakery (Lyn-Lake — clearly labeled vegan pastries + sourdough since 1985), Sift Gluten Free (Longfellow — dedicated GF facility, excellent vegan cupcakes + donuts).",
     faqs: [
       {
         question: "Are there any fully vegan bakeries in Minneapolis?",
-        answer: "Yes — Hark Bakery (fully vegan and gluten-free, Northeast Minneapolis) and Vegan East Bakery (fully plant-based, St. Paul) are the two dedicated vegan bakeries in the metro. Both are worth the trip."
+        answer: "Yes — Minneapolis has three dedicated fully vegan bakeries: Hark! Cafe (430 First Ave N, North Loop — fully vegan and gluten-free), Vegan East Bakery (5501 34th Ave S, Longfellow — 100% plant-based), and Lutunji's Palate (1400 Park Ave, Elliot Park — 100% vegan soul food bakery). All three do custom cake orders."
       },
       {
-        question: "Where can I get vegan pastries in Minneapolis?",
-        answer: "Vegan East has the strongest vegan pastry program, particularly for laminated doughs (croissants, brioche-style items). Hark is excellent for cookies, bars, and cakes."
+        question: "What is the best vegan bakery in Minneapolis?",
+        answer: "Vegan East Bakery in Longfellow is widely considered Minneapolis's top dedicated vegan bakery for its legendary cinnamon rolls, custom celebration cakes, and scratch-made daily pastries. Hark! Cafe in the North Loop stands out as the city's only fully vegan AND gluten-free bakery — an essential stop for anyone navigating multiple dietary restrictions."
       },
       {
-        question: "Do Minneapolis bakeries do custom vegan cakes?",
-        answer: "Hark and Vegan East both do custom orders for cakes and events. French Meadow can accommodate vegan custom orders as well. Contact them directly for pricing and lead times."
+        question: "Where can I get vegan donuts in Minneapolis?",
+        answer: "Glam Doll Donuts on Nicollet Ave (Lyn-Lake) is the go-to for vegan donuts in Minneapolis — creative, rotating flavors like maple pecan and salted caramel, many of them vegan daily. Sift Gluten Free (Longfellow) makes vegan AND gluten-free donuts, including double chocolate that sell out early on weekends."
       },
       {
-        question: "What's a good vegan bakery option for breakfast in Minneapolis?",
-        answer: "French Meadow is the most practical for a sit-down breakfast with baked goods. For takeout or grab-and-go, Hark and Vegan East have morning pastries when they're open. For the full vegan breakfast experience, check our guide to vegan brunch in Minneapolis."
+        question: "Where can I order a vegan birthday or wedding cake in Minneapolis?",
+        answer: "Vegan East Bakery specializes in custom vegan cakes for birthdays, weddings, and events — showstopper designs with real flavor. Pre-orders required 1–2 weeks in advance via veganeast.com. Hark! Cafe and Lutunji's Palate also take custom cake orders. All three offer gluten-free options."
+      },
+      {
+        question: "Is there a vegan gluten-free bakery in Minneapolis?",
+        answer: "Yes — Hark! Cafe (430 First Ave N, North Loop) is Minneapolis's only fully vegan AND certified gluten-free bakery. Every item on the menu is free from both animal products and gluten. Sift Gluten Free (4557 Bloomington Ave) is a dedicated gluten-free facility with extensive vegan options clearly labeled throughout the case."
+      },
+      {
+        question: "What vegan pastries can I get in Minneapolis?",
+        answer: "Minneapolis has strong vegan pastry options across multiple spots: Vegan East Bakery for cinnamon rolls, cupcakes, and custom cakes; Salty Tart for rotating scones, galettes, and hand pies in the Midtown Global Market; French Meadow Bakery for vegan muffins, pastries, and sourdough with clear dietary labeling; and Glam Doll Donuts for creative vegan-friendly donuts."
+      },
+      {
+        question: "What's a good vegan bakery for breakfast in Minneapolis?",
+        answer: "French Meadow Bakery & Cafe (Lyn-Lake) is the most practical for a full sit-down vegan breakfast with baked goods — multiple Minneapolis and St. Paul locations, clearly labeled vegan pastries and breads. For grab-and-go, Hark! Cafe and Vegan East Bakery have morning pastries when open. Lutunji's Palate also serves vegan croissant breakfast sandwiches."
       }
     ],
-    relatedRestaurants: ["french-meadow", "herbivorous-butcher"],
-    relatedPosts: ["vegan-brunch-minneapolis", "best-vegan-restaurants-minneapolis-2026", "plant-based-restaurants-minneapolis", "best-vegan-pizza-minneapolis"],
+    relatedRestaurants: ["vegan-east-bakery", "hark-cafe", "lutunjis-palate", "salty-tart", "glam-doll-donuts", "french-meadow", "sift-gluten-free"],
+    relatedPosts: ["vegan-brunch-minneapolis", "best-vegan-restaurants-minneapolis-2026", "plant-based-restaurants-minneapolis", "best-vegan-pizza-minneapolis", "vegan-bakeries-minneapolis"],
     content: `
-## Best Vegan Bakeries in Minneapolis
+## Best Vegan Bakeries in Minneapolis (2026)
 
-Good vegan baked goods are harder to find than good vegan food. Savory cooking can hide a lot of substitutions. Baking can't. Butter, eggs, and dairy aren't just ingredients — they're structure, moisture, and fat that hold things together. Getting a croissant or a cinnamon roll right without any of them takes real skill.
+Good vegan baked goods are harder to find than good vegan food. Savory cooking can hide a lot of substitutions. Baking can't. Butter, eggs, and dairy aren't just ingredients — they're structure, moisture, and fat that hold the whole thing together. Getting a cinnamon roll or a croissant right without any of them takes real skill.
 
-Minneapolis has a few bakeries that have figured it out.
+Minneapolis has figured it out. Between a dedicated 100% vegan and gluten-free bakery in the North Loop, a Longfellow shop turning out legendary cinnamon rolls and showstopper custom cakes, a soul food baker in Elliot Park with a following for her peach cobbler and cashew cheezecake, and a punk-rock donut shop where the vegan flavors go fast on Saturday mornings — this city punches well above its weight for plant-based baked goods.
 
-This list focuses on places where vegan baked goods are either the whole operation or a genuine specialty — not a token muffin in a display case otherwise full of egg washes and butter.
-
----
-
-## Hark Bakery
-
-Hark is fully vegan and gluten-free, which is a combination that usually produces mediocre results at both. Hark is an exception. The pastries are actually good — not "good for vegan gluten-free," just good.
-
-The operation is small and the menu rotates, which keeps quality high and means you're getting what's fresh. Cookies, bars, cakes, and seasonal items that reflect what's available.
-
-**What to try:** The chocolate chip cookies are a reliable benchmark — if a bakery can do those well without butter or eggs, they know what they're doing. Hark does. The seasonal cakes are worth checking their social media for.
-
-**Location:** Northeast Minneapolis. Operates some days as a storefront, also available through online ordering and local pickup.
-
-**Heads up:** Hours are limited compared to a full-time bakery. Check their website or Instagram before making a trip.
+This guide covers every dedicated vegan bakery in Minneapolis plus the best vegan-friendly spots where the options are genuinely good, clearly labeled, and worth making a trip for.
 
 ---
 
-## Vegan East Bakery
+## 🏆 The Fully Vegan Bakeries
 
-Vegan East is a fully plant-based bakery in St. Paul that's developed a following for the kind of items that are usually hardest to do well without dairy: croissants, brioche, laminated doughs.
-
-The gap between vegan baked goods and conventional ones is smallest at Vegan East. If you've avoided vegan pastries because the texture is wrong — too dense, too dry, no flakiness — this is the bakery that might change your mind.
-
-**What to try:** The cinnamon rolls. The croissants if they have them that day. Whatever seasonal item is behind the counter — the bakers here experiment more than most.
-
-**Location:** St. Paul. Worth the trip from Minneapolis for the quality.
-
-**Heads up:** Sells out. Arriving early on weekends is not optional if you want the full selection.
+These three spots are 100% plant-based. Everything is vegan — no need to ask, no cross-contamination, no guessing.
 
 ---
 
-## French Meadow Bakery & Cafe
+## 🎂 1. Hark! Cafe — Minneapolis's Only Vegan + Gluten-Free Bakery
 
-French Meadow is a Minneapolis institution that predates the current vegan bakery trend by decades. It started as a bakery (sourdough, organic grains) and expanded into a full cafe, but the bakery roots are still visible in the quality of the bread and pastries.
+**North Loop | 430 First Ave N, Ste 150 | $**
 
-Not fully vegan, but the vegan options are clearly labeled and extensively developed. The bread program is the strongest part — their sourdough has a real crust and crumb, not the grocery store approximation of sourdough.
+**[Hark! Cafe](/restaurants/hark-cafe)** holds a singular position in Minneapolis's food scene: it's the city's first and only bakery that is simultaneously 100% vegan AND certified gluten-free. Every item in the case — pastries, cakes, cookies, bars — contains zero animal products and zero gluten. For anyone navigating both restrictions (or baking for someone who does), this is a lifeline.
 
-**What to try:** The bread first. A loaf of their sourdough or whole grain bread is the baseline. The vegan muffins and quick breads are also good; the quality of organic ingredients comes through in the flavor.
+But here's the thing: the food is good on its own terms, not just good "for vegan gluten-free." That qualifier shouldn't be necessary. At Hark, it isn't.
 
-**Location:** Multiple Minneapolis and St. Paul locations. The Lyndale Ave location is the original.
+**What to order:**
+- **Chocolate chip cookies** — The standard benchmark. Dense, chewy, properly chocolatey. These are why Hark has regulars.
+- **Seasonal cakes** — The rotation changes with what's available and what the bakers feel like making. Follow their Instagram for the current lineup before you show up.
+- **Bars and brownies** — Rich, properly textured, and you'd never guess they're free of both butter and flour.
+- **Savory items** — The menu also includes savory baked goods; great for a breakfast or lunch option that isn't just dessert.
 
-**Heads up:** More expensive than most bakeries. Reflects organic sourcing and quality ingredients. Worth it for the bread; more debatable for the pastries.
+**Custom orders:** Hark takes orders for cakes and events. Ideal for birthdays where guests have mixed dietary requirements — one bakery that covers everyone.
+
+**Practical details:** Located in the First Avenue corridor of the North Loop. Hours are limited; check their website or Instagram before making the trip. Available for online ordering and local pickup in addition to storefront hours.
+
+**Price range:** $ — Accessible, especially for the quality and specialization.
+
+> **Best for:** Anyone who needs both vegan and gluten-free; the best custom cake option when dietary restrictions are varied; cookies that hold up against any competition.
 
 ---
 
-## Sift Gluten Free
+## 🍰 2. Vegan East Bakery — The Standard-Bearer (Longfellow)
 
-Sift is gluten-free focused rather than vegan-focused, but the overlap between the two is significant here — many of the items are vegan by default, and the ones that aren't are clearly labeled.
+**Longfellow | 5501 34th Ave S | $$**
 
-The reason to know Sift: if you're navigating both vegan and gluten-free requirements (for yourself or someone you're baking alongside), this is the most reliable option in the city.
+**[Vegan East Bakery](/restaurants/vegan-east-bakery)** is Minneapolis's premier dedicated 100% vegan bakery, and the reputation is earned. Owner Shelia Nelson turned a passionate hobby into a full-time operation that proves vegan baking doesn't require compromise on flavor, texture, or beauty.
 
-**What to try:** Cupcakes and layer cakes are where Sift shines. The frosting-to-cake ratio is right, the textures are better than most GF baking, and the vegan options are indistinguishable from the rest.
+Everything is made from scratch daily. The attention to detail in both flavor development and decorative execution is genuinely impressive — this is not the "close enough" school of vegan baking.
 
-**Location:** Minneapolis.
+**What to order:**
+- **Cinnamon rolls** — The signature item, and the one that makes people drive across the city. Fluffy, perfectly spiced, generously frosted. Locals swear by them.
+- **Custom cakes** — Showstopper-level celebration cakes for birthdays, weddings, and events. Designs that make non-vegans do a double-take. Pre-orders required 1–2 weeks in advance.
+- **Cupcakes** — Daily rotating flavors. Whatever's fresh is worth trying.
+- **Cookies** — Crisp edges, chewy centers. Reliably excellent.
 
-**Heads up:** The vegan selection varies; call ahead if you need specific items for an event or gathering.
+**Gluten-free options:** Many items available gluten-free — making Vegan East a rare safe haven for people managing both restrictions.
+
+**Custom cake orders:** veganeast.com. Call ahead for custom designs; lead time of 1–2 weeks for most orders.
+
+**Practical details:** 5501 34th Ave S, Longfellow. Hours: Tuesday–Saturday, 10am–3pm. Limited hours — plan ahead. Popular items sell out, especially on Saturdays.
+
+> **Best for:** Special occasion cakes, weekly treat runs, gifts, anyone who has ever been disappointed by a vegan dessert and wants to be converted.
+
+---
+
+## 🫐 3. Lutunji's Palate — Soul Food Bakery (Elliot Park)
+
+**Elliot Park | 1400 Park Ave | $**
+
+**[Lutunji's Palate](/restaurants/lutunjis-palate)** is a hidden gem that deserves a much larger audience. Owner Lutunji Abrams built this Elliot Park bakery around her signature vegan soul food approach — comfort food roots, plant-based execution, and a warmth that comes through in every bite.
+
+The peach cobbler is what people know Lutunji for, and the vegan version with its flaky coconut oil crust is the real thing. But the full menu is broader than most people expect.
+
+**What to order:**
+- **Peach cobbler** — The flagship. Flaky coconut oil crust, properly spiced filling. As good as any cobbler in the city, vegan or not.
+- **Coconut macaroons** — Light, naturally dairy-free, and exactly right.
+- **Cashew milk ice cream** — Made in-house. Rich and creamy in a way that factory-produced vegan ice creams rarely achieve.
+- **Oreo "cheezecake"** — Cashew-based, convincingly cheesecake-like, unapologetically indulgent.
+- **Croissant sandwiches** — The savory side of the menu: vegan croissants with plant-based fillings for a full breakfast option.
+- **Plant-based omelets** — Proper breakfast plates, not just pastries.
+
+**Gluten-free options:** Many items are gluten-free. Ask about specifics for your visit.
+
+**Catering:** Available for events and gatherings. Contact directly for pricing.
+
+**Price range:** $ — The most affordable dedicated vegan bakery on this list.
+
+> **Best for:** Soul food cravings, the best vegan peach cobbler in Minneapolis, a full vegan breakfast, catering for diverse dietary needs.
+
+---
+
+## 🍩 The Best Vegan-Friendly Bakeries
+
+These spots aren't fully vegan, but the plant-based options are genuinely good, clearly labeled, and worth making the trip for.
+
+---
+
+## 🥐 4. Salty Tart — Rotating Artisan Pastries (Midtown Global Market)
+
+**Midtown | 920 E Lake St (Midtown Global Market) | $$**
+
+**[Salty Tart](/restaurants/salty-tart)** has been a Twin Cities bakery institution for years, and the Midtown Global Market location combines excellent pastry work with the built-in appeal of one of Minneapolis's best food hall destinations.
+
+The vegan selection rotates — which keeps things interesting and means you're getting whatever the kitchen is most excited about that week. Vegan options are always available, even if the specific items change.
+
+**What to look for:**
+- **Vegan scones** — When they're in rotation, these are among the best in the city. Properly flaky, not dry.
+- **Seasonal fruit galettes** — The galette format works beautifully for vegan baking (no egg wash needed, fruit-forward filling). Check what's rotating.
+- **Savory hand pies** — Often available in vegan versions. A complete lunch in pastry form.
+- **Seasonal cookies** — Reliably vegan-option-available.
+
+**The bonus:** The Midtown Global Market location means you can pair a pastry with food from around the world in the same building. Ethiopian, Mexican, Asian — it's all there.
+
+**Practical details:** 920 E Lake St inside Midtown Global Market. Fresh daily. Ask what's vegan when you arrive — staff know the menu.
+
+> **Best for:** Artisan pastries in a vibrant food hall, rotating vegan scones and galettes, a complete morning or afternoon in Midtown.
+
+---
+
+## 🍩 5. Glam Doll Donuts — Punk Rock Donuts (Lyn-Lake)
+
+**Lyn-Lake | 2605 Nicollet Ave | $$**
+
+**[Glam Doll Donuts](/restaurants/glam-doll-donuts)** is the Minneapolis donut institution that takes creativity seriously. The aesthetic is bold — rock-and-roll, unapologetic, covered in unexpected flavor combinations — and the execution backs it up.
+
+The rotating menu leans heavily vegan (clearly labeled daily). Think: **maple pecan**, **salted caramel**, **birthday cake**, **s'mores**, and rotating seasonal specials tied to whatever ingredients are peak right now.
+
+These are not timid donuts. Fluffy, generously topped, photographable, and genuinely delicious.
+
+**What to order:**
+- **Ask what's vegan today** — staff know and will point you to the current rotation.
+- **Seasonal specials** — The most creative items are often vegan. Glam Doll leans into unusual flavor combinations.
+- **Gift boxes** — Available and make excellent presents.
+
+**Practical tips:**
+- Arrive early on weekends — popular vegan flavors sell out by noon, sometimes earlier.
+- Follow their Instagram for the daily vegan lineup before you make the trip.
+
+**Price range:** $$ — Standard Minneapolis specialty donut pricing.
+
+> **Best for:** Creative donut flavors, weekend morning runs, gifts, Instagram-worthy treats.
+
+---
+
+## 🌾 6. French Meadow Bakery & Cafe — The Original (Lyn-Lake)
+
+**Lyn-Lake | 2610 Lyndale Ave S | $$ | Multiple locations**
+
+**[French Meadow Bakery](/restaurants/french-meadow)** predates the current vegan bakery trend by nearly four decades. Founded in 1985 as an organic sourdough bakery, it expanded into a full cafe while keeping its bakery roots visible in the quality of the bread and pastries.
+
+Not fully vegan — but the vegan options are clearly labeled, extensively developed, and genuinely good. The bread program is the strongest part.
+
+**What to order:**
+- **Sourdough** — The foundation. Real crust, real crumb, not the grocery store approximation. Take a loaf home.
+- **Vegan muffins and quick breads** — The quality of organic ingredients comes through in the flavor.
+- **Vegan pastries** — Clearly labeled in the case. Rotating selection.
+- **Full breakfast** — For sit-down vegan dining, French Meadow is the most accessible option in Lyn-Lake.
+
+**Locations:** Multiple Minneapolis and St. Paul locations. The Lyndale Ave location is the original.
+
+**Price range:** $$ — Reflects organic sourcing and quality ingredients.
+
+> **Best for:** Organic sourdough, a proper sit-down vegan breakfast, clearly labeled vegan baked goods in a full-service café.
+
+---
+
+## 🎂 7. Sift Gluten Free — The GF + Vegan Overlap (Longfellow)
+
+**Longfellow | 4557 Bloomington Ave | $$**
+
+**[Sift Gluten Free](/restaurants/sift-gluten-free)** is gluten-free focused rather than vegan-focused — but the overlap is significant, and the execution is better than most dedicated GF bakeries.
+
+Owner Molly Miller built a farmers market following before opening this dedicated GF facility in South Minneapolis. The variety is impressive: cinnamon rolls, donuts, cookies, cakes, cupcakes, brownies — all made in a dedicated gluten-free facility, safe for celiacs.
+
+**What to order:**
+- **Cinnamon rolls** — Massive, gooey, gluten-free perfection. A standout even against conventional competition.
+- **Double chocolate donuts** — Sell out early on weekends. Arrive before 10am if these are the goal.
+- **Vegan AND gluten-free cupcakes** — The holy grail combination. Sift gets the frosting-to-cake ratio right.
+- **Seasonal specials** — Always creative, always clearly labeled.
+
+**Practical note:** Vegan selection varies by day. Call ahead for events or specific items you need.
+
+**Price range:** $$ — Standard for specialty/allergy bakery.
+
+> **Best for:** Gluten-free vegans, celiacs, anyone navigating multiple dietary restrictions, weekend bakery runs for the double chocolate donuts.
 
 ---
 
 ## What Makes a Vegan Bakery Actually Good
 
-Most vegan baked goods disappoint for one of three reasons:
+Most vegan baked goods disappoint for one of three reasons — and knowing what to look for helps you find the good ones.
 
-**Wrong fat ratio.** Butter does a lot of work. Replacing it with coconut oil or margarine 1:1 doesn't always work — different melting points, different moisture levels, different flavor profiles. Good vegan bakeries have tested their substitutions, not just swapped them.
+**Wrong fat substitution.** Butter does structural work that coconut oil and margarine can't always replicate 1:1 — different melting points, moisture levels, and flavor. Good vegan bakeries test their substitutions rather than just swapping them in.
 
-**Wrong egg replacement.** Eggs bind, leaven, and add moisture. Flax eggs work for some applications (dense cookies, brownies). Aquafaba works for others (meringue, light cakes). No single substitute works everywhere. Bakeries that have figured this out use different replacements for different applications.
+**Wrong egg replacement for the application.** Flax eggs work for dense cookies and brownies. Aquafaba works for meringue and light cakes. No single substitute works everywhere. Bakeries that figure this out use different replacements for different items — and the difference in texture is obvious.
 
-**Underbaked from caution.** Vegan batters behave differently and bakers sometimes pull things too early. A properly baked vegan cookie should have the same slight crisp on the outside as a conventional one.
+**Underbaked from caution.** Vegan batters behave differently, and bakers sometimes pull things too early. A properly baked vegan cookie should have the same slight crisp outside as a conventional one.
 
-The bakeries on this list have worked through these problems. That's why they're on it.
+Every bakery on this list has worked through these problems. That's why they're on it — not because they're the only vegan options, but because they're the ones where the baked goods are good by any standard.
+
+---
+
+## Quick Reference: Minneapolis Vegan Bakeries by Need
+
+| Need | Best Pick |
+|------|-----------|
+| Fully vegan + gluten-free | Hark! Cafe (North Loop) |
+| Custom celebration cake | Vegan East Bakery (Longfellow) |
+| Vegan soul food + cobbler | Lutunji's Palate (Elliot Park) |
+| Artisan rotating pastries | Salty Tart (Midtown Global Market) |
+| Creative vegan donuts | Glam Doll Donuts (Lyn-Lake) |
+| Sit-down vegan breakfast | French Meadow Bakery (Lyn-Lake) |
+| GF + vegan cupcakes | Sift Gluten Free (Longfellow) |
 
 ---
 
 **More Minneapolis vegan dining:**
 
-- [Best Vegan Brunch in Minneapolis](/blog/best-vegan-brunch-minneapolis)
-- [Best Vegan Pizza in Minneapolis](/blog/best-vegan-pizza-minneapolis)
+- [Best Vegan Brunch in Minneapolis](/blog/vegan-brunch-minneapolis)
+- [Best Vegan Restaurants in Minneapolis (2026)](/blog/best-vegan-restaurants-minneapolis-2026)
 - [Plant-Based Restaurants in Minneapolis](/blog/plant-based-restaurants-minneapolis)
+- [Best Vegan Ice Cream in the Twin Cities](/blog/best-vegan-ice-cream-twin-cities)
 `,
   },
 
